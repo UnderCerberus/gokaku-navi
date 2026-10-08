@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GOKAKU NAVI — 志望校逆算ダッシュボード</title>
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/math.css">
+<link rel="stylesheet" href="css/english.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="brand-mark">◢ GOKAKU NAVI</span><small>志望校逆算ダッシュボード</small></div>
+  <div class="mini">
+    <span class="mini-cd" id="miniCd"></span>
+    <span class="mini-timer" id="miniTimer"><span class="pulse"></span>勉強中 <b id="miniClock">00:00:00</b></span>
+    <button class="btn ghost sm" id="themeBtn" type="button">☀ ライト</button>
+  </div>
+</header>
+
+<main class="wrap">
+  <!-- 【1】志望校逆算・カウントダウンダッシュボード -->
+  <section class="dash" aria-label="ダッシュボード">
+    <div class="card" id="dProfile"></div>
+    <div class="card cd" id="dCount"></div>
+    <div class="card" id="dGap"></div>
+  </section>
+  <section class="dash-b">
+    <div class="card" id="dNorma"></div>
+    <div class="card" id="dTodo"></div>
+    <div class="card" id="dStats"></div>
+  </section>
+
+  <!-- 【2】モード切替 & 勉強タイマー / 【5】3 教科タブ -->
+  <section id="work">
+    <div class="workbar">
+      <div class="mode" role="group" aria-label="モード切替">
+        <button type="button" id="modeExam" aria-pressed="false">過去問モード</button>
+        <button type="button" id="modeCalc" aria-pressed="true">計算機モード</button>
+      </div>
+      <div class="timer hidden" id="timerBox" aria-label="勉強タイマー">
+        <span class="pulse"></span><span class="small" id="tState">勉強中</span>
+        <span class="t-clock" id="tClock">00:00:00</span>
+        <button class="btn sm" id="tPause" type="button">一時停止</button>
+        <button class="btn ghost sm" id="tReset" type="button" title="表示中のストップウォッチを 0 に戻します（記録済みの学習時間は消えません）">リセット</button>
+        <span class="dim small" id="tToday"></span>
+      </div>
+      <span class="dim small" id="modeHint"></span>
+      <nav class="tabs" role="tablist" aria-label="教科">
+        <button class="tab" role="tab" data-subject="math" style="--sc:var(--s-math)"><i>∑</i>数学</button>
+        <button class="tab" role="tab" data-subject="english" style="--sc:var(--s-english)"><i>Aa</i>英語</button>
+        <button class="tab" role="tab" data-subject="physics" style="--sc:var(--s-physics)"><i>⚛</i>物理</button>
+      </nav>
+    </div>
+    <div class="card stage" id="stage"></div>
+  </section>
+</main>
+
+<!-- 共通基盤 -->
+<script src="js/core/ns.js"></script>
+<script src="js/core/util.js"></script>
+<script src="js/core/tex.js"></script>
+<script src="js/core/plot.js"></script>
+<script src="js/core/steps.js"></script>
+<script src="js/data/units.js"></script>
+<!-- 英語: 辞書・熟語 -->
+<script src="js/data/dict-a-l.js"></script>
+<script src="js/data/dict-m-z.js"></script>
+<script src="js/data/idioms.js"></script>
+<!-- 問題バンク・長文 -->
+<script src="js/data/passages-sample.js"></script>
+<script src="js/data/exam-math-basic.js"></script>
+<script src="js/data/exam-math-mid.js"></script>
+<script src="js/data/exam-math-adv.js"></script>
+<script src="js/data/drills-math.js"></script>
+<script src="js/data/exam-physics-basic.js"></script>
+<script src="js/data/exam-physics-mid.js"></script>
+<script src="js/data/exam-physics-adv.js"></script>
+<script src="js/data/drills-physics.js"></script>
+<script src="js/data/exam-english-basic.js"></script>
+<script src="js/data/exam-english-mid.js"></script>
+<script src="js/data/exam-english-adv.js"></script>
+<script src="js/data/drills-english.js"></script>
+<script src="js/data/seikei-math.js"></script>
+<script src="js/data/seikei-physics-2023.js"></script>
+<script src="js/data/seikei-physics-2024.js"></script>
+<script src="js/data/seikei-physics-2025.js"></script>
+<script src="js/data/seikei-english-2023.js"></script>
+<script src="js/data/seikei-english-2024.js"></script>
+<script src="js/data/seikei-english-2025.js"></script>
+<!-- 数学計算機 -->
+<script src="js/math/ia-expr.js"></script>
+<script src="js/math/ia-quad.js"></script>
+<script src="js/math/ia-quad2.js"></script>
+<script src="js/math/ia-trig.js"></script>
+<script src="js/math/ia-data.js"></script>
+<script src="js/math/ia-prob.js"></script>
+<script src="js/math/ia-int.js"></script>
+<script src="js/math/ia-geo.js"></script>
+<script src="js/math/iib-proof.js"></script>
+<script src="js/math/iib-complex.js"></script>
+<script src="js/math/iib-coord.js"></script>
+<script src="js/math/iib-trig.js"></script>
+<script src="js/math/iib-explog.js"></script>
+<script src="js/math/iib-calc.js"></script>
+<script src="js/math/iib-seq.js"></script>
+<script src="js/math/iib-vec.js"></script>
+<script src="js/math/iiic-limit.js"></script>
+<script src="js/math/iiic-diff.js"></script>
+<script src="js/math/iiic-integ.js"></script>
+<script src="js/math/iiic-cplane.js"></script>
+<script src="js/math/iiic-conic.js"></script>
+<!-- 物理シミュレーター -->
+<script src="js/physics/mech-kin.js"></script>
+<script src="js/physics/mech-fall.js"></script>
+<script src="js/physics/mech-force.js"></script>
+<script src="js/physics/mech-eom.js"></script>
+<script src="js/physics/mech-eom2.js"></script>
+<script src="js/physics/mech-rigid.js"></script>
+<script src="js/physics/mech-momentum.js"></script>
+<script src="js/physics/mech-energy.js"></script>
+<script src="js/physics/mech-circular.js"></script>
+<script src="js/physics/mech-shm.js"></script>
+<script src="js/physics/thermo-heat.js"></script>
+<script src="js/physics/thermo-gas.js"></script>
+<script src="js/physics/thermo-first.js"></script>
+<script src="js/physics/wave-basic.js"></script>
+<script src="js/physics/wave-doppler.js"></script>
+<script src="js/physics/wave-interference.js"></script>
+<script src="js/physics/em-ohm.js"></script>
+<script src="js/physics/em-static.js"></script>
+<script src="js/physics/em-magnetic.js"></script>
+<script src="js/physics/em-induction.js"></script>
+<script src="js/physics/em-ac.js"></script>
+<script src="js/physics/atom-photon.js"></script>
+<script src="js/physics/atom-structure.js"></script>
+<!-- 英語エンジン -->
+<script src="js/english/lemma.js"></script>
+<script src="js/english/ja.js"></script>
+<script src="js/english/syntax.js"></script>
+<script src="js/english/grammar.js"></script>
+<script src="js/english/translator.js"></script>
+<script src="js/english/ui.js"></script>
+<!-- アプリ本体 -->
+<script src="js/app/store.js"></script>
+<script src="js/app/analysis.js"></script>
+<script src="js/app/dashboard.js"></script>
+<script src="js/app/exam.js"></script>
+<script src="js/app/calc.js"></script>
+<script src="js/app/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+# 未見文 第 6 群で足りなかった語（第 501 組）
+sugary|形|糖分の多い; 甘い|3
+diabetes|名|糖尿病|3
+nearsighted|形|近視の|3
+vitamin supplement|名|ビタミンのサプリメント|3

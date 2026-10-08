@@ -1,0 +1,55 @@
+# 2 級〜準 1 級（第 485 組）
+administer|動|〜を管理する; 〜を投与する|3
+deficiency|名|不足; 欠乏|3
+descend|動|下りる; 下る|2
+dialect|名|方言|2
+dose|名|服用量; 1 回分|2
+dread|動|〜をひどく恐れる|3
+dread|名|恐怖; 不安|3
+edible|形|食べられる; 食用の|3
+entitle|動|〜に権利を与える; 〜に題をつける|3
+ethic|名|倫理; 道徳|3
+ethics|名|倫理; 倫理学|3
+expedition|名|遠征; 探検|2
+expire|動|期限が切れる; 失効する|2
+fragment|名|破片; 断片|2
+glimpse|名|ちらりと見ること|2
+glimpse|動|〜をちらりと見る|2
+globe|名|地球; 地球儀|2
+grip|名|握ること; 支配|2
+grip|動|〜をしっかり握る|2
+hollow|形|空洞の; 中身のない|2
+impulse|名|衝動|2
+incline|動|〜に…する気にさせる; 傾く|3
+infect|動|〜に感染させる; 〜をむしばむ|2
+intimate|形|親密な; 詳しい|3
+lawsuit|名|訴訟|3
+limb|名|手足; 大枝|2
+narrative|名|物語; 語り|3
+nourish|動|〜に栄養を与える; 〜を育む|3
+oppress|動|〜を抑圧する; 〜を虐げる|3
+orientation|名|方向づけ; オリエンテーション; 志向|3
+patent|名|特許|3
+personnel|名|職員; 人員|3
+petition|名|請願; 嘆願書|3
+plead|動|嘆願する; 申し立てる|3
+pledge|動|〜を誓う; 〜を約束する|3
+pledge|名|誓約; 公約|3
+precede|動|〜に先行する; 〜より先に起こる|3
+premium|名|割増金; 保険料; 高級|3
+rear|動|〜を育てる|3
+rear|形|後部の; 後ろの|2
+reign|名|治世; 統治|3
+reign|動|君臨する; 統治する|3
+retail|名|小売り|3
+situate|動|〜を置く; 〜を位置づける|3
+specimen|名|標本; 見本|3
+statistic|名|統計; 統計値|3
+sue|動|〜を訴える|3
+synthetic|形|合成の; 人工の|3
+testify|動|証言する|3
+toll|名|通行料; 犠牲者数|3
+triumph|名|勝利; 大成功|2
+unify|動|〜を統一する|3
+warrant|名|令状; 根拠|3
+warrant|動|〜を正当化する|3

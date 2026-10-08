@@ -1,0 +1,47 @@
+# 学術・時事の複合名詞（第 491 組）
+burning|名|燃焼; 燃やすこと|2
+aging population|名|高齢化する人口|3
+ageing population|名|高齢化する人口|3
+income inequality|名|所得格差|3
+supply chain|名|サプライチェーン; 供給網|3
+supply chains|名|サプライチェーン; 供給網|3
+side effect|名|副作用|2
+side effects|名|副作用|2
+machine learning|名|機械学習|3
+digital divide|名|情報格差|3
+freedom of speech|名|言論の自由|2
+freedom of expression|名|表現の自由|2
+freedom of the press|名|報道の自由|3
+gender equality|名|男女平等|2
+food security|名|食料安全保障|3
+greenhouse gas emissions|名|温室効果ガスの排出量|3
+carbon emissions|名|二酸化炭素排出量|3
+fossil fuel|名|化石燃料|2
+fossil fuels|名|化石燃料|2
+labor force|名|労働力|3
+labour force|名|労働力|3
+birth rates|名|出生率|2
+mental illness|名|精神疾患|3
+public transport|名|公共交通機関|2
+health care|名|医療|2
+healthcare|名|医療|2
+clinical trial|名|臨床試験|3
+clinical trials|名|臨床試験|3
+natural resources|名|天然資源|2
+natural resource|名|天然資源|2
+developing countries|名|発展途上国|2
+developing country|名|発展途上国|2
+developed countries|名|先進国|2
+developed country|名|先進国|2
+emerging economies|名|新興国|3
+standard of living|名|生活水準|3
+living standards|名|生活水準|3
+social security|名|社会保障|3
+welfare state|名|福祉国家|3
+tax revenue|名|税収|3
+tax revenues|名|税収|3
+trade war|名|貿易戦争|3
+free trade|名|自由貿易|3
+data privacy|名|データのプライバシー|3
+personal information|名|個人情報|2
+fake news|名|偽ニュース; フェイクニュース|2

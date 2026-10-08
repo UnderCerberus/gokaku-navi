@@ -1,0 +1,1225 @@
+0 ○ Hand a child a compass, and the same thing almost always happens.
+    → 子どもに羅針盤を手渡しなさい。そうすれば、同じことがほとんどいつも起こる。
+1 ○ The child turns it around and around, watching the needle swing back to the same direction every time.
+    → 子どもは針が毎回同じ方向に振れて戻るのを見ながら、それをぐるぐると回す。
+2 ○ There is no battery inside, and nothing seems to push the needle.
+    → 中に電池はなくて、何も針を押さないようだ。
+3 ○ So what moves it?
+    → それで、何がそれを動かしますか。
+4 ○ This simple question went unanswered for more than a thousand years.
+    → この簡単な質問は1000年以上未解決のままだった。
+5 ○ The story begins with a strange black stone.
+    → 話は奇妙な黒い石から始まる。
+6 ○ Both the ancient Greeks and the ancient Chinese noticed that certain rocks could pull small pieces of iron toward them.
+    → 古代ギリシャ人も古代中国人もある岩が鉄の小さいかけらを引き寄せられることに気づいた。
+7 ○ The English word "magnet" comes from Magnesia, an area of the ancient Greek world where such stones were found.
+    → 「magnet」という英語の語はそのような石が見つかった古代ギリシャの世界の地域であるMagnesiaに由来する。
+8 ○ The rock itself is called a lodestone, an old English name meaning "the stone that leads the way."
+    → 岩自体は天然磁石と呼ばれている。それは「道を導く石」を意味する古い英語の名前だ。
+9 ○ At first, however, nobody thought of using the stone to find the way.
+    → しかし、最初は、誰も道を見つけるために石を使うことを考えなかった。
+10 ○ About two thousand years ago, Chinese fortune-tellers carved lodestones into the shape of a spoon and placed them on a smooth bronze plate.
+    → 約2000年前に、中国人の占い師たちは天然磁石をスプーンの形に彫って、なめらかな青銅の皿の上にそれらを置いた。
+11 ○ The spoon would turn until its handle pointed south.
+    → その取っ手が南を指すまで、スプーンは回った。
+12 ○ This early compass had nothing to do with travel; people used it to tell fortunes and to choose lucky places for houses and graves.
+    → この初期の羅針盤は旅行と何の関係もなくて、人々は占いをしたり、家と墓のために幸運な場所を選んだりするためにそれを使った。
+13 ○ It took about a thousand years for the idea to reach the sea.
+    → 考えが海に着くのに約1000年かかった。
+14 ○ By the end of the twelfth century, sailors in both China and Europe had learned a useful trick.
+    → 12世紀の終わりまでに、中国とヨーロッパの両方の船乗りは役に立つこつを学んでいた。
+15 ○ If an iron needle is rubbed against a lodestone, the needle becomes a magnet too.
+    → もし鉄の針が天然磁石にこすられたら、針も磁石になる。
+16 ○ When such a needle was pushed through a piece of straw and floated in a bowl of water, it always came to rest along a north-south line.
+    → そのような針がわらに刺されて、ボウルの水に浮かべられたとき、いつも南北の線に沿って止まった。
+17 ○ Why did this matter so much?
+    → これはなぜとても重要でしたか。
+18 ○ Before the compass, sailors depended on the sun and the stars to find their direction.
+    → 羅針盤以前は、船乗りは自分の方向を見つけるために太陽と星に頼っていた。
+19 ○ In clear weather this worked well.
+    → 晴れた天気ではこれはうまくいった。
+20 ○ But when clouds covered the sky for days, a ship far from land could easily lose its way.
+    → しかし、雲が何日も空を覆ったとき、土地から遠く離れた船は簡単に道に迷うことがあった。
+21 ○ In the Mediterranean Sea, many captains simply kept their ships in port during the stormy, cloudy months of winter.
+    → 地中海では、多くの船長は嵐が多く曇りがちな冬の数か月の間、ただ船を港にとどめておいた。
+22 ○ The floating needle changed all that.
+    → 浮かんでいる針はそのすべてを変えた。
+23 ○ It enabled sailors to find their way even when neither the sun nor the stars could be seen.
+    → 太陽も星も見えなかったときでさえ、それは船乗りが道を見つけることを可能にした。
+24 ○ Ships could now cross open water in almost any season and return safely to port.
+    → 船は今ではほとんどどんな季節でも外洋を渡れるようになって、港に安全に戻れた。
+25 ○ Trade between distant cities grew, and long voyages across the oceans became possible.
+    → 遠い都市の間の貿易は拡大して、海を越える長い航海は可能になった。
+26 ○ Yet nobody on board knew what made the needle move.
+    → しかし、乗船している誰も何が針を動かしたか分からなかった。
+27 ○ Sailors trusted the compass with their lives, but they could not explain it.
+    → 船乗りは命を預けるほど羅針盤を信頼していたが、それを説明できなかった。
+28 ○ Naturally, people searched for an explanation, and several ideas became popular.
+    → 当然、人々は説明を探して、いくつかの考えは人気が出た。
+29 ○ Some scholars supported the idea that the needle was attracted by the North Star, since it seemed to point toward that star.
+    → それがその星を指すようだったので、針が北極星に引きつけられたという考えを支持した学者もいた。
+30 ○ Others imagined a huge mountain of lodestone somewhere in the far north, pulling every needle in the world toward it.
+    → はるか北のどこかに天然磁石の巨大な山があって、世界中の針を引き寄せていると想像する人もいた。
+31 ○ Some beliefs of the time seem amusing today.
+    → 当時のいくつかの信念は今日おもしろく思える。
+32 ○ It was widely believed, for example, that garlic could destroy a magnet's power, so sailors who handled the compass were told not to eat it.
+    → たとえば、ニンニクは磁石の力を破壊できると広く信じられていたので、羅針盤を扱った船乗りはそれを食べないように言われた。
+33 ○ The man who finally tested such ideas with great care was William Gilbert, an English doctor.
+    → ついに細心の注意を払ってそのような考えを検証した男性はイギリス人の医者であるウィリアム・ギルバートだった。
+34 ○ Gilbert did not simply repeat what old books said.
+    → ギルバートは古い本に書いてあることを単に繰り返さなかった。
+35 ○ Instead, he spent many years doing experiments with magnets, and in 1600 he published his results.
+    → その代わりに、彼は磁石で実験をするのに何年も費やして、1600年に自分の結果を出版した。
+36 ○ He showed, for example, that garlic had no effect at all: a magnet rubbed with garlic attracted iron just as strongly as before.
+    → たとえば、彼はニンニクが少しも影響を与えないことを示した：ニンニクでこすられた磁石が鉄を以前と同じくらい強く引きつけた。
+37 ○ His most famous experiment used a lodestone cut into the shape of a ball.
+    → 彼の最も有名な実験はボールの形に切られた天然磁石を使った。
+38 ○ Gilbert called it his "little Earth."
+    → ギルバートはそれを「小さな地球」と呼んだ。
+39 ○ He moved a tiny compass needle over the surface of the ball and watched carefully.
+    → 彼はボールの表面の上でとても小さい方位磁針を動かして、注意深く見守った。
+40 ○ At every point, the needle behaved just as real compasses behaved in different parts of the world.
+    → どの点でも、ちょうど本当の羅針盤が世界の異なる部分で振る舞ったのと同じように、針は振る舞った。
+41 ○ From this, Gilbert reached a bold conclusion.
+    → このことから、ギルバートは大胆な結論に達した。
+42 ○ The needle is not pulled by a star or by a mountain.
+    → 針は星や山に引かれているのではない。
+43 ○ The Earth itself is a giant magnet, and every compass needle simply lines up with it.
+    → 地球自体は巨大な磁石で、すべての方位磁針は単にその向きにそろう。
+44 ○ The force that had guided ships for centuries came from beneath the sailors' feet.
+    → 何世紀も船を案内していた力は船乗りたちの足の下から来た。
+45 ○ Gilbert could not say why the Earth is a magnet, and scientists needed more than three hundred years to find out.
+    → ギルバートは地球がなぜ磁石であるか言えなくて、科学者は突き止めるのに300年以上かかった。
+46 ○ Today we know that the outer part of the Earth's core is made of hot liquid iron.
+    → 今日私たちは地球の核の外側の部分が熱い液体の鉄でできていることを知っている。
+47 ○ As this metal moves, it produces electric currents, and these currents create a magnetic field around the whole planet.
+    → この金属が動くと、電流を生み出して、これらの電流は惑星全体の周りで磁場を生み出す。
+48 ○ We have also learned that a compass does not point exactly to the North Pole.
+    → 私たちはまた方位磁針が北極を正確に指さないことを学んだ。
+49 ○ It points toward the magnetic north pole, a place that lies hundreds of kilometers away from the "true" North Pole on the map.
+    → それは磁気の北極、つまり地図上の「本当の」北極から何百キロメートルも離れた場所を指す。
+50 ○ Moreover, this place does not stay still.
+    → さらに、この場所はじっとしていない。
+51 ○ Because the liquid iron keeps moving, the magnetic pole moves as well, by tens of kilometers every year.
+    → 液体の鉄が動き続けるので、磁極も毎年何十キロメートルも動く。
+52 ○ Today most ships and airplanes find their position with the help of satellites.
+    → 今日ほとんどの船と飛行機は衛星の助けを借りて自分の位置を見つける。
+53 ○ Even so, they still carry a magnetic compass, because it needs no electricity and almost never breaks down.
+    → それでも、磁気の羅針盤は電気を必要とせず、めったに故障しないので、今でも積まれている。
+54 ○ The history of the compass teaches an interesting lesson.
+    → 羅針盤の歴史は興味深い教訓を教える。
+55 ○ We often assume that science comes first and useful tools follow.
+    → 私たちはよく科学が先に来て、役に立つ道具が続くと思い込む。
+56 ○ In this case, the order was reversed: people used the tool for centuries before anyone understood it.
+    → この場合、順序は逆になった：誰かがそれを理解する前に、人々は何世紀も道具を使った。
+57 ○ Sometimes we learn to use nature long before we learn to explain it.
+    → 私たちは、自然を説明できるようになるずっと前に、それを使えるようになることがある。
+58 ○ On a summer night, children wave sparklers in the dark.
+    → 夏の夜に、子どもは暗やみの中で手持ち花火を振る。
+59 ○ The sparks that fly from a sparkler are hotter than 1,000 degrees Celsius, yet when one lands on your hand, you hardly notice it.
+    → 手持ち花火から飛ぶ火花は1000℃より熱いが、1つがあなたの手に落ちると、ほとんどそれに気づかない。
+60 ○ A cup of tea, by contrast, is only about 80 degrees, but if you spill it on your hand, it really hurts.
+    → 対照的に、1杯のお茶はわずか約80度だが、もし手にそれをこぼしたら、本当に痛い。
+61 ○ How can something so hot be harmless, and something much cooler be dangerous?
+    → どうしてとても熱いものが無害で、ずっと冷たいものが危険なのだろうか。
+62 ○ The answer lies in a pair of ideas that sound alike but are not the same: "heat" and "temperature."
+    → 答えは似ているように聞こえるが同じではない2つの考えにある：「熱」と「温度」
+63 ○ Each has its own meaning and its own unit.
+    → それぞれは独自の意味と独自の単位がある。
+64 ○ Let us look at each of them in turn.
+    → 順番にそれぞれを見ましょう。
+65 ○ Everything around us is made of tiny particles, and these particles are always in motion.
+    → 私たちの周りのすべてはとても小さい粒子でできていて、これらの粒子はいつも動いている。
+66 ○ In a hot object they move rapidly; in a cold one they move slowly.
+    → 熱い物では粒子は速く動き、冷たいものではゆっくり動く。
+67 ○ Temperature is a measure of how much energy of motion the particles have on average.
+    → 温度は粒子が平均してどのくらいの運動のエネルギーを持っているかの尺度だ。
+68 ○ We usually measure it in degrees Celsius.
+    → 私たちはたいてい摂氏でそれを測る。
+69 ○ Temperature tells us nothing about the size of an object.
+    → 温度は物の大きさについて私たちに何も教えてくれない。
+70 ○ If you fill a cup from a warm bath, the water in the cup and the water in the bath have exactly the same temperature.
+    → もし温かい風呂の湯をカップにくんだら、カップの水と風呂の水はまったく同じ温度だ。
+71 ○ Temperature does not depend on how much water there is.
+    → 温度は水がどのくらいあるかによって決まるのではない。
+72 ○ Heat is different.
+    → 熱は違う。
+73 ○ It is energy that moves from a hotter object to a colder one.
+    → それはより熱い物からより冷たい物へ移動するエネルギーだ。
+74 ○ Because heat is a form of energy, it is measured in joules.
+    → 熱がエネルギーの一種なので、ジュールで測られる。
+75 ○ The amount of heat that an object gains or loses depends on three things: its mass, the kind of material it is made of, and how much its temperature changes.
+    → 物が得たり失ったりする熱の量は3つのことによって決まる。それはその質量、それが作られている材料の種類、その温度がどのくらい変わるかだ。
+76 ○ Some simple numbers make this clear.
+    → 簡単な数字をいくつか見ると、これがはっきりする。
+77 ○ You need about 4.2 joules to raise the temperature of 1 gram of water by 1 degree.
+    → あなたは1グラムの水の温度を1度上げるために約4.2ジュールが必要だ。
+78 ○ To heat 200 grams of water for a cup of tea from 20 degrees to 80 degrees, you therefore need about 50,400 joules.
+    → したがって、お茶1杯分の200グラムの水を20度から80度まで熱するには、約50400ジュールが必要だ。
+79 ○ To warm 200 kilograms of bath water from 20 degrees to 40 degrees, you need about 16,800,000 joules.
+    → 200キログラムの風呂の水を20度から40度まで暖めるには、約1680万ジュールが必要だ。
+80 ○ The bath never becomes as hot as the tea, yet the heat it takes in is more than 300 times greater.
+    → 風呂は決してお茶と同じくらい熱くならないが、それが取り入れる熱は300倍以上大きい。
+81 ○ Now we can explain the sparkler.
+    → これで私たちは手持ち花火を説明できる。
+82 ○ A spark has a very high temperature, but its mass is far less than one milligram, so it carries only a tiny quantity of heat.
+    → 火花は温度がとても高いが、その質量は1ミリグラムよりはるかに少ないので、ごくわずかな熱しか運ばない。
+83 ○ When it comes into contact with your skin, it gives up that heat at once and cools before any damage is done.
+    → それがあなたの皮膚と接触すると、損害が出る前に、すぐにその熱を放出して、冷える。
+84 ○ The tea is much cooler, but even a few drops of it have thousands of times more mass than a spark, and they keep pouring heat into your skin.
+    → お茶はずっと冷たいが、そのほんの数滴でさえ火花の何千倍もの質量を持っていて、熱をあなたの皮膚に注ぎ続ける。
+85 ○ The kind of material matters, too.
+    → 材料の種類も重要だ。
+86 ○ Different materials require different amounts of energy to become one degree warmer.
+    → 異なる材料は1度暖かくなるために異なる量のエネルギーを必要とする。
+87 ○ Water is an unusual substance: it needs about five times as much energy as the same mass of dry sand.
+    → 水は普通でない物質だ：それは同じ質量の乾いた砂の約5倍のエネルギーが必要だ。
+88 ○ That is why, on a sunny beach, the temperature of the sand rises much higher than that of the sea, although both receive the same sunlight.
+    → そういうわけで、晴れた浜辺では、どちらも同じ日光を受け取るけれども、砂の温度は海の温度よりずっと高く上がる。
+89 ○ At night the sand cools quickly, while the sea stays warm.
+    → 夜に砂は速く冷えるのに対して、海は暖かいままでいる。
+90 ○ Heat also has a direction.
+    → 熱はまた方向を持っている。
+91 ○ It always flows from the hotter object to the colder one, and it goes on flowing until both are at the same temperature.
+    → それはいつもより熱い物からより冷たいものへ流れて、どちらも同じ温度になるまで、流れ続ける。
+92 ○ When you put ice in a drink, "cold" does not move into the drink.
+    → 飲み物に氷を入れるとき、「冷たさ」が飲み物の中に移るわけではない。
+93 ○ Instead, heat leaves the drink and enters the ice.
+    → その代わりに、熱は飲み物から出て、氷に入る。
+94 ○ This explains one more everyday puzzle.
+    → これはもう1つの日常の謎を説明する。
+95 ○ On a cold morning, a metal bench feels much colder than a wooden one, even though the two have the same temperature.
+    → 寒い朝に、その2つは同じ温度だけれども、金属のベンチは木製のものよりずっと冷たく感じる。
+96 ○ Metal simply carries heat away from your body more quickly than wood does.
+    → 金属はあなたの体から木材より速く熱を運び去るだけだ。
+97 ○ Our skin, it turns out, is a poor thermometer: what it senses is the loss of heat, not temperature itself.
+    → 実は、私たちの皮膚はお粗末な温度計だ：それが感じ取るのは温度自体ではなく熱の喪失だ。
+98 ○ Temperature tells us how hot something is; heat tells us how much energy has moved.
+    → 温度は私たちに何かがどのくらい熱いか教えて、熱は私たちにどのくらいのエネルギーが動いたか教える。
+99 ○ Once you keep the two ideas apart, sparks, beaches and benches are no longer a mystery.
+    → いったん2つの考えを区別すると、火花と浜辺とベンチはもはや謎ではない。
+100 ○ In 2018, Hanamizuki Bus, a small company in a mountain town, was losing money every year.
+    → 2018年に、山の町の小さい会社であるはなみずきバスは毎年赤字を出していた。
+101 ○ Fewer people were riding its buses, and the president asked a young office worker, Rina Hayashi, to find a way to save the routes.
+    → そのバスに乗っている人が減っていて、社長は若い会社員である林リナに路線を救う方法を見つけるように頼んだ。
+102 ○ For thirty years, the company had sent a bus from the station every hour, from six in the morning until nine at night, whether or not anyone wanted to ride.
+    → 誰かが乗りたかったかどうかにかかわらず、30年間、会社は毎時間朝6時から夜9時まで駅からバスを出していた。
+103 ○ At noon, most buses carried only two or three passengers, but the morning buses were often full.
+    → 正午に、ほとんどのバスは2人か3人の乗客しか運ばなかったが、朝のバスはよくいっぱいだった。
+104 ○ Nobody knew exactly how many people used each bus, because nobody had ever counted.
+    → 誰も今までに数えたことがなかったので、誰も何人がそれぞれのバスを使ったか正確に分からなかった。
+105 ○ Rina began by counting.
+    → リナは数えることから始めた。
+106 ○ She gave the drivers small hand counters and asked them to press one each time a passenger got on.
+    → 彼女は運転手たちに小さな手持ちのカウンターを渡し、乗客が乗るたびにそれを押すように頼んだ。
+107 ○ The drivers also wrote down the stop and the time.
+    → 運転手たちはまた停留所と時間を書き留めた。
+108 ○ After a month, Rina had thousands of numbers instead of guesses, and they told a clear story.
+    → 1か月後に、リナは推測の代わりに何千もの数を持っていて、それらははっきりとしたことを物語っていた。
+109 ○ Nearly half of the passengers rode early in the morning or in the afternoon, when school ended.
+    → 乗客のほぼ半分は、朝早くか、学校が終わる午後に乗っていた。
+110 ○ So Rina moved several buses from midday to those hours, and the noon buses began to run only every two hours.
+    → だから、リナは何本かのバスを日中からその時間帯に移し、昼のバスは2時間ごとにしか走らなくなった。
+111 ○ Within weeks, the morning buses were no longer crowded.
+    → 数週間以内に、朝のバスはもはや混雑していなかった。
+112 ○ The numbers also revealed that a route to two small villages in the hills often carried no passengers at all.
+    → 数はまた丘の2つの小さい村への路線が乗客を一人も乗せないことがよくあるということを明らかにした。
+113 ○ Rina replaced it with a small van that had no fixed timetable.
+    → リナはそれを決まった時刻表のない小型のバンに取り替えた。
+114 ○ Villagers phoned the company the day before, and the van picked them up at their front doors.
+    → 村人は前日会社に電話して、バンが家の玄関まで迎えに来た。
+115 ○ A year later, the number of passengers had risen by a quarter, and the yearly loss had been cut in half.
+    → 1年後に、乗客の数は4分の1増えていて、毎年の損失は半分に減っていた。
+116 ○ No route had to be closed.
+    → どの路線も廃止される必要はなかった。
+117 ○ The buses were the same old buses; the company had only learned to send them to the people who needed them.
+    → バスは同じ古いバスで、会社は、バスを必要とする人々のところへバスを送れるようになっただけだった。
+118 ○ Last spring, I decided to learn how to cook.
+    → 去年の春に、私は料理の仕方を学ぶことに決めた。
+119 ○ My mother works late on weekdays, so I often had to eat dinner alone.
+    → 母は平日に遅くまで働くので、私はよく夕食を一人で食べなければならなかった。
+120 ○ I was tired of eating cold food from the supermarket.
+    → 私はスーパーマーケットの冷たい食べ物を食べることに飽きていた。
+121 ○ At first, it was not easy.
+    → 最初は、簡単ではなかった。
+122 ○ I burned the rice, and the soup was too salty to drink.
+    → 私はご飯を焦がして、スープは塩辛すぎて飲めなかった。
+123 ○ My little brother laughed at me, but my mother gave me some good advice.
+    → 弟は私を笑ったが、母は私に良い助言をくれた。
+124 ○ She told me to read the recipe carefully and to taste the food while cooking.
+    → 彼女は私にレシピを注意深く読んで、料理しながら食べ物の味見をするように言った。
+125 ○ Now I can make five different dishes.
+    → 今では私は5種類の料理を作れる。
+126 ○ My favorite is vegetable curry because it is easy and healthy.
+    → 私のお気に入りは野菜カレーだ。簡単で健康的だからだ。
+127 ○ Last Sunday, my family enjoyed the curry I made.
+    → この前の日曜日に、家族は私が作ったカレーを楽しんだ。
+128 ○ My mother said it was the best curry she had ever eaten, and I felt very proud.
+    → 母は今まで食べた中で一番おいしいカレーだと言って、私はとても誇りに思った。
+129 ○ Cooking has taught me that small efforts can lead to big changes.
+    → 料理は私に小さい努力が大きい変化につながることがあると教えた。
+130 ○ More and more people in our town ride bicycles to work and school.
+    → 私たちの町では、自転車で仕事と学校に行く人がますます増えている。
+131 ○ There are several reasons for this change.
+    → この変化にはいくつかの理由がある。
+132 ○ First, a bicycle is cheaper than a car or a train.
+    → まず、自転車は車か電車より安い。
+133 ○ You do not have to buy gas, and you do not pay for tickets.
+    → ガソリンを買う必要もなく、切符代も払わなくてよい。
+134 ○ Second, riding a bicycle is good for your health.
+    → 次に、自転車に乗ることは健康に良い。
+135 ○ It makes your legs strong and helps you stay fit.
+    → それはあなたの脚を強くして、健康でいるのに役立つ。
+136 ○ Doctors say that we should exercise for at least thirty minutes every day.
+    → 医者は私たちが毎日少なくとも30分間運動するべきだと言う。
+137 ○ Many people cannot find the time, but riding to work solves this problem.
+    → 多くの人々は時間を見つけられないが、自転車で通勤することはこの問題を解決する。
+138 ○ Third, bicycles are kind to the environment.
+    → 第3に、自転車は環境にやさしい。
+139 ○ They do not make any noise or dirty the air.
+    → それらは騒音を出さないし、空気を汚さない。
+140 ○ Our town has built new bike lanes along the main roads, so riding is much safer than before.
+    → 私たちの町は主な道路に沿って新しい自転車専用道を造ったので、自転車に乗ることは以前よりずっと安全だ。
+141 ○ Of course, bicycle riders must follow the rules.
+    → もちろん、自転車に乗る人は規則に従わなければならない。
+142 ○ They should stop at red lights and wear a helmet.
+    → 彼らは赤信号で止まり、ヘルメットをかぶるべきだ。
+143 ○ If everyone does this, our town will become a better place to live.
+    → もしみんながこれをしたら、私たちの町は住むのにより良い場所になるだろう。
+144 ○ When we sit down to eat, we rarely think about the insects that helped to produce our meal.
+    → 食事の席につくとき、私たちは食べ物を生み出すのに役立った昆虫のことをめったに考えない。
+145 ○ Yet about one third of the food we eat depends on pollination, and bees do much of that work.
+    → しかし、私たちが食べる食べ物の約3分の1は受粉に頼っていて、ミツバチはその仕事の多くをする。
+146 ○ When a bee visits a flower to collect a sweet liquid called nectar, tiny grains of pollen stick to its body.
+    → ミツバチが花の蜜と呼ばれている甘い液体を集めるために花を訪れると、花粉のとても小さい粒はその体にくっつく。
+147 ○ The bee then carries the pollen to the next flower it visits, and this makes it possible for the plant to produce seeds and fruit.
+    → それから、ミツバチはそれが訪れる次の花に花粉を運んで、これは植物が種や実をつけることを可能にする。
+148 ○ Apples, almonds, blueberries, and many other crops would be much harder to grow without bees.
+    → りんごとアーモンドとブルーベリーと多くの他の作物はミツバチなしで育てるのがずっと難しいだろう。
+149 ○ In some regions, farmers must now rent hives and move them into their orchards every spring.
+    → 一部の地域では、農家は今では毎年春にミツバチの巣箱を借りて、自分の果樹園に運び込まなければならない。
+150 ○ Unfortunately, bee populations have been falling in many countries.
+    → 残念ながら、ミツバチの個体数は多くの国でずっと減っている。
+151 ○ Scientists believe that several causes are working together.
+    → 科学者はいくつかの原因が一緒に作用していると考えている。
+152 ○ The use of strong chemicals on farms is one cause, because these substances can harm the insects even in very small amounts.
+    → 農場で強い化学物質を使うことが原因の1つだ。これらの物質はごく少量でも昆虫を害することがあるからだ。
+153 ○ Another cause is the loss of wild flowers, which gives bees fewer places to find food.
+    → 別の原因は野生の花が失われていることで、そのせいでミツバチが食べ物を見つけられる場所が減っている。
+154 ○ Diseases spread by tiny mites also kill large numbers of bees every year.
+    → とても小さいダニによって広がる病気はまた毎年多数のミツバチを殺す。
+155 ○ What can ordinary people do to help?
+    → 普通の人々は助けるために何ができますか。
+156 ○ One simple answer is to plant flowers that bloom at different times of the year, so that bees can find food from early spring until late autumn.
+    → 1つの簡単な答えは、年の異なる時期に咲く花を植えることだ。そうすれば、ミツバチは初春から晩秋まで食べ物を見つけられる。
+157 ○ Buying honey from local farmers and avoiding unnecessary chemicals in the garden also make a difference.
+    → 地元の農家たちから蜂蜜を買って、庭で不必要な化学物質を避けることも効果がある。
+158 ○ Small actions like these may seem unimportant, but when many people take them together, the results can be surprisingly large.
+    → このような小さい行動は重要でないように思えるかもしれないが、多くの人々が行動を一緒に取るとき、結果は驚くほど大きいこともある。
+159 ○ These days, many students read more on screens than on paper.
+    → 最近、多くの学生は紙よりも画面で読むことのほうが多い。
+160 ○ Smartphones and tablets are convenient because they allow us to carry hundreds of books in a bag.
+    → スマートフォンとタブレットは、かばんに入れて何百もの本を運ぶことを可能にするので、便利だ。
+161 ○ However, several studies suggest that the medium may affect how well we understand what we read.
+    → しかしながら、いくつかの研究は媒体が、読んだ内容をどれだけよく理解できるかに影響するかもしれないことを示唆する。
+162 ○ In one experiment, two groups of students read the same short story.
+    → ある実験では、2つのグループの学生が同じ短い話を読んだ。
+163 ○ One group used printed pages, and the other used a tablet.
+    → 1つのグループは印刷されたページを使って、もう一方はタブレットを使った。
+164 ○ Afterward, both groups were asked to put the main events of the story in the correct order.
+    → その後、どちらのグループも話の主な出来事を正しい順序に並べるように求められた。
+165 ○ The students who had read the paper version did slightly better than those who had read on the tablet.
+    → 紙の版を読んだ学生たちはタブレットで読んだ人々よりわずかによくできた。
+166 ○ The researchers explained that paper gives readers a physical sense of where they are in a text.
+    → 研究者たちは紙が読者に文章のどこを読んでいるかが手で感じられる感覚を与えると説明した。
+167 ○ You can feel the thickness of the pages you have already read and the pages that remain.
+    → あなたはすでに読んだページと残っているページの厚さを感じられる。
+168 ○ Screens, on the other hand, have their own advantages.
+    → 一方で、画面には独自の利点がある。
+169 ○ Readers can change the size of the letters, search for a word in seconds, and look up its meaning without leaving the page.
+    → 読者は文字の大きさを変えたり、数秒で語を探したり、ページを離れずにその意味を調べたりできる。
+170 ○ For people with poor eyesight, such features are not just helpful but necessary.
+    → 視力の弱い人々にとって、そのような特徴は役に立つだけでなく必要でもある。
+171 ○ Moreover, digital books are often cheaper, and they never take up space on a shelf.
+    → さらに、電子書籍はたいてい安く、棚の場所をとることもない。
+172 ○ So which is better?
+    → それで、どちらのほうが良いですか。
+173 ○ The answer depends on what we are reading and why.
+    → 答えは、私たちが何を、なぜ読んでいるのかによる。
+174 ○ For a long and difficult text that requires careful thought, many experts recommend printing it out.
+    → 注意深い考えを必要とする長くて難しい本文の場合は、多くの専門家はそれを印刷することを勧める。
+175 ○ For a quick look at the news, however, a screen is perfectly suitable.
+    → しかしながら、ニュースをざっと見るには、画面は完全に適している。
+176 ○ What matters most is that we choose the method that suits our purpose instead of simply following habit.
+    → 最も重要なのは私たちが単に習慣に従う代わりに目的に合う方法を選ぶということだ。
+177 ○ Few inventions have changed daily life as quickly as online shopping.
+    → 日常生活をオンラインショッピングほど速く変えた発明はほとんどない。
+178 ○ With a few taps on a screen, we can order almost anything, and it often arrives at our door the very next day.
+    → 画面を何回かタップするだけで、私たちはほとんど何でも注文できて、それはよくまさに翌日に玄関に届く。
+179 ○ For busy families in particular, the change has saved a great deal of time and effort.
+    → 特に忙しい家族たちにとって、この変化で多くの時間と労力が省けるようになった。
+180 ○ It is hardly surprising, then, that many people have come to regard this speed as a basic right rather than a special service.
+    → それならば、多くの人々がこの速度を特別なサービスというよりむしろ基本的な権利とみなすようになったのは驚くに当たらない。
+181 ○ Behind this convenience, however, lies a cost that is easy to overlook.
+    → しかしながら、この便利さの裏には見落としやすい費用がある。
+182 ○ Every package has to be wrapped, sorted, loaded onto a truck, and driven to its destination, and each of these steps uses energy.
+    → すべての小包は包まれて、分類されて、トラックに積み込まれて、目的地まで運ばれなければならなくて、これらの工程のそれぞれはエネルギーを使う。
+183 ○ What is worse, many deliveries are made in half-empty vehicles, because customers expect their goods to arrive at the exact time they have chosen.
+    → さらに悪いことには、客が商品を自分の選んだ時間ちょうどに届けてほしいと思うので、多くの配達が半分空のトラックで行われている。
+184 ○ The result is that the number of delivery trucks on city streets has risen sharply, adding to traffic jams and air pollution.
+    → その結果、都市の通りの配達のトラックの数が急激に増えた。これが交通渋滞と大気汚染を増やす。
+185 ○ Packaging is another source of waste.
+    → 包装もごみを生むもう1つの原因だ。
+186 ○ A small item such as a phone case is often shipped in a box several times larger than necessary, surrounded by plastic that will be thrown away within minutes.
+    → スマートフォンのケースのような小さな品物が、必要な大きさの数倍もある箱に入れられ、数分で捨てられるプラスチックに包まれて発送されることがよくある。
+187 ○ Had consumers been aware of this, some of them might have chosen to wait a little longer in return for less packaging.
+    → もし消費者がこれに気づいていたら、包装が少なくなるのと引き換えに、もう少し長く待つことを選んだ人もいたかもしれない。
+188 ○ Recycling helps, but it is no substitute for producing less waste in the first place.
+    → リサイクルは役に立つが、そもそもより少ないごみを出す代わりにはならない。
+189 ○ Some companies have started to respond.
+    → いくつかの会社は対応し始めた。
+190 ○ They offer a slower delivery option that groups several orders together, and they reward customers who choose it with a small discount.
+    → いくつかの注文を1つにまとめる遅めの配達を選べるようにし、それを選んだ客には少し割引をしている会社もある。
+191 ○ Others have redesigned their boxes so that they can be reused or turned into new paper.
+    → 箱を再利用したり新しい紙にしたりできるように設計し直した会社もある。
+192 ○ Such efforts are encouraging, but they will not succeed unless customers are willing to change their own habits.
+    → そのような努力は励みになるが、もし客が自分自身の習慣を変える気がなければ、成功しないだろう。
+193 ○ The more we demand speed, the more the planet pays for it.
+    → 私たちが速度を要求すれば要求するほど、地球が払う代償もますます大きくなる。
+194 ○ It is not the technology itself but the way we use it that deserves our attention.
+    → 私たちの注意に値するのは科学技術自体ではなく私たちがそれを使う方法だ。
+195 ○ On a hot summer afternoon, the temperature in the center of a large city can be several degrees higher than in the countryside around it.
+    → 暑い夏の午後に、大きい都市の中心の気温は周りの田舎より数度高いこともある。
+196 ○ Scientists call this the urban heat island effect.
+    → 科学者はこれを都市のヒートアイランド現象と呼ぶ。
+197 ○ Its causes are not difficult to understand.
+    → その原因を理解するのは難しくない。
+198 ○ A hot city is also a restless one: at night, the stored heat keeps the air warm, and people find it hard to sleep.
+    → 暑い都市はまた落ち着かないものだ：夜、蓄えられた熱は空気を暖かく保って、人々は眠ることが難しいと感じる。
+199 ○ Dark roofs and roads absorb sunlight and release it slowly as heat, while concrete buildings trap warm air between them.
+    → 黒っぽい屋根や道路は日光を吸収して、熱としてそれをゆっくりと放出するのに対して、コンクリートの建物は建物の間に暖かい空気を閉じ込める。
+200 ○ In addition, air conditioners push the heat from inside buildings out into the streets, which makes the outdoor air even warmer.
+    → 加えて、エアコンは建物の中から通りへ熱を押し出して、そのことが屋外の空気をさらに暖かくする。
+201 ○ This is not merely a matter of comfort.
+    → これは単に快適さの問題ではない。
+202 ○ During long heat waves, elderly people and small children are especially likely to become seriously ill, and hospitals often report a sharp rise in patients.
+    → 長い熱波の間に、高齢者と小さい子どもたちは特に重い病気になりやすく、病院はよく患者の急増を報告する。
+203 ○ Moreover, the demand for electricity rises so quickly on such days that power companies sometimes have difficulty supplying enough.
+    → さらに、電気の需要はそのような日にとても速く増えるので、電力会社はときどき十分な量を供給するのに苦労する。
+204 ○ Fortunately, city planners have a number of tools at their disposal.
+    → 幸運にも、都市計画の担当者には使える手段がいくつもある。
+205 ○ One of the most effective is to increase the amount of greenery.
+    → 最も効果的なものの1つは緑の量を増やすことだ。
+206 ○ Trees provide shade, and the water that evaporates from their leaves cools the surrounding air, much as sweat cools our skin.
+    → 木は日陰を作り、ちょうど汗が私たちの皮膚を冷やすように、葉から蒸発する水が周りの空気を冷やす。
+207 ○ Some cities have gone further by covering the roofs of public buildings with grass and low plants.
+    → さらに進んで、公共の建物の屋根を草や背の低い植物で覆った都市もある。
+208 ○ Another approach is to paint roofs and roads in light colors, which reflect more sunlight than dark ones.
+    → 別の方法は、屋根や道路を、暗い色より多くの日光を反射する明るい色に塗ることだ。
+209 ○ Even something as modest as a fountain in a public square can bring some relief on a hot day.
+    → 公共の広場の噴水のようなささやかなものでさえ暑い日には和らぎをもたらしてくれる。
+210 ○ No single measure can solve the problem, however.
+    → しかしながら、どんな対策も1つだけでは問題を解決できない。
+211 ○ Having studied several cities, researchers concluded that the best results came from combining many small changes.
+    → いくつかの都市を研究して、研究者は一番いい結果が多くの小さい変化を組み合わせることから得られると結論づけた。
+212 ○ A park, a row of trees, and a white roof may each reduce the temperature only slightly, but together they can make a street noticeably cooler.
+    → 公園と木の列と白い屋根はそれぞれ温度をわずかしか下げないかもしれないが、一緒に通りを目に見えて涼しくできる。
+213 ○ In the end, a cool city is not the product of one clever invention but the result of patient, shared effort.
+    → 結局、涼しい都市は1つの賢い発明の産物ではなく粘り強く、皆で力を合わせた努力の結果だ。
+214 ○ Last summer, I stayed with a host family in Canada for two weeks.
+    → 去年の夏に、私は2週間カナダのホストファミリーのところに滞在した。
+215 ○ I was very nervous when I arrived at their house.
+    → 私は彼らの家に到着したとき、とても緊張していた。
+216 ○ My English was not good, and I was afraid of making mistakes.
+    → 私の英語は良くなくて、私は間違えることを恐れていた。
+217 ○ However, my host mother, Sarah, gave me a warm smile and said, "You are one of the family now."
+    → しかしながら、私のホストマザーであるサラは温かく微笑みかけて、「あなたはもう家族の一員よ」と言った。
+218 ○ Her words made me feel much better.
+    → 彼女の言葉は私の気分をずっとよくした。
+219 ○ Every evening, we cooked dinner together.
+    → 毎晩、私たちは夕食を一緒に作った。
+220 ○ Sarah taught me how to make pancakes, and I showed her how to use chopsticks.
+    → サラは私にパンケーキの作り方を教えてくれて、私は彼女にはしの使い方を教えた。
+221 ○ One day, I made miso soup for the family.
+    → ある日、私は家族のためにみそ汁を作った。
+222 ○ They had never tasted it before, but they all liked it.
+    → 彼らは一度もそれを味わったことがなかったが、みなそれを気に入った。
+223 ○ After that, I was not nervous any more.
+    → その後、私はもはや緊張していなかった。
+224 ○ I talked with the family a lot, and my English got better day by day.
+    → 私はたくさん家族と話して、英語は日ごとに良くなった。
+225 ○ On the last day, Sarah hugged me and said, "Please come back soon."
+    → 最後の日に、サラは私を抱きしめて、「またすぐに来てね」と言った。
+226 ○ I learned two important things from this trip.
+    → 私はこの旅行から2つの重要なことを学んだ。
+227 ○ First, you do not have to speak perfect English to make friends.
+    → まず、あなたは友達を作るために完璧な英語を話す必要はない。
+228 ○ Second, a few kind words can make a big difference.
+    → 次に、少しの親切な言葉が大きな違いを生むことがある。
+229 ○ I hope to see my host family again someday.
+    → いつかまたホストファミリーに会いたいと思う。
+230 ○ Many students today read books on tablets or smartphones.
+    → 多くの学生が今日タブレットかスマートフォンで本を読む。
+231 ○ These electronic books, or e-books, have some good points.
+    → これらの電子書籍には良い点がある。
+232 ○ First, you can carry hundreds of books in one small device.
+    → まず、あなたは1つの小さい装置に入れて何百もの本を運べる。
+233 ○ Second, you can make the letters bigger when the print is hard to read.
+    → 次に、活字が読みにくいとき、文字を大きくできる。
+234 ○ Third, you can buy a new book in a few seconds, even at midnight.
+    → 第3に、あなたは真夜中でも数秒で新しい本を買える。
+235 ○ However, many people still prefer paper books.
+    → しかしながら、多くの人々がまだ紙の本のほうを好む。
+236 ○ Reading on a screen for a long time can make your eyes tired.
+    → 長い間画面で読むことはあなたの目を疲れさせることがある。
+237 ○ In addition, a paper book never runs out of battery.
+    → 加えて、紙の本は決して電池が切れない。
+238 ○ Some readers also say that they remember a story better when they read it on paper.
+    → また、紙で読んだほうが話をよく覚えていると言う読者もいる。
+239 ○ This may be because they can see how much of the book is left.
+    → これは、本があとどのくらい残っているかが見えるからかもしれない。
+240 ○ Which is better, then?
+    → では、どちらのほうが良いですか。
+241 ○ I think it depends on the situation.
+    → 私は状況次第だと思う。
+242 ○ When I travel, I read e-books because they are light.
+    → 旅行するときは、軽いので電子書籍を読む。
+243 ○ At home, however, I enjoy paper books before I go to bed.
+    → しかし家では、寝る前に紙の本を楽しむ。
+244 ○ The most important thing is to enjoy reading in your own way.
+    → 最も重要なことは自分なりのやり方で読むことを楽しむことだ。
+245 ○ Every first Sunday of the month, about fifty volunteers gather at Hikari Beach to pick up trash.
+    → 毎月第1日曜日に、約50人のボランティアがごみを拾うためにひかりビーチに集まる。
+246 ○ The group began five years ago, when a high school student named Rina found many plastic bottles and bags on the sand.
+    → グループは5年前に始まった。それはリナという名前の高校生が砂浜で多くのペットボトルと袋を見つけたときだった。
+247 ○ She was very shocked, so she asked her friends to help her clean the beach.
+    → 彼女はとてもショックを受けたので、自分の友達に浜辺を掃除するのを手伝ってくれるように頼んだ。
+248 ○ At first, only five people came.
+    → 最初は、5人しか来なかった。
+249 ○ However, the number of volunteers increased little by little because many people saw her photos on the Internet.
+    → しかしながら、多くの人々がインターネットで彼女の写真を見たので、ボランティアの数は少しずつ増えた。
+250 ○ Now, people of all ages join the activity, from small children to elderly people.
+    → 今では、小さな子どもから高齢者まで、あらゆる年齢の人々が活動に参加している。
+251 ○ They collect about one hundred bags of trash in two hours.
+    → 彼らは2時間で約100袋のごみを集める。
+252 ○ After the work, they sort the trash into three groups: burnable, plastic, and metal.
+    → 仕事の後に、彼らはごみを3つの種類に分類する。それは燃えるもの、プラスチック、金属だ。
+253 ○ The members say that cleaning the beach is not only good for nature but also fun.
+    → メンバーは浜辺を掃除することが自然のために良いだけでなく楽しくもあると言う。
+254 ○ They talk, laugh, and make new friends while working.
+    → 彼らは話して、笑って、働きながら新しい友達を作る。
+255 ○ Rina is now a university student, but she still comes to the beach every month.
+    → リナは今大学生だが、今でも毎月浜辺に来る。
+256 ○ She says that anyone can take part in the activity.
+    → 彼女は誰でも活動に参加できると言う。
+257 ○ "You do not need special skills," she says. "You only need a bag and a little time."
+    → 彼女は「特別な技術は必要ない」と言う。「袋と少しの時間さえあればいい」
+258 ○ In big cities, there is hardly any empty land left on the ground.
+    → 大都市では、地上に空き地はほとんど残っていない。
+259 ○ Buildings stand side by side, and roads cover most of the rest.
+    → 建物は立ち並んで、道路は残りのほとんどを覆う。
+260 ○ Yet there is one kind of space that people have long ignored: the flat roofs of the buildings themselves.
+    → しかし、人々が長い間無視してきた空間が1種類ある。それは建物自体の平らな屋根だ。
+261 ○ In recent years, more and more cities have started turning these roofs into gardens.
+    → 近年、これらの屋根を庭に変え始めた都市がますます増えている。
+262 ○ A rooftop garden does more than make a building look pleasant.
+    → 屋上庭園の役割は、建物の見た目をよくすることだけではない。
+263 ○ First, it keeps the building cool.
+    → まず、それは建物を涼しく保つ。
+264 ○ On a hot summer day, an ordinary roof can become much hotter than the air, but a layer of plants and soil absorbs much of the sun's heat.
+    → 暑い夏の日に、普通の屋根は空気よりずっと熱くなることがあるが、植物と土の層は太陽の熱の多くを吸収する。
+265 ○ As a result, the rooms below need less air conditioning, and the owner of the building saves money on electricity.
+    → その結果、下の部屋は冷房が少なくて済んで、建物の所有者は電気代を節約する。
+266 ○ Second, a rooftop garden helps a city deal with heavy rain.
+    → 次に、屋上庭園は都市が大雨に対処するのに役立つ。
+267 ○ Concrete and asphalt cannot soak up water, so rain runs quickly into the drains, which may be unable to carry all of it away in a storm.
+    → コンクリートとアスファルトは水を吸収できないので、雨は排水管にすぐに流れ込んで、嵐のときには排水管が雨水をすべて流しきれないこともある。
+268 ○ Plants and soil, on the other hand, hold water like a sponge and release it slowly.
+    → 一方で、植物と土はスポンジのように水を保持して、それをゆっくりと放出する。
+269 ○ This lowers the risk of flooding in the streets below.
+    → これにより、下の通りが水浸しになる危険が減る。
+270 ○ Third, roof gardens give city dwellers a place to meet nature.
+    → 第3に、屋上庭園は都会に住む人に自然と触れ合う場所を与える。
+271 ○ On the roof of one apartment house, neighbors grow tomatoes and herbs and share the harvest every weekend.
+    → あるアパートの屋上では、隣人はトマトとハーブを育てて、毎週末収穫を分け合う。
+272 ○ They say that working together has made them better acquainted with one another than they ever were in the elevator.
+    → 一緒に作業するようになって、エレベーターで顔を合わせるだけだったころよりずっと親しくなったと彼らは言う。
+273 ○ Of course, building a roof garden is not easy.
+    → もちろん、屋上庭園を作ることは簡単ではない。
+274 ○ Wet soil is heavy, so the roof must be strong enough to carry it, and the garden also needs a waterproof sheet and regular care.
+    → 濡れた土は重いので、屋根はそれを支えるのに十分強くなければならなくて、庭はまた防水シートと定期的な手入れが必要だ。
+275 ○ All this costs money, and many owners hesitate to pay for it.
+    → これらにはすべてお金がかかり、多くの所有者がその代金を払うのをためらう。
+276 ○ Even so, the idea is spreading.
+    → それでも、考えは広がっている。
+277 ○ Some cities now give money to owners who build green roofs, and a few have even made them a requirement for large new buildings.
+    → 今では、屋上を緑化する所有者に補助金を出す都市もあり、大きな新しい建物に屋上緑化を義務づけた都市さえある。
+278 ○ If this trend continues, the skyline of the future may look not like a forest of gray boxes but like a hillside covered with green.
+    → もしこの傾向が続いたら、未来のスカイラインは灰色の箱の森林のようではなく、緑で覆われている丘の斜面のように見えるかもしれない。
+279 ○ Many people are proud of being able to do several things at the same time, a skill known as multitasking.
+    → 多くの人々は、マルチタスクと呼ばれる、同時にいくつかのことをする能力を誇りに思っている。
+280 ○ They answer e-mails during meetings, listen to music while studying, and check their phones while talking with friends.
+    → 彼らは会議中に電子メールに返信して、勉強しながら音楽を聴いて、友達と話しながら自分の電話を確認する。
+281 ○ However, scientists who study the brain have doubts about this idea.
+    → しかしながら、脳を研究する科学者はこの考えについて疑いを持っている。
+282 ○ According to their research, the brain cannot really pay attention to two difficult tasks at the same moment.
+    → 彼らの研究によれば、脳は同時に2つの難しい作業に本当に注意を向けることはできない。
+283 ○ What feels like multitasking is actually rapid switching: the brain moves its attention from one task to another and back again.
+    → マルチタスクのように感じられるのは実は急速な切り替えだ：脳はある仕事から別の仕事へその注意を移して、また元に戻す。
+284 ○ Each switch takes only a fraction of a second, but these small delays quickly add up.
+    → それぞれの切り替えはほんの一瞬しかかからないが、これらの小さい遅れはすぐに積み重なる。
+285 ○ In one experiment, researchers asked two groups of students to solve a set of math problems.
+    → ある実験では、研究者は2つのグループの学生に一連の数学の問題を解くように頼んだ。
+286 ○ One group worked on the problems without a break.
+    → 1つのグループは休憩なしで問題に取り組んだ。
+287 ○ The other group was interrupted every few minutes by a text message and had to answer it before returning to the problems.
+    → もう一方のグループはテキストメッセージに数分ごとに邪魔されて、問題に戻る前にそれに答えなければならなかった。
+288 ○ The students who were interrupted took much longer to finish than those who were not, and they also made more mistakes.
+    → 邪魔された学生たちは終わるのにそうではなかった人々よりずっと長くかかって、またより多くの間違いをした。
+289 ○ Why does switching cost so much?
+    → 切り替えはなぜとても高くつきますか。
+290 ○ One reason is that the brain needs time to start up again.
+    → 理由の1つは脳が再び動き出すのに時間を必要とするということだ。
+291 ○ When we return to the first task, we must remember where we stopped and what we were going to do next.
+    → 私たちは最初の仕事に戻るとき、どこでやめたかと何を次にするつもりだったか覚えなければならない。
+292 ○ This process is invisible, so we do not notice the time we lose.
+    → この過程は目に見えないので、私たちは失う時間に気づかない。
+293 ○ This does not mean that we should never do two things at once.
+    → これは私たちが決して同時に2つのことをするべきではないということを意味しない。
+294 ○ The trouble begins when both tasks need our full attention, such as reading a report while talking on the phone.
+    → 問題が起きるのは、電話で話しながら報告書を読むときのように、両方の作業に全神経を集中させる必要があるときだ。
+295 ○ In such cases, it is better to finish one task before starting the next.
+    → そのような場合、次のものを始める前に1つの仕事を終えたほうがよい。
+296 ○ Some people find this advice hard to follow, because doing just one thing seems like a waste of time.
+    → この助言に従うのは難しいと感じる人もいる。1つのことだけをするのは時間の無駄に思えるからだ。
+297 ○ Yet the evidence suggests that the opposite is true.
+    → しかし、証拠はその逆が正しいことを示唆する。
+298 ○ People who concentrate on one thing at a time often finish earlier and do better work than those who try to do everything at once.
+    → 一度に1つのことに集中する人々はよくもっと早く終わって、同時にすべてをしようとする人々より良い仕事をする。
+299 ○ When I was a child, my favorite place in town was the small bookshop at the corner of our street.
+    → 私が子どもだったとき、町で一番好きな場所は私たちの通りの角の小さい本屋だった。
+300 ○ Its owner, Mr. Hayashi, was an old man with white hair and round glasses.
+    → その所有者である林さんは白髪で丸いめがねをかけたおじいさんだった。
+301 ○ He never seemed to be in a hurry.
+    → 彼は決して急いでいるようではなかった。
+302 ○ Whenever I came in, he looked up from his newspaper, smiled, and said, "Take your time."
+    → 私が中に入るたびに、彼は自分の新聞から顔を上げて、ほほえんで、「ゆっくりどうぞ」と言った。
+303 ○ I took his words literally.
+    → 私は彼の言葉を文字どおりに受け取った。
+304 ○ Every Saturday I spent hours between the shelves, reading a few pages of one book and then a few pages of another.
+    → 毎週土曜日、私は棚の間で何時間も過ごし、ある本を数ページ読んでは、別の本を数ページ読んだ。
+305 ○ I could not afford to buy many books, so I read most of them standing up.
+    → 私は多くの本を買う余裕がなかったので、それらのほとんどを立ったまま読んだ。
+306 ○ Mr. Hayashi never once told me to leave.
+    → 林さんは一度も私に出て行くように言わなかった。
+307 ○ Years later, after I had moved to another city for university, I came home one summer and found a sign on the shop door: "Closing on August 31. Thank you for sixty years."
+    → 数年後に、大学進学のために別の都市に引っ越した後のある夏、帰省した私は店のドアに貼り紙があるのを見つけた：「8月31日閉店。60年間ありがとうございました」
+308 ○ My heart sank.
+    → 気持ちが沈んだ。
+309 ○ I ran to the shop the next morning.
+    → 私は翌朝店まで走った。
+310 ○ It was full of customers, most of them people of my age who had grown up in the neighborhood.
+    → 店は客でいっぱいで、そのほとんどは近所で育った私と同じ年ごろの人たちだった。
+311 ○ Mr. Hayashi was behind the counter, older and slower than I remembered, but with the same calm smile.
+    → 林さんはカウンターの向こうにいた。私の記憶より年をとり、動きもゆっくりになっていたが、穏やかな笑顔は同じだった。
+312 ○ To my surprise, he remembered me.
+    → 驚いたことに、彼は私を覚えていた。
+313 ○ I said I was sorry for all the books I had read without paying, and he laughed.
+    → 私は支払わずに読んだすべての本を申し訳なく思っていると言って、彼は笑った。
+314 ○ "Children like you were my best advertisement," he said.
+    → 彼は「あなたのような子どもは私の一番いい広告だった」と言った。
+315 ○ "You stayed, your friends came, and then their parents came."
+    → 「君が店にいてくれたから、君の友達が来て、それからその親たちも来たんだ」
+316 ○ Online shopping, he explained, had made it hard to keep the business going.
+    → 彼が説明したところでは、オンラインショッピングは事業を続けにくくしていた。
+317 ○ People now buy books with one click, and he did not blame them.
+    → 今では人々はワンクリックで本を買うが、彼はそれを責めなかった。
+318 ○ But he thought something was lost when no one stood in front of a shelf and found a book by accident.
+    → しかし、誰も棚の前に立って偶然本に出会うことがなくなれば、何かが失われると彼は思っていた。
+319 ○ On the last day, I bought five books, more than I had bought in all my childhood.
+    → 最後の日に、私は本を5冊買った（私がすべての子ども時代で買ったより多く）。
+320 ○ Mr. Hayashi wrapped them slowly in brown paper, as if he wanted the afternoon to last, and said, "Take your time."
+    → 林さんは、まるで午後が続いてほしいと思っているかのように、茶色の紙でそれらをゆっくりと包んで、「ゆっくりどうぞ」と言った。
+321 ○ This time, I understood that he was not talking about reading.
+    → 今回、私は彼が読書について話していないことを理解した。
+322 ○ He meant that neither of us needed to hurry to say goodbye.
+    → 彼が言いたかったのは、私たちのどちらも急いで別れを告げる必要はないということだった。
+323 ○ Anyone who has tried to learn a skill from an expert knows a particular kind of frustration.
+    → 専門家から技術を学ぼうとした人は誰でも特定の種類のいらだちを知っている。
+324 ○ The expert explains something, apparently with great clarity, and yet the learner understands almost nothing.
+    → 専門家は一見とても明快に何かを説明するが、学習者はほとんど何も理解しない。
+325 ○ It is tempting to blame the learner's lack of ability.
+    → 学習者の能力の不足を責めたくなる。
+326 ○ Psychologists, however, have long suspected that the real cause lies elsewhere: in the expert's own mind.
+    → しかしながら、心理学者は長い間本当の原因はほかのところ、つまり専門家自身の心の中にあるのではないかと考えてきた。
+327 ○ Once we know something well, it becomes remarkably difficult to imagine not knowing it.
+    → いったん何かをよく知ってしまうと、それを知らないことを想像することは著しく難しくなる。
+328 ○ This effect is sometimes called the curse of knowledge.
+    → この現象は「知識の呪い」と呼ばれることがある。
+329 ○ A chess master looking at a position sees at once which pieces are in danger, and she can hardly recall what it was like to see only a confusing pattern of black and white shapes.
+    → 盤面を見たチェスの名人は、どの駒が危ないかがすぐに分かり、白と黒の形がごちゃごちゃに並んでいるようにしか見えなかったころのことを、ほとんど思い出せない。
+330 ○ In a typical study, participants who have been shown the solution to a puzzle are asked to guess how long a newcomer would need to solve it.
+    → 典型的な研究では、パズルの答えを見せられた参加者は、初めての人がそれを解くのにどのくらい時間がかかるか推測するように求められる。
+331 ○ Such studies have repeatedly found that people who know the answer overestimate how easily others will find it.
+    → そのような研究は答えを知っている人々が他の人たちがどのくらい簡単にそれを見つけるか過大評価することを繰り返して明らかにした。
+332 ○ The answer, once learned, seems to have been obvious all along.
+    → いったん学ばれると、答えは最初からずっと明らかだったようだ。
+333 ○ This is not a sign of arrogance; it is simply how the mind works.
+    → これは傲慢さの表れではなく、単に心がそのように働くということだ。
+334 ○ The consequences reach well beyond the classroom.
+    → その影響は教室をはるかに超えて及ぶ。
+335 ○ A programmer may call a menu obvious simply because he designed it himself.
+    → プログラマーは、自分で設計したというだけの理由で、メニューを分かりやすいと言うかもしれない。
+336 ○ Instruction manuals written by engineers are often incomprehensible to ordinary users; doctors use technical terms without noticing that their patients are lost; and experienced teachers skip steps that seem too obvious to mention, although these are exactly the steps that beginners need.
+    → 技術者によって書かれた取扱説明書はよく普通の利用者たちに理解できなくて、医者は患者が話についてこられないことに気づかずに専門用語を使って、経験豊かな先生たちはわざわざ言うまでもないと思える段階を飛ばしてしまうが、それこそが初心者に必要な段階なのだ。
+337 ○ Can the curse be lifted?
+    → この呪いは解けるのだろうか。
+338 ○ Rarely do experts notice the problem on their own, and simply warning them that it exists helps little.
+    → 専門家はめったに独力で問題に気づかなくて、単に彼らにそれが存在すると警告することはほとんど役に立たない。
+339 ○ What works better is feedback: the expert must watch a real beginner struggle.
+    → よりうまくいくのはフィードバックだ：専門家は本物の初心者が苦労する様子を見なければならない。
+340 ○ Another remedy is to recall one's own early mistakes, not the polished version of one's learning story, but the confusion, the wrong turns, and the misunderstandings.
+    → もう1つの対策は自分自身の初期の間違い、つまり自分の学習の話の磨かれた版ではなく混乱と回り道と誤解を思い出すことだ。
+341 ○ Some of the best teachers keep notes on what puzzled them as students, precisely because such memories fade so quickly.
+    → まさにそのような記憶がとても速く薄れるからこそ、一番いい先生たちの中には、学生のころに自分が戸惑ったことをメモに残している人もいる。
+342 ○ There is an irony here.
+    → ここに皮肉がある。
+343 ○ The more completely we master a subject, the less qualified we may be to teach it, unless we make a deliberate effort to remember what it was like not to know.
+    → 知らなかったころがどんなものだったかを意識して思い出そうとしなければ、教科を完全に身につければつけるほど、それを教えるのに向かなくなるかもしれない。
+344 ○ Expertise, in other words, is not merely a matter of acquiring knowledge; it also requires keeping alive the memory of ignorance.
+    → 言い換えれば、専門知識は単に知識を習得することの問題ではなくて、また無知の記憶を保ち続けることを必要とする。
+345 ○ Every language seems to contain a few words that its speakers regard as impossible to translate.
+    → すべての言語はその話し手が翻訳するのが不可能だとみなすいくつかの語を含んでいるようだ。
+346 ○ The Portuguese word saudade, the German word Schadenfreude and the Japanese word komorebi are often cited as examples.
+    → ポルトガル語のsaudadeとドイツ語のSchadenfreudeと日本語のkomorebiはよく例として引用されている。
+347 ○ Such words are frequently offered as proof that different languages divide human experience in different ways.
+    → そのような語は異なる言語が異なる方法で人間の経験を分けるという証拠としてよく挙げられる。
+348 ○ But does it follow that speakers of other languages cannot experience what such a word names?
+    → しかし、だからといって、他の言語の話し手はそのような語が表すものを経験できないということになるのだろうか。
+349 ○ The strongest form of this claim, popular in the last century, holds that language determines thought: people who have no word for a concept cannot grasp it.
+    → 前世紀に人気があったこの主張の最も強い形は、言語が思考を決定する、というものだ：概念を表す語がない人々はそれをつかめない。
+350 ○ Few scholars today accept this view.
+    → 今日この見方を受け入れる学者はほとんどいない。
+351 ○ An English speaker who has never heard the word komorebi can still enjoy sunlight falling through leaves; the pleasure does not wait for a name.
+    → komorebiという語を聞いたことがない英語の話し手でも、葉の間から差し込む日の光を楽しむことはできる。その喜びは名前がつくのを待ちはしない。
+352 ○ A weaker version of the claim, however, has survived, and it has found some support in experiments.
+    → しかしながら、主張のより弱い版は生き残って、実験でもいくらか裏づけが得られている。
+353 ○ It holds that language influences, rather than determines, what we notice and remember.
+    → それによれば、言語は私たちが何に気づき何を覚えているかを、決定するというより、影響するのだという。
+354 ○ Speakers of languages in which light blue and dark blue have separate basic names are reported to tell shades of blue apart slightly faster than speakers of languages with a single name for both.
+    → 明るい青と暗い青が別々の基本的な名前を持っている言語の話者は両方を表すただ1つの名前を持った言語の話者よりわずかに速く青の色合いを見分けると報告されている。
+355 ○ The difference is small, but it suggests that a name can make a distinction easier to notice and to keep in mind.
+    → 違いは小さいが、名前があると、区別に気づきやすく、覚えておきやすくなることを示している。
+356 ○ These findings are modest, yet they keep the weaker version of the claim alive.
+    → これらの研究結果はささやかだが、それらは主張のより弱い版を存続させる。
+357 ○ For translators, the lesson is less dramatic than it may seem.
+    → 翻訳者にとって、教訓は見た目ほど劇的ではない。
+358 ○ A word with no equivalent can still be explained, and the explanation, though longer, may convey what the word means.
+    → それに当たる語がない語でも説明することはでき、その説明は、長くはなるが、語の意味を伝えられるかもしれない。
+359 ○ Consider a translator who must render saudade into English.
+    → saudadeを英語に訳さなければならない翻訳者を考えてみよう。
+360 ○ She may choose longing, nostalgia, or a sweet sadness for what is gone, but each choice loses something and adds something.
+    → 彼女はあこがれか郷愁か失われたものへの甘い悲しみを選ぶかもしれないが、それぞれの選択は何かを失って、何かを加える。
+361 ○ What cannot be preserved is the effect the word has in its original setting: its rhythm, its associations, and the ease with which native speakers use it without a second thought.
+    → 保存できないのは語が元の環境で持っている効果だ。それはそのリズム、その連想、母語話者が深く考えずにそれを使う容易さだ。
+362 ○ A translator, therefore, must decide what to keep and what to give up, because nothing can be carried across whole.
+    → したがって、何も丸ごと移すことはできないので、翻訳者は何を保つべきかと何をあきらめるべきか決めなければならない。
+363 ○ Seen in this light, the so-called untranslatable word is not a wall between languages but a reminder of how translation actually works.
+    → この観点から見ると、いわゆる翻訳できない語は言語の間の壁ではなく翻訳が実際にどのように行われるのかを思い出させてくれるものだ。
+364 ○ It never reproduces; it re-creates.
+    → それは決して再現するのではなく、作り直すのだ。
+365 ○ And in the effort to re-create, readers may learn something that no dictionary can give them: that their own language, too, carries assumptions so familiar that they have never noticed them.
+    → そして、作り直そうとする努力の中で、読者は辞書では得られないことを学ぶかもしれない。それは、自分の言語もまた、あまりにもなじみがあって一度も気づいたことのない前提を含んでいるということだ。
+366 ○ Few people today could find their way across an unfamiliar city without the help of a navigation app.
+    → 今日、ナビアプリの助けなしに、知らない都市で道を見つけられる人はほとんどいない。
+367 ○ This is no cause for alarm in itself; nobody mourns the loss of the ability to start a fire with flint.
+    → それ自体は心配することではない。誰も火打ち石で火をおこす能力の喪失を悼まない。
+368 ○ But the example raises a broader question: when a machine takes over a task, what happens to the human skill that the task once required?
+    → しかし、例はより広い問題を提起する：機械が仕事を引き継ぐとき、仕事がかつて必要とした人間の技術はどうなるのだろうか。
+369 ○ Engineers who study automated systems have noticed a troubling pattern.
+    → 自動化されたシステムを研究する技術者は厄介なパターンに気づいた。
+370 ○ As machines become more reliable, the people who supervise them are called on less and less often, and so their skills gradually weaken.
+    → 機械がより信頼できるようになるにつれて、機械を監督する人々の出番はますます少なくなり、そのため彼らの技術は徐々に衰えていく。
+371 ○ Yet it is precisely when something goes wrong, when the machine fails or meets a situation its designers never imagined, that human skill is needed most.
+    → しかし、人間の技術が最も必要とされているのは、まさに何かがうまくいかなくなるとき、つまり機械が失敗したり設計者が想像もしなかった状況に出くわしたりするときだ。
+372 ○ The more advanced the system, the more serious this problem becomes.
+    → システムが高度であればあるほど、この問題はますます深刻になる。
+373 ○ Aviation offers a well-known illustration.
+    → 航空は有名な実例を提供する。
+374 ○ Modern aircraft can fly almost entirely on autopilot, which has made flying far safer than it once was.
+    → 現代の航空機は自動操縦装置でほとんど完全に飛べて、そのおかげで空の旅は以前よりはるかに安全になった。
+375 ○ Nevertheless, aviation authorities have long worried that pilots who rarely fly by hand may react less skillfully in the rare emergencies when the automatic systems shut down.
+    → それにもかかわらず、航空の当局は長い間めったに手動で操縦しないパイロットが自動のシステムが停止するまれな緊急事態でうまく反応できないのではないかと心配してきた。
+376 ○ The problem is not confined to technical professions, either.
+    → また、この問題は技術職に限ったことでもない。
+377 ○ Medical students who rely on software to read test results may never develop the intuition of an experienced doctor, and writers who accept every correction that a program suggests may stop noticing their own mistakes.
+    → 検査結果を読むためにソフトウェアに頼る医学の学生たちは経験豊かな医者のような勘を身につけられないかもしれず、プログラムが提案するすべての訂正を受け入れる作家は自分自身の間違いに気づくのをやめるかもしれない。
+378 ○ In each case the machine does the work well, and the person gains time, but something slowly disappears that only practice can maintain.
+    → どの場合も、機械はうまく仕事をこなし、人は時間を得るが、練習によってしか保てない何かがゆっくりと消えていく。
+379 ○ Does this mean that we should refuse the help that machines offer?
+    → これは、機械が差し出す助けを私たちが断るべきだということなのだろうか。
+380 ○ Hardly.
+    → そんなことはない。
+381 ○ No one seriously proposes that pilots abandon autopilots or that doctors give up their instruments.
+    → パイロットが自動操縦をやめるべきだとか、医者が器具を手放すべきだとか、本気で言う人はいない。
+382 ○ A more reasonable conclusion is that skills worth keeping must be kept deliberately.
+    → より妥当な結論は保つ価値のある技術が意図的に保たれなければならないということだ。
+383 ○ Pilots are now encouraged to fly by hand at regular intervals, and some teachers ask students to solve problems without calculators before allowing them to use the machines.
+    → 今では、パイロットは定期的に手で操縦するよう勧められており、計算機を使わせる前に、まず計算機なしで問題を解かせる先生もいる。
+384 ○ Such practices accept a cost, in time and effort, in return for a kind of insurance.
+    → そのようなやり方は一種の保険と引き換えに、時間と労力という代償を受け入れる。
+385 ○ Underlying this approach is a simple idea: that convenience is never free.
+    → この取り組み方の根底にあるのは簡単な考えだ：便利さは決して無料ではないということだ。
+386 ○ What we gain in comfort we may lose in capability, and it is for each of us to decide, individually and as a society, which capabilities are worth the effort of preserving.
+    → 快適さの面で得るものを、私たちは能力の面で失うかもしれない。どの能力が守る努力に値するかを、個人としても社会としても決めるのは、私たち一人ひとりなのだ。
+387 ○ Yuki is a high school student.
+    → ユキは高校生だ。
+388 ○ Every Saturday, she works at a small bakery near her house.
+    → 毎週土曜日、彼女は自分の家の近くの小さいパン屋で働いている。
+389 ○ She goes to the shop by bicycle.
+    → 彼女は店に自転車で行く。
+390 ○ First, she helps the owner make bread.
+    → まず、彼女は店主がパンを作るのを手伝う。
+391 ○ It is hard work, but she enjoys it.
+    → それは大変な仕事だが、彼女はそれを楽しむ。
+392 ○ At noon, many customers come to the shop.
+    → 正午に、多くの客が店に来る。
+393 ○ Yuki says "Welcome!" to them with a big smile.
+    → ユキはお客さんに満面の笑みで「いらっしゃいませ」と言う。
+394 ○ After work, she can take some bread home.
+    → 仕事の後に、彼女はパンを持って帰れる。
+395 ○ Her family always looks forward to it.
+    → 彼女の家族はいつもそれを楽しみにしている。
+396 ○ Yuki wants to be a baker in the future.
+    → ユキは将来パン職人になりたいと思っている。
+397 ○ I have a cat named Momo.
+    → 私はモモという名前のネコを飼っている。
+398 ○ She is two years old, and she has soft white fur.
+    → 彼女は2歳で、柔らかい白い毛をしている。
+399 ○ Momo sleeps on my bed every night.
+    → モモは毎晩私のベッドで眠る。
+400 ○ In the morning, she wakes me up by touching my face with her paw.
+    → 朝、彼女は前足で私の顔に触れて私を起こす。
+401 ○ I get up and give her some food.
+    → 私は起きて、彼女に食べ物を与える。
+402 ○ She is very happy when she is eating.
+    → 彼女は食べているとき、とても幸せだ。
+403 ○ After breakfast, I go to school.
+    → 朝食の後に、私は学校に行く。
+404 ○ Momo stays home and looks out of the window all day.
+    → モモは家にいて、一日中窓の外を見る。
+405 ○ When I come home, she always runs to the door.
+    → 私が帰宅すると、彼女はいつもドアまで走ってくる。
+406 ○ I think she is waiting for me.
+    → 私は彼女が私を待っていると思う。
+407 ○ Today was my school's sports day.
+    → 今日は私の学校の運動会だった。
+408 ○ In the morning, the weather was cloudy, but it did not rain.
+    → 朝、天気は曇りだったが、雨は降らなかった。
+409 ○ I ran in the 100-meter race, and I came in second.
+    → 私は100メートルの競走で走って、2位になった。
+410 ○ In the afternoon, our class played a big game of tug of war.
+    → 午後、私たちのクラスは綱引きの大きい試合をした。
+411 ○ Everyone pulled the rope as hard as possible.
+    → みんなができるだけ一生懸命ロープを引いた。
+412 ○ Our team won by a small difference.
+    → 私たちのチームは僅差で勝った。
+413 ○ We were so happy that we shouted and jumped.
+    → 私たちはとてもうれしかったので、叫んで、跳んだ。
+414 ○ I was very tired when I got home, but it was a wonderful day.
+    → 私は帰宅したとき、とても疲れていたが、すばらしい一日だった。
+415 ○ Look around your room and pick up almost anything: a phone, a pair of shoes, a coffee mug.
+    → 部屋を見回して、何でもいいから手に取ってみなさい：電話、靴、コーヒーのマグカップ。
+416 ○ There is a good chance that it crossed an ocean inside a plain steel box.
+    → それが簡素な鋼鉄の箱の中で海を渡った可能性は十分にある。
+417 ○ The shipping container is so common that we hardly ever notice it, yet it is one of the most important inventions of the twentieth century.
+    → 輸送コンテナはとても一般的なので、私たちはめったにそれに気づかないが、20世紀の最も重要な発明の1つだ。
+418 ○ Until the 1950s, loading a ship was slow and heavy work.
+    → 1950年代まで、船に荷を積むことは遅くてきつい仕事だった。
+419 ○ Goods arrived at the port in sacks, barrels, and wooden crates of every size.
+    → 商品は、袋や樽、さまざまな大きさの木箱に入れられて港に届いた。
+420 ○ Teams of dockworkers lifted them one by one with ropes and hooks and packed each item into the ship by hand.
+    → 港湾労働者たちがロープとフックでそれらを1つずつ持ち上げ、1つ1つ手で船に積み込んだ。
+421 ○ A typical cargo ship spent about a week in port, and its owner earned no money while it sat there.
+    → 典型的な貨物船は港で約1週間過ごして、停泊している間、船の持ち主は何も稼げなかった。
+422 ○ Worse still, goods were often broken or stolen on the way.
+    → さらに悪いことに、商品はよく途中で壊されたり盗まれたりした。
+423 ○ The man who changed all this was Malcolm McLean, an American who owned a trucking company.
+    → このすべてを変えた男性はトラック輸送の会社を所有していたアメリカ人であるマルコム・マクリーンだった。
+424 ○ He noticed that the greatest waste was in handling: the same goods were lifted off a truck, put down on the dock, and lifted again onto a ship.
+    → 彼は最大の無駄が荷の積み替えにあることに気づいた：同じ商品はトラックから降ろされて、埠頭に置かれて、また船に積み込まれた。
+425 ○ His idea was simple.
+    → 彼の考えは簡単だった。
+426 ○ Why not pack the goods into one large metal box at the factory, and move the whole box from truck to ship without ever opening it?
+    → 工場で商品を1つの大きな金属の箱に詰め、一度も開けずに箱ごとトラックから船へ移してはどうか。
+427 ○ McLean sold his trucking business and bought a shipping company.
+    → マクリーンは自分のトラック輸送の事業を売って、海運会社を買った。
+428 ○ In April 1956, one of his old oil tankers, the Ideal X, left Newark, New Jersey, for Houston, Texas, carrying 58 metal boxes on its deck.
+    → 1956年4月に、彼の古い石油タンカーの1隻であるアイディアルX号は甲板に58個の金属の箱を積んで、ニュージャージー州のニューアークをテキサス州のヒューストンに向けて出発した。
+429 ○ The voyage itself was uneventful, but the result was surprising: loading a ton of cargo this way cost only a small fraction of the usual price.
+    → 航海自体は平穏だったが、結果は驚くべきものだった：この方法で1トンの積み荷を積む費用は、ふだんの料金のほんの一部にすぎなかった。
+430 ○ In the beginning, however, the idea did not spread widely.
+    → しかし、最初は、考えはあまり広まらなかった。
+431 ○ Each company built boxes of its own size, and a box from one company often did not fit the trucks, trains, or cranes of another.
+    → それぞれの会社は独自の大きさの箱を作って、ある会社の箱が、別の会社のトラックや列車やクレーンに合わないこともよくあった。
+432 ○ In 1968, international standards fixed a few common sizes.
+    → 1968年に、国際的な基準はいくつかの共通の大きさを定めた。
+433 ○ After that, a container could pass from a ship to a train to a truck almost anywhere in the world without being unpacked.
+    → その後、コンテナは、世界のほとんどどこでも、荷を解かずに船から列車へ、列車からトラックへと移せるようになった。
+434 ○ The effect on speed was dramatic.
+    → 速度への影響は劇的だった。
+435 ○ An old-fashioned cargo ship stayed in port for about a week, but a container ship could be unloaded and loaded again in about a day.
+    → 旧式の貨物船は約1週間港に滞在したが、コンテナ船は約1日で荷を降ろし、また積み込むことができた。
+436 ○ A ship that spends less time in port and more time at sea can make more trips every year, so the cost of carrying each box falls.
+    → 港にいる時間が短く海にいる時間が長い船は、毎年より多くの航海ができるので、それぞれの箱を運ぶ費用は下がる。
+437 ○ As ships grew larger, the savings grew larger as well.
+    → 船がより大きくなるにつれて、節約もより大きくなった。
+438 ○ Not everyone welcomed the change.
+    → みんなが変化を歓迎したというわけではない。
+439 ○ A ship that once needed hundreds of dockworkers could now be handled by a few crane operators.
+    → かつて何百もの港湾労働者が必要だった船は数人のクレーン操作員で今では扱えるようになった。
+440 ○ Dockworkers' unions were afraid that their skills would no longer be needed, and some of them went on strike.
+    → 港湾労働者の組合は彼らの技術がもはや必要とされないのではないかと恐れて、ストライキをした組合もあった。
+441 ○ In several countries the unions finally accepted the new machines, but only after they won promises to protect their members' pay.
+    → いくつかの国では組合はついに新しい機械を受け入れたが、それは彼らが自分のメンバーの給料を守る約束を勝ち取った後でのことだった。
+442 ○ Old harbors near city centers, which had little space for the new cranes, lost their business to huge new ports built on empty land outside the cities.
+    → 都市の中心近くにあって新しいクレーンを置く場所がほとんどなかった古い港は、郊外の空き地に造られた巨大な新しい港に仕事を奪われた。
+443 ○ Cheap and reliable shipping also changed the way companies think.
+    → 安くて確実な輸送はまた会社の考え方を変えた。
+444 ○ It became profitable to make a product in a country where wages were low and to sell it thousands of kilometers away.
+    → 賃金が低かった国で製品を作って、何千キロメートルも離れた場所でそれを売ることは利益になるようになった。
+445 ○ A single product could be designed in one country, built from parts made in several others, and sold in dozens more.
+    → 1つの製品が、ある国で設計され、ほかのいくつもの国で作られた部品で組み立てられ、さらに何十もの国で売られるようになった。
+446 ○ Many economists believe that the container is a key reason why world trade grew so fast after the 1960s.
+    → 多くの経済学者は、1960年代以降に世界の貿易が急速に拡大した大きな理由の1つはコンテナだと考えている。
+447 ○ The container is not a clever machine; it is only an empty box.
+    → コンテナは賢い機械ではなくて、ただ空の箱だ。
+448 ○ Yet by making every shipment the same shape, it allowed ships, trains, and trucks to work together as one system.
+    → しかし、すべての出荷を同じ形にすることによって、それは船と電車とトラックが1つのシステムとして連携して機能することを可能にした。
+449 ○ Sometimes the most powerful ideas are not complicated ones.
+    → 最も強力な考えが、複雑なものだとは限らない。
+450 ○ They are the ones that make everything else fit together.
+    → それらこそが、ほかのすべてをうまくかみ合わせるものなのだ。
+451 ○ Somewhere on Earth, a thunderstorm is lighting up the sky at this very moment.
+    → 地球のどこかで、雷雨がまさにこの瞬間に空を明るく照らしている。
+452 ○ Each flash is a bright spark of electricity, and the energy it carries is enormous.
+    → それぞれの閃光は電気の明るい火花で、それが運ぶエネルギーは巨大だ。
+453 ○ Let us look at how lightning is made, how it behaves, and how to stay safe from it.
+    → 稲妻がどのようにできるのか、どのように振る舞うのか、そしてどうすれば身を守れるのかを見ていきましょう。
+454 ○ To begin with, a storm cloud is a huge battery in the sky.
+    → まず第一に、嵐の雲は空の巨大な電池だ。
+455 ○ Inside a storm cloud, strong winds carry tiny pieces of ice and drops of water up and down.
+    → 嵐の雲の中では、強風は氷のとても小さいかけらと水のしずくを上下に運ぶ。
+456 ○ They collide with each other again and again, and every collision moves a little electric charge from one piece to another.
+    → それらは何度もぶつかり合い、ぶつかるたびに、少しの電荷があるかけらから別のかけらへ移る。
+457 ○ Little by little, the top of the cloud becomes positive and the bottom becomes negative.
+    → 少しずつ、雲の上部はプラスに、下部はマイナスになる。
+458 ○ The ground under the cloud becomes positive, too, so the cloud and the ground are like the two ends of a battery.
+    → 雲の下の地面もプラスになるので、雲と地面は電池の2つの端のようだ。
+459 ○ A bolt of lightning is more than five times hotter than the surface of the Sun.
+    → 1本の稲妻は太陽の表面より5倍以上熱い。
+460 ○ When the difference in charge becomes too much to hold back, a spark jumps from the cloud to the ground.
+    → 電荷の違いが抑えるにはあまりに大きくなると、雲から地面へ火花が飛ぶ。
+461 ○ The air around the bolt is heated to about 30,000 degrees Celsius, while the surface of the Sun is only about 5,500 degrees.
+    → 稲妻の周りの空気は約3万℃に熱せられるのに対して、太陽の表面はわずか約5500度だ。
+462 ○ The air is heated so rapidly that it bursts outward with a bang.
+    → 空気はあまりにも急に熱せられるので、ドーンという音とともに外へ向かって破裂する。
+463 ○ The heat can even turn sand into glass.
+    → 熱は砂をガラスに変えることさえできる。
+464 ○ The voltage between the cloud and the ground can reach about one hundred million volts, far more than that of a wall socket at home.
+    → 雲と地面の間の電圧は約1億ボルトに達することがあり、家庭の壁のコンセントの電圧よりはるかに高い。
+465 ○ Sound travels nearly a million times more slowly than light.
+    → 音は光よりほぼ100万倍ゆっくりと伝わる。
+466 ○ Light travels at about 300,000 kilometers per second, while sound covers only about one third of a kilometer in the same time.
+    → 光は1秒あたり約30万キロメートルで進むのに対して、音は同じ時間に約3分の1キロメートルしか進まない。
+467 ○ That is why you see a flash first and hear the thunder afterward.
+    → そういうわけで、あなたは先に閃光を見て、その後雷が聞こえる。
+468 ○ Thunder is the sound of the hot air spreading outward.
+    → 雷鳴は、外へ広がる熱い空気の音だ。
+469 ○ You can use the delay to find out how far away a storm is: count the seconds between the flash and the thunder, and divide the number by three to get the distance in kilometers.
+    → この時間差を使えば、嵐までの距離を知ることができる：閃光から雷鳴までの秒数を数え、その数を3で割れば、キロメートル単位の距離が分かる。
+470 ○ A lightning rod gives lightning an easy way home.
+    → 避雷針は、稲妻に地面への近道を与える。
+471 ○ Lightning likes to strike tall objects, such as trees and towers, because they are closer to the cloud.
+    → 稲妻は、木や塔のような高い物に落ちやすい。雲により近いからだ。
+472 ○ A lightning rod is a metal bar fixed to the top of a building and joined to the ground by a thick wire.
+    → 避雷針は建物のてっぺんに取りつけられ、太い針金で地面につながれた金属の棒だ。
+473 ○ It gives the electricity an easy path to the ground and so protects the building from damage.
+    → それは電気に地面への簡単な通り道を与えて、そうして建物を損害から守る。
+474 ○ A car is a safe place in a storm, but not because of its tires.
+    → 車は嵐の中の安全な場所だが、そのタイヤのためではない。
+475 ○ Many people think that the rubber tires protect those inside a car from lightning.
+    → 多くの人々はゴムのタイヤが車の中の人々を稲妻から守ると思う。
+476 ○ This idea is a myth.
+    → この考えは俗説だ。
+477 ○ If a car is struck by lightning, the electricity runs along the metal body and flows into the ground, so the people inside are usually safe.
+    → もし車が稲妻に打たれたら、電気は金属の車体に沿って流れて、地面に流れ込むので、中の人々はたいてい安全だ。
+478 ○ If you are caught in a storm outdoors, move quickly to a building or a car with a metal roof, and stay away from tall trees.
+    → もし屋外で嵐に遭ったら、建物か金属の屋根のある車にすばやく移動して、高い木から離れていなさい。
+479 ○ Lightning is beautiful, but it is no toy.
+    → 稲妻は美しいが、おもちゃではない。
+480 ○ Respect it, and enjoy the show from a safe place.
+    → それに敬意を払って、安全な場所からショーを楽しみなさい。
+481 ○ On Monday morning, our music teacher, Mr. Sato, opened the door of the music room and stopped.
+    → 月曜日の朝に、私たちの音楽の先生である佐藤先生は音楽室のドアを開けて、立ち止まった。
+482 ○ The old violin that always stood in the glass case by the window was gone.
+    → いつも窓のそばのガラスのケースに置いてあった古いバイオリンはなくなっていた。
+483 ○ The case was not broken, and the key was still in his desk drawer.
+    → ケースは壊れていなくて、鍵はまだ彼の机の引き出しにあった。
+484 ○ "That violin is more than eighty years old," he said in a low voice.
+    → 彼は小さな声で「そのバイオリンはできてから80年以上になる」と言った。
+485 ○ My best friend Rin and I looked at each other.
+    → 私の親友のリンと私は顔を見合わせた。
+486 ○ We were the last students to leave the music room on Friday.
+    → 私たちは金曜日に音楽室を出た最後の学生たちだった。
+487 ○ "It was in the case when we went home," I told Mr. Sato.
+    → 私は佐藤先生に「私たちが帰るときには、ケースの中にありました」と言った。
+488 ○ He nodded slowly, but I could see that he was worried.
+    → 彼はゆっくりとうなずいたが、私は彼が心配していることが分かった。
+489 ○ All morning I felt that everyone looked at us as if one of us were a suspect.
+    → 午前中ずっと、まるで私たちのどちらかが容疑者であるかのように、みんなに見られている気がした。
+490 ○ "It wasn't a thief from outside," Rin whispered at lunch.
+    → リンは昼食のときに「外から来た泥棒じゃない」とささやいた。
+491 ○ "A thief would have broken the glass."
+    → 「泥棒ならガラスを割ったはずよ」
+492 ○ "Someone opened the case with the key and then put the key back in the drawer."
+    → 「誰かが鍵でケースを開けて、それから引き出しの中に鍵を元に戻した」
+493 ○ "So it must be a person from our school, someone who knew where the key was."
+    → 「だから、うちの学校の人、それも鍵のありかを知っていた誰かに違いない」
+494 ○ "But who would do such a thing?" I asked.
+    → 私は「でも、誰がそんなことをするの」と尋ねた。
+495 ○ Rin shook her head.
+    → リンは首を横に振った。
+496 ○ On Tuesday after school, I was walking past the old gym when I heard a thin, shaky sound from the storeroom behind it.
+    → 火曜日の放課後に、私は古い体育館の前を通っていると、その後ろの物置からか細く震える音が聞こえた。
+497 ○ It was a violin, and the player was not good.
+    → それはバイオリンで、演奏者は上手ではなかった。
+498 ○ I opened the door slowly.
+    → 私はドアをゆっくりと開けた。
+499 ○ A first-year boy named Daichi was sitting on a box with the violin under his chin, and his face turned red.
+    → ダイチという1年生の男の子が、バイオリンをあごの下に挟んで箱の上に座っていて、顔を赤くした。
+500 ○ "I'm not a thief!" he cried.
+    → 彼は「ぼくは泥棒じゃない」と叫んだ。
+501 ○ "I only borrowed it, and I was going to put it back on Wednesday."
+    → 「借りただけで、水曜日には返すつもりだったんだ」
+502 ○ "Then why didn't you ask Mr. Sato?" I said.
+    → 私は「じゃあ、どうして佐藤先生に頼まなかったの」と言った。
+503 ○ He looked down at his shoes.
+    → 彼は自分の靴を見下ろした。
+504 ○ "Everyone in my class plays in the brass band, and they can all read music."
+    → 「ぼくのクラスはみんな吹奏楽部に入っていて、みんな楽譜が読めるんだ」
+505 ○ "I have never even touched a violin."
+    → 「ぼくはバイオリンに触ったことさえないんだ」
+506 ○ "I was afraid that they would laugh at me, and that Mr. Sato would say no."
+    → 「みんなに笑われるんじゃないか、佐藤先生にだめだと言われるんじゃないかと怖かったんだ」
+507 ○ I sat down beside him.
+    → 私は彼のそばに座った。
+508 ○ "A violin is not happy in a glass case," I said.
+    → 私は「バイオリンだって、ガラスのケースの中じゃ幸せじゃないよ」と言った。
+509 ○ "If you tell Mr. Sato the truth yourself, I think he will understand."
+    → 「自分で佐藤先生に本当のことを話せば、きっと分かってくれると思う」
+510 ○ We walked to the teachers' room together.
+    → 私たちは職員室まで一緒に歩いた。
+511 ○ Mr. Sato listened until Daichi had finished, and then, to my surprise, he smiled.
+    → 佐藤先生はダイチが話し終えるまで聞いて、それから、驚いたことに、ほほえんだ。
+512 ○ "I have kept that violin in a glass case for ten years," he said.
+    → 彼は「あのバイオリンは10年間ガラスのケースにしまったままだった」と言った。
+513 ○ "A violin should be played, not just looked at."
+    → 「バイオリンは眺めるだけでなく、弾くものだ」
+514 ○ "Come to the music room tomorrow after school, and I will teach you how to hold it."
+    → 「明日の放課後、音楽室に来なさい。持ち方を教えてあげよう」
+515 ○ Daichi's eyes were shining.
+    → ダイチの目は輝いていた。
+516 ○ On the way home, Rin said, "We were afraid of a thief, but we only found a boy who loved music."
+    → 帰り道で、リンは「泥棒がいると思って怖がっていたけど、見つかったのは音楽が大好きな男の子だったね」と言った。
+517 ○ I nodded.
+    → 私はうなずいた。
+518 ○ It was the best surprise of that week.
+    → それはその週で一番うれしい驚きだった。
+519 ○ When a honeybee finds a field of flowers, she cannot simply tell her sisters where it is.
+    → ミツバチは花畑を見つけても、仲間にその場所をただ教えることはできない。
+520 ○ Instead, she flies back to the hive and begins to dance.
+    → その代わりに、巣に飛んで帰り、踊り始める。
+521 ○ Her short, strange performance tells the other bees how far to fly and in which direction.
+    → その短く奇妙な踊りが、ほかのミツバチに、どのくらいの距離をどの方向へ飛べばよいかを伝える。
+522 ○ Scientists have studied this dance for many decades.
+    → 科学者は何十年もこのダンスを研究してきた。
+523 ○ The dance was first explained by Karl von Frisch, an Austrian scientist.
+    → ダンスはオーストリアの科学者であるカール・フォン・フリッシュによって最初に説明された。
+524 ○ He watched bees in hives with glass walls and marked each one with a tiny dot of color.
+    → 彼は壁がガラスでできた巣箱の中のミツバチを観察し、1匹ずつ小さな色の点で印をつけた。
+525 ○ After years of patient watching, he worked out what the dance meant.
+    → 何年もの忍耐強い観察の後に、彼はダンスが意味したことを解明した。
+526 ○ Von Frisch found that a bee uses two main kinds of dances.
+    → フォン・フリッシュはミツバチが2つの主な種類のダンスを使うことに気づいた。
+527 ○ When the food is close to the hive, she runs in a small circle.
+    → 食べ物がミツバチの巣箱に近いとき、彼女は小さな円を描いて走る。
+528 ○ When it is farther away, she runs in a straight line, shaking her body from side to side, and then circles back to repeat the pattern.
+    → それがもっと遠く離れているとき、体を左右に振りながらまっすぐに走り、それから円を描いて戻って同じ動きを繰り返す。
+529 ○ This second pattern is known as the waggle dance.
+    → この2番目のパターンは尻振りダンスとして知られている。
+530 ○ The dance takes place on the upright wall of the honeycomb, so the bee cannot simply point at the food.
+    → ダンスは蜂の巣の直立した壁で行われるので、ミツバチは食べ物の方向をそのまま指し示すことはできない。
+531 ○ Instead, she uses the sun as a guide.
+    → その代わりに、太陽を目印にする。
+532 ○ A run straight up the comb means "fly toward the sun," and a run tilted to the right means "fly to the right of the sun."
+    → 巣板をまっすぐ上に向かって走ると「太陽の方へ飛べ」、右に傾いて走ると「太陽の右へ飛べ」という意味になる。
+533 ○ In this way, the angle of the straight run shows the direction of the food.
+    → このようにして、まっすぐな走りの角度は食べ物の方向を示す。
+534 ○ The distance is shown by the length of the straight run.
+    → 距離はまっすぐな走りの長さで示されている。
+535 ○ The longer the bee keeps waggling, the farther away the food is.
+    → ミツバチが長く尻を振り続けるほど、食べ物は遠くにある。
+536 ○ A short waggle sends the watchers to a place nearby, while a long one sends them far across the countryside.
+    → 短い尻振りは見ている仲間を近くの場所へ向かわせ、長い尻振りは彼らを田舎のはるか遠くへ送る。
+537 ○ Because of the darkness inside the hive, the watching bees cannot see the dancer.
+    → 巣の中は暗いので、見ているミツバチには踊り手が見えない。
+538 ○ They cannot rely on their eyes, so they follow her movements and touch her with their antennae.
+    → 目に頼れないので、踊り手の動きについていき、触角で踊り手に触れる。
+539 ○ They also pick up the smell of the flowers from her body.
+    → また、踊り手の体から花のにおいもかぎ取る。
+540 ○ The sun moves across the sky during the day, so the dancer slowly changes the angle of her dance according to the sun's new position.
+    → 太陽は日中空を横切って動くので、踊り手は太陽の新しい位置に合わせてダンスの角度を少しずつ変える。
+541 ○ She does this even though she is inside the hive and cannot see the sun.
+    → 巣の中にいて太陽が見えないのに、そうするのだ。
+542 ○ A bee that has found a rich supply of nectar dances for longer and more eagerly than a bee that has found only a little.
+    → 豊富な花の蜜を見つけたミツバチは少ししか見つけていないミツバチより長く、熱心に踊る。
+543 ○ As a result, more bees are sent to the best flowers.
+    → その結果、一番よい花に、より多くのミツバチが送り込まれる。
+544 ○ In one test of von Frisch's discovery, researchers glued tiny radar tags to bees that had watched a dancer and followed their flights.
+    → フォン・フリッシュの発見のある試験では、研究者たちは、踊りを見たミツバチに小さなレーダー用の標識を貼りつけ、その飛ぶ跡を追った。
+545 ○ Many of these bees flew toward the place that the dance had described.
+    → これらのミツバチの多くはダンスが描写した場所の方へ飛んだ。
+546 ○ The results show that these dances give the other bees most of the information they need to find the food.
+    → 結果はこれらのダンスが他のミツバチに彼らが食べ物を見つけるために必要とする情報のほとんどを与えることを示している。
+547 ○ People can read the dance, too.
+    → 人々もダンスを読める。
+548 ○ By filming the dances and measuring the angle and the length of each straight run, scientists can draw a map of the flowers that the bees visit.
+    → ダンスを撮影して、角度とそれぞれのまっすぐな走りの長さを測ることによって、科学者はミツバチが訪れる花の地図を描ける。
+549 ○ Because many of the crops we eat depend on bees, such maps can help farmers and city planners decide where to plant more flowers.
+    → 私たちが食べる作物の多くがミツバチに頼っているので、そのような地図は農家と都市計画の担当者がどこでより多くの花を植えるべきか決めるのに役立つ。
+550 ○ It is surprising that such a small animal can do all this.
+    → こんなに小さな動物がこれだけのことをやってのけるのは驚きだ。
+551 ○ A honeybee's brain is no bigger than a sesame seed, yet it lets her remember the way to the flowers and pass the news on to her sisters.
+    → ミツバチの脳はゴマ粒ほどの大きさしかないが、それでも花までの道を覚え、仲間に知らせを伝えることができる。
+552 ○ The honeybee's dance reminds us that a message does not always need words to be clear.
+    → ミツバチのダンスは私たちに伝言がはっきり伝わるために必ずしも言葉が必要なわけではないと思い出させる。
+553 ○ A few movements in the dark, repeated again and again, are enough to guide many sisters to the right place.
+    → 暗やみの中で何度も繰り返されるわずかな動きだけで、多くの仲間を正しい場所へ導くことができる。
+554 ○ GPS, or the Global Positioning System, is a technology that tells you where you are on the Earth.
+    → GPS、つまり全地球測位システムはあなたに地球上のどこにいるか教える科学技術だ。
+555 ○ A small receiver, such as the one inside your smartphone, picks up signals from several satellites and works out its own position.
+    → あなたのスマートフォンの中のもののような小さい受信機はいくつかの衛星から信号を受け取って、自らの位置を割り出す。
+556 ○ Long ago, travelers had to find their way with maps, compasses, and the stars, but today a phone can do the job in a few seconds.
+    → 昔、旅行者は地図と羅針盤と星で道を見つけなければならなかったが、今ではスマートフォンが数秒でその役目を果たしてくれる。
+557 ○ So who built this system?
+    → では、このシステムを作ったのは誰だろうか。
+558 ○ It was built by the United States, and it began as a military project.
+    → それはアメリカ合衆国が作ったもので、もともとは軍のプロジェクトとして始まった。
+559 ○ Since then, other countries and regions have built similar systems: Europe has Galileo, Russia has GLONASS, and China has BeiDou.
+    → それ以来、他の国と地域は似ているシステムを構築した：ヨーロッパにはガリレオがあって、ロシアにはGLONASSがあって、中国には北斗がある。
+560 ○ Japan also runs a smaller system called Michibiki, which works together with GPS.
+    → 日本も、GPSと連携する「みちびき」というより小さなシステムを運用している。
+561 ○ How does GPS work?
+    → GPSはどのようなしくみで動いているのだろうか。
+562 ○ About thirty satellites circle the Earth at a height of about 20,000 kilometers, and each one keeps sending out a radio signal.
+    → 約30基の衛星が高度約2万キロメートルで地球を回っていて、それぞれが電波信号を出し続けている。
+563 ○ The signal carries two pieces of information: the moment when it was sent and the position of the satellite.
+    → 信号は2つの情報を運ぶ。つまり、それが送られた瞬間と衛星の位置だ。
+564 ○ A receiver that has neither of them cannot work out how far away the satellite is.
+    → この2つがなければ、受信機は衛星までの距離を割り出せない。
+565 ○ The receiver compares the time of sending with the time of arrival.
+    → 受信機は送信時刻を到着時刻と比べる。
+566 ○ Radio waves travel at the speed of light, about 300,000 kilometers per second, so the difference tells the receiver how far the signal has come.
+    → 電波は光の速度、つまり1秒あたり約30万キロメートルで進むので、その差から、受信機は信号がどれだけの距離を進んできたかが分かる。
+567 ○ Knowing the distance to one satellite is not enough.
+    → 1基の衛星までの距離が分かるだけでは十分ではない。
+568 ○ It only tells you that you are somewhere on a huge sphere around that satellite.
+    → それはあなたにその衛星の周りの巨大な球の上のどこかにいると教えるだけだ。
+569 ○ Two satellites narrow your position down to a circle, and three leave just two points, one of which is usually far from the Earth's surface.
+    → 衛星が2基なら位置は円の上に絞られ、3基なら2点だけが残るが、そのうちの1点はたいてい地表から遠く離れている。
+570 ○ So, in theory, three distances are enough to fix a position.
+    → だから、理論上は、3つの距離は位置を特定するのに十分だ。
+571 ○ In practice, however, three satellites are not quite enough.
+    → しかし、実際には、3基ではまだ足りない。
+572 ○ A receiver needs a fourth satellite.
+    → 受信機には4基目の衛星が必要だ。
+573 ○ The clock inside a smartphone is far less exact than the atomic clocks on the satellites, and a tiny error in time causes a large error in distance.
+    → スマートフォンの中の時計は衛星の上の原子時計ほど正確ではなくて、時間のとても小さい誤差は距離の大きい誤差を引き起こす。
+574 ○ A mistake of just one millionth of a second, for example, would put the position about 300 meters off.
+    → たとえば、わずか100万分の1秒の間違いは位置を約300メートルずらすだろう。
+575 ○ The fourth signal lets the receiver correct its own clock.
+    → 4基目の信号によって、受信機は自分の時計を補正できる。
+576 ○ The clocks on the satellites need special care, too.
+    → 衛星に積まれた時計にも特別な扱いが必要だ。
+577 ○ The satellites move fast and are far from the Earth's gravity, so time passes slightly differently for them than for us on the ground, as the theory of relativity predicts.
+    → 衛星は高速で動いていて、地球の重力からも遠いので、相対性理論が予測するとおり、衛星の時間は地上の私たちとはわずかに違う進み方をする。
+578 ○ Engineers adjust the clocks to make up for this difference.
+    → 技術者はこの違いを埋め合わせるために時計を調整する。
+579 ○ Without such adjustments, the position would be wrong by about ten kilometers after only one day.
+    → そのような調整がなければ、わずか1日で位置が約10キロメートルずれてしまうだろう。
+580 ○ Where is GPS used?
+    → GPSはどこで使われていますか。
+581 ○ Ships and airplanes use it for navigation, and rescue teams use it to find people who are lost in the mountains.
+    → 船と飛行機は道案内のためにそれを使って、救助隊は山で道に迷っている人々を見つけるためにそれを使う。
+582 ○ Farmers use it to guide tractors across their fields so that seeds are planted in straight lines.
+    → 農家は、種がまっすぐ並んで植えられるように、GPSを使って畑の中でトラクターを走らせる。
+583 ○ It works almost anywhere on the Earth, from the middle of the ocean to the top of a mountain.
+    → 海の真ん中から山の頂上まで、地球上のほとんどどこでも使える。
+584 ○ Scientists use GPS, too.
+    → 科学者もGPSを使う。
+585 ○ By measuring tiny movements of the ground, they can study how the plates that make up the Earth's surface move, and how the land changes after an earthquake.
+    → 地面のとても小さい動きを測ることによって、地表を形づくるプレートがどのように動くのか、地震の後に土地がどう変化するのかを研究できる。
+586 ○ Weather experts even use the signals, because water vapor in the air slightly delays them.
+    → 天気の専門家でさえこの信号を利用する。空気中の水蒸気が信号をわずかに遅らせるからだ。
+587 ○ Time is another gift of GPS.
+    → 正確な時刻もGPSがもたらす恩恵の1つだ。
+588 ○ Each satellite carries atomic clocks, so a receiver can use its signals to set a very accurate clock.
+    → それぞれの衛星は原子時計を搭載しているので、受信機はとても正確な時計を合わせるためにその信号を使える。
+589 ○ Mobile phone networks, power systems, and stock markets depend on this time to keep their machines in step with one another.
+    → 携帯電話のネットワークと電力システムと株式市場は機械どうしのタイミングをそろえるために、この時刻に頼っている。
+590 ○ GPS may look like magic, but it is built on two simple ideas: measuring distances with the speed of light, and keeping very good time.
+    → GPSは魔法のように見えるかもしれないが、2つの簡単な考えに基づいている。それは光の速度で距離を測ること、とても正確な時刻を保つことだ。
+591 ○ It shows how simple ideas from science can become a tool that millions of people use every day.
+    → それは、科学の簡単な考えが、何百万もの人々が毎日使う道具になりうることを示している。
+592 ○ Last spring, the Carter family got up early on a Saturday and set off for a cousin's wedding in a town three hours away.
+    → 去年の春に、カーター一家は土曜日に早く起きて、3時間離れた町でいとこの結婚式に向けて出発した。
+593 ○ Mr. Carter was in charge of the map, and he was sure that he knew the way.
+    → カーターさんは地図を担当していて、道は分かっていると自信満々だった。
+594 ○ By noon, however, they were lost.
+    → しかしながら、正午までに彼らは道に迷っていた。
+595 ○ The road signs in the small town were hard to read, and the phone had no signal.
+    → 小さい町の道路の標識は読みにくくて、スマートフォンは圏外だった。
+596 ○ "Turn left here," said Mr. Carter, and he drove into a narrow street.
+    → カーターさんは「ここを左だ」と言って、狭い通りに車で入った。
+597 ○ Soon they heard music, and before they knew it, their small blue car was between a marching band and a long line of floats covered with flowers.
+    → すぐに音楽が聞こえてきて、気がつくと、彼らの小さな青い車は、マーチングバンドと花で飾られた山車の長い列の間にはさまっていた。
+598 ○ It was the town's spring parade, and the Carters had driven straight into the middle of it.
+    → それは町の春のパレードで、カーター一家はその真ん中にまっすぐに車で入っていた。
+599 ○ Mr. Carter could not turn around, because the floats were already close behind him.
+    → 山車がすぐ後ろまで迫っていたので、カーターさんは引き返せなかった。
+600 ○ "What should I do?" he whispered.
+    → 彼は「どうしよう」とささやいた。
+601 ○ "Just keep driving!" said his wife.
+    → 彼の妻は「とにかく走り続けて」と言った。
+602 ○ People along the street began to cheer, because they thought that the family was part of the show.
+    → 沿道の人々は、家族がショーの一部だと思ったので、歓声をあげ始めた。
+603 ○ The children in the back seat waved back happily, and even Mrs. Carter could not help smiling.
+    → 後ろの席の子どもたちはうれしそうに手を振り返して、カーター夫人でさえほほえまずにはいられなかった。
+604 ○ A man with a microphone saw them and shouted, "And here comes the family with the most surprised faces in town!"
+    → マイクを持った男性が彼らを見て、「そして、ほら、町で一番驚いた顔をした家族がやって来た」と叫んだ。
+605 ○ At the end of the street, a judge in a funny hat was writing something on a sheet of paper.
+    → 通りの突き当たりで、おもしろい帽子をかぶった審査員が1枚の紙に何かを書いていた。
+606 ○ Just then, a police officer stepped in front of the car and raised his hand.
+    → ちょうどそのとき、警察官が車の前に出て、手を上げた。
+607 ○ "Excuse me, sir," he said. "Which group are you with?"
+    → 彼は「すみません」と言った。「どのグループの方ですか」
+608 ○ "We are only trying to get to a wedding," said Mr. Carter.
+    → カーターさんは「私たちは結婚式に行こうとしているだけなんです」と言った。
+609 ○ The officer burst out laughing, and then he showed them the way out through a side road.
+    → 警官は吹き出して、わき道を通って抜け出す道を教えてくれた。
+610 ○ The Carters reached the wedding an hour late.
+    → カーター一家は結婚式に1時間遅れて着いた。
+611 ○ The next day, the judge told a reporter that he had been about to give their car a prize.
+    → 翌日、審査員は記者に、もう少しで彼らの車に賞をあげるところだったと話した。
+(全 612 文)

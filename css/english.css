@@ -1,0 +1,112 @@
+/* GOKAKU NAVI — 英語和訳ツール（.en-tool 配下のみ）
+   色は base.css の CSS 変数と共通クラス（.card .btn .inp .sel .chip .badge .tbl .note .choice .verdict .bar）だけで構成する。 */
+
+/* ---------- 全体: 左 = 入力 / 右 = 結果（狭い画面では上下に積む） ---------- */
+.en-tool { display: grid; grid-template-columns: minmax(300px, 5fr) minmax(0, 7fr); gap: 16px; align-items: start; }
+.en-tool .en-left { display: grid; gap: 12px; align-content: start; min-width: 0; position: sticky; top: 64px; max-height: calc(100vh - 80px); overflow: auto; padding-right: 2px; }
+.en-tool .en-right { display: grid; gap: 12px; min-width: 0; }
+@media (max-width: 900px) {
+  .en-tool { grid-template-columns: 1fr; }
+  .en-tool .en-left { position: static; max-height: none; overflow: visible; padding-right: 0; }
+}
+
+/* ステージ自体が .card なので、内側のカードは影を外して平らにする */
+.en-tool .card { box-shadow: none; padding: 12px 14px; background: color-mix(in srgb, var(--panel-2) 72%, var(--panel)); }
+.en-tool .card-h { margin-bottom: 8px; }
+.en-tool .en-body { min-width: 0; container-type: inline-size; }   /* 幅に応じた表の組み替え（@container）の基準 */
+.en-tool .en-scroll { overflow-x: auto; }
+
+/* ---------- 左: 入力 ---------- */
+.en-tool .en-ta { min-height: 220px; margin-bottom: 8px; font-family: Georgia, "Times New Roman", serif; font-size: 1.02rem; line-height: 1.75; }
+.en-tool .en-btns { margin-bottom: 8px; }
+.en-tool .en-hint { margin-bottom: 8px; }
+.en-tool .en-ex { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 10px; }
+.en-tool .en-ex .chip { max-width: 100%; white-space: normal; text-align: left; border-radius: 14px; }
+.en-tool .en-pick { margin-bottom: 0; }
+.en-tool .en-lkin { flex-wrap: nowrap; }
+.en-tool .en-lkin .inp { flex: 1 1 auto; min-width: 0; }
+.en-tool .en-look { margin-top: 8px; }
+.en-tool .en-lk { display: grid; gap: 6px; }
+/* 単語検索の結果・単語帳の 1 行: 1 段目 = 語 / 品詞 / レベル / 操作、2 段目 = 語義 */
+.en-tool .en-lk-row, .en-tool .en-sv {
+  display: grid; grid-template-columns: auto auto 1fr auto auto; grid-template-areas: "w p . l a" "j j j j j";
+  gap: 2px 8px; align-items: center; padding: 6px 9px; border: 1px solid var(--line); border-radius: var(--radius-s); background: var(--panel);
+}
+.en-tool .en-lk-row .c-w, .en-tool .en-sv .c-w { grid-area: w; min-width: 0; overflow-wrap: anywhere; }
+.en-tool .en-lk-row .c-p, .en-tool .en-sv .c-p { grid-area: p; }
+.en-tool .en-lk-row .c-l, .en-tool .en-sv .c-l { grid-area: l; }
+.en-tool .en-lk-row .c-a, .en-tool .en-sv .c-a { grid-area: a; }
+.en-tool .en-lk-row .c-j, .en-tool .en-sv .c-j { grid-area: j; color: var(--fg-2); }
+
+/* ---------- 英文・和訳の文字 ---------- */
+.en-tool .en-w { font-family: Georgia, "Times New Roman", serif; font-weight: 700; font-size: 1rem; }
+.en-tool .en-en { font-family: Georgia, "Times New Roman", serif; font-size: 1.04rem; line-height: 1.75; overflow-wrap: anywhere; }
+.en-tool .en-ja { line-height: 1.8; }
+.en-tool .en-ja.is-gloss { padding-left: 9px; border-left: 3px dashed var(--line-2); color: var(--fg-2); }
+
+/* ---------- ① 和訳: 文ごとの対訳 ---------- */
+.en-tool .en-mode { margin-bottom: 8px; }
+.en-tool .en-sent { margin-bottom: 8px; border: 1px solid var(--line); border-radius: var(--radius-s); background: var(--panel); overflow: hidden; }
+.en-tool .en-sent.open { border-color: var(--line-2); box-shadow: inset 3px 0 0 var(--sc, var(--brand-1)); }
+.en-tool .en-sent-top { display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; padding: 7px 12px 0; }
+.en-tool .en-no { display: inline-block; min-width: 1.7em; padding: 0 4px; text-align: center; border: 1px solid var(--line-2); border-radius: 999px; font-size: .72rem; line-height: 1.6; color: var(--dim); }
+.en-tool .en-sent-main { display: grid; gap: 3px; padding: 4px 12px 9px; border-radius: var(--radius-s); cursor: pointer; }
+.en-tool .en-sent-main:hover { background: color-mix(in srgb, var(--brand-1) 7%, transparent); }
+.en-tool .en-sent-main:focus-visible { outline: 2px solid var(--brand-1); outline-offset: -2px; }
+.en-tool .en-more { display: flex; flex-wrap: wrap; gap: 2px 10px; justify-content: space-between; }
+.en-tool .en-src { overflow-wrap: anywhere; }
+.en-tool .en-tgl { margin-left: auto; white-space: nowrap; }
+.en-tool .en-gloss { padding: 8px 12px 10px; border-top: 1px dashed var(--line); background: var(--panel-2); font-size: .9rem; }
+.en-tool .en-gl-h { margin: 6px 0 4px; font-size: .78rem; font-weight: 700; letter-spacing: .08em; color: var(--dim); }
+.en-tool .en-gl-note { margin-bottom: 4px; }
+.en-tool .en-gl th, .en-tool .en-gl td { padding: 4px 6px; }
+.en-tool .en-gl .c-w, .en-tool .en-gl .c-p, .en-tool .en-gl th:nth-child(1), .en-tool .en-gl th:nth-child(2) { white-space: nowrap; }
+.en-tool .en-lm { font-weight: 400; font-size: .84rem; color: var(--dim); }
+.en-tool .en-gp { margin: 0; padding-left: 1.2em; }
+.en-tool .en-gp li { margin: 2px 0; }
+.en-tool .en-empty p { margin-bottom: 6px; }
+.en-tool .en-empty ul { margin: 6px 0 0; padding-left: 1.2em; }
+.en-tool .en-empty li { margin: 3px 0; }
+
+/* ---------- ② 重要単語・熟語 / 単語帳 ---------- */
+.en-tool .en-vf { margin-bottom: 8px; }
+.en-tool .en-vt th:last-child, .en-tool .en-vt td.en-act { text-align: right; white-space: nowrap; }
+.en-tool .en-vt .c-p, .en-tool .en-vt .c-l { white-space: nowrap; }
+.en-tool .en-vt .c-w { min-width: 5.5em; }
+/* 幅が狭いときは、表を「1 行 = 2 段のカード」に組み替える（語 + 品詞 + レベル + 保存 / 語義） */
+@container (max-width: 520px) {
+  .en-tool .en-vt thead { display: none; }
+  .en-tool .en-vt, .en-tool .en-vt tbody { display: block; }
+  .en-tool .en-vt tr {
+    display: grid; grid-template-columns: auto auto 1fr auto; grid-template-areas: "w p l a" "j j j j";
+    gap: 2px 8px; align-items: center; padding: 8px 2px; border-bottom: 1px solid var(--line);
+  }
+  .en-tool .en-vt td { padding: 0; border: 0; }
+  .en-tool .en-vt .c-w { grid-area: w; min-width: 0; }
+  .en-tool .en-vt .c-p { grid-area: p; }
+  .en-tool .en-vt .c-l { grid-area: l; }
+  .en-tool .en-vt .c-a { grid-area: a; justify-self: end; }
+  .en-tool .en-vt .c-j { grid-area: j; color: var(--fg-2); }
+}
+.en-tool .en-saved { display: grid; gap: 4px; max-height: 260px; margin-bottom: 8px; padding-right: 2px; overflow: auto; }
+.en-tool .en-sv-act { margin-top: 4px; }
+
+/* ---------- ③ 文法ポイント ---------- */
+.en-tool .en-gram { margin-bottom: 8px; padding: 9px 12px; border: 1px solid var(--line); border-left: 4px solid var(--sc, var(--brand-1)); border-radius: var(--radius-s); background: var(--panel); }
+.en-tool .en-gram-h { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: center; }
+.en-tool .en-gram-b { margin-top: 4px; color: var(--fg-2); }
+.en-tool .en-gram-ex { margin-top: 6px; padding: 6px 10px; border-radius: 8px; background: var(--panel-2); }
+
+/* ---------- ④ 単語クイズ ---------- */
+.en-tool .en-qsrc { margin: 6px 0 10px; }
+.en-tool .en-q-err { margin-top: 10px; }
+.en-tool .en-q-body { margin: 10px 0 8px; font-size: 1.02rem; }
+.en-tool .en-choices { margin-bottom: 4px; }
+.en-tool .en-choice { width: 100%; text-align: left; }
+.en-tool .en-choice[disabled] { color: var(--fg); cursor: default; }
+.en-tool .en-choice[disabled]:not(.is-ans):not(.is-wrong):hover { border-color: var(--line); }
+.en-tool .en-q-exp { margin-top: 8px; color: var(--fg-2); }
+.en-tool .en-q-sol { margin-top: 8px; }
+.en-tool .en-q-sol summary { cursor: pointer; font-size: .86rem; color: var(--dim); }
+.en-tool .en-q-nav { margin-top: 12px; }
+.en-tool .en-q-log { display: grid; gap: 4px; margin: 8px 0 0; padding: 0; list-style: none; }

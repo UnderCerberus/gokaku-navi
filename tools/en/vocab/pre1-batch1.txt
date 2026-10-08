@@ -1,0 +1,171 @@
+# 準 1 級 動詞（第 483 組）
+adhere|動|付着する; 固執する|3
+alleviate|動|〜を軽減する; 〜を和らげる|3
+amend|動|〜を改正する; 〜を修正する|3
+appease|動|〜をなだめる|3
+ascertain|動|〜を確かめる; 〜を突き止める|3
+augment|動|〜を増やす; 〜を増強する|3
+bolster|動|〜を強化する; 〜を後押しする|3
+breach|動|〜に違反する; 〜を破る|3
+breach|名|違反; 侵害|3
+circumvent|動|〜を回避する; 〜をすり抜ける|3
+coerce|動|〜に強制する|3
+confiscate|動|〜を没収する|3
+convene|動|〜を招集する; 集まる|3
+culminate|動|最高潮に達する|3
+curb|動|〜を抑制する; 〜を食い止める|3
+curtail|動|〜を削減する; 〜を切り詰める|3
+deem|動|〜を…とみなす; 〜を…と考える|3
+defer|動|〜を延期する; 従う|3
+deplete|動|〜を枯渇させる; 〜を使い果たす|3
+deviate|動|それる; 逸脱する|3
+discern|動|〜を見分ける; 〜に気づく|3
+dismantle|動|〜を解体する; 〜を分解する|3
+disperse|動|〜を分散させる; 散らばる|3
+dissipate|動|〜を消散させる; 消える|3
+divert|動|〜をそらす; 〜を転用する|3
+dwindle|動|次第に減少する|3
+elicit|動|〜を引き出す|3
+embark|動|乗り出す; 乗船する|3
+embezzle|動|〜を横領する|3
+eradicate|動|〜を根絶する; 〜を撲滅する|3
+evade|動|〜を逃れる; 〜を回避する|3
+exacerbate|動|〜を悪化させる|3
+exempt|動|〜を免除する|3
+exempt|形|免除された|3
+expedite|動|〜を早める; 〜を促進する|3
+fabricate|動|〜をでっち上げる; 〜を製造する|3
+forfeit|動|〜を失う; 〜を没収される|3
+incur|動|〜を被る; 〜を負う|3
+infringe|動|〜を侵害する|3
+instigate|動|〜を扇動する; 〜を始める|3
+jeopardize|動|〜を危うくする|3
+lament|動|〜を嘆く|3
+levy|動|〜を課す; 〜を徴収する|3
+mitigate|動|〜を緩和する; 〜を軽減する|3
+nurture|動|〜を育てる; 〜を育む|3
+obliterate|動|〜を消し去る; 〜を完全に破壊する|3
+obstruct|動|〜を妨げる; 〜をふさぐ|3
+offset|動|〜を相殺する; 〜を埋め合わせる|3
+oust|動|〜を追放する; 〜を失脚させる|3
+overhaul|動|〜を見直す; 〜を全面的に改修する|3
+perpetuate|動|〜を永続させる; 〜を存続させる|3
+plummet|動|急落する|3
+ponder|動|〜をよく考える; 熟考する|3
+procure|動|〜を調達する; 〜を手に入れる|3
+proliferate|動|急増する; 拡散する|3
+prosecute|動|〜を起訴する|3
+rebuke|動|〜を叱責する|3
+reconcile|動|〜を和解させる; 〜を両立させる|3
+rectify|動|〜を正す; 〜を是正する|3
+refute|動|〜に反論する; 〜を論破する|3
+reimburse|動|〜を払い戻す; 〜に返済する|3
+relinquish|動|〜を放棄する; 〜を手放す|3
+renounce|動|〜を放棄する; 〜を捨てる|3
+replenish|動|〜を補充する|3
+rescind|動|〜を撤回する; 〜を取り消す|3
+retaliate|動|報復する; 仕返しする|3
+retrieve|動|〜を取り戻す; 〜を回収する|3
+revamp|動|〜を改良する; 〜を刷新する|3
+revoke|動|〜を取り消す; 〜を無効にする|3
+sabotage|動|〜を妨害する; 〜を破壊する|3
+scrutinize|動|〜を精査する; 〜を詳しく調べる|3
+stifle|動|〜を抑える; 〜を阻む|3
+stipulate|動|〜を規定する; 〜を明記する|3
+subside|動|おさまる; 静まる|3
+substantiate|動|〜を立証する; 〜を裏づける|3
+surpass|動|〜を上回る; 〜をしのぐ|3
+underscore|動|〜を強調する|3
+vindicate|動|〜の正しさを証明する|3
+waive|動|〜を免除する; 〜を放棄する|3
+withstand|動|〜に耐える|3
+# 準 1 級 形容詞・副詞
+arduous|形|骨の折れる; 困難な|3
+benevolent|形|慈悲深い; 善意の|3
+candid|形|率直な|3
+conducive|形|助けになる; 好都合な|3
+cumbersome|形|扱いにくい; 面倒な|3
+dormant|形|休止状態の; 休眠中の|3
+eloquent|形|雄弁な|3
+eminent|形|著名な; 優れた|3
+fervent|形|熱烈な|3
+frugal|形|倹約な; 質素な|3
+futile|形|無駄な; 無益な|3
+gullible|形|だまされやすい|3
+hazardous|形|危険な; 有害な|3
+imminent|形|差し迫った|3
+impartial|形|公平な; 偏らない|3
+incessant|形|絶え間ない|3
+innate|形|生まれつきの; 生得的な|3
+intricate|形|複雑な; 入り組んだ|3
+lavish|形|豪華な; 気前のよい|3
+legitimate|形|正当な; 合法的な|3
+lenient|形|寛大な; 甘い|3
+lucrative|形|もうかる; 利益の多い|3
+meager|形|乏しい; わずかな|3
+meticulous|形|細心の; 几帳面な|3
+mundane|形|ありふれた; 平凡な|3
+notorious|形|悪名高い|3
+obsolete|形|時代遅れの; 廃れた|3
+ominous|形|不吉な|3
+opulent|形|豪華な; 裕福な|3
+plausible|形|もっともらしい; 妥当な|3
+pragmatic|形|実用的な; 現実的な|3
+precarious|形|不安定な; 危うい|3
+prevalent|形|広く行き渡った; 一般的な|3
+prolific|形|多作の; 多産の|3
+prudent|形|慎重な; 賢明な|3
+redundant|形|余分な; 不要な|3
+resilient|形|回復力のある; 立ち直りの早い|3
+rigorous|形|厳密な; 厳格な|3
+robust|形|頑丈な; 力強い|3
+sluggish|形|不振な; のろい|3
+sparse|形|まばらな; 乏しい|3
+stagnant|形|停滞した; よどんだ|3
+stringent|形|厳しい; 厳格な|3
+superficial|形|表面的な; 浅い|3
+tedious|形|退屈な; うんざりする|3
+tentative|形|仮の; 暫定的な|3
+unprecedented|形|前例のない|3
+ubiquitous|形|どこにでもある; 至る所にある|3
+versatile|形|多才な; 用途の広い|3
+viable|形|実行可能な; 存続可能な|3
+inadvertently|副|うっかり; 不注意で|3
+predominantly|副|主に; 大部分は|3
+# 準 1 級 名詞
+affluence|名|豊かさ; 裕福|3
+allegiance|名|忠誠|3
+anomaly|名|異常; 例外|3
+apprehension|名|不安; 懸念|3
+attrition|名|消耗; 減少|3
+backlash|名|反発; 反動|3
+complacency|名|自己満足; 油断|3
+deterioration|名|悪化; 劣化|3
+disparity|名|格差; 不均衡|3
+feasibility|名|実現可能性|3
+hindrance|名|妨げ; 障害|3
+irrigation|名|灌漑|3
+jurisdiction|名|管轄; 司法権|3
+liability|名|責任; 負債|3
+litigation|名|訴訟|3
+misconduct|名|不正行為; 違法行為|3
+momentum|名|勢い; はずみ|3
+negligence|名|過失; 怠慢|3
+outbreak|名|発生; 勃発|3
+precaution|名|予防策; 用心|3
+predecessor|名|前任者; 前身|3
+prerequisite|名|前提条件; 必要条件|3
+propaganda|名|宣伝; プロパガンダ|3
+proximity|名|近さ; 近接|3
+quota|名|割り当て; ノルマ|3
+repercussion|名|影響; 余波|3
+sanction|名|制裁; 認可|3
+setback|名|挫折; 後退|3
+stagnation|名|停滞; 不振|3
+subsidy|名|補助金|3
+surplus|名|余剰; 黒字|3
+surveillance|名|監視|3
+turmoil|名|混乱; 騒動|3
+venue|名|会場; 開催地|3
+typewriter|名|タイプライター|2
+overfishing|名|乱獲|3
