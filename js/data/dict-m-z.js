@@ -1925,6 +1925,7 @@
     ['school assembly', '名', '全校集会', 2],
     ['school days', '名', '学生時代', 2],
     ['school festival', '名', '文化祭', 1],
+    ['school life', '名', '学校生活', 1],
     ['school trip', '名', '修学旅行', 1],
     ['school uniform', '名', '制服', 1],
     ['school year', '名', '学年度', 2],

@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (200ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (256ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -19335,7 +19335,7 @@
 ○ She was disappointed to learn that the concert had been canceled due to the singer's illness.
    → 彼女はコンサートが歌手の病気のために中止されたことを知ってがっかりした。   [SVC] passive,pastperfect,that-clause,inf-adv
 ○ The amount of sleep we need changes as we grow older, with babies needing far more sleep than adults.
-   → 私たちが年をとるにつれて、私たちが必要とする睡眠の量は変わる。赤ちゃんは大人より多くの睡眠がはるかに必要だ。   [SV] relative
+   → 私たちが年をとるにつれて、私たちが必要とする睡眠の量は変わる。赤ちゃんは大人よりはるかに多くの睡眠が必要だ。   [SV] relative
 ○ Not knowing what to say, he simply smiled and nodded.
    → 何を言うべきか分からなくて、彼はただほほえんで、うなずいた。   [SV] indirect-q,participle-const
 ○ People in cities tend to walk faster than those who live in the countryside, according to one study.
@@ -21034,5 +21034,105 @@
    → 私は自分がどんな人間であるかを共有したい。   [SVO] indirect-q,inf-noun
 ○ It was the first time to meet him.
    → 彼に会うのは初めてだった。   [SVC] it-to
+○ Many students stay up late before an exam, believing that more study time will lead to better results.
+   → 多くの学生が試験の前により多くの勉強の時間がより良い結果につながるだろうと信じながら、遅くまで起きている。   [SV] modal,idiom,that-clause,participle-const
+○ However, research suggests that this strategy may actually do more harm than good.
+   → しかしながら、研究はこの戦略が実際に益より害になるかもしれないことを示唆する。   [SVO] modal,idiom,that-clause
+○ While we sleep, the brain is far from inactive.
+   → 私たちが眠る間に、脳は決して不活発ではない。   [SVC] idiom
+○ It sorts through the information we took in during the day and decides what to keep.
+   → それは私たちが日中取り入れた情報を整理して、何を保つべきか決める。   [SVO] idiom,relative,indirect-q
+○ Memories that are judged important are strengthened, while others are allowed to fade.
+   → 重要だと判断される記憶は強化されているのに対して、ほかの記憶は薄れることを許される。   [SV] it-said,relative,passive,v-o-to
+○ In one well-known experiment, two groups of students were asked to memorize a list of words.
+   → ある有名な実験では、2つのグループの学生は語のリストを暗記するように求められた。   [SV] v-o-to
+○ One group was allowed to sleep afterward, but the other group had to stay awake all night.
+   → 1つのグループはその後眠ることを許されたが、もう一方のグループは一晩中起きたままでなければならなかった。   [SV] v-o-to,idiom
+○ When both groups were tested the next day, those who had slept remembered far more words.
+   → 両方のグループが翌日試験されたとき、眠った人々ははるかに多くの語を覚えていた。   [SVO] passive,pastperfect,relative
+○ Scientists believe this is because sleep gives the brain a chance to move new memories into long-term storage.
+   → 科学者はこれが睡眠が脳に長期的な貯蔵の中に新しい記憶を動かす機会を与えるからだと考えている。   [SVO] inf-adj,svoo,because,that-clause
+○ Lack of sleep also makes it harder to concentrate, so students who sleep too little may not learn efficiently in class.
+   → 睡眠不足はまた集中しにくくするので、あまりにも少ししか眠らない生徒は授業中に効率的に学ばないかもしれない。   [SVOC] svoc,formal-object,relative,modal
+○ This does not mean that studying the night before a test is useless.
+   → これは試験の前の晩に勉強することが役に立たないということを意味しない。   [SVO] gerund,that-clause
+○ Reviewing the material briefly and then getting a good night's sleep is likely to be more effective than studying until dawn.
+   → 教材をざっと復習してから十分な睡眠をとることは夜明けまで勉強することより効果的でありそうだ。   [SVC] gerund,comparative,idiom
+○ Of course, the amount of sleep people need varies from person to person.
+   → もちろん、人々が必要とする睡眠の量は人によって変わる。   [SV] relative
+○ Most teenagers, though, need around eight to ten hours a night, which is more than many of them actually get.
+   → しかし、ほとんどの10代の若者は約8〜10時間に夜を必要として、そのことがそれらの多くが実際に得る量より多い。   [SVOO] svoo,relative
+○ Getting enough sleep, then, should be seen not as a waste of time but as part of studying.
+   → それならば、十分な睡眠をとることは時間の無駄としてではなく、勉強することの一部として見られるべきだ。   [SV] gerund,passive,modal,not-but
+○ During the pandemic, many schools had no choice but to move their classes online.
+   → パンデミックの間に、多くの学校は彼らの授業をオンラインに移すしかなかった。   [SVO] idiom
+○ At first, both teachers and students struggled with the new way of learning.
+   → 最初は、先生も生徒も新しい学び方に苦しんだ。   [SVO] correlative,idiom
+○ Some students did not have a computer at home, and others had trouble connecting to the internet.
+   → 何人かの学生たちは家でコンピューターを持っていなくて、他の人たちはインターネットにつなぐのに苦労した。   [SVO] idiom
+○ Teachers, for their part, had to learn how to keep their students' attention through a screen.
+   → 一方、先生は画面を通して彼らの生徒たちの注意の保ち方を学ばなければならなかった。   [SVO] indirect-q
+○ Even so, online classes turned out to have some unexpected advantages.
+   → それでも、オンラインの授業は予期しない利点があることが分かった。   [SV] idiom
+○ Students who lived far from school no longer had to spend hours commuting.
+   → 学校から遠く離れて住んでいた生徒はもはや通学して何時間も過ごす必要はなかった。   [SVO] relative,idiom
+○ Shy students, who rarely spoke up in the classroom, found it easier to ask questions in the chat.
+   → めったに教室で大きな声で話さなかった内気な生徒たちはおしゃべりで質問をすることがより簡単だと感じた。   [SVOC] idiom,relative,svoc,formal-object
+○ Recorded lessons also allowed students to review difficult parts as many times as they wanted.
+   → 録画された授業はまた学生が難しい部分を好きなだけ何度でも復習することを可能にした。   [SVOC] v-o-to
+○ On the other hand, many students said that they missed seeing their friends every day.
+   → 一方で、多くの学生は毎日自分の友達に会えなくて寂しく思うと言った。   [SVO] gerund,that-clause
+○ Without face-to-face contact, it was hard for them to stay motivated.
+   → 対面の接触なしでは、彼らがやる気を保つことは難しかった。   [SVC] idiom,it-to
+○ In my opinion, the best approach is to combine the strengths of both styles.
+   → 私の意見では、一番いい取り組み方は両方の様式の長所を組み合わせることだ。   [SVC] 
+○ Schools could, for example, hold most classes in person while offering recorded lessons for review.
+   → たとえば、提供することが復習のために授業を記録する間に、学校は直接ほとんどの授業を開催できた。   [SVO] modal,gerund
+○ Such a system would allow students to learn at their own pace without losing the benefits of school life.
+   → そのような制度は生徒が自分の速度で学校生活の利益を失わずに学ぶことを可能にするだろう。   [SVOC] gerund,v-o-to,modal
+○ Technology itself is neither good nor bad; what matters is how we use it.
+   → 科学技術自体は良くも悪くもなくて、重要なことは私たちがそれを使う方法だ。   [SVC] neither-nor,relative-what
+○ If we use it wisely, it can make education more flexible and open to everyone.
+   → もし私たちがそれを賢く使ったら、それはみんなに教育をより柔軟で開いているようにすることがある。   [SVOC] svoc,modal
+○ The plan turned out to work well.
+   → 計画はうまくいくことが分かった。   [SV] idiom
+○ The food people eat affects their health.
+   → 人々が食べる食べ物は彼らの健康に影響する。   [SVO] relative
+○ Studying the night before a test is useless.
+   → 試験の前の晩に勉強することは役に立たない。   [SVC] gerund
+○ I met him the day before the wedding.
+   → 私は結婚式の前の日に彼に会った。   [SVO] 
+○ She left the morning after the party.
+   → 彼女はパーティーの後の朝に出発した。   [SV] 
+○ I called him the day before he left.
+   → 彼が出発する前の日に、私は彼に電話した。   [SVO] 
+○ She arrived the day after we left.
+   → 私たちが出発した次の日に、彼女は到着した。   [SV] 
+○ Reading books and writing essays is fun.
+   → 本を読んで、エッセイを書くことは楽しい。   [SVC] gerund
+○ We need much more time.
+   → 私たちははるかに多くの時間が必要だ。   [SVO] 
+○ Students who sleep too little may not learn efficiently.
+   → あまりにも少ししか眠らない学生は効率的に学ばないかもしれない。   [SV] relative,modal
+○ Sleep should be seen as part of studying.
+   → 睡眠は勉強することの一部として見られるべきだ。   [SV] gerund,passive,modal
+○ I live far from school.
+   → 私は学校から遠く離れて住んでいる。   [SV] 
+○ Students can review difficult parts as many times as they want.
+   → 学生は難しい部分を好きなだけ何度でも復習できる。   [SVO] modal
+○ I miss talking with you.
+   → 私はあなたと話せなくて寂しく思う。   [SVO] idiom,gerund
+○ She keeps her room clean and tidy.
+   → 彼女は自分の部屋をきれいできちんとしているようにしておく。   [SVOC] svoc
+○ Most teenagers, though, need around eight hours a night.
+   → しかし、ほとんどの10代の若者は一晩に約8時間必要とする。   [SV] 
+○ This is more than many of them actually get.
+   → これは彼らの多くが実際に得る量より多い。   [SVC] 
+○ He listened to music while doing his homework.
+   → 彼は自分の宿題をしながら音楽を聴いた。   [SV] participle-const,idiom
+○ Recorded lessons also allowed students to review difficult parts.
+   → 録画された授業はまた学生が難しい部分を復習することを可能にした。   [SVOC] v-o-to
+○ We walked through the park.
+   → 私たちは公園を通って歩いた。   [SV] 
 
-parsed 10518 / 10518
+parsed 10568 / 10568
