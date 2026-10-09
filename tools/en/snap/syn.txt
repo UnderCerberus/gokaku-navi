@@ -4415,7 +4415,7 @@
 ○ The sun is about 150 million kilometers away from the earth.
    → 太陽は地球から約1億5000万キロメートル離れている。   [SV] measure
 ○ Light from the sun takes about eight minutes to reach us.
-   → 太陽からの光は私たちに届くのに約8分かかる。   [SVO] inf-adv
+   → 太陽からの光は私たちに届くのに約8分かかる。   [SVO] it-takes
 ○ Artificial intelligence is changing our lives in many ways.
    → 人工知能は多くの点で私たちの生活を変えている。   [SVO] progressive
 ○ In any case, we will need to learn new skills.
@@ -8963,7 +8963,7 @@
 ○ There is no air on the moon.
    → 月に空気はない。   [SV] there
 ○ Light from the sun takes about eight minutes to reach the earth.
-   → 太陽からの光は地球に届くのに約8分かかる。   [SVO] inf-adv
+   → 太陽からの光は地球に届くのに約8分かかる。   [SVO] it-takes
 ○ Scientists are looking for signs of life on other planets.
    → 科学者は他の惑星で生命の兆候を探している。   [SVO] progressive,idiom
 ○ Jupiter is the largest planet in the solar system.
@@ -11523,9 +11523,9 @@
 ○ Some experts warn that using smartphones before bed can affect the quality of sleep.
    → 寝る前にスマートフォンを使うことが睡眠の質に影響することがあると警告する専門家もいる。   [SVO] gerund,modal,that-clause
 ○ Plastic takes hundreds of years to break down.
-   → プラスチックは分解されるのに何百年もかかる。   [SVO] idiom,inf-adv
+   → プラスチックは分解されるのに何百年もかかる。   [SVO] idiom,it-takes
 ○ Plastic bags, which take hundreds of years to break down, are a serious problem for the ocean.
-   → 分解されるのに何百年もかかるビニール袋は海にとって深刻な問題だ。   [SVC] idiom,inf-adv,relative
+   → 分解されるのに何百年もかかるビニール袋は海にとって深刻な問題だ。   [SVC] idiom,it-takes,relative
 ○ Unlike cats, dogs need to be taken for walks every day.
    → ネコとは違って、犬は毎日散歩に連れて行ってもらう必要がある。   [SVO] inf-noun
 ○ While some people prefer living in the city, others enjoy the quiet life in the countryside.
@@ -16251,7 +16251,7 @@
 ○ You can use it only at certain times, such as lunch breaks.
    → あなたは昼休みのような特定の時間にだけそれを使える。   [SVO] modal
 ○ This way, students can enjoy the benefits without being distracted in class.
-   → こうすれば、生徒は授業中に気を散らされずに恩恵を受けられる。   [SVO] gerund,modal
+   → こうすれば、生徒は授業中に気を散らされずに恩恵を受けられる。   [SVO] modal
 ○ This way, you can save money.
    → こうすれば、あなたはお金を節約できる。   [SVO] modal
 ○ For example, students can look up information quickly and communicate with their classmates.
@@ -18627,7 +18627,7 @@
 ○ Those who exercise regularly are not only healthier but also tend to sleep better at night.
    → 定期的に運動する人々はより健康なだけでなく、夜によりよく眠る傾向がある。   [SVC] relative,not-only
 ○ The government decided to build a new airport, despite strong opposition from local residents.
-   → 政府は強い反対にもかかわらず地元の住民から新しい空港を建てることに決めた。   [SVO] inf-noun
+   → 政府は地元の住民からの強い反対にもかかわらず新しい空港を建てることに決めた。   [SVO] inf-noun
 ○ To his surprise, the letter he had sent ten years earlier was returned to him unopened.
    → 彼が驚いたことに、彼が10年前に送った手紙は彼に開封されていないまま返された。   [SV] pastperfect,relative,passive
 ○ The older generation often complains that young people spend too much time looking at their phones.
@@ -18937,7 +18937,7 @@
 ○ The more choices people are given, the harder it becomes for them to make a decision, according to some psychologists.
    → 選択の人々が与えられていれば与えられているほど、人々にとって何人かの心理学者たちによれば決定するのがますます難しくなる。   [] passive,idiom,the-more
 ○ Plastic bags, which take hundreds of years to break down, have been banned in a growing number of countries.
-   → 分解されるのに何百年もかかるビニール袋はますます多くの国で禁止された。   [SV] idiom,inf-adv,relative,passive,perfect
+   → 分解されるのに何百年もかかるビニール袋はますます多くの国で禁止された。   [SV] idiom,it-takes,relative,passive,perfect
 ○ It was not until the nineteenth century that scientists began to understand how diseases spread.
    → 19世紀になって初めて、科学者は病気がどのように広がったか理解し始めた。   [SVO] indirect-q,inf-noun,cleft
 ○ Learning to play a musical instrument requires patience, as progress is often slow at first.
@@ -19198,5 +19198,97 @@
    → 科学者はただ1つの説明について意見が一致できない。   [SVO] modal,idiom
 ○ A good night's sleep is important.
    → 十分な睡眠は重要だ。   [SVC] 
+○ The printing press, invented in the fifteenth century, made books cheaper and allowed ideas to spread more quickly than ever before.
+   → 15世紀に発明された印刷機は本を安くして、考えがかつてないほど急速に広がることを可能にした。   [SVOC] svoc,comparative,v-o-to
+○ Children learn their first language without being taught grammar rules, simply by listening to the people around them.
+   → 子どもは自分の周りで人々の言うことを聞くことによって文法の規則を単に教えられずに自分の最初の言語を学ぶ。   [SVO] idiom,gerund
+○ When prices rise faster than wages, ordinary families find it increasingly difficult to make ends meet.
+   → 価格が賃金より速く上がると、普通の家族たちは収支を合わせることがますます難しいと感じる。   [SVOC] comparative,svoc,idiom,formal-object
+○ Psychologists have long known that people are more likely to remember information that is connected to their emotions.
+   → 心理学者は長い間人々が自分の感情につながれている情報を覚える可能性がより高いことを知っている。   [SVO] passive,relative,idiom,that-clause,perfect
+○ The old fisherman looked out at the sea and wondered whether he would ever see his son again.
+   → 年老いた漁師は海を眺めて、彼がいつかまた自分の息子に会うかどうか疑問に思った。   [SVO] idiom,modal,indirect-q
+○ In the past, letters could take weeks to arrive, whereas today a message can be sent around the world in seconds.
+   → 過去には、今日伝言が世界中で数秒で送られることもあるのに対して、手紙は届くのに何週間もかかることもあった。   [SVO] it-takes,passive,modal
+○ One reason why English has become a global language is that it was spread by the British Empire and later by American culture.
+   → 英語が世界的な言語になった理由の1つは、それがイギリスの帝国によって、そしてのちにアメリカの文化によって広がったからだ。   [SVC] perfect,rel-adv,that-clause
+○ Many tourists come to Kyoto not only to see its famous temples but also to experience traditional Japanese culture.
+   → 多くの観光客がその有名な寺を見るためだけでなく、伝統的な日本の文化を経験するためにも京都に来る。   [SV] not-only
+○ The government decided to raise the consumption tax, despite strong opposition from the public.
+   → 政府は一般大衆からの強い反対にもかかわらず消費税を上げることに決めた。   [SVO] inf-noun
+○ If you want to become fluent in a foreign language, you need to practice speaking it as often as possible.
+   → 外国語で流暢になりたいなら、できるだけ頻繁にそれを話す練習をする必要がある。   [SVO] inf-noun,gerund
+○ Although she had never been abroad before, she quickly got used to life in the new country.
+   → 彼女は一度も海外に行ったことがなかったけれども、すぐに新しい国の生活に慣れた。   [SVO] pastperfect,idiom
+○ The discovery of penicillin, which was made almost by accident, saved millions of lives.
+   → 偶然にほとんど作られたペニシリンの発見は何百万もの命を救った。   [SVO] passive,relative
+○ People who volunteer regularly report feeling happier and less stressed than those who do not.
+   → 定期的にボランティアをする人々はしない人々より幸せであまりストレスを感じていないと感じると報告する。   [SVO] relative,comparative,that-clause
+○ It took the team three years to complete the project, which was much longer than they had expected.
+   → チームがプロジェクトを完成させるのに3年かかったが、それは彼らが予想したよりずっと長かった。   [SVO] it-takes,comparative,relative
+○ Without the help of his friends, he would never have been able to start his own business.
+   → 友達の助けがなければ、彼は決して自分の事業を始められなかっただろう。   [SVO] modal-perfect,subjunctive-past
+○ The way people greet each other differs greatly from one culture to another.
+   → 人々がお互いあいさつする方法は文化によって大いに異なる。   [SV] rel-adv
+○ As technology advances, some jobs will disappear, but new ones that we cannot imagine today will be created.
+   → 科学技術が進むにつれて、いくつかの仕事は消えるだろうが、私たちが今日想像できない新しいものは創造されるだろう。   [SV] modal,relative,passive
+○ My grandfather, who grew up on a farm, often tells me that life was much harder when he was young.
+   → 農場で育った祖父は、若かったとき、よく私に生活がずっと難しかったと言う。   [SVOO] idiom,relative,comparative,that-clause
+○ The students were asked to write an essay about a person who had had a great influence on their lives.
+   → 学生たちは自分の生活に大きな影響を与えた人についてのエッセイを書くように求められた。   [SV] pastperfect,relative,v-o-to
+○ Saving money is difficult for young people, especially those who have just started working.
+   → お金を貯めることは若い人々、特にちょうど働き始めたところである人々のために難しい。   [SVC] gerund,perfect,relative
+○ The scientists hope that their research will lead to new treatments for the disease.
+   → 科学者たちは自分の研究が病気のために新しい治療法につながるといいと思う。   [SVO] modal,idiom,that-clause
+○ He was so tired after the long journey that he fell asleep as soon as he lay down.
+   → 彼は長い旅の後にとても疲れていたので、横になるとすぐに眠り込んだ。   [SVC] idiom,so-that
+○ Reading books helps children develop their imagination and improves their ability to express themselves.
+   → 本を読むことは子どもが彼らの想像力を伸ばすのに役立って、自分の考えを表現する彼らの能力を向上させる。   [SVOC] gerund,causative,idiom,inf-adj
+○ The festival, which takes place every August, attracts visitors from all over the country.
+   → 毎年8月に行われる祭りは全国から訪問者を集める。   [SVO] idiom,relative
+○ Some people believe that money can buy happiness, while others argue that relationships matter more.
+   → お金で幸福が買えると信じている人もいれば、関係がもっと重要だと主張する人もいる。   [] correlative
+○ After the earthquake, volunteers from across Japan came to help the people who had lost their homes.
+   → 地震の後に、日本各地からのボランティアは自分の家を失った人々を助けに来た。   [SV] pastperfect,relative
+○ Japanese companies have traditionally offered lifetime employment, but this system is gradually changing.
+   → 日本の会社は終身雇用を伝統的に提供したが、この制度は徐々に変わっている。   [SVO] perfect,progressive
+○ She was the first woman in her family to go to university, and her parents were very proud of her.
+   → 彼女は大学に行く自分の家族の最初の女性で、彼女の両親は彼女をとても誇りに思った。   [SVC] inf-adj,idiom
+○ It is said that the custom of giving gifts at the end of the year dates back hundreds of years.
+   → 年末に贈り物をすることの習慣は何百年も前にさかのぼると言われている。   [SV] gerund,idiom,it-said,passive
+○ Learning about the history of other countries can help us understand why people think and act differently.
+   → 他の国の歴史について学ぶことは人々がなぜ考えて違うふうに行動するか理解するのに役立つ。   [SVOC] gerund,indirect-q,causative,modal
+○ They learn grammar without being taught the rules.
+   → 彼らは規則を教えられずに文法を学ぶ。   [SVO] 
+○ He looked out at the sea.
+   → 彼は海を眺めた。   [SVO] idiom
+○ He wondered whether he would ever see his son again.
+   → 彼はいつかまた自分の息子に会うかどうか疑問に思った。   [SVO] modal,indirect-q
+○ Letters could take weeks to arrive.
+   → 手紙は届くのに何週間もかかることもあった。   [SVO] it-takes
+○ They study not only to pass exams but also to learn.
+   → 彼らは試験に合格するためだけでなく、学ぶためにも勉強する。   [SV] not-only
+○ She got used to life in the new country.
+   → 彼女は新しい国の生活に慣れた。   [SVO] idiom
+○ They feel happier and less stressed.
+   → 彼らはより幸せであまりストレスを感じていないと感じる。   [SVC] 
+○ The way they greet each other is different.
+   → 彼らがお互いあいさつする方法は異なる。   [SVC] rel-adv
+○ Greetings differ from one country to another.
+   → あいさつは別の国に1か国と異なる。   [SVO] idiom
+○ It took the team three years to complete the project, which was much longer than they had expected.
+   → チームがプロジェクトを完成させるのに3年かかったが、それは彼らが予想したよりずっと長かった。   [SVO] it-takes,comparative,relative
+○ It is hard for young people, especially those who have just started working.
+   → それは若い人々、特にちょうど働き始めたところである人々のために難しい。   [SVC] gerund,perfect,relative
+○ I want to see my parents.
+   → 私は両親に会いたい。   [SVO] inf-noun
+○ The custom dates back hundreds of years.
+   → 習慣は何百年も前にさかのぼる。   [SVO] idiom
+○ Volunteers from across Japan came to help.
+   → 日本各地からのボランティアは助けに来た。   [SV] 
+○ It was so cold that we stayed home when it snowed.
+   → とても寒かったので、雪が降ったとき、私たちは家にいた。   [SVC] idiom,so-that
+○ One reason why English has become a global language is that it is easy.
+   → 英語が世界的な言語になった理由の1つは、それが簡単だからだ。   [SVC] perfect,rel-adv,that-clause
 
-parsed 9600 / 9600
+parsed 9646 / 9646

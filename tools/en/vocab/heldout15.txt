@@ -1,0 +1,5 @@
+# 第 510 組
+grammar rule|名|文法の規則|1
+penicillin|名|ペニシリン|3
+lifetime employment|名|終身雇用|3
+consumption tax|名|消費税|2
