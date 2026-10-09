@@ -3535,6 +3535,26 @@ const MORE = [
   'The accident could have been avoided if he had been careful.', "I can't remember what he said.", 'She earned a degree in economics.', 'He has a university degree.',
   'To some degree, I agree with you.', 'She was the first woman in her family to go to university.', 'Whether or not the plan succeeds depends on the team.',
   'Water covers most of the earth, but only a small portion of it is fresh water.', 'The storm cut off the power.', 'Now that you are here, we can start.',
+  // 未見文 第18群（物語・論説・会話・科学の長文）と変種
+  'It is not that I dislike my job, but that I need more time to spend with my family.', 'What matters most is not how much you know but how you use what you know.',
+  'There used to be a small bookstore on the corner, but it closed down a few years ago.', 'You are supposed to turn off your phone before the concert begins.',
+  'As long as you keep practicing every day, your English will improve steadily.', 'As far as I know, nobody has ever climbed that mountain in winter.',
+  'In spite of the heavy rain, thousands of fans waited outside the stadium for hours.', 'Some people prefer to live in big cities, whereas others enjoy the quiet life of the countryside.',
+  'She saved part of her salary every month so that she could travel abroad the following year.', 'The old bridge needs to be repaired before it becomes too dangerous to use.',
+  'He can hardly speak his own language correctly, let alone a foreign one.', 'You cannot be too careful when you choose a place to live.',
+  'It took several months for the city to recover from the earthquake.', 'The new technology has made it possible for doctors to detect the disease at an early stage.',
+  'While I understand your concern, I do not think the plan is as risky as you say.', 'My grandfather no longer drives because his eyesight has become poor.',
+  'She listened to the music with her eyes closed, remembering her childhood.', 'All students are to submit their reports by Friday.', 'He never fails to call his mother on her birthday.',
+  'I do not like the way he talks to his younger brother.', 'This is what is called a win-win situation, in which both sides benefit.',
+  'Neither the teacher nor the students knew the answer to the question.', 'You had better take an umbrella with you in case it rains.', 'I should have studied harder when I was in high school.',
+  'Since there is nothing else to do, we might as well go home early.', 'The more I learned about the history of the town, the more interested I became in its people.',
+  'The scientist spent most of her life studying how bees communicate with one another.', 'Not until I lost my wallet did I realize how careless I had been.',
+  'Hardly had we arrived at the station when the train left.', 'The store closed down a few years ago.', 'They closed down the factory.', 'He gave up a few years ago.',
+  'She gave up after two years.', 'They never fail to surprise me.', 'She did not fail to notice the change.', "She can't even walk, let alone run.", "I can't afford a bicycle, let alone a car.",
+  'He could not even write his name.', "I don't think he is as tall as his brother.", 'He showed little interest in the plan.', 'She paid little attention to the warning.', 'He made few mistakes.',
+  'You should pay more attention to your health.', 'He is what we call a genius.', 'His eyesight is poor.', 'Her health became poor.',
+  'The older he got, the more confident he became in his abilities.', 'I had hardly gone to bed when the phone rang.', 'He saved money for a new car.', 'I like the way she speaks.',
+  'She has no time to spend with her children.', 'I remember my childhood well.', 'She listened to the music, remembering her childhood.',
 ];
 function show(s) {
   const toks = syn.tokenize(s);

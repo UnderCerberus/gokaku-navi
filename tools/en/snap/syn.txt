@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (183ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (218ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -2605,7 +2605,7 @@
 ○ Teachers ask students to solve problems without calculators.
    → 先生は生徒に計算機なしで問題を解くように頼む。   [SVOC] v-o-to
 ○ The automatic systems shut down.
-   → 自動のシステムは停止する。   [SV] 
+   → 自動のシステムは停止する。   [SV] idiom
 ○ As machines become more reliable, people trust them.
    → 機械がより信頼できるようになるにつれて、人々は機械を信頼する。   [SVO] 
 ○ People use them more.
@@ -5081,7 +5081,7 @@
 ○ Hardly had I gone to bed when the phone rang.
    → 私が寝るか寝ないかのうちに、電話が鳴った。   [SV] pastperfect,idiom,inversion
 ○ Scarcely had he arrived when the meeting started.
-   → 彼が到着するか到着しないかのうちに、会議が始まった。   [SV] inversion
+   → 彼が到着するかしないかのうちに、会議が始まった。   [SV] inversion
 ○ He was seen to enter the building.
    → 彼は建物に入るところを見られた。   [SV] v-o-to
 ○ There is no telling what will happen next.
@@ -19019,7 +19019,7 @@
 ○ Regardless of how talented they are, athletes who do not train regularly will eventually fall behind.
    → 彼らがどれほど才能があるかに関係なく、定期的に訓練しない運動選手はやがて遅れをとるだろう。   [SV] indirect-q,relative,modal,idiom
 ○ Hardly had she arrived at the station when it began to rain heavily.
-   → 彼女が駅に到着するか駅に到着しないかのうちに、激しく雨が降り始めた。   [SVO] idiom,inf-noun,inversion
+   → 彼女が駅に到着するかしないかのうちに、激しく雨が降り始めた。   [SVO] idiom,inf-noun,inversion
 ○ With regard to the new policy, many teachers have expressed concern about the increase in their workload.
    → 新しい政策に関して、多くの先生は自分の仕事量の増加に懸念を示した。   [SVO] perfect,idiom
 ○ Owing to a shortage of doctors, patients in rural areas often have to wait for hours to receive treatment.
@@ -19532,5 +19532,111 @@
    → 嵐は電気を止めた。   [SV] idiom
 ○ Now that you are here, we can start.
    → 今やあなたがここにいるので、私たちは始められる。   [SV] modal
+○ It is not that I dislike my job, but that I need more time to spend with my family.
+   → それは私が仕事が嫌いだということではなく、私が家族と過ごすもっと多くの時間を必要とするということだ。   [SVC] inf-adj,that-clause,not-but
+○ What matters most is not how much you know but how you use what you know.
+   → 最も重要なのはあなたがどれほど多くのことを知っているかではなくあなたがどのようにあなたが知っていることを使うかだ。   [SVC] relative-what,indirect-q,not-but
+○ There used to be a small bookstore on the corner, but it closed down a few years ago.
+   → 以前は角に小さい書店があったが、それは数年前に閉店した。   [SV] used-to,there,idiom
+○ You are supposed to turn off your phone before the concert begins.
+   → コンサートが始まる前に、あなたは電話の電源を切ることになっている。   [SVC] idiom
+○ As long as you keep practicing every day, your English will improve steadily.
+   → あなたが毎日練習し続ける限り、あなたの英語は着実に良くなるだろう。   [SV] gerund,modal
+○ As far as I know, nobody has ever climbed that mountain in winter.
+   → 私の知る限り、誰も今までに冬にその山に登ったことがない。   [SVO] perfect
+○ In spite of the heavy rain, thousands of fans waited outside the stadium for hours.
+   → 大雨にもかかわらず、何千人ものファンは何時間も競技場の外側で待った。   [SV] 
+○ Some people prefer to live in big cities, whereas others enjoy the quiet life of the countryside.
+   → 大都市に住むことのほうを好む人もいれば、田舎の静かな生活を楽しむ人もいる。   [] correlative
+○ She saved part of her salary every month so that she could travel abroad the following year.
+   → 彼女は翌年海外を旅行できるように、毎月自分の給料の一部を貯めた。   [SVO] modal
+○ The old bridge needs to be repaired before it becomes too dangerous to use.
+   → 古い橋は、危険すぎて使えなくなる前に、修理する必要がある。   [SVO] inf-noun,too-to
+○ He can hardly speak his own language correctly, let alone a foreign one.
+   → 彼はほとんど自分の言語を正しく話せない。まして外国語はなおさらだ。   [SVO] modal
+○ You cannot be too careful when you choose a place to live.
+   → 住む場所を選ぶとき、いくら注意深くしてもしすぎることはない。   [SVC] cannot-too,inf-adj
+○ It took several months for the city to recover from the earthquake.
+   → 都市が地震から回復するのに数か月かかった。   [SVO] it-takes
+○ The new technology has made it possible for doctors to detect the disease at an early stage.
+   → 新しい科学技術は医者が初期段階で病気を発見することを可能にした。   [SVOC] svoc,formal-object,perfect
+○ While I understand your concern, I do not think the plan is as risky as you say.
+   → 私はあなたの懸念を理解するけれども、計画があなたが言うほど危険だとは思わない。   [SVO] as-as,that-clause
+○ My grandfather no longer drives because his eyesight has become poor.
+   → 彼の視力が悪くなったので、祖父はもはや運転しない。   [SV] perfect
+○ She listened to the music with her eyes closed, remembering her childhood.
+   → 彼女は自分の子ども時代を思い出しながら、目を閉じて音楽を聴いた。   [SVO] with-oc,participle-const,idiom
+○ All students are to submit their reports by Friday.
+   → すべての学生は金曜日までに自分の報告書を提出することになっている。   [SV] 
+○ He never fails to call his mother on her birthday.
+   → 彼は彼女の誕生日に自分の母に必ず電話する。   [SVO] 
+○ I do not like the way he talks to his younger brother.
+   → 私は彼の弟への話し方が好きではない。   [SVO] idiom,rel-adv
+○ This is what is called a win-win situation, in which both sides benefit.
+   → これは両方の側が利益を得る、いわゆる双方に利益のある状況だ。   [SVC] relative-what,relative
+○ Neither the teacher nor the students knew the answer to the question.
+   → 先生も生徒たちも質問への答えを知らなかった。   [SVO] correlative
+○ You had better take an umbrella with you in case it rains.
+   → 雨が降る場合に備えて、あなたは傘を持って行ったほうがよい。   [SVO] 
+○ I should have studied harder when I was in high school.
+   → 私は高校生のころ、もっと熱心に勉強するべきだった。   [SV] modal-perfect
+○ Since there is nothing else to do, we might as well go home early.
+   → することは何もないので、私たちは早く帰宅したほうがよい。   [SV] inf-adj,there,idiom
+○ The more I learned about the history of the town, the more interested I became in its people.
+   → 私が町の歴史について学べば学ぶほど、その人々にますます興味がわいた。   [] the-more
+○ The scientist spent most of her life studying how bees communicate with one another.
+   → 科学者は彼女の人生のほとんどをミツバチがどのようにお互いに意思を伝え合うか研究して過ごした。   [SVO] idiom,indirect-q
+○ Not until I lost my wallet did I realize how careless I had been.
+   → 財布をなくして初めて、私は自分がどれほど不注意だったか分かった。   [SVO] pastperfect,indirect-q,inversion
+○ Hardly had we arrived at the station when the train left.
+   → 私たちが駅に到着するかしないかのうちに、電車が出発した。   [SV] idiom,inversion
+○ The store closed down a few years ago.
+   → 店は数年前に閉店した。   [SV] idiom
+○ They closed down the factory.
+   → 彼らは工場を閉鎖した。   [SVO] idiom
+○ He gave up a few years ago.
+   → 彼は数年前にあきらめた。   [SV] idiom
+○ She gave up after two years.
+   → 彼女は2年後にあきらめた。   [SV] idiom
+○ They never fail to surprise me.
+   → 彼らは私を必ず驚かせる。   [SVO] 
+○ She did not fail to notice the change.
+   → 彼女は変化に必ず気づいた。   [SVO] 
+○ She can't even walk, let alone run.
+   → 彼女は歩くことさえできない。まして走ることはなおさらだ。   [SV] modal
+○ I can't afford a bicycle, let alone a car.
+   → 私は自転車の余裕がない。まして車はなおさらだ。   [SVO] modal
+○ He could not even write his name.
+   → 彼は自分の名前を書くことさえできなかった。   [SVO] modal
+○ I don't think he is as tall as his brother.
+   → 私は彼が自分の兄ほど背が高いとは思わない。   [SVO] as-as,that-clause
+○ He showed little interest in the plan.
+   → 彼は計画への関心をほとんど示さなかった。   [SVO] 
+○ She paid little attention to the warning.
+   → 彼女は警告にほとんど注意を払わなかった。   [SVO] idiom
+○ He made few mistakes.
+   → 彼は間違いをほとんどしなかった。   [SVO] 
+○ You should pay more attention to your health.
+   → あなたは健康にもっと注意を払うべきだ。   [SVO] modal,idiom
+○ He is what we call a genius.
+   → 彼はいわゆる天才だ。   [SVC] relative-what
+○ His eyesight is poor.
+   → 彼の視力は悪い。   [SVC] 
+○ Her health became poor.
+   → 彼女の健康は悪くなった。   [SVC] 
+○ The older he got, the more confident he became in his abilities.
+   → 彼が年をとれば年をとるほど、自分の能力にますます自信がついた。   [] the-more
+○ I had hardly gone to bed when the phone rang.
+   → 私が寝るか寝ないかのうちに、電話が鳴った。   [SV] idiom,inversion
+○ He saved money for a new car.
+   → 彼は新しい車のためにお金を貯めた。   [SVO] 
+○ I like the way she speaks.
+   → 私は彼女の話し方が好きだ。   [SVO] rel-adv
+○ She has no time to spend with her children.
+   → 彼女は自分の子どもたちと過ごす時間がない。   [SVO] inf-adj
+○ I remember my childhood well.
+   → 私は子ども時代をよく覚えている。   [SVO] 
+○ She listened to the music, remembering her childhood.
+   → 彼女は自分の子ども時代を思い出しながら、音楽を聴いた。   [SVO] participle-const,idiom
 
-parsed 9767 / 9767
+parsed 9820 / 9820
