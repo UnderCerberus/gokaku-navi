@@ -2,10 +2,8 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['grammar rule', '名', '文法の規則', 1],
-    ['penicillin', '名', 'ペニシリン', 3],
-    ['lifetime employment', '名', '終身雇用', 3],
-    ['consumption tax', '名', '消費税', 2],
+    ['sums of money', '名', '金額', 2],
+    ['large sums of money', '名', '大金', 2],
 ]
 def key(w):
     return w.lower()

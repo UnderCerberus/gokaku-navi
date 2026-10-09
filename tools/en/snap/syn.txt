@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (185ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (204ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -1595,7 +1595,7 @@
 ○ The number of foreign tourists visiting Japan has increased dramatically in the past decade.
    → 日本を訪れている外国人観光客の数は過去10年間で劇的に増えた。   [SV] participle-mod,perfect
 ○ Prices have risen over the last ten years.
-   → 物価は過去10年間にわたって上がっている。   [SV] perfect
+   → 物価は過去10年間にわたって上がってきた。   [SV] perfect
 ○ In the past, people walked.
    → 過去には、人々は歩いた。   [SV] 
 ○ I was moved by the story.
@@ -8369,7 +8369,7 @@
 ○ He sat on the bench, reading a newspaper.
    → 彼は新聞を読みながら、ベンチに座った。   [SV] participle-const
 ○ The children ran out of the room, laughing loudly.
-   → 子どもたちは大声で笑いながら、部屋から走り出た。   [SVO] participle-const,idiom
+   → 子どもたちは大声で笑いながら、部屋から飛び出した。   [SV] participle-const,idiom
 ○ With the sun shining brightly, we decided to go hiking.
    → 太陽が明るく輝いている状態で、私たちはハイキングに行くことに決めた。   [SVO] idiom,inf-noun,absolute
 ○ All things considered, the trip was a success.
@@ -10423,7 +10423,7 @@
 ○ The washing machine makes a strange noise.
    → 洗濯機は奇妙な騒音を出す。   [SVO] 
 ○ I recognized him at once.
-   → 私はすぐに彼を認識した。   [SVO] 
+   → 私はすぐに彼が分かった。   [SVO] 
 ○ I'm a second-year student majoring in biology.
    → 私は生物学を専攻している2年生だ。   [SVC] idiom,participle-mod
 ○ Classes start at nine in the morning.
@@ -11507,7 +11507,7 @@
 ○ Many people believe that eating breakfast helps students concentrate better in class.
    → 多くの人々は朝食を食べることが生徒が授業中によりよく集中するのに役立つと考えている。   [SVO] gerund,causative,that-clause
 ○ The number of foreign tourists visiting Japan has increased rapidly over the past ten years.
-   → 日本を訪れている外国人観光客の数は過去10年間にわたって急速に増えている。   [SV] participle-mod,perfect
+   → 日本を訪れている外国人観光客の数は過去10年間にわたって急速に増えてきた。   [SV] participle-mod,perfect
 ○ Scientists have found that bees can recognize human faces.
    → 科学者はミツバチが人間の顔を認識できることを明らかにした。   [SVO] modal,that-clause,perfect
 ○ One of the reasons why young people move to big cities is that there are more jobs.
@@ -16923,7 +16923,7 @@
 ○ Some local shops have survived by offering personal service that online stores cannot provide.
    → オンラインストアが提供できない一人ひとりに合わせたサービスを提供することによって生き残った地元の店もある。   [SV] modal,relative,gerund,perfect
 ○ Online shopping has grown rapidly over the past twenty years.
-   → オンラインショッピングは過去20年間にわたって急速に成長している。   [SV] perfect
+   → オンラインショッピングは過去20年間にわたって急速に成長してきた。   [SV] perfect
 ○ "Why don't you get a part-time job?" his father suggested.
    → 彼の父は「アルバイトをしてはどうですか」と提案した。   [SVO] question,direct-speech,quote
 ○ After six months, he had saved enough money.
@@ -17961,7 +17961,7 @@
 ○ Social media allows false information to spread more quickly than ever before.
    → SNSは誤った情報がかつてないほど急速に広がることを可能にする。   [SVOC] comparative,v-o-to
 ○ The number of people working from home has increased since the pandemic began.
-   → パンデミックが始まって以来、在宅勤務をしている人々の数は増えている。   [SV] idiom,participle-mod,perfect
+   → パンデミックが始まって以来、在宅勤務をしている人々の数は増えてきた。   [SV] idiom,participle-mod,perfect
 ○ Protecting biodiversity is essential for maintaining healthy ecosystems.
    → 生物多様性を守ることは健康な生態系を維持するために不可欠だ。   [SVC] gerund
 ○ Volunteers spent the weekend cleaning up the beach, collecting more than two hundred bags of trash.
@@ -18131,7 +18131,7 @@
 ○ In the past, people had to rely on newspapers and television for news, but today most of us get our information from smartphones, often without checking whether it is accurate.
    → 過去には、人々はニュースのために新聞とテレビに頼らなければならなかったが、今日私たちのほとんどはよくスマートフォンからそれが正確かどうか確かめずに私たちの情報をもらう。   [SVO] idiom,indirect-q,gerund
 ○ Scientists have discovered that some birds are able to recognize individual human faces and remember people who have treated them badly.
-   → 科学者はいくつかの鳥が個々の人間の顔を認識できて、それらをひどく扱った人々を覚えていることを発見した。   [SVO] perfect,relative,that-clause
+   → 科学者はいくつかの鳥が個々の人間の顔を認識したり、それらをひどく扱った人々を覚えていたりできることを発見した。   [SVO] perfect,relative,modal,that-clause
 ○ One of the biggest challenges facing Japan today is how to support a growing number of elderly people with a shrinking working population.
    → 日本が直面している最も大きい課題の1つは今日ますます多くの縮んでいる労働人口を持った高齢者の支え方だ。   [SVC] participle-mod,indirect-q
 ○ When the first trains were introduced in the nineteenth century, many people feared that traveling at such high speeds would be harmful to the human body.
@@ -18265,9 +18265,9 @@
 ○ If you want to improve your English, it is important not only to study grammar but also to use the language as often as possible.
    → あなたが英語を上達させたいなら、文法を勉強するだけでなく、できるだけ頻繁に言語を使うことも重要だ。   [SVC] inf-noun,it-to,not-only
 ○ She was disappointed to learn that the concert she had been looking forward to for months had been canceled.
-   → 彼女は彼女が何か月もずっと楽しみにしていたコンサートが中止されたことを学んでがっかりした。   [SVC] progressive,pastperfect,idiom,relative,passive,that-clause,inf-adv
+   → 彼女は彼女が何か月もずっと楽しみにしていたコンサートが中止されたことを知ってがっかりした。   [SVC] progressive,pastperfect,idiom,relative,passive,that-clause,inf-adv
 ○ Unlike most other animals, humans are able to plan for the future and imagine things that do not yet exist.
-   → ほとんどの他の動物とは違って、人間は未来のために計画できて、まだ存在しない物を想像する。   [SV] relative
+   → ほとんどの他の動物とは違って、人間は未来のために計画したり、まだ存在しない物を想像したりできる。   [SV] relative,modal
 ○ The government has announced a new plan to encourage young people to start their own businesses in rural areas.
    → 政府は若い人々に農村部で自分の事業を始めるよう励ます新しい計画を発表した。   [SVO] v-o-to,inf-adj,perfect
 ○ Because the meeting ran longer than expected, I missed the last train and had to take a taxi home.
@@ -18405,7 +18405,7 @@
 ○ Some people catch colds easily.
    → 簡単に風邪をひく人もいる。   [SV] idiom
 ○ Although the city has grown rapidly over the past twenty years, it has managed to preserve many of its historic buildings.
-   → 都市は過去20年間にわたって急速に成長しているけれども、その歴史的な建物の多くを何とか保存した。   [SVO] perfect
+   → 都市は過去20年間にわたって急速に成長してきたけれども、その歴史的な建物の多くを何とか保存した。   [SVO] perfect
 ○ People who move to a new country often experience culture shock, especially during the first few months.
    → 新しい国に移り住む人々はよく特に最初の数か月の間にはカルチャーショックを経験する。   [SVO] relative
 ○ Researchers have found that taking short breaks while studying can actually improve concentration and memory.
@@ -18799,7 +18799,7 @@
 ○ Although many people assume that multitasking saves time, studies have shown that switching between tasks actually reduces our efficiency.
    → 多くの人々はマルチタスクが時間を節約すると思い込むけれども、研究は仕事の間で切り替えることが私たちの効率を実際に減らすことを示した。   [SVO] that-clause,gerund,perfect
 ○ The amount of plastic waste that ends up in the ocean has increased dramatically over the past few decades, threatening marine life.
-   → 海に行き着くプラスチックごみの量は過去数十年間にわたって劇的に増えていて、海洋生物を脅かしている。   [SV] idiom,relative,perfect,participle-const
+   → 海に行き着くプラスチックごみの量は過去数十年間にわたって劇的に増えてきて、海洋生物を脅かしている。   [SV] idiom,relative,perfect,participle-const
 ○ In an aging society like Japan, there is a growing need for workers who can take care of elderly people.
    → 日本のような高齢化社会では、高齢者の世話ができる労働者の必要性が高まっている。   [SV] modal,idiom,relative,there
 ○ It is not surprising that people who sleep less than six hours a night often find it difficult to concentrate during the day.
@@ -18811,7 +18811,7 @@
 ○ One of the main reasons why people fail to keep their New Year's resolutions is that they set goals that are too ambitious.
    → 人々が自分の新しい年の決意を守れない主な理由の1つは彼らが野心的すぎる目標を設定するということだ。   [SVC] rel-adv,too,relative,that-clause
 ○ Robots are expected to take over many dangerous jobs, allowing human workers to focus on tasks that require creativity.
-   → ロボットは多くの危険な仕事を引き継ぐことを期待されて、人間の労働者たちが創造性を必要とする仕事に集中することを可能にしている。   [SV] idiom,v-o-to,relative,participle-const
+   → ロボットは多くの危険な仕事を引き継ぐと予想されていて、人間の労働者たちが創造性を必要とする仕事に集中することを可能にしている。   [SV] idiom,v-o-to,relative,participle-const
 ○ What we remember is often influenced by what we already know, which means that two people may recall the same event quite differently.
    → 私たちが覚えていることは私たちがもう知っていることによってよく影響を受けていて、そのことが2人が同じ出来事をかなり異なって思い出すかもしれないということを意味する。   [SV] relative-what,passive,modal,that-clause,relative
 ○ Cooperation among countries is essential if we are to solve global problems such as climate change and infectious diseases.
@@ -18915,7 +18915,7 @@
 ○ The rapid development of artificial intelligence has raised concerns about privacy, as companies collect enormous amounts of personal data.
    → 会社が膨大な量の個人データを集めるので、人工知能の急速な発達はプライバシーについて懸念を提起した。   [SVO] perfect
 ○ Although humans have always told stories, the way we share them has changed dramatically since the invention of the printing press.
-   → 人間はいつも話を語ったけれども、私たちが話を共有する方法は印刷機の発明以来劇的に変わっている。   [SV] perfect,rel-adv
+   → 人間はいつも話を語ったけれども、私たちが話を共有する方法は印刷機の発明以来劇的に変わってきた。   [SV] perfect,rel-adv
 ○ Many experts believe that the key to reducing traffic accidents lies not in stricter laws but in better education for young drivers.
    → 多くの専門家は交通事故を減らす鍵がより厳しい法律ではなく、若い運転手たちのためにより良い教育にあると考えている。   [SVO] not-but,that-clause
 ○ Contrary to popular belief, eating late at night does not necessarily cause weight gain, provided that the total amount of calories remains the same.
@@ -18935,7 +18935,7 @@
 ○ In many parts of the world, girls still do not have the same access to education as boys do.
    → 世界の多くの地域では、少女はまだ教育への少年と同じアクセスを持っていない。   [SVO] 
 ○ The more choices people are given, the harder it becomes for them to make a decision, according to some psychologists.
-   → 選択の人々が与えられていれば与えられているほど、人々にとって何人かの心理学者たちによれば決定するのがますます難しくなる。   [] passive,idiom,the-more
+   → 何人かの心理学者たちによれば、選択の人々が与えられていれば与えられているほど、人々にとって決定するのがますます難しくなる。   [] passive,idiom,the-more
 ○ Plastic bags, which take hundreds of years to break down, have been banned in a growing number of countries.
    → 分解されるのに何百年もかかるビニール袋はますます多くの国で禁止された。   [SV] idiom,it-takes,relative,passive,perfect
 ○ It was not until the nineteenth century that scientists began to understand how diseases spread.
@@ -19109,7 +19109,7 @@
 ○ For centuries, people have wondered why we dream, but scientists still cannot agree on a single explanation.
    → 何世紀も、人々は私たちがなぜ夢を見るか疑問に思ったが、科学者はまだただ1つの説明について意見が一致できない。   [SVO] indirect-q,perfect,modal,idiom
 ○ The number of people working from home has increased sharply since the pandemic, changing the way offices are designed.
-   → 在宅勤務をしている人々の数はパンデミック以来急激に増えていて、事務所が設計されている方法を変えている。   [SV] idiom,participle-mod,perfect,passive,rel-adv,participle-const
+   → 在宅勤務をしている人々の数はパンデミック以来急激に増えてきて、事務所が設計されている方法を変えている。   [SV] idiom,participle-mod,perfect,passive,rel-adv,participle-const
 ○ When I was a child, my grandmother used to tell me stories about the war that she had experienced as a young girl.
    → 私が子どもだったとき、祖母は以前は私に彼女が若い少女として経験した戦争についての話をしてくれていた。   [SVOO] used-to,pastperfect,relative,svoo
 ○ Bees communicate the location of flowers to other bees by performing a special dance inside the hive.
@@ -19290,5 +19290,131 @@
    → とても寒かったので、雪が降ったとき、私たちは家にいた。   [SVC] idiom,so-that
 ○ One reason why English has become a global language is that it is easy.
    → 英語が世界的な言語になった理由の1つは、それが簡単だからだ。   [SVC] perfect,rel-adv,that-clause
+○ Most people agree that it is important to protect the environment, but few are willing to change their own habits.
+   → ほとんどの人々は環境を守ることが重要であることに同意するが、ほとんどの人は自分の習慣を変える気がない。   [SVO] it-to,that-clause,idiom
+○ The ability to read and write is something that many of us take for granted, yet millions of adults around the world cannot do either.
+   → 読んで、書く能力は私たちの多くが当然のことと思う何かだが、何百万もの世界中の大人はどちらもできない。   [SVC] inf-adj,idiom,relative,modal
+○ When the bell rang, the students rushed out of the classroom, eager to enjoy the first day of summer vacation.
+   → ベルが鳴ったとき、生徒たちは夏休みの最初の日を楽しみたくて教室から飛び出した。   [SVO] idiom
+○ Scientists have discovered that some trees can warn their neighbors of danger by releasing chemicals into the air.
+   → 科学者はいくつかの木が空気の中に化学物質を放出することによって自分の隣人たちに危険を警告できることを発見した。   [SVO] gerund,modal,idiom,that-clause,perfect
+○ Unlike many other animals, humans are able to plan for the future and imagine situations they have never experienced.
+   → 多くの他の動物とは違って、人間は未来のために計画したり、彼らが一度も経験したことがない状況を想像したりできる。   [SV] perfect,relative,modal
+○ In recent years, an increasing number of companies have begun to allow their employees to choose when and where they work.
+   → 近年、従業員が彼らがいつどこで働いているか選ぶのを認め始めた会社がますます増えている。   [SVO] indirect-q,v-o-to,inf-noun,perfect
+○ Although robots can perform many tasks faster than humans, they still struggle with jobs that require common sense.
+   → ロボットは多くの仕事を人間より速く行えるけれども、彼らはまだ常識を必要とする仕事に苦しむ。   [SVO] comparative,modal,relative,idiom
+○ The famous painter did not become successful until after his death, when his works began to sell for large sums of money.
+   → 有名な画家は彼の死後になって初めて成功した。それは彼の作品が大金で売れ始めたときだった。   [SVC] inf-noun
+○ It is estimated that more than half of the world's languages will disappear by the end of this century.
+   → 世界の言語の半分以上が今世紀末までに消えると推定されている。   [SV] modal,it-said
+○ Instead of buying new clothes every season, she prefers to repair the ones she already owns.
+   → 季節ごとに新しい服を買う代わりに、彼女は彼女がすでに所有しているものを修理することのほうを好む。   [SVO] relative,inf-noun,gerund
+○ Studies show that people who eat breakfast regularly tend to have more energy and perform better at work or school.
+   → 研究は朝食を定期的に食べる人々がより多くのエネルギーを持って、仕事か学校でもっと上手に行う傾向があることを示している。   [SVO] relative,that-clause
+○ The village has changed so much over the past twenty years that I hardly recognized it when I returned.
+   → 村は過去20年間にわたってとてもたくさん変わったので、私は戻ったとき、ほとんどそれが分からなかった。   [SV] so-that,perfect
+○ Many experts believe that the best way to learn a language is to live in a country where it is spoken.
+   → 多くの専門家は言語を学ぶのに一番いい方法がそれが話されている国に住むことだと考えている。   [SVO] inf-adj,passive,rel-adv,that-clause
+○ The train was delayed for more than an hour because of the heavy snow, so many passengers missed their connections.
+   → 電車は1時間以上大雪のために遅れたので、多くの乗客が乗り継ぎの便に乗り遅れた。   [SV] passive
+○ What impressed me most about the trip was the kindness of the people I met along the way.
+   → 旅行について私に最も感銘を与えたのは私が途中で会った人々の親切だった。   [SVC] relative-what,relative
+○ If the government had acted sooner, the damage caused by the flood might have been much smaller.
+   → もし政府がもっとすぐに行動していたら、洪水で引き起こされた損害はずっと小さかったかもしれない。   [SVC] pastperfect,participle-mod,comparative,modal-perfect,subjunctive-pp
+○ Some parents worry that their children spend too much time playing video games instead of reading books.
+   → 自分の子どもたちが本を読む代わりにテレビゲームをするのに時間を使いすぎるのではないかと心配する親もいる。   [SVO] gerund,idiom,that-clause
+○ The doctor advised him to get more exercise and to cut down on salty food.
+   → 医者は彼にもっと運動して、塩辛い食べ物を減らすよう助言した。   [SVOC] idiom,v-o-to
+○ Although the experiment was successful, the scientists warned that more research would be needed before the drug could be used.
+   → 実験は成功していたけれども、科学者たちは薬が使われることができる前に、より多くの研究が必要とされると警告した。   [SVO] passive,modal,that-clause
+○ Few inventions have changed daily life as much as the smartphone has in the past two decades.
+   → 過去20年間で日常生活をスマートフォンほど変えた発明はほとんどない。   [SVO] as-as,perfect
+○ The library offers a wide range of services, from lending books to helping people find jobs.
+   → 本を貸すことから人々が仕事を見つけるのを手伝うことまで、図書館は幅広いサービスを提供する。   [SVO] 
+○ She was disappointed to learn that the concert had been canceled due to the singer's illness.
+   → 彼女はコンサートが歌手の病気のために中止されたことを知ってがっかりした。   [SVC] passive,pastperfect,that-clause,inf-adv
+○ The amount of sleep we need changes as we grow older, with babies needing far more sleep than adults.
+   → 私たちが年をとるにつれて、私たちが必要とする睡眠の量は変わる。赤ちゃんは大人より多くの睡眠がはるかに必要だ。   [SV] relative
+○ Not knowing what to say, he simply smiled and nodded.
+   → 何を言うべきか分からなくて、彼はただほほえんで、うなずいた。   [SV] indirect-q,participle-const
+○ People in cities tend to walk faster than those who live in the countryside, according to one study.
+   → ある研究によれば、都市の人々は田舎に住んでいる人々より速く歩く傾向がある。   [SVO] relative,comparative
+○ The new law, which will come into effect next year, requires all restaurants to display calorie information.
+   → 来年施行される新しい法律はすべてのレストランにカロリー情報を表示するよう要求する。   [SVOC] modal,idiom,relative,v-o-to
+○ Having finished her homework, she went out to play with her friends.
+   → 宿題を終えて、彼女は自分の友達と一緒に遊びに出かけた。   [SV] inf-adv,idiom,participle-const
+○ It is not easy to make friends in a new environment, especially if you are shy.
+   → 特に内気だったら、新しい環境で友達を作ることは簡単ではない。   [SVC] idiom,it-to
+○ The world's population is expected to reach nearly ten billion by 2050, putting even more pressure on food supplies.
+   → 世界の人口は2050年までにほぼ100億に達すると予想されていて、食料供給にさらに大きな圧力をかけている。   [SV] v-o-to,idiom,participle-const
+○ The students rushed out of the classroom, eager to enjoy the vacation.
+   → 生徒たちは休暇を楽しみたくて教室から飛び出した。   [SVO] idiom
+○ She left early, afraid to miss the train.
+   → 彼女は電車に乗り遅れるのを恐れて早く出発した。   [SV] 
+○ He stood up, determined to finish the work.
+   → 彼は仕事を終えると決意して立ち上がった。   [SV] idiom
+○ He ran out of the room.
+   → 彼は部屋から飛び出した。   [SV] idiom
+○ Prices rose sharply last year, with food costs increasing by ten percent.
+   → 物価は昨年急激に上がった。食べ物の費用は10%増えた。   [SV] 
+○ The population is growing, with more people moving to cities.
+   → 人口は増えている。より多くの人々が都市に移り住んでいる。   [SV] progressive
+○ She talked so much at the party that everyone got tired.
+   → 彼女はパーティーでとてもたくさん話したので、みんなは疲れた。   [SV] so-that
+○ He has changed so much over the years.
+   → 彼は長年にわたってとても変わってきた。   [SV] perfect
+○ The population has grown rapidly over the last decade.
+   → 人口は過去10年間にわたって急速に増えてきた。   [SV] perfect
+○ Prices have risen by ten percent since last year.
+   → 物価は昨年から10%上がっている。   [SV] perfect
+○ You should rest, especially if you have a fever.
+   → 特に熱があったら、休むべきだ。   [SV] modal
+○ Be careful, especially when you drive at night.
+   → 特に夜に運転するとき、注意深くしなさい。   [SVC] imperative
+○ I like music, especially when I am tired.
+   → 私は特に疲れているとき、音楽が好きだ。   [SVO] 
+○ She lived in Paris until the war, when she moved to London.
+   → 彼女は戦争までパリに住んでいた。それはロンドンに移り住んだときだった。   [SV] 
+○ He became famous after his death.
+   → 彼は自分の死後有名になった。   [SVC] 
+○ People who eat breakfast regularly tend to be healthier.
+   → 朝食を定期的に食べる人々はより健康である傾向がある。   [SVO] relative,comparative
+○ Children who read books regularly develop better language skills.
+   → 本を定期的に読む子どもはより良い言語能力を伸ばす。   [SVO] relative
+○ The books they bought were expensive.
+   → 彼らが買った本は高かった。   [SVC] relative
+○ Scientists studied the rocks that they had collected.
+   → 科学者は彼らが集めた岩を研究した。   [SVO] pastperfect,relative
+○ Birds are able to fly and swim.
+   → 鳥は飛んだり泳いだりできる。   [SV] modal
+○ She is able to speak French and write Chinese.
+   → 彼女はフランス語を話したり、中国語を書いたりできる。   [SVO] modal
+○ He was able to finish the work and go home early.
+   → 彼は仕事を終えて、早く帰宅できた。   [SVO] idiom,modal
+○ Few people have helped me as much as my teacher has.
+   → 私を私の先生ほど助けた人はほとんどいない。   [SVO] as-as,perfect
+○ Nothing has changed our lives as much as the internet has.
+   → 何も私たちの生活をインターネットほど変えていない。   [SVO] as-as,perfect
+○ He doesn't eat as much as he used to.
+   → 彼は以前ほど食べない。   [SV] as-as
+○ She doesn't play tennis as often as she used to.
+   → 彼女はテニスを以前ほどよくしない。   [SVO] as-as
+○ I don't read as many books as I used to.
+   → 私は以前ほど多くの本を読まない。   [SVO] 
+○ We don't have as much free time as we used to.
+   → 私たちは以前ほどたくさんの自由時間を持っていない。   [SVO] 
+○ Eat as many vegetables as possible.
+   → できるだけ多くの野菜を食べなさい。   [SVO] imperative
+○ Read as many books as you can.
+   → できるだけ多くの本を読みなさい。   [SVO] imperative
+○ I met many people along the way.
+   → 私は途中で多くの人々に会った。   [SVO] 
+○ He sold it for a large sum of money.
+   → 彼は大金でそれを売った。   [SVO] 
+○ Parents put a lot of pressure on their children.
+   → 親は自分の子どもたちに大きな圧力をかける。   [SVO] idiom
+○ The new law requires all restaurants to display calorie information.
+   → 新しい法律はすべてのレストランにカロリー情報を表示するよう要求する。   [SVOC] v-o-to
 
-parsed 9646 / 9646
+parsed 9709 / 9709
