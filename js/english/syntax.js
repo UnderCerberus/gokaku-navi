@@ -13006,6 +13006,12 @@
           if (rvPf) return wrap(joinCoord(w, left, rvPf));
           fail(mPf);
         }
+        if (isCC && /^(?:so|and|but)$/.test(w) && isW(T[rs], 'let') && rs + 2 < b && !o.sub) {
+          const mLs = mark();
+          const imLs = imperative(rs, b);
+          if (imLs) { const nodeLs = Object.assign({}, left); nodeLs.out = (y) => (w === 'but' ? left.out(Object.assign({}, y || {})) + 'が、' : left.out(Object.assign({}, y || {}, { form: w === 'so' ? 'node' : 'te' })) + (w === 'so' ? 'ので、' : '、')) + imLs.out(y); return wrap(nodeLs); }   // so let's stay home
+          fail(mLs);
+        }
         let right = (thenPred && left.subj && T[rs].k === 'w' && !!vc(T[rs], ['3sg', 'past', 'base']) && !(PRON[T[rs].w] && PRON[T[rs].w].sub) && DET[T[rs].w] === undefined) || modalStart ? null : sentence(rs, b, o);   // and then circles back to repeat the pattern（circles は動詞）
         if (right && thenPred) { const ro1 = right.out; right = Object.assign({}, right, { out: (z) => 'それから' + ro1(z) }); }
         if (right) return wrap(joinCoord(w, left, right));

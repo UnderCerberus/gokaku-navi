@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (193ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (198ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -1113,7 +1113,7 @@
 ○ In each case the machine does the work well, and the person gains time, but something slowly disappears that only practice can maintain.
    → どの場合も、機械はうまく仕事をこなし、人は時間を得るが、練習によってしか保てない何かがゆっくりと消えていく。   [SVO] modal,relative
 ○ Something slowly disappears that only practice can maintain.
-   → 練習だけゆっくりと維持できる何かが消える。   [SV] modal,relative
+   → 練習だけゆっくりと維持できるものが消える。   [SV] modal,relative
 ○ In April 1956, one of his old oil tankers, the Ideal X, left Newark, New Jersey, for Houston, Texas, carrying 58 metal boxes on its deck.
    → 1956年4月に、彼の古い石油タンカーの1隻であるアイディアルX号は甲板に58個の金属の箱を積んで、ニュージャージー州のニューアークをテキサス州のヒューストンに向けて出発した。   [SVO] apposition,participle-const,idiom
 ○ He left Newark, New Jersey, for Houston, Texas.
@@ -4571,7 +4571,7 @@
 ○ The station is far from here.
    → 駅はここから遠い。   [SVC] 
 ○ Kyoto was the capital of Japan for more than 1,000 years.
-   → 京都は1000年以上の間、日本の首都だった。   [SVC] 
+   → 京都は1000年以上日本の首都だった。   [SVC] 
 ○ Visitors from all over the world come to see them.
    → 世界中からの訪問者は彼らを見に来る。   [SV] 
 ○ The climate there is warm all year round.
@@ -5079,7 +5079,7 @@
 ○ Not only did he finish the work, but he also helped others.
    → 彼は仕事を終えただけでなく、他の人たちも助けた。   [SVO] not-only,inversion
 ○ Hardly had I gone to bed when the phone rang.
-   → 私が寝るか寝ないかのうちに、電話が鳴った。   [SV] pastperfect,idiom,inversion
+   → 私が寝たとたん、電話が鳴った。   [SV] pastperfect,idiom,inversion
 ○ Scarcely had he arrived when the meeting started.
    → 彼が到着するかしないかのうちに、会議が始まった。   [SV] inversion
 ○ He was seen to enter the building.
@@ -11907,7 +11907,7 @@
 ○ The only thing that matters is your health.
    → 大切なのはあなたの健康だけだ。   [SVC] relative
 ○ It's something I can't forget.
-   → それは私が忘れることができないものだ。   [SVC] modal,relative
+   → それは私が忘れることができないことだ。   [SVC] modal,relative
 ○ People living in the city often feel lonely.
    → 都市に住んでいる人々はよく寂しさを感じる。   [SVC] participle-mod
 ○ The girl sitting next to me is my cousin.
@@ -19293,7 +19293,7 @@
 ○ Most people agree that it is important to protect the environment, but few are willing to change their own habits.
    → ほとんどの人々は環境を守ることが重要であることに同意するが、ほとんどの人は自分の習慣を変える気がない。   [SVO] it-to,that-clause,idiom
 ○ The ability to read and write is something that many of us take for granted, yet millions of adults around the world cannot do either.
-   → 読んで、書く能力は私たちの多くが当然のことと思う何かだが、何百万もの世界中の大人はどちらもできない。   [SVC] inf-adj,idiom,relative,modal
+   → 読んで、書く能力は私たちの多くが当然のことと思うものだが、何百万もの世界中の大人はどちらもできない。   [SVC] inf-adj,idiom,relative,modal
 ○ When the bell rang, the students rushed out of the classroom, eager to enjoy the first day of summer vacation.
    → ベルが鳴ったとき、生徒たちは夏休みの最初の日を楽しみたくて教室から飛び出した。   [SVO] idiom
 ○ Scientists have discovered that some trees can warn their neighbors of danger by releasing chemicals into the air.
@@ -20254,5 +20254,137 @@
    → 多くの人々がうつ病に苦しむ。   [SVO] idiom
 ○ She published a paper on climate change.
    → 彼女は気候変動に関する論文を出版した。   [SVO] 
+○ Had it not been for the support of his family, he would never have been able to finish his studies.
+   → 家族の支えがなかったら、彼は決して自分の勉強を終えられなかっただろう。   [SVO] modal-perfect,subjunctive-past
+○ Born in a small fishing village, she had never seen a skyscraper until she moved to the capital at eighteen.
+   → 小さい漁村で生まれて、彼女は18歳で首都に引っ越すまで、一度も超高層ビルを見たことがなかった。   [SVO] pastperfect,participle-const
+○ There is no point in worrying about things that you cannot change, so try to focus on what you can control.
+   → あなたが変えられない物を心配しても無駄なので、あなたが支配できることに集中するようにしなさい。   [SV] modal,relative,idiom,there,relative-what,inf-noun,imperative
+○ Whatever you decide to do after graduation, make sure it is something that you truly enjoy.
+   → 卒業後に何をすることに決めても、必ずそれがあなたが本当に楽しむことであるようにしてください。   [SV] inf-noun,relative,imperative,idiom,concession
+○ It took the engineers nearly three years to design a car that could run entirely on solar power.
+   → 技術者たちが太陽光発電で完全に走れた車を設計するのにほぼ3年かかった。   [SVO] modal,relative,it-takes
+○ Only by working together can countries hope to solve global problems such as climate change and poverty.
+   → 一緒に働くことによってのみ、国は気候変動や貧困などの世界的な問題を解決したいと思える。   [SVO] gerund,inf-noun,modal,inversion
+○ Hardly had the plane taken off when one of the passengers began to feel sick.
+   → 飛行機が離陸したとたん、乗客の1人が病気だと感じ始めた。   [SVO] pastperfect,idiom,inf-noun,inversion
+○ The success of the project was due not so much to luck as to the careful planning of the team.
+   → プロジェクトの成功は運というよりむしろチームの注意深い計画によるものだった。   [SVC] not-so-much
+○ He gave what little money he had to the poor family living next door.
+   → 彼は隣に住んでいる貧しい家族に自分が持っていたわずかなお金すべてを与えた。   [SVO] relative-what,participle-mod
+○ Nothing is more important to a growing child than a safe and loving home.
+   → 成長している子どもにとって安全で愛情のある家ほど重要なものはない。   [SVC] comparative
+○ The last thing I wanted was to make my parents worry about me while I was studying abroad.
+   → 私が留学している間に、私が最も望まなかったことは両親に私を心配させることだった。   [SVC] idiom,causative,progressive
+○ She never fails to call her grandmother on her birthday, no matter how busy she is.
+   → 彼女はどんなに忙しくても、自分の誕生日に自分の祖母に必ず電話する。   [SVO] concession
+○ With prices rising so quickly, many families are finding it difficult to buy enough food.
+   → 価格がとても速く上がっている状態で、多くの家族は十分な食べ物を買うことが難しいと感じている。   [SVOC] svoc,formal-object,progressive,absolute
+○ So beautiful was the view from the mountain that we stayed there until the sun went down.
+   → 山からの眺めはとても美しかったので、太陽が沈むまで、私たちはそこに滞在した。   [SVC] idiom,so-that,inversion
+○ The town, whose main industry had been coal mining for more than a century, has turned to tourism.
+   → 主な産業が1世紀以上ずっと炭鉱業だった町は観光業に転換した。   [SV] pastperfect,relative,perfect
+○ You are supposed to hand in your report by Friday, but the teacher may give you an extra day.
+   → あなたは金曜日までにレポートを提出することになっているが、先生はあなたに余分な日を与えるかもしれない。   [SVC] idiom,svoo,modal
+○ Having nothing else to do on a rainy afternoon, the children decided to build a fort out of blankets.
+   → 雨の午後にすることが何もなかったので、子どもたちは毛布からとりでを建てることに決めた。   [SVO] inf-adj,inf-noun,participle-const
+○ Many scientists believe that the number of insects in the world has been declining for decades.
+   → 多くの科学者は世界の昆虫の数が何十年もずっと減少していると考えている。   [SVO] progressive,perfect,that-clause
+○ The reason why so few people volunteer is not that they are selfish but that they are too busy.
+   → ほとんどの人々がボランティアをしない理由は彼らが利己的だということではなく、彼らが忙しすぎるということだ。   [SVC] rel-adv,too,that-clause,not-but
+○ However hard I try, I cannot remember the name of the restaurant where we had dinner last month.
+   → 私はどんなに頑張っても、私たちが先月夕食を食べたレストランの名前が思い出せない。   [SVO] rel-adv,modal,concession
+○ It goes without saying that health is more important than money, yet many people forget this.
+   → 健康がお金より重要なのは言うまでもないが、多くの人々がこれを忘れる。   [SV] comparative,that-clause,idiom
+○ The longer you wait to see a doctor, the more serious your illness may become.
+   → あなたが医者に診てもらうのを長く待てば待つほど、あなたの病気はますます深刻になるかもしれない。   [] the-more
+○ Not until the end of the meeting did I realize that I had left my phone in the taxi.
+   → 会議の終わりになって初めて、私はタクシーに電話を置き忘れたことに気づいた。   [SVO] pastperfect,that-clause,inversion
+○ Some experts warn that relying too much on artificial intelligence could make people less creative.
+   → 人工知能に頼りすぎることが人々を創造的でなくするかもしれないと警告する専門家もいる。   [SVO] gerund,svoc,modal,that-clause
+○ In order to protect the forest, the government has banned the cutting of trees in certain areas.
+   → 森林を守るために、政府は特定の地域で木を切ることを禁止した。   [SVO] perfect,inf-adv
+○ She is as talented as any other musician in the orchestra, but she rarely gets the chance to play solo.
+   → 彼女はオーケストラにほかのどの音楽家と同じくらい才能があるが、めったにソロで遊ぶ機会を得ない。   [SVC] as-as,inf-adj
+○ What is more, the new system allows patients to book appointments online at any time of day.
+   → さらに、新しい制度は患者がいつでも約束をオンラインで予約することを可能にする。   [SVOC] v-o-to
+○ The book is said to have been written by a monk who lived in the mountains about eight hundred years ago.
+   → 本は約800年前に山に住んでいた修道士によって書かれたと言われている。   [SV] relative,it-said,passive
+○ Although the experiment failed, the researchers learned more from their mistakes than they had expected.
+   → 実験は失敗したけれども、研究者たちは自分の間違いから彼らが予想したより多く学んだ。   [SV] comparative
+○ People who have pets tend to be healthier and happier than those who live alone without any animals.
+   → ペットを飼っている人々は動物なしで一人暮らしの人々より健康で、幸せな傾向がある。   [SVO] relative,comparative
+○ Hardly had I fallen asleep when the phone rang.
+   → 私が眠り込んだとたん、電話が鳴った。   [SV] pastperfect,idiom,inversion
+○ There is no point in crying, so let's think about the next step.
+   → 泣いても無駄なので、次の一歩について考えましょう。   [SV] there,idiom,imperative
+○ Only in this way can we protect the environment.
+   → このようにしてのみ、私たちは環境を守れる。   [SVO] modal,inversion
+○ Only by reading many books can you improve your writing.
+   → 多くの本を読むことによってのみ、あなたは書くことを上達させられる。   [SVO] gerund,modal,inversion
+○ Make sure it is clean.
+   → 必ずそれがきれいであるようにしてください。   [SV] imperative,idiom
+○ It is something you enjoy.
+   → それはあなたが楽しむことだ。   [SVC] relative
+○ The cutting of trees is banned here.
+   → 木を切ることはここで禁止されている。   [SV] passive
+○ The reading of books is important.
+   → 本を読むことは重要だ。   [SVC] 
+○ Nothing is more important to me than my family.
+   → 私にとって家族ほど重要なものはない。   [SVC] comparative
+○ Health is more important to me than money.
+   → 健康は私にとってお金より重要だ。   [SVC] comparative
+○ Children need a warm and loving home.
+   → 子どもは暖かくて愛情のある家が必要だ。   [SVO] 
+○ We live in a safe and clean city.
+   → 私たちは安全できれいな都市に住んでいる。   [SV] 
+○ She has a kind heart.
+   → 彼女は優しい心を持っている。   [SVO] 
+○ She calls her mother, no matter how busy she is.
+   → 彼女はどんなに忙しくても、自分の母に電話する。   [SVO] concession
+○ I will help you, no matter what happens.
+   → 何が起こっても、私はあなたを助けるつもりだ。   [SVO] modal,concession
+○ He never gives up, however difficult the task is.
+   → 仕事がどんなに難しくても、彼は決してあきらめない。   [SV] idiom,concession
+○ So beautiful was the view from the hill that we stayed there.
+   → 丘からの眺めはとても美しかったので、私たちはそこに滞在した。   [SVC] so-that,inversion
+○ The sun goes down early in winter.
+   → 太陽は冬に早く沈む。   [SV] idiom
+○ His success was due not so much to luck as to hard work.
+   → 彼の成功は運というよりむしろ努力によるものだった。   [SVC] not-so-much
+○ He gave what money he had to the family.
+   → 彼は家族に自分が持っていたお金すべてを与えた。   [SVO] relative-what
+○ She spent what little time she had with her children.
+   → 彼女は自分の子どもたちと一緒に自分が持っていたわずかな時間すべてを過ごした。   [SVO] relative-what
+○ The man living next door is a doctor.
+   → 隣に住んでいる男性は医者だ。   [SVC] participle-mod
+○ The last thing he needs is more stress.
+   → 彼が最も必要としないことはより多くのストレスだ。   [SVC] 
+○ That was the last thing I expected.
+   → それは私が最も予想しなかったことだった。   [SVC] 
+○ It goes without saying that health is important, but many people forget it.
+   → 健康が重要なのは言うまでもないが、多くの人々がそれを忘れる。   [SV] that-clause,idiom
+○ She moved to the capital at eighteen.
+   → 彼女は18歳で首都に引っ越した。   [SV] 
+○ He left home at sixteen.
+   → 彼は16歳で家を出た。   [SV] 
+○ The town has turned to tourism.
+   → 町は観光業に転換した。   [SV] perfect
+○ He turned to his friends for help.
+   → 彼は助けのために自分の友達に頼った。   [SV] 
+○ The planning was careful.
+   → 計画は注意深かった。   [SVC] 
+○ He said something that made me angry.
+   → 彼は私を怒らせたことを言った。   [SVO] svoc,relative
+○ I need something I can use.
+   → 私は使えるものが必要だ。   [SVO] modal,relative
+○ Many farmers have turned to organic farming.
+   → 多くの農家が有機の農業に転換した。   [SV] perfect
+○ The family living next door is kind.
+   → 隣に住んでいる家族は親切だ。   [SVC] participle-mod
+○ It is raining, so let's stay home.
+   → 雨が降っているので、家にいましょう。   [SV] progressive,idiom,imperative
+○ I am hungry, but let's wait for her.
+   → 私は空腹だが、彼女を待ちましょう。   [SVC] idiom,imperative
 
-parsed 10128 / 10128
+parsed 10194 / 10194
