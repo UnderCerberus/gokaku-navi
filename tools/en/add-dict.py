@@ -2,9 +2,29 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['customer service center', '名', 'カスタマーサービスセンター', 3],
-    ['Czech', '形', 'チェコの; チェコ語の', 3],
-    ['unopened', '形', '開封されていない', 3],
+    ['unpopular', '形', '人気のない', 2],
+    ['unhealthy', '形', '不健康な; 健康に悪い', 2],
+    ['unequal', '形', '不平等な; 等しくない', 2],
+    ['unlimited', '形', '無制限の', 2],
+    ['unpredictable', '形', '予測できない', 2],
+    ['unreliable', '形', '当てにならない; 信頼できない', 2],
+    ['unsafe', '形', '安全でない; 危険な', 2],
+    ['unstable', '形', '不安定な', 2],
+    ['unsuccessful', '形', '成功しなかった; 失敗した', 2],
+    ['unwilling', '形', '気が進まない', 2],
+    ['inaccurate', '形', '不正確な', 2],
+    ['inappropriate', '形', '不適切な', 2],
+    ['incapable', '形', '〜できない; 無能な', 3],
+    ['incomplete', '形', '不完全な', 2],
+    ['inconvenient', '形', '不便な', 2],
+    ['incorrect', '形', '間違った; 不正確な', 2],
+    ['ineffective', '形', '効果のない', 2],
+    ['inefficient', '形', '非効率的な', 2],
+    ['irregular', '形', '不規則な', 2],
+    ['irresponsible', '形', '無責任な', 2],
+    ['disapprove', '動', '〜に反対する; 〜を認めない', 3],
+    ['discomfort', '名', '不快感', 2],
+    ['dissatisfied', '形', '不満な', 2],
 ]
 def key(w):
     return w.lower()

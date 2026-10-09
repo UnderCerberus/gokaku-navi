@@ -69,7 +69,7 @@
 34 ○ Gilbert did not simply repeat what old books said.
     → ギルバートは古い本に書いてあることを単に繰り返さなかった。
 35 ○ Instead, he spent many years doing experiments with magnets, and in 1600 he published his results.
-    → その代わりに、彼は磁石で実験をするのに何年も費やして、1600年に自分の結果を出版した。
+    → その代わりに、彼は磁石で実験を行うのに何年も費やして、1600年に自分の結果を発表した。
 36 ○ He showed, for example, that garlic had no effect at all: a magnet rubbed with garlic attracted iron just as strongly as before.
     → たとえば、彼はニンニクが少しも影響を与えないことを示した：ニンニクでこすられた磁石が鉄を以前と同じくらい強く引きつけた。
 37 ○ His most famous experiment used a lodestone cut into the shape of a ball.
@@ -367,7 +367,7 @@
 183 ○ What is worse, many deliveries are made in half-empty vehicles, because customers expect their goods to arrive at the exact time they have chosen.
     → さらに悪いことには、客が商品を自分の選んだ時間ちょうどに届けてほしいと思うので、多くの配達が半分空のトラックで行われている。
 184 ○ The result is that the number of delivery trucks on city streets has risen sharply, adding to traffic jams and air pollution.
-    → その結果、都市の通りの配達のトラックの数が急激に増えた。これが交通渋滞と大気汚染を増やす。
+    → その結果、都市の通りの配達のトラックの数が急激に増えた。これが交通渋滞と大気汚染を増やしている。
 185 ○ Packaging is another source of waste.
     → 包装もごみを生むもう1つの原因だ。
 186 ○ A small item such as a phone case is often shipped in a box several times larger than necessary, surrounded by plastic that will be thrown away within minutes.
@@ -591,7 +591,7 @@
 295 ○ In such cases, it is better to finish one task before starting the next.
     → そのような場合、次のものを始める前に1つの仕事を終えたほうがよい。
 296 ○ Some people find this advice hard to follow, because doing just one thing seems like a waste of time.
-    → この助言に従うのは難しいと感じる人もいる。1つのことだけをするのは時間の無駄に思えるからだ。
+    → たった1つのことをすることが時間の無駄のように思われるので、この助言に従うのが難しいと感じる人もいる。
 297 ○ Yet the evidence suggests that the opposite is true.
     → しかし、証拠はその逆が正しいことを示唆する。
 298 ○ People who concentrate on one thing at a time often finish earlier and do better work than those who try to do everything at once.
@@ -607,7 +607,7 @@
 303 ○ I took his words literally.
     → 私は彼の言葉を文字どおりに受け取った。
 304 ○ Every Saturday I spent hours between the shelves, reading a few pages of one book and then a few pages of another.
-    → 毎週土曜日、私は棚の間で何時間も過ごし、ある本を数ページ読んでは、別の本を数ページ読んだ。
+    → 毎週土曜日、私はある本のいくつかのページ、それからもう1つのいくつかのページを読んで棚の間の何時間も過ごした。
 305 ○ I could not afford to buy many books, so I read most of them standing up.
     → 私は多くの本を買う余裕がなかったので、それらのほとんどを立ったまま読んだ。
 306 ○ Mr. Hayashi never once told me to leave.
@@ -861,7 +861,7 @@
 430 ○ In the beginning, however, the idea did not spread widely.
     → しかし、最初は、考えはあまり広まらなかった。
 431 ○ Each company built boxes of its own size, and a box from one company often did not fit the trucks, trains, or cranes of another.
-    → それぞれの会社は独自の大きさの箱を作って、ある会社の箱が、別の会社のトラックや列車やクレーンに合わないこともよくあった。
+    → それぞれの会社は独自の大きさの箱を作って、ある会社からの箱はよくトラックか電車かもう1つのクレーンに合わなかった。
 432 ○ In 1968, international standards fixed a few common sizes.
     → 1968年に、国際的な基準はいくつかの共通の大きさを定めた。
 433 ○ After that, a container could pass from a ship to a train to a truck almost anywhere in the world without being unpacked.

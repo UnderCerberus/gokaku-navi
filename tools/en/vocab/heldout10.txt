@@ -1,0 +1,25 @@
+# 未見文 第 10 群で足りなかった語・複合語（第 505 組）
+plant and animal species|名|動植物の種|2
+plant and animal life|名|動植物|2
+plants and animals|名|動植物|2
+economist|名|経済学者|2
+eyesight|名|視力|2
+noticeable|形|目立つ; 顕著な|2
+textile|名|織物; 繊維|2
+textile industry|名|繊維産業|2
+leading|形|一流の; 主要な|2
+medical journal|名|医学誌|2
+scientific journal|名|科学誌|2
+academic journal|名|学術誌|2
+blood sugar|名|血糖|2
+blood sugar level|名|血糖値|2
+bicycle lane|名|自転車レーン|2
+bike lane|名|自転車レーン|2
+drinking water|名|飲み水|2
+private home|名|個人の住宅|2
+job satisfaction|名|仕事への満足度|2
+food supply|名|食料供給|2
+first impression|名|第一印象|2
+fishing village|名|漁村|2
+working life|名|職業生活|2
+formal education|名|正規の教育|2
