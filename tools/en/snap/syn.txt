@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (237ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (238ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -9015,7 +9015,7 @@
 ○ Pour the sauce over the meat.
    → 肉にソースをかけなさい。   [SVO] imperative
 ○ Peel the potatoes and cut them in half.
-   → ジャガイモの皮をむいて、半分に切りなさい。   [SVO] imperative
+   → ジャガイモの皮をむいて、半分に切りなさい。   [SVO] imperative,idiom
 ○ Fry the chicken until it turns golden brown.
    → きつね色になるまで、鶏肉を揚げなさい。   [SVO] imperative
 ○ Sprinkle some cheese on top.
@@ -17643,7 +17643,7 @@
 ○ The disease was found in its early stages.
    → 病気はその初期段階で見つかった。   [SV] 
 ○ One explanation is that young brains are more flexible and can adapt to new sounds more easily.
-   → 1つの説明は若い脳がもっと柔軟で、新しい音にもっと簡単に適応できるということだ。   [SVC] comparative,that-clause,modal
+   → 1つの説明は若い脳がもっと柔軟で、もっと簡単に新しい音に適応できるということだ。   [SVC] comparative,that-clause,modal,idiom
 ○ The problem is that he is busy and never answers the phone.
    → 問題は彼が忙しくて、決して電話に出ないということだ。   [SVC] that-clause
 ○ The truth is that she was tired and wanted to go home.
@@ -18361,7 +18361,7 @@
 ○ The more time children spend outdoors, the less likely they are to become nearsighted.
    → 子どもが時間を屋外でたくさん費やせば費やすほど、近視になる可能性はますます低くなる。   [SV] the-more
 ○ Instead of throwing away old clothes, many people now sell them online or give them to charity.
-   → 古い服を捨てる代わりに、多くの人々が今それらをオンラインで売ったり慈善団体に彼らを与えたりする。   [SVO] idiom,gerund
+   → 古い服を捨てる代わりに、多くの人々が今それらをオンラインで売ったり慈善団体にそれらを与えたりする。   [SVO] idiom,gerund
 ○ Because the bridge had been damaged by the typhoon, cars were not allowed to cross it for several days.
    → 橋が台風で被害を受けたので、車は数日間それを渡ることを許されなかった。   [SV] passive,pastperfect,v-o-to
 ○ One of the reasons why Japanese food has become popular abroad is that it is considered to be healthy.
@@ -18497,7 +18497,7 @@
 ○ Although electric cars are becoming more popular, many people are still worried about how far they can travel on a single charge.
    → 電気自動車はより人気が出ているけれども、多くの人々がまだ彼らがどのくらい遠く1回の充電で旅行できるかについて心配している。   [SVC] progressive,modal,indirect-q
 ○ The teacher noticed that the student who usually sat in the front row had been absent for a week.
-   → 先生はたいてい前の列に座った生徒が1週間ずっと欠席だったことに気づいた。   [SVO] relative,pastperfect,that-clause
+   → 先生はたいてい最前列に座った生徒が1週間ずっと欠席だったことに気づいた。   [SVO] relative,pastperfect,that-clause
 ○ Learning from mistakes is one of the most effective ways to improve, yet many people are afraid of making them.
    → 間違いから学ぶことは改善する最も効果的な方法の1つだが、多くの人々がそれらを作ることを恐れている。   [SVC] gerund,inf-adj,idiom
 ○ In the early twentieth century, most people in Japan lived in rural areas and worked in agriculture.
@@ -18611,7 +18611,7 @@
 ○ Interestingly, the word "robot" comes from a Czech word meaning "forced labor."
    → 興味深いことに、「robot」という語は「forced labor」を意味するCzechの語に由来する。   [SV] participle-mod,quote
 ○ In spite of the bad weather, thousands of people gathered in the square to celebrate the new year.
-   → 悪天候にもかかわらず、何千人もの人々は新しい年を祝うために広場に集まった。   [SV] inf-adv
+   → 悪天候にもかかわらず、何千人もの人々は新年を祝うために広場に集まった。   [SV] inf-adv
 ○ This is the reason why many companies are now trying to reduce their use of plastic packaging.
    → これは多くの会社が今プラスチックの包装の彼らの使用を減らそうとしている理由だ。   [SVC] inf-noun,progressive,rel-adv
 ○ The cost of living in Tokyo is much higher than that in most other cities in Japan.
@@ -18809,7 +18809,7 @@
 ○ As cities continue to expand, more and more farmland is being converted into housing and shopping centers.
    → 都市が広がり続けるにつれて、ますます多くの農地は住宅とショッピングセンターに変えられている。   [SV] inf-noun,passive,progressive
 ○ One of the main reasons why people fail to keep their New Year's resolutions is that they set goals that are too ambitious.
-   → 人々が自分の新しい年の決意を守れない主な理由の1つは彼らが野心的すぎる目標を設定するということだ。   [SVC] rel-adv,too,relative,that-clause
+   → 人々が自分の新年の抱負を守れない主な理由の1つは彼らが野心的すぎる目標を設定するということだ。   [SVC] rel-adv,too,relative,that-clause
 ○ Robots are expected to take over many dangerous jobs, allowing human workers to focus on tasks that require creativity.
    → ロボットは多くの危険な仕事を引き継ぐと予想されていて、人間の労働者たちが創造性を必要とする仕事に集中することを可能にしている。   [SV] idiom,v-o-to,relative,participle-const
 ○ What we remember is often influenced by what we already know, which means that two people may recall the same event quite differently.
@@ -18955,7 +18955,7 @@
 ○ Instead of punishing children for their mistakes, teachers should encourage them to think about what went wrong.
    → 彼らの間違いのために子どもを罰する代わりに、先生は彼らにうまくいかなくなったことについて考えるよう励ますべきだ。   [SVOC] relative-what,idiom,v-o-to,modal,gerund
 ○ The museum offers free admission on the first Sunday of every month, which makes it popular with families.
-   → 博物館は毎月の最初の日曜日に無料の入場を提供して、そのことが家族にそれを人気があるようにする。   [SVO] svoc,relative
+   → 博物館は毎月の最初の日曜日に無料の入場を提供して、そのことが家族にそれを人気のあるものにする。   [SVO] svoc,relative
 ○ As the population ages, the government will have to find ways to pay for the rising cost of medical care.
    → 人口が高齢化するにつれて、政府は医療の費用の上昇をまかなう方法を見つけなければならないだろう。   [SVO] idiom,inf-adj,modal
 ○ Smartphones have made it easier than ever to stay in touch with friends, but they have also made it harder to focus.
@@ -18971,7 +18971,7 @@
 ○ The city plans to plant ten thousand trees over the next five years to reduce the effects of extreme heat.
    → 市は今後5年間にわたって猛暑の影響を減らすために1万本の木を植える予定だ。   [SVO] inf-adv,inf-noun
 ○ What makes this region unique is not its climate but the way its people have adapted to it over the centuries.
-   → この地域をユニークなものにするのはその気候ではなくその人々が世紀にわたってそれに適応している方法だ。   [SVC] svoc,relative-what,perfect,rel-adv,not-but
+   → この地域をユニークなものにするのはその気候ではなくその人々が世紀にわたってそれに適応している方法だ。   [SVC] svoc,relative-what,perfect,idiom,rel-adv,not-but
 ○ The key lies not in laws but in education.
    → 鍵は法律ではなく、教育にある。   [SV] not-but
 ○ He works not for money but for love.
@@ -19041,7 +19041,7 @@
 ○ It was such a difficult problem that none of the students could solve it.
    → とても難しい問題だったので、学生たちの誰もそれを解けなかった。   [SVC] modal,so-that
 ○ The degree to which a person can adapt to change often determines how successful they will be.
-   → 人がよく変わるために適応できる程度は彼らがどれほど成功しているか決定する。   [SVO] inf-adv,modal,relative,indirect-q
+   → 人がよく変化に適応できる程度は彼らがどれほど成功しているか決定する。   [SVO] modal,idiom,relative,indirect-q
 ○ What if machines become smarter than the humans who created them?
    → 機械がそれらを創造した人間より賢くなったらどうなるだろうか。   [] what-if
 ○ Living in a foreign country, you learn not only a new language but also new ways of thinking.
@@ -19647,7 +19647,7 @@
 ○ The idea that we use only ten percent of our brains is a myth that has been repeated so often that many people believe it.
    → 私たちが脳の10%しか使わないという考えはとてもよく繰り返されたため多くの人々が信じている俗説だ。   [SVC] appositive,so-that,passive,perfect,relative
 ○ When people are asked to remember a list of words, they tend to recall the first and last items better than those in the middle.
-   → 人々が語のリストを覚えるように求められるとき、最初と最後の品目を真ん中の品目より上手に思い出す傾向がある。   [SVO] v-o-to,comparative
+   → 人々が語のリストを覚えるように求められるとき、最初と最後の品目を真ん中の品目よりよく思い出す傾向がある。   [SVO] v-o-to,comparative
 ○ It was only when the river began to flood every year that the villagers realized how much the forest had protected them.
    → 村人たちが森林がどのくらい彼らを守ったか分かったのは、川が毎年氾濫し始めたときになってからだった。   [SVO] pastperfect,indirect-q,inf-noun,cleft
 ○ Social media allows us to stay in touch with friends who live far away, but it can also make us feel lonely if we compare ourselves with others.
@@ -19940,5 +19940,167 @@
    → 彼らは子どものころに本が大好きだった。   [SVO] 
 ○ We were warned that the road was dangerous.
    → 私たちは道路が危険だと警告された。   [SVO] that-clause,passive
+○ Only when we lose something important do we realize how much it meant to us.
+   → 何か重要なものを失って初めて、私たちはそれが私たちにとってどれほど大切だったか分かる。   [SVO] indirect-q,inversion
+○ No sooner had the concert started than the power went out across the whole city.
+   → コンサートが始まるとすぐに、市全体で停電した。   [SV] idiom,inversion
+○ The fact that so many young people now get their news from social media worries many journalists.
+   → とても多くの若い人々が今SNSから彼らのニュースを得るという事実は多くのジャーナリストを心配させる。   [SVO] appositive
+○ Were it not for the bees that pollinate them, many of the fruits we eat would disappear from supermarket shelves.
+   → それらを受粉させるミツバチがなければ、私たちが食べる果物の多くはスーパーマーケットの棚から消えるだろう。   [SV] relative,modal,subjunctive-past
+○ The new bridge, which took nearly ten years to complete, has cut the travel time between the two islands in half.
+   → 完成させるのにほぼ10年かかった新しい橋は2つの島の間の移動時間を半分にした。   [SVO] it-takes,relative,perfect,idiom
+○ She spoke so quietly that even those sitting in the front row could hardly hear what she was saying.
+   → 彼女はとても静かに話したので、最前列に座っている人々さえほとんど彼女が言っていたことが聞こえなかった。   [SV] progressive,relative-what,modal,so-that
+○ It is not the strongest species that survive, but the ones that are most able to adapt to change.
+   → 生き残るのは最も強い種ではなく最も変化に適応することができるものだ。   [SVC] idiom,relative,not-but,cleft
+○ With more and more people working from home, the demand for office space in large cities has fallen sharply.
+   → ますます多くの人々が在宅勤務をしている状態で、大きい都市のオフィススペースの需要は急激に減った。   [SV] idiom,perfect,absolute
+○ Although he is often described as a genius, he himself insists that his success came from hard work rather than talent.
+   → 彼はよく天才として描写されているけれども、彼自身は自分の成功が才能というよりむしろ努力から来たと主張する。   [SVO] passive,comparative,that-clause
+○ The longer you put off a difficult task, the harder it becomes to start.
+   → 難しい仕事を長く延期すればするほど、始めるのがますます難しくなる。   [] idiom,the-more
+○ Not knowing what else to do, the lost tourist asked a police officer for directions to the station.
+   → ほかの何をするべきか分からなくて、道に迷った観光客は警察官に駅への道を尋ねた。   [SVO] indirect-q,idiom,participle-const
+○ Many of the words we use every day were originally borrowed from other languages, often with their meanings slightly changed.
+   → 私たちが毎日使う語の多くは他の言語からもともと借りられて、多くの場合、意味が少し変わった。   [SV] relative,passive,with-oc
+○ People who speak more than one language tend to be better at switching between tasks than those who speak only one.
+   → 1つ以上の言語を話す人々は1つしか話さない人々より仕事の間で切り替えることがより得意な傾向がある。   [SVO] relative,gerund,idiom,comparative
+○ It took the scientists several years to understand why the birds had stopped returning to the island.
+   → 科学者たちが鳥がなぜ島に戻るのをやめたか理解するのに数年かかった。   [SVO] gerund,pastperfect,indirect-q,it-takes
+○ The museum is closed on Mondays, so if you plan to visit, make sure you check the opening hours in advance.
+   → 博物館は月曜日は休みなので、もし訪れるつもりだったら、必ず前もって営業時間を確かめるようにしてください。   [SV] passive,inf-noun,imperative,idiom
+○ What makes this novel so popular among teenagers is the way it describes the feelings of loneliness that many of them share.
+   → 10代の若者の間でこの小説をとても人気のあるものにするのはそれが彼らの多くが共有する孤独の感情を描写する方法だ。   [SVC] svoc,relative-what,relative,rel-adv
+○ Hardly a day goes by without news of another company replacing workers with machines.
+   → 労働者を機械に取り替えている別の会社のニュースのない日はほとんどない。   [SV] idiom,participle-mod
+○ The doctor advised him to cut down on sugar and to get more exercise if he wanted to avoid serious health problems.
+   → 医者は彼に、もし深刻な健康問題を避けたかったら砂糖を減らして、もっと運動するよう助言した。   [SVOC] idiom,v-o-to,inf-noun
+○ In the past, people had no choice but to walk long distances to fetch water for their families.
+   → 過去には、人々は家族たちのために水を取ってくるために長い距離を歩くしかなかった。   [SVO] inf-adv,idiom
+○ Some economists argue that raising the minimum wage will lead to fewer jobs, while others believe it will help reduce poverty.
+   → 最低賃金を上げることがより少ない仕事につながるだろうと主張する経済学者もいれば、それが貧困を減らすのに役立つだろうと信じている経済学者もいる。   [] correlative
+○ The book I borrowed from the library last week turned out to be much more interesting than I had expected.
+   → 私が先週図書館から借りた本は予想していたよりずっと興味深いと分かった。   [SVC] relative,idiom
+○ As far as I know, nobody has ever managed to climb that mountain in winter without oxygen.
+   → 私の知る限り、誰も今までに冬に酸素なしでその山に何とか登ったことがない。   [SVO] perfect
+○ The village where my grandmother grew up no longer exists, having been flooded when the dam was built.
+   → 祖母が育った村はダムが建設されたとき水浸しになって、もはや存在しない。   [SV] idiom,rel-adv,passive,participle-const
+○ Even if robots become capable of doing most jobs, there will always be a need for people who can think creatively.
+   → たとえロボットがほとんどの仕事をすることができるようになっても、いつも創造的に考えられる人々の必要性があるだろう。   [SV] gerund,idiom,modal,relative,there
+○ Instead of throwing away old clothes, more people are now choosing to repair them or give them to charity.
+   → 古い服を捨てる代わりに、今それらを修理したり慈善団体にそれらを与えたりすることを選んでいる人が増えている。   [SVO] idiom,inf-noun,progressive,gerund
+○ The teacher made the students rewrite their essays because many of them had copied sentences directly from the internet.
+   → 彼らの多くが直接インターネットからの文をコピーしたので、先生は生徒たちに彼らのエッセイを書き直させた。   [SVOC] causative,pastperfect
+○ It was only after she moved abroad that she began to appreciate the food she had eaten as a child.
+   → 彼女が自分が子どものころに食べた食べ物の良さが分かり始めたのは、彼女が外国に引っ越した後になってからだった。   [SVO] pastperfect,relative,inf-noun,cleft
+○ Scientists warn that if global temperatures continue to rise at the current rate, many coastal cities could be under water by the end of the century.
+   → 科学者は、もし世界的な温度が今のペースで上がり続けたら、多くの沿岸の都市が今世紀末までに水没しているかもしれないと警告する。   [SVO] inf-noun,idiom,modal,that-clause
+○ The reason so many people fail to keep their New Year's resolutions is that they set goals that are too ambitious.
+   → とても多くの人々が自分の新年の抱負を守れないのは、彼らが野心的すぎる目標を設定するからだ。   [SVC] relative,too,that-clause
+○ Having lived in Tokyo for over twenty years, she knows the city better than most people who were born there.
+   → 20年以上東京に住んで、彼女は都市をそこで生まれたほとんどの人々よりよく知っている。   [SVO] relative,comparative,participle-const
+○ This song means a lot to me.
+   → この歌は私にとって大切だ。   [SVO] idiom
+○ Her letters meant so much to him.
+   → 彼女の手紙は彼にとってとても大切だった。   [SVO] idiom
+○ I never knew how much my visits meant to her.
+   → 私は決して訪問が彼女にとってどれほど大切か分からなかった。   [SVO] indirect-q
+○ You will never know how much your help has meant to us.
+   → あなたは決して助けが私たちにとってどれほど大切だったか分からないだろう。   [SVO] indirect-q,modal
+○ The power went out across the entire town.
+   → 町全体で停電した。   [SV] idiom
+○ Schools across the region were closed.
+   → 地域全体の学校は休校になった。   [SV] passive
+○ It is not easy to start.
+   → 始めることは簡単ではない。   [SVC] it-to
+○ It is time to begin.
+   → 始める時間だ。   [SVC] idiom
+○ A lost child was crying in the park.
+   → 迷子が公園で泣いていた。   [SV] progressive
+○ She found my lost wallet.
+   → 彼女は私のなくした財布を見つけた。   [SVO] 
+○ The lost tourist asked a police officer for directions.
+   → 道に迷った観光客は警察官に道を尋ねた。   [SVO] idiom
+○ She asked me for directions to the museum.
+   → 彼女は私に博物館への道を尋ねた。   [SVO] idiom
+○ I have only one.
+   → 私は1つしか持っていない。   [SVO] 
+○ He bought only one and left.
+   → 彼は1つだけを買って、出発した。   [SVO] 
+○ She knows this town better than anyone.
+   → 彼女はこの町を誰よりもよく知っている。   [SVO] comparative
+○ I remember it better than you do.
+   → 私はそれをあなたよりよく覚えている。   [SVO] comparative
+○ He knows her better than I do.
+   → 彼は彼女を私よりよく知っている。   [SVO] comparative
+○ You should treat her better.
+   → あなたは彼女をよりよく扱うべきだ。   [SVO] modal
+○ I like her more than him.
+   → 私は彼よりも彼女が好きだ。   [SVO] 
+○ He loves her more than anything.
+   → 彼は何よりも彼女を愛している。   [SVO] 
+○ I want to see her more than anything.
+   → 私は何よりも彼女に会いたい。   [SVO] inf-noun
+○ Robots will become capable of doing most jobs.
+   → ロボットはほとんどの仕事をすることができるようになるだろう。   [SVO] gerund,modal,idiom
+○ The town was under water after the flood.
+   → 町は洪水の後に水没していた。   [SVC] idiom
+○ You will appreciate the beauty of nature.
+   → あなたは自然の美しさが分かるだろう。   [SVO] modal
+○ He did not appreciate the importance of sleep.
+   → 彼は睡眠の重要性が分からなかった。   [SVO] 
+○ I really appreciate your help.
+   → 私はあなたの助けに本当に感謝する。   [SVO] 
+○ The words were borrowed from French, often with their spelling changed.
+   → 語はフランス語から借りられて、多くの場合、綴りが変わった。   [SV] passive,with-oc
+○ They set New Year's resolutions.
+   → 彼らは新年の抱負を立てる。   [SVO] 
+○ Check the opening hours before you go.
+   → 行く前に、営業時間を確かめなさい。   [SVO] imperative
+○ She sat in the front row.
+   → 彼女は最前列に座った。   [SV] 
+○ The song made her popular.
+   → 歌は彼女を人気者にした。   [SVOC] svoc
+○ This makes the book popular among students.
+   → これは学生の間で本を人気のあるものにする。   [SVOC] svoc
+○ Even those sitting in the front row could not hear her.
+   → 最前列に座っている人々さえ彼女の声が聞こえなかった。   [SVO] modal
+○ Those suffering from the disease need help.
+   → 病気に苦しんでいる人々は助けが必要だ。   [SVO] idiom
+○ The new law cut the cost in half.
+   → 新しい法律は費用を半分にした。   [SVO] idiom
+○ They got used to it over the years.
+   → 彼らは長年にわたってそれに慣れた。   [SVO] idiom
+○ People eat special food during the New Year holidays.
+   → 人々は正月休み中に特別な食べ物を食べる。   [SVO] 
+○ The reason so many students fail is that they do not study enough.
+   → とても多くの学生が失敗するのは、彼らが十分に勉強しないからだ。   [SVC] relative,that-clause
+○ He himself insists that he did nothing wrong.
+   → 彼自身は間違ったことは何もしなかったと主張する。   [SVO] that-clause
+○ Hardly a day goes by without news of an accident.
+   → 事故のニュースのない日はほとんどない。   [SV] idiom
+○ He left the room, having finished his work.
+   → 彼は自分の仕事を終えて、部屋を出た。   [SVO] participle-const
+○ The museum is closed on Mondays, so we went on Tuesday.
+   → 博物館は月曜日は休みなので、私たちは火曜日に行った。   [SV] passive
+○ She ate the cake she had made.
+   → 彼女は自分が作ったケーキを食べた。   [SVO] pastperfect,relative
+○ Many of them had copied their answers from the internet.
+   → 彼らの多くはインターネットから自分の答えをコピーしていた。   [SVO] pastperfect
+○ If you plan to go, make sure you take an umbrella.
+   → もし行くつもりだったら、必ず傘を持って行くようにしてください。   [SV] inf-noun,imperative,idiom
+○ Animals must adapt to change.
+   → 動物は変化に適応しなければならない。   [SVO] modal,idiom
+○ Nothing bad happened.
+   → 悪いことは何も起こらなかった。   [SV] 
+○ Did you see anything interesting?
+   → あなたは何か興味深いものを見ましたか。   [SVO] question
+○ I didn't see anything interesting.
+   → 私は興味深いものは何も見なかった。   [SVO] 
+○ They do not study enough.
+   → 彼らは十分に勉強しない。   [SV] 
+○ I didn't sleep enough last night.
+   → 私は昨夜十分に眠らなかった。   [SV] 
 
-parsed 9971 / 9971
+parsed 10052 / 10052

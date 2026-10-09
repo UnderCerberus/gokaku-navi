@@ -1851,6 +1851,9 @@
           const adjJ = deg + aj.deg + (aj.form === 'comp' && !aj.deg ? 'より' : '') + f1.attr;
           // something new → 何か新しいもの / someone famous → 誰か有名な人（程度の副詞・比較級つきは 何か を付けない: something so hot → とても熱いもの）
           if (/^(?:something|someone|somebody)$/.test(t.w) && /^(?:何か|誰か)$/.test(p.ja) && !(T[aj.end] && /^(?:to|about)$/.test(T[aj.end].w || ''))) return postMod({ ja: (deg || aj.deg || aj.form === 'comp' ? '' : p.ja) + adjJ + (t.w === 'something' ? 'もの' : '人'), end: aj.end, an: !!p.an, pron: t.w, neg: !!p.neg, bare: !!p.neg, any: p.any || '', adjMod: true }, lim, o);
+          const toAbN = !!(T[aj.end] && /^(?:to|about)$/.test(T[aj.end].w || ''));
+          if (/^(?:nothing|nobody)$/.test(t.w) && /^(?:何も|誰も)$/.test(p.ja) && !toAbN) return postMod({ ja: adjJ + (t.w === 'nobody' ? '人' : 'こと') + 'は' + p.ja, end: aj.end, an: !!p.an, pron: t.w, neg: true, bare: true, any: '', adjMod: true }, lim, o);
+          if (/^(?:anything|anyone|anybody)$/.test(t.w) && /^(?:何か|誰か)$/.test(p.ja) && !toAbN && !deg && !aj.deg && aj.form !== 'comp') { const hdA = t.w === 'anything' ? 'もの' : '人'; const qA = Q_DEPTH > 0 || T.some((x) => /^(?:if|whether)$/.test(x.w || '')); return postMod({ ja: qA ? p.ja + adjJ + hdA : adjJ + p.ja, end: aj.end, an: !!p.an, pron: t.w, neg: false, bare: false, any: p.any ? adjJ + hdA + 'は' + p.any : '', adjMod: true }, lim, o); }
           return postMod({ ja: adjJ + p.ja, end: aj.end, an: !!p.an, pron: t.w, neg: !!p.neg, bare: !!p.neg, any: p.any || '', adjMod: true }, lim, o);
         }
         fail(ma);
@@ -7257,6 +7260,7 @@
       const approxNum = t.k === 'w' && /^(?:just|only|about|around|almost|nearly|over|approximately)$/.test(t.w) && j0 + 1 < lim && !(/^(?:just|only)$/.test(t.w) && T.slice(j0 + 1, Math.min(lim, j0 + 6)).some((x) => isW(x, 'ago'))) && (T[j0 + 1].k === 'num' || NUMW[T[j0 + 1].w] !== undefined || ((T[j0 + 1].w === 'a' || T[j0 + 1].w === 'an') && T[j0 + 2] && T[j0 + 2].k === 'w' && (NUMMUL[T[j0 + 2].w] || UNIT[T[j0 + 2].w])));
       const tooMuchNP = t.k === 'w' && t.w === 'too' && j0 + 2 < lim && /^(?:much|many)$/.test(T[j0 + 1].w) && T[j0 + 2].k === 'w' && !!nounC(T[j0 + 2]) && !PREP[T[j0 + 2].w];   // eat too much sugar の too は「も」ではない
       // carries only a tiny quantity of heat → ごくわずかな熱しか運ばない
+      if (t.k === 'w' && t.w === 'enough' && j0 === j && objs.length === 0 && !vg.passive && /^(?:study|sleep|exercise|rest|work|practice|prepare|train|relax|walk|run|laugh|listen|move|save|eat|drink|try|care|think|read)$/.test(vg.lemma) && (j0 + 1 >= lim || T[j0 + 1].k === 'p' || /^(?:to|and|but|or|because|so|when|if|before|after|in|at|on|for|during|these|this|every|each|now|today|tonight|yesterday|last|lately|recently|yet|anymore|anyway)$/.test(T[j0 + 1].w || ''))) { st.manner.push('十分に'); j = j0 + 1; continue; }
       if (t.k === 'w' && t.w === 'only' && j0 === j && objs.length === 0 && !vg.passive && !vg.neg && isW(T[j0 + 1], 'one') && (j0 + 2 >= lim || T[j0 + 2].k === 'p' || /^(?:than|because|when|if|and|but|or|so|before|after|in|at|on|for|with|from|to|now|today|then|left|anymore)$/.test(T[j0 + 2].w || ''))) {
         if (/^(?:and|but|or)$/.test(T[j0 + 2] ? T[j0 + 2].w || '' : '')) objs.push({ ja: '1つだけ', end: j0 + 2, head: 'one', pron: 'one' });   // bought only one and left → 1つだけ買って
         else { objs.push({ ja: '1つ', end: j0 + 2, head: 'one', pron: 'one', shika: true }); st.neg = true; }
@@ -13094,7 +13098,9 @@
     try { return fn(); } finally { T = save; }
   }
 
-  function question(a, b) {
+  let Q_DEPTH = 0;
+  function question(a, b) { Q_DEPTH++; try { return question0(a, b); } finally { Q_DEPTH--; } }
+  function question0(a, b) {
     const m = mark();
     name('question');
     if (b - a > 3 && isW(T[b - 1], 'please') && isP(T[b - 2], ',') && !seq(a, ['can', 'i', 'have']) && !seq(a, ['could', 'i', 'have']) && !seq(a, ['may', 'i', 'have'])) b -= 2;   // May I see your passport, please? → please は丁寧さだけ
