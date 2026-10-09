@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (204ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (183ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -8077,7 +8077,7 @@
 ○ It is important to think carefully before posting photos on social media.
    → SNSで写真を投稿する前に注意深く考えることは重要だ。   [SVC] gerund,it-to
 ○ The more we depend on smartphones, the harder it becomes to concentrate.
-   → 私たちがスマートフォンに頼ればスマートフォンに頼るほど、集中するのがますます難しくなる。   [] idiom,the-more
+   → 私たちがスマートフォンに頼れば頼るほど、集中するのがますます難しくなる。   [] idiom,the-more
 ○ Self-driving cars may reduce traffic accidents caused by human error.
    → 自動運転車は人為的ミスによって引き起こされた交通事故を減らすかもしれない。   [SVO] participle-mod,modal
 ○ In the near future, it may be common to see robots working alongside humans.
@@ -11985,7 +11985,7 @@
 ○ Tell me what you want.
    → 何がほしいか教えなさい。   [SVOO] indirect-q,imperative
 ○ I can't remember where I put my keys.
-   → 私は鍵をどこに置いたか思い出せない。   [SVO] indirect-q,modal
+   → 私はどこに鍵を置いたか思い出せない。   [SVO] indirect-q,modal
 ○ She suggested that we take a break.
    → 彼女は休憩しようと提案した。   [SVO] idiom,that-clause
 ○ He suggested that we go to the beach.
@@ -17751,7 +17751,7 @@
 ○ It is often said that the best way to learn a language is to live in a country where it is spoken.
    → 言語を学ぶのに一番いい方法はそれが話されている国に住むことだとよく言われている。   [SV] inf-adj,passive,rel-adv,it-said
 ○ The more you practice speaking English, the more confident you will become.
-   → 英語を話す練習をすれば話す練習をするほど、ますます自信がつくだろう。   [] gerund,the-more
+   → 英語を話す練習をすればするほど、ますます自信がつくだろう。   [] gerund,the-more
 ○ Having finished his homework, Tom went out to play soccer with his friends.
    → 彼の宿題を終えて、トムは自分の友達と一緒にサッカーをしに外出した。   [SV] inf-adv,idiom,participle-const
 ○ The museum, which was built more than a hundred years ago, attracts thousands of visitors every year.
@@ -17799,7 +17799,7 @@
 ○ The bridge was so badly damaged by the earthquake that it had to be completely rebuilt.
    → 橋は地震でとてもひどく被害を受けたので、完全に再建されなければならなかった。   [SV] passive,so-that
 ○ Without the support of local volunteers, the festival could not have been held this year.
-   → 地元のボランティアの支えがなかったら、祭りは今年開催されることができなかっただろう。   [SV] passive,modal-perfect,subjunctive-past
+   → 地元のボランティアの支えがなかったら、祭りは今年開催されなかっただろう。   [SV] passive,modal-perfect,subjunctive-past
 ○ As the population ages, the demand for medical care is expected to increase.
    → 人口が高齢化するにつれて、医療の需要は増えると予想されている。   [SV] v-o-to
 ○ He spoke as if he had seen the accident with his own eyes.
@@ -17829,7 +17829,7 @@
 ○ There is no doubt that the internet has changed the way we gather information, but not all of the information we find online is reliable.
    → インターネットが私たちが情報を集める方法を変えたことは間違いないが、私たちがオンラインで見つける情報のすべてが信頼できるというわけではない。   [SV] rel-adv,perfect,there,idiom,relative,partial-neg
 ○ Had the government acted sooner, many of the problems caused by the flood could have been avoided.
-   → もし政府がもっとすぐに行動していたら、洪水で引き起こされた問題の多くは避けられることができただろうに。   [SV] pastperfect,participle-mod,passive,modal-perfect,subjunctive-pp,inversion
+   → もし政府がもっとすぐに行動していたら、洪水で引き起こされた問題の多くは避けられただろうに。   [SV] pastperfect,participle-mod,passive,modal-perfect,subjunctive-pp,inversion
 ○ It is not what you say but how you say it that matters most in a job interview.
    → 就職の面接で最も重要なのはあなたが言うことではなくあなたがどのようにそれを言うかだ。   [SVC] relative-what,indirect-q,not-but,cleft
 ○ Scientists warn that unless we reduce the amount of plastic we use, there will be more plastic than fish in the ocean by 2050.
@@ -17837,7 +17837,7 @@
 ○ Those who have experienced hardship are often better able to understand the feelings of others.
    → 苦難を経験した人々はよく他の人たちの感情をよりよく理解できる。   [SVO] perfect,relative
 ○ The longer we put off dealing with the problem, the more difficult it will be to solve.
-   → 私たちが長く問題に対処することを延期すれば問題に対処することを延期するほど、それは解くにはますます難しいだろう。   [] idiom,gerund,the-more
+   → 私たちが問題に対処することを長く延期すればするほど、それは解くにはますます難しいだろう。   [] idiom,gerund,the-more
 ○ Even if machines can do many jobs better than humans, there are some things that only people can do.
    → たとえ機械が多くの仕事を人間より上手にやれても、人々だけできる物はいくつかある。   [SV] comparative,modal,relative,there
 ○ The more you practice, the more confident you become.
@@ -18237,7 +18237,7 @@
 ○ In many developing countries, girls are still less likely than boys to finish secondary school, mainly because their families cannot afford the fees.
    → 主に彼らの家族たちが料金の余裕がないので、多くの発展途上国では、女子はまだ中等学校を終える可能性が男子より低い。   [SVC] comparative,idiom,modal
 ○ The researchers found that people who spent at least two hours a week in nature reported better health and greater well-being than those who did not.
-   → 研究者たちは1週間に少なくとも2時間自然で費やした人々がしなかった人々より良い健康とより大きな幸福を報告することを明らかにした。   [SVO] relative,comparative,that-clause
+   → 研究者たちは1週間に少なくとも2時間自然で費やした人々がそうでない人々より良い健康とより大きな幸福を報告することを明らかにした。   [SVO] relative,comparative,that-clause
 ○ When she was asked why she had decided to become a doctor, she said that she wanted to help people who could not afford medical care.
    → 彼女はなぜ医者になることに決めたかと尋ねられたとき、医療の余裕がなかった人々を助けたいと言った。   [SVO] inf-noun,pastperfect,indirect-q,passive,modal,relative,that-clause
 ○ It is estimated that about one third of all the food produced in the world is lost or wasted before it reaches our tables.
@@ -18505,7 +18505,7 @@
 ○ The number of foreign workers in Japan has been increasing because many companies cannot find enough young employees.
    → 多くの会社が十分な若い従業員たちを見つからないので、日本の外国の労働者たちの数はずっと増えている。   [SV] progressive,perfect
 ○ Some studies suggest that people who have a pet live longer and suffer less from stress than those who do not.
-   → いくつかの研究はペットを飼っている人々がもっと長く生きて、ストレスにしない人々より少なく苦しむことを示唆する。   [SVO] relative,comparative,that-clause
+   → いくつかの研究はペットを飼っている人々がもっと長く生きて、ストレスにそうでない人々より少なく苦しむことを示唆する。   [SVO] relative,comparative,that-clause
 ○ When the power went out, the family lit candles and spent the evening playing cards and telling stories.
    → 停電したとき、家族はろうそくに火をつけて、カードをして、話を語って夕方を過ごした。   [SVO] idiom
 ○ It is difficult to imagine what life was like before people had smartphones and the internet.
@@ -18525,7 +18525,7 @@
 ○ Because of the heavy rain, the baseball game was postponed until the following weekend.
    → 大雨のために、野球の試合は次の週末まで延期された。   [SV] passive
 ○ The longer you wait to start studying for the exam, the harder it will be to catch up.
-   → 試験のために長く勉強し始めるのを待てば勉強し始めるのを待つほど、遅れを取り戻すのがますます難しくなる。   [] gerund,idiom,the-more
+   → 試験のために勉強し始めるのを長く待てば待つほど、遅れを取り戻すのがますます難しくなる。   [] gerund,idiom,the-more
 ○ In order to protect endangered animals, some countries have banned the sale of products made from them.
    → 絶滅の危機にある動物を守るために、それらから作られた製品の販売を禁止した国もある。   [SVO] idiom,participle-mod,perfect,inf-adv
 ○ She has always dreamed of traveling around the world, but she has never had enough time or money.
@@ -18545,7 +18545,7 @@
 ○ The professor, who has written several books on climate change, will give a lecture at our university next month.
    → 気候変動に関するいくつかの本を書いた教授は来月私たちの大学で講義をするだろう。   [SVO] perfect,relative,modal
 ○ Even a small change in temperature can have a big impact on the plants and animals living in the area.
-   → 温度の小さい変化さえ地域に住んでいる動植物に大きな影響を与えられる。   [SVO] participle-mod,modal
+   → 温度の小さい変化さえ地域に住んでいる動植物に大きな影響を与えることがある。   [SVO] participle-mod,modal
 ○ We should not judge people by their appearance, because what really matters is what kind of person they are.
    → 本当に重要なことがどんな種類の人であるかなので、私たちは彼らの外見で人々を判断するべきではない。   [SVO] modal,relative-what,indirect-q
 ○ The old castle, which stands on a hill overlooking the town, is visited by thousands of tourists every year.
@@ -18575,9 +18575,9 @@
 ○ It is important to rest when you are tired.
    → 疲れているとき、休むことは重要だ。   [SVC] it-to
 ○ People who have a pet suffer less from stress than those who do not.
-   → ペットを飼っている人々はストレスにしない人々より少なく苦しむ。   [SV] relative,comparative
+   → ペットを飼っている人々はストレスにそうでない人々より少なく苦しむ。   [SV] relative,comparative
 ○ They live longer than those who do not.
-   → 彼らはしない人々より長生きする。   [SV] relative,comparative
+   → 彼らはそうでない人々より長生きする。   [SV] relative,comparative
 ○ Many students skip breakfast.
    → 多くの学生が朝食を抜く。   [SVO] 
 ○ Born in a poor family, he had to start working when he was only twelve years old.
@@ -18675,7 +18675,7 @@
 ○ In many developing countries, access to clean drinking water remains a serious problem, especially for families living in remote rural areas.
    → 多くの発展途上国では、きれいな飲み水を利用できることは特に遠く離れた農村部に住んでいる家族のためには深刻な問題のままでいる。   [SVC] participle-mod
 ○ The more we rely on smartphones to remember information for us, the less we may be able to recall it on our own.
-   → 私たちが自分のために情報を覚えるためにスマートフォンに頼ればスマートフォンに頼るほど、ますます独力でそれを思い出せなくなるかもしれない。   [SVO] inf-adv,idiom,modal,the-more
+   → 私たちが自分のために情報を覚えるためにスマートフォンに頼れば頼るほど、ますます独力でそれを思い出せなくなるかもしれない。   [SVO] inf-adv,idiom,modal,the-more
 ○ Some economists argue that raising taxes on sugary drinks would not only improve public health but also provide governments with additional income.
    → 糖分の多い飲み物への税金を上げることが公共の健康を改善するだけでなく、政府に追加の収入を提供するだろうと主張する経済学者もいる。   [SVO] gerund,idiom,not-only,modal,that-clause
 ○ It was only after she had moved abroad that she realized how much she had taken her family's support for granted.
@@ -18877,7 +18877,7 @@
 ○ Money alone does not make people happy.
    → お金だけでは人々を喜ばせない。   [SVOC] svoc
 ○ He alone knows the truth.
-   → 彼だけは真実を知っている。   [SVO] 
+   → 彼だけが真実を知っている。   [SVO] 
 ○ Solar and wind power have become much cheaper.
    → 太陽光発電と風力発電はずっと安くなってきた。   [SVC] perfect
 ○ Volunteering gives volunteers a sense of purpose and belonging.
@@ -19223,7 +19223,7 @@
 ○ The discovery of penicillin, which was made almost by accident, saved millions of lives.
    → 偶然にほとんど作られたペニシリンの発見は何百万もの命を救った。   [SVO] passive,relative
 ○ People who volunteer regularly report feeling happier and less stressed than those who do not.
-   → 定期的にボランティアをする人々はしない人々より幸せであまりストレスを感じていないと感じると報告する。   [SVO] relative,comparative,that-clause
+   → 定期的にボランティアをする人々はそうでない人々より幸せであまりストレスを感じていないと感じると報告する。   [SVO] relative,comparative,that-clause
 ○ It took the team three years to complete the project, which was much longer than they had expected.
    → チームがプロジェクトを完成させるのに3年かかったが、それは彼らが予想したよりずっと長かった。   [SVO] it-takes,comparative,relative
 ○ Without the help of his friends, he would never have been able to start his own business.
@@ -19253,7 +19253,7 @@
 ○ Japanese companies have traditionally offered lifetime employment, but this system is gradually changing.
    → 日本の会社は終身雇用を伝統的に提供したが、この制度は徐々に変わっている。   [SVO] perfect,progressive
 ○ She was the first woman in her family to go to university, and her parents were very proud of her.
-   → 彼女は大学に行く自分の家族の最初の女性で、彼女の両親は彼女をとても誇りに思った。   [SVC] inf-adj,idiom
+   → 彼女は自分の家族で初めて大学に行った女性で、彼女の両親は彼女をとても誇りに思った。   [SVC] inf-adj,idiom
 ○ It is said that the custom of giving gifts at the end of the year dates back hundreds of years.
    → 年末に贈り物をすることの習慣は何百年も前にさかのぼると言われている。   [SV] gerund,idiom,it-said,passive
 ○ Learning about the history of other countries can help us understand why people think and act differently.
@@ -19416,5 +19416,121 @@
    → 親は自分の子どもたちに大きな圧力をかける。   [SVO] idiom
 ○ The new law requires all restaurants to display calorie information.
    → 新しい法律はすべてのレストランにカロリー情報を表示するよう要求する。   [SVOC] v-o-to
+○ No matter how hard she tried, she could not remember where she had put her keys.
+   → 彼女はどんなに頑張っても、どこに自分の鍵を置いたか思い出せなかった。   [SVO] pastperfect,indirect-q,modal,concession
+○ It was not until the nineteenth century that most people in Europe learned to read.
+   → 19世紀になって初めて、ヨーロッパのほとんどの人々は読めるようになった。   [SVO] inf-noun,cleft
+○ Now that more people work from home, many companies are reconsidering the need for large offices.
+   → 今やより多くの人々が在宅勤務をするので、多くの会社が大きい事務所の必要性を考え直している。   [SVO] idiom,progressive
+○ The problem is not so much a lack of money as a lack of time.
+   → 問題はお金の不足というよりむしろ時間不足だ。   [SVC] not-so-much
+○ Had it not been for his teacher's encouragement, he would never have become a scientist.
+   → 先生の励ましがなかったら、彼は決して科学者にならなかっただろう。   [SVC] modal-perfect,subjunctive-past
+○ Whether or not the plan succeeds depends largely on how well the team works together.
+   → 計画が成功するかどうかは大部分チームがどのくらい上手に協力するか次第だ。   [SVO] subject-clause,indirect-q,idiom
+○ Many animals that once lived in the forest have disappeared as a result of human activity.
+   → かつて森林に住んでいた多くの動物は人間の活動の結果として消えた。   [SV] relative,perfect
+○ She spoke so quietly that hardly anyone in the room could hear what she was saying.
+   → 彼女はとても静かに話したので、部屋のほとんど誰も彼女が言っていたことが聞こえなかった。   [SV] progressive,relative-what,modal,so-that
+○ Children who grow up with pets tend to be more responsible and caring than those who do not.
+   → ペットと一緒に育つ子どもはそうでない人々より責任があって、思いやりがある傾向がある。   [SVO] idiom,relative,comparative
+○ The longer you put off dealing with a problem, the more difficult it becomes to solve.
+   → 問題に対処することを長く延期すればするほど、解くのがますます難しくなる。   [] idiom,gerund,the-more
+○ Not only did the storm destroy many houses, but it also cut off the electricity for several days.
+   → 嵐は多くの家を破壊しただけでなく、数日間電気も止めた。   [SV] idiom,not-only,inversion
+○ He apologized for having kept us waiting for so long.
+   → 彼は私たちを長い間待たせたことを謝った。   [SV] perception,gerund
+○ Some scientists argue that the loss of sleep can have serious effects on both physical and mental health.
+   → 睡眠不足が心身の健康に深刻な影響を与えることがあると主張する科学者もいる。   [SVO] modal,that-clause
+○ I would rather stay at home and read a book than go out on such a cold night.
+   → 私はとても寒い夜に外出するよりむしろ家にいて本を読みたい。   [SVO] idiom,would-rather
+○ The company decided to postpone the meeting, as several key members were unable to attend.
+   → 何人かの重要なメンバーが出席できなかったので、会社は会議を延期することに決めた。   [SVO] inf-noun,inf-adv
+○ People often judge others by their appearance, even though they know it is unfair.
+   → 人々は、それが不公平であることを知っているけれども、よく外見で他の人たちを判断する。   [SVO] that-clause
+○ Although he had lived in Japan for ten years, he still found some customs difficult to understand.
+   → 彼は10年間日本に住んでいたけれども、まだ一部の習慣を理解するのが難しいと感じた。   [SVOC] pastperfect,svoc,tough
+○ There is no doubt that the internet has transformed the way we communicate with each other.
+   → インターネットが私たちがお互いに意思を伝え合う方法を大きく変えたことは間違いない。   [SV] idiom,rel-adv,perfect,there
+○ The teacher made the students rewrite their essays because they had not followed the instructions.
+   → 彼らが指示に従っていなかったので、先生は生徒たちに彼らのエッセイを書き直させた。   [SVOC] causative,pastperfect
+○ Most of the food we throw away could have been eaten if it had been stored properly.
+   → もしそれが適切に蓄えられていたら、私たちが捨てる食べ物のほとんどは食べられただろうに。   [SV] idiom,relative,passive,modal-perfect,pastperfect,subjunctive-pp
+○ She is said to have been the first woman in the country to earn a medical degree.
+   → 彼女は国で初めて医学の学位を取得した女性だったと言われている。   [SV] inf-adj,it-said,passive
+○ Feeling tired after the long journey, we decided to go to bed early.
+   → 長い旅の後に疲れていると感じたので、私たちは早く寝ることに決めた。   [SVO] idiom,inf-noun,participle-const
+○ What surprised the researchers was that the plants grew faster in the dark than in the light.
+   → 研究者たちを驚かせたのは植物が暗やみの中では光より速く成長したということだった。   [SVC] relative-what,comparative,that-clause
+○ In order to reduce traffic accidents, the city has lowered the speed limit near schools.
+   → 交通事故を減らすために、都市は学校の近くで制限速度を下げた。   [SVO] perfect,inf-adv
+○ It is often said that we learn more from our failures than from our successes.
+   → 私たちは成功からよりも失敗から多く学ぶとよく言われている。   [SV] comparative,it-said,passive
+○ Water covers about seventy percent of the earth's surface, but only a small portion of it is fresh water.
+   → 水は地球の表面の約70%を覆うが、そのごく一部だけが淡水だ。   [SVO] 
+○ By the time the ambulance arrived, the injured man had already lost a lot of blood.
+   → 救急車が到着したときには、けがをした男性はもうたくさんの血液を失っていた。   [SVO] pastperfect
+○ I would rather stay at home than go out.
+   → 私は外出するよりむしろ家にいたい。   [SVO] idiom,would-rather
+○ She would rather walk to school and save money than take the bus.
+   → 彼女はバスに乗るよりむしろ学校まで歩いて、お金を節約したい。   [SVO] would-rather
+○ The team works together well.
+   → チームはよく協力する。   [SV] 
+○ Stress has a negative impact on health.
+   → ストレスは健康に悪い影響を与える。   [SVO] 
+○ Music has a positive effect on our mood.
+   → 音楽は私たちの気分に良い影響を与える。   [SVO] 
+○ Stress can have a negative impact on your health.
+   → ストレスは健康に悪い影響を与えることがある。   [SVO] modal
+○ I could not hear what she was saying.
+   → 私は彼女が言っていたことが聞こえなかった。   [SVO] progressive,relative-what,modal
+○ I saw what they were doing.
+   → 私は彼らが何をしているか見た。   [SVO] progressive,indirect-q
+○ They are more responsible and kind than others.
+   → 彼らは他の人たちより責任があって、親切だ。   [SVC] comparative
+○ They are more responsible and kind.
+   → 彼らはより責任があって、親切だ。   [SVC] comparative
+○ People who exercise live longer than those who don't.
+   → 運動する人々はそうでない人々より長生きする。   [SV] relative,comparative
+○ She is caring.
+   → 彼女は思いやりがある。   [SVC] 
+○ They are responsible and caring.
+   → 彼らは責任があって、思いやりがある。   [SVC] 
+○ The longer you wait, the more difficult it becomes to solve.
+   → 長く待てば待つほど、解くのがますます難しくなる。   [] the-more
+○ The longer you put off the work, the harder it gets.
+   → 仕事を長く延期すればするほど、ますます難しくなる。   [] idiom,the-more
+○ We stayed home, as it was raining.
+   → 雨が降っていたので、私たちは家にいた。   [SV] idiom,progressive
+○ The meeting was postponed, as several members were sick.
+   → 何人かのメンバーが病気だったので、会議は延期された。   [SV] passive
+○ Knowing that she was busy, I didn't call her.
+   → 彼女が忙しかったことを知っていたので、私は彼女に電話しなかった。   [SVO] that-clause,participle-const
+○ Wanting to help, she offered her seat.
+   → 助けたいと思っていたので、彼女は自分の席を譲った。   [SVO] inf-noun,participle-const
+○ I found her bag.
+   → 私は彼女のかばんを見つけた。   [SVO] 
+○ He bought her lunch.
+   → 彼は彼女に昼食を買った。   [SVOO] svoo
+○ The accident could have been avoided if he had been careful.
+   → もし彼が注意深かったら、事故は避けられただろうに。   [SV] passive,modal-perfect,pastperfect,subjunctive-pp
+○ I can't remember what he said.
+   → 私は彼が何と言ったか思い出せない。   [SVO] indirect-q,modal
+○ She earned a degree in economics.
+   → 彼女は経済学の学位を取得した。   [SVO] 
+○ He has a university degree.
+   → 彼は大学の学位を持っている。   [SVO] 
+○ To some degree, I agree with you.
+   → ある程度、私はあなたに同意する。   [SVO] idiom
+○ She was the first woman in her family to go to university.
+   → 彼女は自分の家族で初めて大学に行った女性だった。   [SVC] inf-adj
+○ Whether or not the plan succeeds depends on the team.
+   → 計画が成功するかどうかはチームによって決まる。   [SVO] subject-clause,idiom
+○ Water covers most of the earth, but only a small portion of it is fresh water.
+   → 水は地球のほとんどを覆うが、そのごく一部だけが淡水だ。   [SVO] 
+○ The storm cut off the power.
+   → 嵐は電気を止めた。   [SV] idiom
+○ Now that you are here, we can start.
+   → 今やあなたがここにいるので、私たちは始められる。   [SV] modal
 
-parsed 9709 / 9709
+parsed 9767 / 9767

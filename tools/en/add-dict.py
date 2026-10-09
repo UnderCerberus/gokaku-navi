@@ -2,8 +2,8 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['sums of money', '名', '金額', 2],
-    ['large sums of money', '名', '大金', 2],
+    ['loss of sleep', '名', '睡眠不足', 2],
+    ['sleep loss', '名', '睡眠不足', 2],
 ]
 def key(w):
     return w.lower()

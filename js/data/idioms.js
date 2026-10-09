@@ -465,7 +465,9 @@
     ['tell lies to ~', '〜にうそをつく', 2],
     ['tell the difference between ~', '〜の違いを見分ける', 2],
     ['tidy up ~', '〜を片づける', 2],
+    ['to a certain degree', 'ある程度', 2],
     ['to a large extent', '大部分は', 2],
+    ['to some degree', 'ある程度', 2],
     ['to the right of ~', '〜の右に', 2],
     ['to the left of ~', '〜の左に', 2],
     ['in a circle', '円を描いて', 2],
@@ -777,6 +779,8 @@
     ['cut back on ~', '〜を減らす', 2],
     ['cut down on ~', '〜を減らす', 2],
     ['cut down ~', '〜を切り倒す; 〜を減らす', 1],
+    ['cut off the electricity', '電気を止める', 2],
+    ['cut off the power', '電気を止める', 2],
     ['cut off ~', '〜を切り離す; 〜を中断する', 2],
 
     // ---- d ----
