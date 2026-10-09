@@ -1091,7 +1091,7 @@
 545 ○ Many of these bees flew toward the place that the dance had described.
     → これらのミツバチの多くはダンスが描写した場所の方へ飛んだ。
 546 ○ The results show that these dances give the other bees most of the information they need to find the food.
-    → 結果はこれらのダンスが他のミツバチに彼らが食べ物を見つけるために必要とする情報のほとんどを与えることを示している。
+    → 結果はこれらのダンスが他のミツバチに食べ物を見つけるのに必要な情報のほとんどを与えることを示している。
 547 ○ People can read the dance, too.
     → 人々もダンスを読める。
 548 ○ By filming the dances and measuring the angle and the length of each straight run, scientists can draw a map of the flowers that the bees visit.

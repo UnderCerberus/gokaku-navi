@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (193ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (200ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -1007,7 +1007,7 @@
 ○ The students who were interrupted took much longer to finish than those who were not, and they also made more mistakes.
    → 邪魔された学生たちは終わるのにそうではなかった学生よりずっと長くかかって、またより多くの間違いをした。   [SV] passive,relative,comparative
 ○ The results show that these dances give the other bees most of the information they need to find the food.
-   → 結果はこれらのダンスが他のミツバチに彼らが食べ物を見つけるために必要とする情報のほとんどを与えることを示している。   [SVO] inf-adv,relative,svoo,that-clause
+   → 結果はこれらのダンスが他のミツバチに食べ物を見つけるのに必要な情報のほとんどを与えることを示している。   [SVO] relative,svoo,that-clause
 ○ This is the book I want to read.
    → これは私が読みたい本だ。   [SVC] inf-noun,relative
 ○ I want to read the book.
@@ -18241,7 +18241,7 @@
 ○ When she was asked why she had decided to become a doctor, she said that she wanted to help people who could not afford medical care.
    → 彼女はなぜ医者になることに決めたかと尋ねられたとき、医療の余裕がなかった人々を助けたいと言った。   [SVO] inf-noun,pastperfect,indirect-q,passive,modal,relative,that-clause
 ○ It is estimated that about one third of all the food produced in the world is lost or wasted before it reaches our tables.
-   → それが私たちのテーブルに着く前に、世界で生産されたすべての食べ物の約3分の1が失われていたり無駄にしたりしたと推定されている。   [SV] participle-mod,passive,it-said
+   → それが私たちのテーブルに着く前に、世界で生産されたすべての食べ物の約3分の1が失われたり無駄にされたりしていると推定されている。   [SV] participle-mod,passive,it-said
 ○ Many people believe that intelligence is the most important factor in success, but studies show that hard work and persistence matter just as much.
    → 多くの人々は知能が成功で最も重要な要因だと信じているが、研究は努力と粘り強さが同じくらい重要であることを示す。   [SVO] superlative,that-clause
 ○ The ancient Romans built roads that were so well designed that some of them are still used today.
@@ -18439,7 +18439,7 @@
 ○ The amount of plastic in the ocean is expected to increase unless more countries take strong action.
    → もしより多くの国が強い行動を取らなければ、海のプラスチックの量は増えると期待されている。   [SV] v-o-to
 ○ She thanked her friends for helping her prepare for the speech contest, which she eventually won.
-   → 彼女は自分の友達に、スピーチコンテストの準備をするのを手伝ってくれたことを感謝して、彼女はそれにやがて勝った。   [SVO] causative,gerund,idiom,relative
+   → 彼女は自分の友達に、スピーチコンテストの準備をするのを手伝ってくれたことを感謝して、彼女はそれでやがて優勝した。   [SVO] causative,gerund,idiom,relative
 ○ Most of the participants said that the program had changed the way they thought about the environment.
    → 参加者たちのほとんどはプログラムが彼らが環境について考えた方法を変えたと言った。   [SVO] idiom,rel-adv,pastperfect,that-clause
 ○ If I were you, I would apologize to her as soon as possible.
@@ -18707,7 +18707,7 @@
 ○ The company decided to allow its employees to work from home two days a week, which led to a noticeable increase in job satisfaction.
    → 会社はその従業員が1週間に2日在宅勤務をするのを認めることに決めて、そのことが仕事への満足度の目立つの増加につながった。   [SVO] idiom,v-o-to,inf-noun,relative
 ○ Ancient people looked up at the night sky and used the positions of the stars to decide when to plant and harvest their crops.
-   → 古代の人々は夜空を見上げて、いつ植えて、彼らの作物を収穫するべきか決めるために星の位置を使った。   [SVO] idiom,indirect-q,inf-adv
+   → 古代の人々は夜空を見上げて、いつ彼らの作物を植えて収穫するべきか決めるために星の位置を使った。   [SVO] idiom,indirect-q,inf-adv
 ○ If the temperature of the oceans continues to rise at the current rate, many species of coral may disappear by the end of this century.
    → もし海の温度が今のペースで上がり続けたら、サンゴの多くの種は今世紀末までに消えるかもしれない。   [SV] inf-noun,modal
 ○ A growing number of universities now require students to take part in volunteer activities before they graduate.
@@ -19153,7 +19153,7 @@
 ○ The company is trying to reduce its carbon emissions by switching to renewable energy and encouraging employees to use public transportation.
    → 会社は再生可能エネルギーに切り替えて、従業員に公共交通機関を使うよう励ますことによってその炭素排出を減らそうとしている。   [SVO] v-o-to,gerund,inf-noun,progressive
 ○ A good night's sleep is essential for learning, since the brain processes and stores new information while we sleep.
-   → 私たちが眠る間に、脳が処理して、新しい情報を蓄えるので、十分な睡眠は学習に不可欠だ。   [SVC] 
+   → 私たちが眠る間に、脳が新しい情報を処理して蓄えるので、十分な睡眠は学習に不可欠だ。   [SVC] 
 ○ After years of hard work, the young scientist finally succeeded in developing a vaccine against the disease.
    → 何年もの努力の後に、若い科学者はついに病気に対してワクチンを開発することに成功した。   [SVO] idiom
 ○ Many people feel uncomfortable speaking in public, but this skill can be improved through practice.
@@ -20892,5 +20892,147 @@
    → 水はないので、少し買いましょう。   [SV] there,imperative
 ○ I like these apples, so I bought some.
    → 私はこれらのりんごが好きなので、いくつかを買った。   [SVO] 
+○ Every year, about one third of all the food produced in the world is lost or thrown away.
+   → 毎年、世界で生産されたすべての食べ物の約3分の1は失われたり捨てられたりしている。   [SV] participle-mod,passive
+○ This means that while millions of people go hungry, a huge amount of food ends up in the garbage.
+   → つまり、何百万もの人々が空腹になる間に、膨大な量の食べ物がごみに行き着くということだ。   [SVO] idiom,that-clause
+○ Food waste happens at every stage, from the farm to the kitchen table.
+   → 食品ロスはすべての段階で農場から台所のテーブルまで起こる。   [SV] 
+○ On farms, vegetables that do not look perfect are often left in the fields because stores refuse to buy them.
+   → 農場では、店がそれらを買うのを断るので、完璧そうに見えない野菜はよく畑に残っている。   [SV] relative,inf-noun
+○ In supermarkets, food is removed from the shelves as soon as it reaches its best-before date, even though it is still safe to eat.
+   → スーパーマーケットでは、食べ物は、まだ食べても安全だけれども、その賞味期限に着くとすぐに、棚から取り除かれている。   [SV] passive,inf-adv
+○ At home, many people buy more than they need and forget about the food in the back of their refrigerators.
+   → 家で、多くの人々が必要以上に買って、彼らの冷蔵庫の奥で食べ物のことを忘れる。   [SV] idiom
+○ Throwing away food is not only a waste of money but also harmful to the environment.
+   → 食べ物を捨てることはお金の無駄であるだけでなく環境に有害でもある。   [SVC] idiom,gerund,not-only
+○ When food rots in landfills, it produces methane, a gas that contributes to global warming.
+   → 食べ物が埋め立て地で腐ると、メタンを生産する（地球温暖化に貢献するガス）。   [SVO] relative,apposition
+○ Moreover, the water and energy used to grow and transport the food are wasted as well.
+   → さらに、食べ物を育てて輸送するために使われている水とエネルギーも無駄にされている。   [SV] inf-adv,participle-mod,passive
+○ Some countries have started to take action against this problem.
+   → この問題に対して行動を起こし始めた国もある。   [SVO] idiom,inf-noun,perfect
+○ In France, for example, large supermarkets are required by law to donate unsold food to charities.
+   → たとえば、フランスでは大きいスーパーマーケットは法律で慈善団体に売れ残った食べ物を寄付することが求められている。   [SV] v-o-to
+○ In Japan, some restaurants now let customers take their leftovers home in special boxes.
+   → 日本では、いくつかのレストランは今客が特別な箱で彼らの残り物を持って帰ることを可能にする。   [SVOC] causative
+○ Individuals can also make a difference by planning their meals and buying only what they will actually eat.
+   → 個人はまた自分の食事を計画して、彼らが実際に食べるものだけを買うことによって変化をもたらすことができる。   [SV] modal,relative-what,gerund,idiom
+○ Small changes in our daily habits, if many people make them, can have a big impact.
+   → もし多くの人々がそれらを作ったら、私たちの毎日の習慣の小さい変化は大きい影響を与えることがある。   [SVO] modal
+○ After all, the food we save today may help feed someone tomorrow.
+   → 結局、私たちが今日節約する食べ物は明日誰かに食べ物を与えるのに役立つかもしれない。   [SVO] relative,inf-noun,modal
+○ When I first arrived in Canada as an exchange student, I could hardly understand what people were saying.
+   → 私は初めて交換留学生としてカナダに到着したとき、ほとんど人々が何と言っていたか理解できなかった。   [SVO] idiom,progressive,indirect-q,modal
+○ My host family spoke so fast that I often had to ask them to repeat themselves.
+   → 私のホストファミリーはとても速く話したので、私はよく彼らに同じことをもう一度言うように頼まなければならなかった。   [SV] idiom,v-o-to,so-that
+○ At school, I was too shy to raise my hand in class, even when I knew the answer.
+   → 学校で、私は答えを知っていたときでさえ、内気すぎて授業中に手を上げられなかった。   [SVC] too-to
+○ One day, my teacher asked me to give a short presentation about Japanese culture.
+   → ある日、私の先生は私に日本の文化について短い発表をするように頼んだ。   [SVOC] v-o-to
+○ I was nervous, but I decided to talk about the tea ceremony, which my grandmother had taught me.
+   → 私は緊張していたが、茶道について話すことに決めて、祖母は私にそれを教えてくれていた。   [SVC] idiom,inf-noun,svoo,pastperfect,relative
+○ To my surprise, my classmates listened carefully and asked me many questions afterward.
+   → 驚いたことに、私の同級生たちは注意深く聞いて、その後私に多くの質問をした。   [SV] svoo
+○ Some of them even said that they wanted to visit Japan someday.
+   → 彼らの中には、日本をいつか訪れたいとさえ言った人もいた。   [SVO] inf-noun,that-clause
+○ That experience gave me the confidence I needed to speak up more often.
+   → その経験は私により頻繁に大きな声で話すのに必要だった自信をくれた。   [SVOO] idiom,relative,svoo
+○ From then on, I tried to talk to as many people as possible, even if I made mistakes.
+   → それ以来、たとえ私が間違えても、できるだけ多くの人々と話そうとした。   [SVO] idiom,inf-noun
+○ Little by little, my English improved, and I began to enjoy my life there.
+   → 少しずつ、私の英語は良くなって、私はそこでの生活を楽しみ始めた。   [SV] inf-noun
+○ Looking back, I think the most important thing I learned was not English itself.
+   → 振り返ってみると、私は学んだ最も重要なことが英語自体ではなかったと思う。   [SVO] relative,that-clause
+○ It was the courage to share who I am with people from different backgrounds.
+   → それは異なる背景を持つ人々と自分がどんな人間であるかを共有する勇気だった。   [SVC] indirect-q,inf-adj
+○ I am now studying hard so that I can work in a job that connects Japan with the rest of the world.
+   → 私は日本と世界のほかの国々を結ぶ仕事で働けるように、今一生懸命に勉強している。   [SV] progressive,idiom,relative,modal
+○ If I had not gone abroad, I might never have discovered what I really want to do.
+   → もし私が海外に行っていなかったら、決して何を本当にしたいか発見しなかったかもしれない。   [SVO] pastperfect,idiom,inf-noun,indirect-q,modal-perfect,subjunctive-pp
+○ I would encourage anyone who has the chance to study abroad to take it.
+   → 私は留学する機会がある人には誰にでもその機会を生かすよう励ますだろう。   [SVOC] idiom,inf-adj,relative,v-o-to,modal
+○ Vegetables are often left in the fields.
+   → 野菜はよく畑に残っている。   [SV] 
+○ The door was left open.
+   → ドアは開いたままだった。   [SVC] 
+○ The lights were left on all night.
+   → 電気は一晩中ついたままだった。   [SVC] 
+○ The food was often left on the plate.
+   → 食べ物はよく皿の上に残っていた。   [SV] 
+○ Much food is lost or thrown away.
+   → 多くの食べ物が失われたり捨てられたりしている。   [SV] passive
+○ The documents were lost or destroyed.
+   → 文書は失われたり破壊されたりした。   [SV] passive
+○ The books were sold or given away.
+   → 本は売られたり人にあげられたりした。   [SV] passive
+○ Many houses were damaged or destroyed by the storm.
+   → 多くの家が被害を受けたり嵐で破壊されたりした。   [SV] passive
+○ At this stage, we cannot say anything.
+   → この段階では、私たちは何も言えない。   [SVO] modal
+○ She sang on the stage.
+   → 彼女は舞台で歌った。   [SV] 
+○ Throwing away food is a waste of money.
+   → 食べ物を捨てることはお金の無駄だ。   [SVC] idiom,gerund
+○ He lives in Tokyo, but the rest of his family lives in Osaka.
+   → 彼は東京に住んでいるが、彼の家族のほかの人たちは大阪に住んでいる。   [SV] 
+○ Japan trades with the rest of the world.
+   → 日本は世界のほかの国々と一緒に取引する。   [SV] 
+○ Many people buy more than they need.
+   → 多くの人々が必要以上に買う。   [SV] 
+○ Don't eat more than you need.
+   → 必要以上に食べてはいけません。   [SV] imperative
+○ I found my old notebook in the back of the drawer.
+   → 私は引き出しの奥で古いノートを見つけた。   [SVO] 
+○ He sat in the back of the classroom.
+   → 彼は教室の後ろに座った。   [SV] 
+○ Don't forget about me.
+   → 私のことを忘れてはいけません。   [SVO] idiom,imperative
+○ They grow and sell vegetables.
+   → 彼らは野菜を育てて売る。   [SV] 
+○ They wash and dry the dishes.
+   → 彼らは皿を洗って乾かす。   [SV] 
+○ He cooked and ate the fish.
+   → 彼は魚を料理して食べた。   [SV] 
+○ The water used to grow and transport the food is wasted.
+   → 食べ物を育てて輸送するために使われている水は無駄にされている。   [SV] inf-adv,participle-mod,passive
+○ The time and money spent on the project were wasted.
+   → プロジェクトに費やされた時間とお金は無駄にされた。   [SV] participle-mod,passive
+○ Drivers are required by law to wear seat belts.
+   → 運転手は法律でシートベルトを締めることが求められている。   [SV] v-o-to
+○ Smoking is banned by law.
+   → 喫煙は法律で禁止されている。   [SV] passive
+○ He eats only what he likes.
+   → 彼は彼が好きなものだけを食べる。   [SVO] relative-what
+○ Buy only what you will eat.
+   → あなたが食べるものだけを買いなさい。   [SVO] modal,relative-what,imperative
+○ The plan, although it seemed simple, failed completely.
+   → それは簡単に思えたけれども、計画は完全に失敗した。   [SV] 
+○ My brother, when he was young, wanted to be a pilot.
+   → 彼が若かったとき、兄はパイロットになりたかった。   [SVO] inf-noun
+○ The money you save now will help you later.
+   → あなたが今貯めるお金は後であなたを助けるだろう。   [SVO] relative,modal
+○ The decisions we make today will shape our future.
+   → 私たちが今日下す決定は私たちの未来を形作るだろう。   [SVO] relative,modal
+○ Could you repeat yourself?
+   → 同じことをもう一度言っていただけませんか。   [SV] question,idiom
+○ The teacher encouraged all the students who wanted to join to sign up.
+   → 先生は加わりたかったすべての生徒に申し込むよう励ました。   [SVOC] inf-noun,relative,idiom,v-o-to
+○ She asked the man who wanted to buy the car to wait.
+   → 彼女は車を買いたかった男性に待つように頼んだ。   [SVOC] inf-noun,relative,v-o-to
+○ If you have a chance to go, take it.
+   → もし行く機会があったら、その機会を生かしなさい。   [SVO] idiom,imperative
+○ What I learned was not English itself.
+   → 私が学んだことは英語自体ではなかった。   [SVC] relative-what
+○ I talked about the song, which my mother taught me.
+   → 私は歌について話して、母は私にそれを教えてくれた。   [SVO] idiom,svoo,relative
+○ He showed me a picture, which his father had painted.
+   → 彼は私に絵を見せてくれて、彼の父はそれを描いていた。   [SVOO] svoo,pastperfect,relative
+○ She gave me the courage I needed to try again.
+   → 彼女は私にもう一度やってみるのに必要だった勇気をくれた。   [SVOO] relative,svoo
+○ I want to share who I am.
+   → 私は自分がどんな人間であるかを共有したい。   [SVO] indirect-q,inf-noun
+○ It was the first time to meet him.
+   → 彼に会うのは初めてだった。   [SVC] it-to
 
-parsed 10447 / 10447
+parsed 10518 / 10518
