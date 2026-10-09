@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (213ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (185ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -15791,7 +15791,7 @@
 ○ The scholarship enables students from poor families to attend university.
    → 奨学金は貧しい家庭の学生が大学に通ることを可能にする。   [SVOC] v-o-to
 ○ Social media has a significant impact on how young people view themselves.
-   → SNSは若い人々がどのように自分自身を見るかに大きな影響を与える。   [SVO] indirect-q
+   → SNSは若い人々がどのように自分を見るかに大きな影響を与える。   [SVO] indirect-q
 ○ The museum's exhibits range from ancient pottery to modern art.
    → 博物館の展示品は古代の陶器から現代の芸術まで及ぶ。   [SV] 
 ○ Investors are reluctant to take risks during a recession.
@@ -19106,5 +19106,97 @@
    → 専門家は原因について意見が分かれている。   [SV] 
 ○ The power went out.
    → 停電した。   [SV] idiom
+○ For centuries, people have wondered why we dream, but scientists still cannot agree on a single explanation.
+   → 何世紀も、人々は私たちがなぜ夢を見るか疑問に思ったが、科学者はまだただ1つの説明について意見が一致できない。   [SVO] indirect-q,perfect,modal,idiom
+○ The number of people working from home has increased sharply since the pandemic, changing the way offices are designed.
+   → 在宅勤務をしている人々の数はパンデミック以来急激に増えていて、事務所が設計されている方法を変えている。   [SV] idiom,participle-mod,perfect,passive,rel-adv,participle-const
+○ When I was a child, my grandmother used to tell me stories about the war that she had experienced as a young girl.
+   → 私が子どもだったとき、祖母は以前は私に彼女が若い少女として経験した戦争についての話をしてくれていた。   [SVOO] used-to,pastperfect,relative,svoo
+○ Bees communicate the location of flowers to other bees by performing a special dance inside the hive.
+   → ミツバチは他のミツバチにミツバチの巣箱の中で特別なダンスを行うことによって花の場所を伝える。   [SVO] gerund
+○ Many small shops in the town have closed because they could not compete with the large supermarket that opened nearby.
+   → 町の多くの小さい店は、近くに開いた大きいスーパーマーケットと競争できなかったので、閉まった。   [SV] perfect,relative,modal,idiom
+○ It is important to remember that a healthy diet alone is not enough; regular exercise is also necessary.
+   → 健康的な食事だけでは十分ではないことを覚えることは重要で、定期的な運動はまた必要だ。   [SVC] that-clause,it-to
+○ Some scientists argue that the loss of biodiversity is as serious a threat to humanity as climate change.
+   → 生物多様性の喪失が気候変動と同じくらい深刻な人類への脅威だと主張する科学者もいる。   [SVO] as-as,that-clause
+○ The teacher encouraged her students to express their opinions freely, even if they disagreed with her.
+   → たとえ彼らが彼女に反対しても、先生は彼女の生徒たちに彼らの意見を自由に述べるよう励ました。   [SVOC] v-o-to,idiom
+○ Although the town is small, it attracts thousands of tourists every year thanks to its beautiful old temples.
+   → 町は小さいけれども、毎年その美しい古い寺のおかげで何千人もの観光客を集める。   [SVO] 
+○ The internet has made it possible for anyone to publish their ideas, but it has also made it harder to tell fact from fiction.
+   → インターネットは誰もが彼らの考えを出版することを可能にしたが、また事実と作り話を見分けにくくした。   [SVOC] svoc,formal-object,perfect,idiom
+○ Most of the plastic that is thrown away is never recycled and ends up in landfills or the ocean.
+   → 捨てられているプラスチックのほとんどは決してリサイクルされていなくて、埋め立て地か海に行き着く。   [SV] idiom,passive,relative
+○ She decided to study abroad, not because she wanted to escape from her family, but because she wanted to challenge herself.
+   → 彼女が留学することに決めたのは、自分の家族から逃げたかったからではなく、自分に挑戦したかったからだった。   [] idiom,inf-noun,not-but
+○ The longer people use social media, the more likely they are to compare themselves with others and feel unhappy.
+   → 人々がSNSを長く使えば使うほど、自分を他の人たちと比べて、不幸に感じる可能性はますます高くなる。   [SV] idiom,the-more
+○ Japan's population has been declining for more than a decade, and the trend is expected to continue.
+   → 日本の人口は10年以上ずっと減少していて、傾向は続くと予想されている。   [SV] progressive,perfect,v-o-to
+○ In order to protect endangered species, it is necessary to preserve the habitats in which they live.
+   → 絶滅の危機にある種を守るために、彼らが生きる生息地を保存する必要がある。   [SVC] relative,it-to,inf-adv
+○ He apologized for being late, explaining that his train had been delayed by an accident.
+   → 彼は自分の電車が事故によって遅れたと説明しながら、遅れたことを謝った。   [SV] idiom,passive,pastperfect,that-clause,participle-const,gerund
+○ Researchers found that students who took notes by hand remembered more than those who typed them on a laptop.
+   → 研究者は手でメモをとった学生がノートパソコンでそれらをタイプした人々以上覚えていることを明らかにした。   [SVO] idiom,relative,that-clause
+○ Not all bacteria are harmful; in fact, many of them play an essential role in keeping us healthy.
+   → すべての細菌が有害なわけではない。実際、彼らの多くは私たちを健康に保つ上で不可欠な役割を果たす。   [SVC] partial-neg,svoc,gerund
+○ The old library, which had been closed for years, was turned into a community center where people of all ages can meet.
+   → 何年も閉じられていた古い図書館はあらゆる年齢の人々が会える公民館に変えられた。   [SV] passive,pastperfect,relative,modal,rel-adv
+○ People often underestimate how much time they spend on their phones each day.
+   → 人々はよく彼らが毎日どのくらいの時間を自分の電話に費やすか過小評価する。   [SVO] idiom,indirect-q
+○ What we eat affects not only our physical health but also our mood and ability to concentrate.
+   → 私たちが食べるものは私たちの身体の健康だけでなく私たちの気分と集中する能力にも影響する。   [SVO] relative-what,inf-adj,not-only
+○ Because of rising temperatures, some plants are now flowering earlier in the spring than they did fifty years ago.
+   → 気温の上昇のために、いくつかの植物は今春に50年前より早く花が咲いている。   [SV] comparative,progressive
+○ The company is trying to reduce its carbon emissions by switching to renewable energy and encouraging employees to use public transportation.
+   → 会社は再生可能エネルギーに切り替えて、従業員に公共交通機関を使うよう励ますことによってその炭素排出を減らそうとしている。   [SVO] v-o-to,gerund,inf-noun,progressive
+○ A good night's sleep is essential for learning, since the brain processes and stores new information while we sleep.
+   → 私たちが眠る間に、脳が処理して、新しい情報を蓄えるので、十分な睡眠は学習に不可欠だ。   [SVC] 
+○ After years of hard work, the young scientist finally succeeded in developing a vaccine against the disease.
+   → 何年もの努力の後に、若い科学者はついに病気に対してワクチンを開発することに成功した。   [SVO] idiom
+○ Many people feel uncomfortable speaking in public, but this skill can be improved through practice.
+   → 多くの人々は人前で話すのを不快に感じるが、この技術は練習を通して改善できる。   [SVC] 
+○ The village, which is surrounded by mountains on all sides, can only be reached by a narrow road.
+   → 山によってすべての側で囲まれている村は狭い道路でしか行けない。   [SV] passive,relative
+○ It is often difficult to know whether the information we find online is accurate or not.
+   → 私たちがオンラインで見つける情報が正確かどうか知ることはしばしば難しい。   [SVC] relative,indirect-q,it-to
+○ Parents should be careful not to compare their children with others, as this can damage their self-esteem.
+   → これが彼らの自尊心に損害を与えることがあるので、親は自分の子どもたちを他の人たちと比べないように気をつけるべきだ。   [SVC] idiom,inf-adv,modal
+○ Even though the experiment failed, the team learned valuable lessons that helped them succeed the next time.
+   → 実験は失敗したけれども、チームは彼らが次回は成功するのに役立った貴重な教訓を学んだ。   [SVO] causative,relative
+○ It lasted for a decade.
+   → それは10年間続いた。   [SV] 
+○ It lasted for two decades.
+   → それは20年間続いた。   [SV] 
+○ Money alone is not enough.
+   → お金だけでは十分ではない。   [SVC] 
+○ The loss of biodiversity is as serious a threat as climate change.
+   → 生物多様性の喪失は気候変動と同じくらい深刻な脅威だ。   [SVC] as-as
+○ She went abroad not because she wanted to escape but because she wanted to challenge herself.
+   → 彼女が海外に行ったのは、逃げたかったからではなく、自分に挑戦したかったからだった。   [] idiom,inf-noun,not-but
+○ Not all bacteria are harmful; many of them are useful.
+   → すべての細菌が有害なわけではない。彼らの多くは役に立つ。   [SVC] partial-neg
+○ He likes not only cats but also dogs.
+   → 彼はネコだけでなく犬も好きだ。   [SVO] not-only
+○ They protect themselves.
+   → 彼らは自分を守る。   [SVO] 
+○ Many people feel nervous speaking in public.
+   → 多くの人々が人前で話すのに緊張する。   [SVC] 
+○ We can save energy by turning off the lights.
+   → 私たちは電気を消すことによってエネルギーを節約できる。   [SVO] idiom,gerund,modal
+○ The village can only be reached by boat.
+   → 村は船でしか行けない。   [SV] passive
+○ They succeeded the next time.
+   → 彼らは次回は成功した。   [SV] 
+○ The team learned valuable lessons.
+   → チームは貴重な教訓を学んだ。   [SVO] 
+○ It is easy for anyone to learn.
+   → 誰もが学ぶことは簡単だ。   [SVC] it-to
+○ Scientists cannot agree on a single explanation.
+   → 科学者はただ1つの説明について意見が一致できない。   [SVO] modal,idiom
+○ A good night's sleep is important.
+   → 十分な睡眠は重要だ。   [SVC] 
 
-parsed 9554 / 9554
+parsed 9600 / 9600

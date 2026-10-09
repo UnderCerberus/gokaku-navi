@@ -2,7 +2,10 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['private car', '名', '自家用車', 2],
+    ['self-esteem', '名', '自尊心', 2],
+    ['good night\'s sleep', '名', '十分な睡眠', 2],
+    ['flower', '動', '花が咲く; 開花する', 2],
+    ['landfill', '名', '埋め立て地', 2],
 ]
 def key(w):
     return w.lower()
@@ -32,7 +35,8 @@ for fn in ['dict-a-l.js', 'dict-m-z.js']:
         else:
             after = [e for e in ents if key(e[1]) > key(w)]
             idx = after[0][0] if after else ents[-1][0] + 1
-        lines.insert(idx, "    ['%s', '%s', '%s', %d]," % (w, pos, ja, lv))
+        q = '"' if "'" in w else "'"
+        lines.insert(idx, "    [%s%s%s, '%s', '%s', %d]," % (q, w, q, pos, ja, lv))   # good night's sleep は二重引用符
         added += 1
     io.open(p, 'w', encoding='utf-8', newline='').write('\n'.join(lines))
 print('added', added)
