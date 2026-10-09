@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (218ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (187ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -7521,7 +7521,7 @@
 ○ Tipping is common in the United States, but not in Japan.
    → チップを渡すことはアメリカ合衆国で一般的だが、日本ではそうではない。   [SVC] 
 ○ What is polite in one culture may be impolite in another.
-   → ある文化に礼儀正しいことは別の文化では失礼かもしれない。   [SVC] relative-what,modal
+   → ある文化では礼儀正しいことは別の文化では失礼かもしれない。   [SVC] relative-what,modal
 ○ When I first went to America, I was surprised that people hugged each other.
    → 私は初めてアメリカに行ったとき、人々が抱き合って驚いた。   [SVC] that-clause
 ○ I was surprised that he came.
@@ -8395,7 +8395,7 @@
 ○ The teacher, who had been working at the school for over thirty years, told us that the most important thing in life is to keep learning.
    → 30年以上学校でずっと働いていた先生は私たちに人生で最も重要なことが学び続けることだと言った。   [SVOO] progressive,pastperfect,relative,gerund,that-clause
 ○ My grandfather, who grew up on a farm, often tells me that young people today do not know where their food comes from.
-   → 農場で育った祖父はよく私に若い人々が今日彼らの食べ物がどこから来るか分からないと言う。   [SVOO] idiom,relative,indirect-q,that-clause
+   → 農場で育った祖父はよく私に今日の若い人々が自分の食べ物がどこから来るか分からないと言う。   [SVOO] idiom,relative,indirect-q,that-clause
 ○ Because the bus was late, I missed the beginning of the concert, which was the part I had been looking forward to most.
    → バスが遅れたので、私は一番楽しみにしていた部分だったコンサートの初めを逃した。   [SVO] idiom,progressive,pastperfect,relative
 ○ Scientists believe that the dinosaurs died out about 66 million years ago when a huge asteroid hit the Earth.
@@ -13353,7 +13353,7 @@
 ○ Customs differ from country to country.
    → 習慣は国によって異なる。   [SVO] idiom
 ○ What is considered polite in one country may be rude in another.
-   → ある国で礼儀正しいと考えられていることは別の国では失礼かもしれない。   [SVC] it-said,relative-what,modal
+   → ある国では礼儀正しいと考えられていることは別の国では失礼かもしれない。   [SVC] it-said,relative-what,modal
 ○ Slurping noodles is not bad manners in Japan.
    → めんをすすることは日本では行儀が悪いことではない。   [SVC] gerund
 ○ Students should study hard when they are young.
@@ -18013,7 +18013,7 @@
 ○ After graduating from college, he moved to a small village and started his own farm.
    → 大学を卒業した後で、彼は小さい村に引っ越して、自分の農場を始めた。   [SV] idiom,gerund
 ○ Some experts point out that children today spend too much time indoors.
-   → 子どもが今日時間を屋内で費やしすぎると指摘する専門家もいる。   [SVO] that-clause,idiom
+   → 今日の子どもが時間を屋内で費やしすぎると指摘する専門家もいる。   [SVO] that-clause,idiom
 ○ In many parts of the world, access to clean water is still limited.
    → 世界の多くの地域では、きれいな水を利用できることはまだ限られている。   [SVC] 
 ○ The researchers collected data from more than three thousand households over a period of five years.
@@ -18247,7 +18247,7 @@
 ○ The ancient Romans built roads that were so well designed that some of them are still used today.
    → 古代のRomansはとてもよく設計されたので、それらのいくつかは今でも使われている道路を造った。   [SVO] passive,so-that,relative
 ○ As technology develops, many jobs that are done by people today may be done by machines in the future.
-   → 科学技術が発展するにつれて、人々にされている多くの仕事は機械に将来今日されるかもしれない。   [SV] passive,relative,modal
+   → 科学技術が発展するにつれて、今日の人々にされている多くの仕事は機械に将来されるかもしれない。   [SV] passive,relative,modal
 ○ One way to reduce stress is to make a list of the things you need to do and finish them one by one.
    → ストレスを減らす1つの方法はあなたがして、彼らを1つずつ終えるために必要とする物のリストを作ることだ。   [SVC] inf-adj,inf-adv,relative
 ○ Since he moved to Tokyo three years ago, he has been working at a company that develops software for hospitals.
@@ -18681,7 +18681,7 @@
 ○ It was only after she had moved abroad that she realized how much she had taken her family's support for granted.
    → 彼女がどれほど自分の家族の支えを当然のことと思ったか分かったのは、彼女が外国に引っ越した後になってからだった。   [SVO] pastperfect,idiom,indirect-q,cleft
 ○ Unlike their parents, many young people today see changing jobs several times during their careers as a natural part of working life.
-   → 彼らの両親とは違って、多くの若い人々は今日何度か彼らの職業の間に転職することを職業生活の自然な一部とみなす。   [SVO] idiom,gerund
+   → 彼らの両親とは違って、今日の多くの若い人々は何度か彼らの職業の間に転職することを職業生活の自然な一部とみなす。   [SVO] idiom,gerund
 ○ The museum, which attracts more than two million visitors a year, was originally built as a private home for a wealthy merchant family.
    → 1年に200万人以上の訪問者を集める博物館は裕福な商人の家族のために個人の住宅としてもともと建てられた。   [SV] relative,passive
 ○ Because bees play a key role in pollinating crops, a sharp decline in their numbers could have a significant impact on the world's food supply.
@@ -18825,7 +18825,7 @@
 ○ Every autumn, millions of birds fly thousands of kilometers south to spend the winter in warmer regions.
    → 毎秋、何百万もの鳥はより暖かい地域で冬を過ごすために南へ何千キロメートルも飛ぶ。   [SVO] inf-adv
 ○ Children who are read to by their parents from an early age usually develop better language skills than those who are not.
-   → 彼らの両親にたいてい幼い頃から本を読んでもらう子どもはそうではない人々より良い言語能力を伸ばす。   [SVO] passive,relative,comparative
+   → 彼らの両親にたいてい幼い頃から本を読んでもらう子どもはそうではない人々より良い言語能力を身につける。   [SVO] passive,relative,comparative
 ○ Music has the power to change our mood, and many hospitals now use it to help patients relax before surgery.
    → 音楽は私たちの気分を変える力を持っていて、多くの病院が今患者が手術の前にくつろぐのを手伝うためにそれを使う。   [SVO] inf-adj,causative,inf-adv
 ○ Honesty is considered one of the most important qualities in a friend, yet most people admit that they sometimes tell small lies.
@@ -18843,7 +18843,7 @@
 ○ As a result of globalization, it has become common to find the same brands and restaurants in cities all over the world.
    → グローバル化の結果として、世界中の都市で同じ銘柄とレストランを見つけることは一般的になった。   [SVC] it-to,perfect
 ○ What is considered polite in one culture may be seen as rude in another, so it is important to learn about cultural differences.
-   → ある文化で礼儀正しいと考えられているのは別の文化では失礼だとみなされるかもしれないので、文化の違いについて学ぶことは重要だ。   [SV] it-said,relative-what,passive,modal,it-to
+   → ある文化では礼儀正しいと考えられているのは別の文化では失礼だとみなされるかもしれないので、文化の違いについて学ぶことは重要だ。   [SV] it-said,relative-what,passive,modal,it-to
 ○ Some educators argue that too much homework can actually harm students' motivation and leave them with little time for other activities.
    → 多すぎる宿題が生徒の動機づけを実際に害することがあって、彼らから他の活動の時間を奪うことがあると主張する教育者もいる。   [SVO] modal,idiom,that-clause
 ○ Curiosity, rather than intelligence, is often what drives people to make important discoveries.
@@ -18871,7 +18871,7 @@
 ○ They walked ten kilometers north.
    → 彼らは北へ10キロメートル歩いた。   [SVO] 
 ○ Children who are read to by their parents develop better language skills.
-   → 彼らの両親に本を読んでもらう子どもはより良い言語能力を伸ばす。   [SVO] passive,relative
+   → 彼らの両親に本を読んでもらう子どもはより良い言語能力を身につける。   [SVO] passive,relative
 ○ Recycling alone cannot solve the problem.
    → リサイクルだけでは問題を解決できない。   [SVO] modal
 ○ Money alone does not make people happy.
@@ -18907,9 +18907,9 @@
 ○ They say that robots will take our jobs and change our lives.
    → 彼らはロボットが私たちの仕事を奪って、私たちの生活を変えるだろうと言う。   [SVO] modal,that-clause
 ○ What is popular in one country may be unpopular in another.
-   → 1か国に人気があることは別の国では人気がないかもしれない。   [SVC] relative-what,modal
+   → ある国では人気があることは別の国では人気がないかもしれない。   [SVC] relative-what,modal
 ○ They develop better language skills than other children.
-   → 彼らは他の子どもたちより良い言語能力を伸ばす。   [SVO] comparative
+   → 彼らは他の子どもたちより良い言語能力を身につける。   [SVO] comparative
 ○ The plan was unpopular.
    → 計画は人気がなかった。   [SVC] 
 ○ The rapid development of artificial intelligence has raised concerns about privacy, as companies collect enormous amounts of personal data.
@@ -19029,7 +19029,7 @@
 ○ So popular was the new game that stores across the country sold out within a few hours.
    → 新しい試合はとても人気があったので、全国の店は数時間以内に売り切れた。   [SVC] idiom,so-that,inversion
 ○ Whereas earlier generations relied on newspapers for information, young people today get most of their news from social media.
-   → 以前の世代が情報のために新聞に頼ったのに対して、若い人々は今日SNSから彼らのニュースのほとんどをもらう。   [SVO] idiom
+   → 以前の世代が情報のために新聞に頼ったのに対して、今日の若い人々はSNSから彼らのニュースのほとんどをもらう。   [SVO] idiom
 ○ In spite of the heavy rain, thousands of runners took part in the city marathon.
    → 大雨にもかかわらず、何千もの走者は市のマラソンに参加した。   [SVO] idiom
 ○ As long as we continue to burn fossil fuels, the amount of carbon dioxide in the atmosphere will keep rising.
@@ -19201,7 +19201,7 @@
 ○ The printing press, invented in the fifteenth century, made books cheaper and allowed ideas to spread more quickly than ever before.
    → 15世紀に発明された印刷機は本を安くして、考えがかつてないほど急速に広がることを可能にした。   [SVOC] svoc,comparative,v-o-to
 ○ Children learn their first language without being taught grammar rules, simply by listening to the people around them.
-   → 子どもは自分の周りで人々の言うことを聞くことによって文法の規則を単に教えられずに自分の最初の言語を学ぶ。   [SVO] idiom,gerund
+   → 子どもは周りの人々の言うことを聞くことによって文法の規則を単に教えられずに自分の最初の言語を学ぶ。   [SVO] idiom,gerund
 ○ When prices rise faster than wages, ordinary families find it increasingly difficult to make ends meet.
    → 価格が賃金より速く上がると、普通の家族たちは収支を合わせることがますます難しいと感じる。   [SVOC] comparative,svoc,idiom,formal-object
 ○ Psychologists have long known that people are more likely to remember information that is connected to their emotions.
@@ -19381,7 +19381,7 @@
 ○ People who eat breakfast regularly tend to be healthier.
    → 朝食を定期的に食べる人々はより健康である傾向がある。   [SVO] relative,comparative
 ○ Children who read books regularly develop better language skills.
-   → 本を定期的に読む子どもはより良い言語能力を伸ばす。   [SVO] relative
+   → 本を定期的に読む子どもはより良い言語能力を身につける。   [SVO] relative
 ○ The books they bought were expensive.
    → 彼らが買った本は高かった。   [SVC] relative
 ○ Scientists studied the rocks that they had collected.
@@ -19605,7 +19605,7 @@
 ○ She can't even walk, let alone run.
    → 彼女は歩くことさえできない。まして走ることはなおさらだ。   [SV] modal
 ○ I can't afford a bicycle, let alone a car.
-   → 私は自転車の余裕がない。まして車はなおさらだ。   [SVO] modal
+   → 私は自転車を買う余裕がない。まして車はなおさらだ。   [SVO] modal
 ○ He could not even write his name.
    → 彼は自分の名前を書くことさえできなかった。   [SVO] modal
 ○ I don't think he is as tall as his brother.
@@ -19638,5 +19638,137 @@
    → 私は子ども時代をよく覚えている。   [SVO] 
 ○ She listened to the music, remembering her childhood.
    → 彼女は自分の子ども時代を思い出しながら、音楽を聴いた。   [SVO] participle-const,idiom
+○ Researchers who studied thousands of children found that those who were read to every day developed larger vocabularies than those who were not.
+   → 何千もの子どもを調査した研究者が毎日本を読んでもらった人々がそうではなかった人々より豊富な語彙を身につけたことを明らかにした。   [SVO] relative,passive,comparative,that-clause
+○ Although artificial intelligence can now write essays and compose music, many experts doubt that it truly understands what it produces.
+   → 人工知能は今ではエッセイを書いたり、音楽を作曲したりできるけれども、多くの専門家はそれが何を生産するか本当に理解するということを疑う。   [SVO] modal,indirect-q,that-clause
+○ In many parts of the world, young people are leaving rural areas in search of better jobs, leaving behind an aging population.
+   → 世界の多くの地域では、若い人々はより良い仕事を探して農村部を離れていて、高齢化する人口を後に残している。   [SVO] progressive,idiom,participle-const
+○ The idea that we use only ten percent of our brains is a myth that has been repeated so often that many people believe it.
+   → 私たちが脳の10%しか使わないという考えはとてもよく繰り返されたため多くの人々が信じている俗説だ。   [SVC] appositive,so-that,passive,perfect,relative
+○ When people are asked to remember a list of words, they tend to recall the first and last items better than those in the middle.
+   → 人々が語のリストを覚えるように求められるとき、最初と最後の品目を真ん中の品目より上手に思い出す傾向がある。   [SVO] v-o-to,comparative
+○ It was only when the river began to flood every year that the villagers realized how much the forest had protected them.
+   → 村人たちが森林がどのくらい彼らを守ったか分かったのは、川が毎年氾濫し始めたときになってからだった。   [SVO] pastperfect,indirect-q,inf-noun,cleft
+○ Social media allows us to stay in touch with friends who live far away, but it can also make us feel lonely if we compare ourselves with others.
+   → SNSは遠くに住んでいる友達と連絡を取り合うことを可能にするが、もし私たちが私たち自身を他の人たちと比べたら、また私たちに寂しく感じさせることがある。   [SVOC] relative,idiom,v-o-to,causative,modal
+○ The amount of plastic that ends up in the ocean each year is so large that some scientists fear there will soon be more plastic than fish.
+   → 毎年海に行き着くプラスチックの量はとても大きいので、すぐに魚より多くのプラスチックがあるのではないかと心配する科学者もいる。   [SVC] idiom,relative,comparative,there,modal,that-clause,so-that
+○ Writing was invented not to record stories or poems but to keep track of goods and taxes.
+   → 書くことは話か詩を記録するためではなく、商品と税金を把握するために発明された。   [SV] idiom,not-but,passive
+○ Most people would agree that honesty is important, yet many of us tell small lies every day without thinking twice.
+   → ほとんどの人々は正直さが重要であることに同意するだろうが、私たちの多くは毎日深く考えずに小さいうそをつく。   [SVO] that-clause,modal
+○ The longer a language has been studied, the more we discover about how its speakers see the world.
+   → 言語が長く勉強されれば勉強されるほど、より多くのことを私たちはその話し手がどのように世界を見るかについて発見する。   [SV] passive,perfect,indirect-q,the-more
+○ Because the population is aging rapidly, the government is encouraging companies to hire older workers and to allow them to work flexible hours.
+   → 人口が急速に高齢化しているので、政府は会社に高齢の労働者たちを雇って、彼らが柔軟な時間で働くのを認めるよう励ましている。   [SVOC] progressive,v-o-to
+○ Unlike their parents, who often stayed with one company for their entire careers, many young workers today change jobs several times.
+   → よく職業人生を通じてずっと1つの会社に勤め続けた彼らの両親とは違って、今日の多くの若い労働者は何度か転職する。   [SV] idiom,relative
+○ What we eat not only affects our health but also has a significant impact on the environment.
+   → 私たちが食べるものは私たちの健康に影響するだけでなく、環境に大きな影響を与える。   [SVO] relative-what,not-only
+○ The museum displays tools that were used by people who lived in the area thousands of years ago.
+   → 博物館は何千年も前に地域に住んでいた人々に使われた道具を展示する。   [SVO] relative,passive
+○ Some volunteers spend their weekends cleaning beaches, while others teach children who cannot afford private lessons.
+   → 浜辺を掃除して自分の週末を過ごすボランティアもいれば、個人レッスンを受ける余裕がない子どもに教えるボランティアもいる。   [] correlative
+○ Studies suggest that a short nap in the afternoon can improve memory and make people more productive at work.
+   → 研究は午後の短い昼寝が記憶を改善できて、職場で人々をより生産的にすることがあることを示唆する。   [SVO] modal,svoc,that-clause
+○ If you had asked me ten years ago where I would be living now, I would never have guessed that I would end up in a small town abroad.
+   → もしあなたが10年前に私にどこに今住んでいるか尋ねていたら、私は決して外国の小さい町に行き着くだろうと思わなかっただろうに。   [SVO] progressive,modal,indirect-q,pastperfect,idiom,that-clause,modal-perfect,subjunctive-pp
+○ Many of the words we use every day were borrowed from other languages, often without our being aware of it.
+   → 私たちが毎日使う語の多くはよく他の言語から気づかないうちに借りられた。   [SV] relative,passive
+○ The scientist, whose research on bees has received international attention, will give a lecture at our university next month.
+   → ミツバチに関する研究が国際的な注意を集めた科学者は来月私たちの大学で講義をするだろう。   [SVO] perfect,relative,modal
+○ People tend to trust information that confirms what they already believe and to ignore information that does not.
+   → 人々は彼らがすでに信じていることを確認する情報を信頼して、そうでない情報を無視する傾向がある。   [SVO] relative-what,relative
+○ Instead of punishing students who make mistakes, good teachers encourage them to learn from their errors.
+   → 間違える生徒を罰する代わりに、良い先生たちは彼らに自分の誤りから学ぶよう励ます。   [SVOC] idiom,relative,v-o-to,gerund
+○ As cities grow larger, the demand for public transportation increases, and so does the need for green spaces.
+   → 都市がより大きくなるにつれて、公共交通機関の需要は増えるし、緑地の必要性もそうだ。   [] ellipsis
+○ It is difficult to say exactly when humans first began to use fire, but evidence suggests that it was at least a million years ago.
+   → 人間が最初にいつ火を使い始めたか正確に言うことは難しいが、証拠はそれが少なくとも100万年前だったことを示唆する。   [SVC] inf-noun,indirect-q,it-to,that-clause
+○ The fact that the experiment could not be repeated by other scientists raised serious doubts about its results.
+   → 実験が他の科学者たちに繰り返されることができなかったという事実はその結果について深刻な疑いを提起した。   [SVO] passive,modal,appositive
+○ Children learn to speak by listening to the people around them, long before they are taught any grammar rules at school.
+   → 子どもは、学校で文法の規則を教えられているずっと前に、周りの人々の言うことを聞くことによって話せるようになる。   [SVO] idiom,gerund,inf-noun,passive
+○ More and more companies are allowing their employees to work from home, which saves time that would otherwise be spent commuting.
+   → 従業員が在宅勤務をするのを認めている会社がますます増えていて、そのことが通勤するのに本来なら費やされる時間を節約する。   [SVOC] idiom,v-o-to,progressive,passive,modal,relative
+○ No one knows for certain why the ancient city was abandoned, although many theories have been proposed.
+   → 多くの理論は提案されたけれども、誰もはっきりとは古代の都市がなぜ捨てられたか分からない。   [SVO] passive,indirect-q,perfect
+○ The way people greet each other varies greatly from culture to culture, and what is polite in one country may be rude in another.
+   → 人々がお互いあいさつする方法は文化によって大いに変わって、ある国では礼儀正しいことは別の国では失礼かもしれない。   [SV] rel-adv,relative-what,modal
+○ Even though she had never cooked for so many people before, the dinner she prepared was a great success.
+   → 彼女は一度もこれほど多くの人々のために料理したことがなかったけれども、準備した夕食は大きな成功だった。   [SVC] pastperfect,relative
+○ No one knows for certain why the ancient city was abandoned.
+   → はっきりとは古代の都市がなぜ捨てられたかは誰にも分からない。   [SVO] passive,indirect-q
+○ Greetings vary greatly from culture to culture.
+   → あいさつは文化によって大いに変わる。   [SV] 
+○ Young people are leaving rural areas, leaving behind an aging population.
+   → 若い人々は農村部を離れていて、高齢化する人口を後に残している。   [SVO] progressive,idiom,participle-const
+○ He went there not to study but to play.
+   → 彼は勉強するためではなく、遊ぶためにそこに行った。   [SV] not-but
+○ I came here not to complain but to help.
+   → 私は不平を言うためではなく、助けるためにここに来た。   [SV] not-but
+○ He swims every day, and so does his brother.
+   → 彼は毎日泳ぐし、彼の兄もそうだ。   [] ellipsis
+○ A short nap in the afternoon can improve memory.
+   → 午後の短い昼寝は記憶を改善できる。   [SVO] modal
+○ A nap in the afternoon can help.
+   → 午後の昼寝は役に立つことがある。   [SV] modal
+○ I take a nap in the afternoon.
+   → 私は午後に昼寝をする。   [SV] idiom
+○ Unlike his brother, who loves sports, he prefers reading.
+   → スポーツが大好きな彼の兄とは違って、彼は読書のほうを好む。   [SVO] relative
+○ Young people today use smartphones every day.
+   → 今日の若い人々は毎日スマートフォンを使う。   [SVO] 
+○ Students today accept this idea.
+   → 今日の学生はこの考えを受け入れる。   [SVO] 
+○ It happened hundreds of years ago.
+   → それは何百年も前に起こった。   [SV] 
+○ Dinosaurs lived millions of years ago.
+   → 恐竜は何百万年も前に生きた。   [SV] 
+○ It was at least a million years ago.
+   → それは少なくとも100万年前だった。   [SVC] 
+○ It was two years ago.
+   → それは2年前だった。   [SVC] 
+○ That was a long time ago.
+   → それはずっと前のことだった。   [SVC] 
+○ Prices in Tokyo are higher than those in Osaka.
+   → 東京の価格は大阪の価格より高い。   [SVC] comparative
+○ The river began to flood.
+   → 川は氾濫し始めた。   [SVO] inf-noun
+○ Heavy rain flooded the town.
+   → 大雨は町を水浸しにした。   [SVO] 
+○ They teach children who cannot read.
+   → 彼らは読めない子どもに教える。   [SVO] modal,relative
+○ Tell me who called.
+   → 誰が電話をかけたか教えなさい。   [SVOO] indirect-q,imperative
+○ I know what it means.
+   → 私はそれが何を意味するか知っている。   [SVO] indirect-q
+○ The idea is a myth that has been repeated so often that many people believe it.
+   → 考えはとてもよく繰り返されたため多くの人々が信じている俗説だ。   [SVC] so-that,passive,perfect,relative
+○ It saves time that would otherwise be spent commuting.
+   → それは通勤するのに本来なら費やされる時間を節約する。   [SVO] passive,modal,relative
+○ Children who are read to every day learn faster.
+   → 毎日本を読んでもらう子どもはもっと速く学ぶ。   [SV] passive,relative
+○ They found that those children developed larger vocabularies.
+   → 彼らはそれらの子どもが豊富な語彙を身につけたことに気づいた。   [SVO] that-clause
+○ She said that he developed the software.
+   → 彼女は彼がソフトウェアを開発したと言った。   [SVO] that-clause
+○ Children learn through play.
+   → 子どもは遊びを通して学ぶ。   [SV] 
+○ He asked me yesterday where I lived.
+   → 彼は昨日私にどこに住んでいるか尋ねた。   [SVOO] indirect-q
+○ I ended up in a small town abroad.
+   → 私は外国の小さい町に行き着いた。   [SVO] idiom
+○ He has friends abroad.
+   → 彼は外国の友達がいる。   [SVO] 
+○ What works in one country may fail in another country.
+   → ある国ではうまくいくことは別の国で失敗するかもしれない。   [SV] relative-what,modal
+○ I have one brother and another sister.
+   → 私は1人の兄と別の姉がいる。   [SVO] 
+○ Words were borrowed without our being aware of it.
+   → 語は気づかないうちに借りられた。   [SV] passive
+○ We should protect the world around us.
+   → 私たちは周りの世界を守るべきだ。   [SVO] modal
 
-parsed 9820 / 9820
+parsed 9886 / 9886

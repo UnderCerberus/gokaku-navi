@@ -459,7 +459,7 @@
 229 ○ I hope to see my host family again someday.
     → いつかまたホストファミリーに会いたいと思う。
 230 ○ Many students today read books on tablets or smartphones.
-    → 多くの学生が今日タブレットかスマートフォンで本を読む。
+    → 今日の多くの学生はタブレットかスマートフォンで本を読む。
 231 ○ These electronic books, or e-books, have some good points.
     → これらの電子書籍には良い点がある。
 232 ○ First, you can carry hundreds of books in one small device.

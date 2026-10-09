@@ -1204,6 +1204,8 @@
     ['private', '形', '私的な; 個人の; 私立の', 1],
     ['private car', '名', '自家用車', 2],
     ['private home', '名', '個人の住宅', 2],
+    ['private lesson', '名', '個人レッスン', 2],
+    ['private lessons', '名', '個人レッスン', 2],
     ['privatization', '名', '民営化', 3],
     ['privilege', '名', '特権', 3],
     ['prize', '名', '賞; 賞品', 1],
