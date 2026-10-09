@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (183ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (195ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -14201,7 +14201,7 @@
 ○ I'd like to help you, but I can't.
    → 私はあなたを助けたいが、助けられない。   [] ellipsis
 ○ He said he would come, and he did.
-   → 彼は来ると言って、実際にそうした。   [SVO] modal,that-clause
+   → 彼は来ると言って、来た。   [SVO] modal,that-clause
 ○ If you can't do it, I will.
    → もしあなたがそれをできなかったら、私がやる。   [] ellipsis
 ○ Some like coffee, others like tea.
@@ -18673,7 +18673,7 @@
 ○ What surprised the scientists most was not the size of the fossil but the fact that it had been preserved almost perfectly for millions of years.
    → 科学者たちを最も驚かせたのは化石の大きさではなくそれが何百万年もほとんど完全に保存されていたという事実だった。   [SVC] relative-what,passive,pastperfect,appositive,not-but
 ○ In many developing countries, access to clean drinking water remains a serious problem, especially for families living in remote rural areas.
-   → 多くの発展途上国では、きれいな飲み水を利用できることは特に遠く離れた農村部に住んでいる家族のためには深刻な問題のままでいる。   [SVC] participle-mod
+   → 多くの発展途上国では、きれいな飲み水を利用できることは特に遠く離れた農村部に住んでいる家族のためには深刻な問題のままだ。   [SVC] participle-mod
 ○ The more we rely on smartphones to remember information for us, the less we may be able to recall it on our own.
    → 私たちが自分のために情報を覚えるためにスマートフォンに頼れば頼るほど、ますます独力でそれを思い出せなくなるかもしれない。   [SVO] inf-adv,idiom,modal,the-more
 ○ Some economists argue that raising taxes on sugary drinks would not only improve public health but also provide governments with additional income.
@@ -20590,5 +20590,119 @@
    → 私が昨日受けた試験は難しかった。   [SVC] relative
 ○ It was the hardest test I had ever taken.
    → それは私が今まで受けた中で一番難しい試験だった。   [SVC] pastperfect,relative
+○ It was not until she moved to Tokyo that she realized how much she missed her family.
+   → 東京に引っ越して初めて、彼女はどれほど自分の家族に会いたいか分かった。   [SVO] indirect-q,cleft
+○ No sooner had the game started than it began to pour.
+   → 試合が始まるとすぐに、雨が激しく降り始めた。   [SVO] inf-noun,inversion
+○ I cannot help wondering whether we made the right decision.
+   → 私は私たちが正しい決定をしたかどうか疑問に思わずにはいられない。   [SVO] indirect-q,idiom
+○ There is no telling what will happen if the river keeps rising.
+   → もし川が上がり続けたら、何が起こるか分からない。   [SV] modal,indirect-q,idiom,gerund
+○ It took me nearly three hours to finish reading the report.
+   → 私が報告書を読み終えるのにほぼ3時間かかった。   [SVO] gerund,it-takes
+○ She is used to getting up early, but her husband is not.
+   → 彼女は早く起きることに慣れているが、彼女の夫は早く起きることに慣れていない。   [SVC] idiom,gerund
+○ You had better leave now, or you will be caught in the rush hour.
+   → あなたは今出発したほうがよい。さもないと、ラッシュアワーに遭う。   [SV] idiom,modal
+○ Whatever you decide, I will support you as long as you do your best.
+   → あなたが何を決めても、あなたが最善を尽くす限り、私はあなたを支えるつもりだ。   [SVO] modal,idiom,concession
+○ Whoever broke the window should apologize to the owner of the house.
+   → 窓を割った人は誰でも家の所有者に謝るべきだ。   [SV] relative,modal
+○ He talks as if he knew everything about the history of this town.
+   → 彼はまるでこの町の歴史についてすべてを知っているかのように話す。   [SV] 
+○ Without the help of volunteers, the festival could not have been held this year.
+   → ボランティアの助けがなかったら、祭りは今年開催されなかっただろう。   [SV] passive,modal-perfect,subjunctive-past
+○ The number of people living alone has increased sharply over the past twenty years.
+   → 一人暮らしの人々の数は過去20年間にわたって急激に増えてきた。   [SV] participle-mod,perfect
+○ Unlike his brother, who loves sports, Ken prefers to stay indoors and read.
+   → スポーツが大好きな彼の兄とは違って、ケンは屋内にいて、読むことのほうを好む。   [SVO] relative,idiom,inf-noun
+○ While some people enjoy living in big cities, others prefer the quiet life of the countryside.
+   → 大都市に住むことを楽しむ人もいれば、田舎の静かな生活のほうを好む人もいる。   [] correlative
+○ Despite the heavy rain, thousands of fans gathered outside the stadium.
+   → 大雨にもかかわらず、何千人ものファンは競技場の外側に集まった。   [SV] 
+○ Thanks to the new medicine, many patients were able to leave the hospital earlier than expected.
+   → 新しい薬のおかげで、多くの患者は病院を予想より早く出られた。   [SVO] comparative
+○ Instead of complaining about the problem, why don't we try to find a solution?
+   → 問題について不平を言う代わりに、解決策を見つけようとしませんか。   [SV] question,gerund,inf-noun
+○ The more you practice speaking, the more confident you will become.
+   → 話す練習をすればするほど、ますます自信がつくだろう。   [] gerund,the-more
+○ This is the house where the famous writer spent his childhood.
+   → これは有名な作家が彼の子ども時代を過ごした家だ。   [SVC] rel-adv
+○ The reason why he quit his job remains a mystery to everyone.
+   → 彼が仕事をやめた理由は誰にとっても謎のままだ。   [SVC] rel-adv
+○ What surprised me most was that nobody had noticed the mistake.
+   → 私を最も驚かせたのは誰も間違いに気づいていなかったということだった。   [SVC] relative-what,pastperfect,that-clause
+○ Once you have made a promise, you should keep it no matter what.
+   → あなたはいったん約束をすると、何があってもそれを守るべきだ。   [SVO] perfect,modal
+○ Even if it rains tomorrow, the event will be held as planned.
+   → たとえ明日雨が降っても、イベントは予定どおり開催される予定だ。   [SV] passive,modal
+○ Provided that the weather is fine, we will go hiking on Sunday.
+   → 天気がよいという条件で、私たちは日曜日にハイキングに行くつもりだ。   [SV] modal,idiom
+○ Hardly a day goes by without someone asking me about the accident.
+   → 誰かが事故について私に聞かない日はほとんどない。   [SV] idiom
+○ The book, which was written more than a hundred years ago, is still widely read today.
+   → 100年以上前に書かれた本は今でも広く読まれている。   [SV] passive,relative
+○ Seen from the top of the hill, the town looked like a toy village.
+   → 丘の頂上から見ると、町はおもちゃの村のように見えた。   [SVO] idiom,participle-const
+○ Having finished his homework, he went out to play soccer with his friends.
+   → 宿題を終えて、彼は自分の友達と一緒にサッカーをしに外出した。   [SV] inf-adv,idiom,participle-const
+○ It is said that the castle was built about four hundred years ago.
+   → 城は約400年前に建てられたと言われている。   [SV] passive,it-said
+○ It began to pour.
+   → 雨が激しく降り始めた。   [SVO] inf-noun
+○ It poured all night.
+   → 一晩中雨が激しく降った。   [SV] 
+○ She poured some milk into the cup.
+   → 彼女は牛乳をカップに注いだ。   [SVO] 
+○ I like coffee, but my wife does not.
+   → 私はコーヒーが好きだが、妻はコーヒーが好きではない。   [SVO] 
+○ He is tall, but his brother is not.
+   → 彼は背が高いが、彼の兄は背が高くない。   [SVC] 
+○ She can swim, but I can't.
+   → 彼女は泳げるが、私は泳げない。   [SV] modal
+○ They said they would come, but they didn't.
+   → 彼らは来ると言ったが、来なかった。   [SVO] modal,that-clause
+○ I thought she would win, and she did.
+   → 私は彼女が勝つだろうと思って、彼女は勝った。   [SVO] modal,that-clause
+○ Some people like it, but others do not.
+   → それが好きな人もいるが、他の人たちはそれが好きではない。   [SVO] 
+○ You should take an umbrella, or you will get wet.
+   → あなたは傘を持って行くべきだ。さもないと、濡れる。   [SVO] modal
+○ You must study harder, or you will fail the exam.
+   → あなたはもっと熱心に勉強しなければならない。さもないと、試験に落ちる。   [SV] modal
+○ You have to hurry, or you will miss the train.
+   → あなたは急がなければならない。さもないと、電車に乗り遅れる。   [SV] modal
+○ Ken prefers to stay indoors and read.
+   → ケンは屋内にいて、読むことのほうを好む。   [SVO] idiom,inf-noun
+○ Ken likes to stay indoors and read books.
+   → ケンは屋内にいて、本を読むことが好きだ。   [SVO] idiom,inf-noun
+○ You should keep your promise no matter what.
+   → あなたは何があっても約束を守るべきだ。   [SV] modal,idiom
+○ I will finish it no matter what.
+   → 私は何があってもそれを終えるつもりだ。   [SVO] modal
+○ He told me a secret, but I could not keep it.
+   → 彼は私に秘密を教えてくれたが、私はそれを守れなかった。   [SVOO] svoo,modal
+○ Ten years went by.
+   → 10年は過ぎた。   [SV] idiom
+○ Days went by.
+   → 何日かが過ぎた。   [SV] idiom
+○ A car went by.
+   → 車が通り過ぎた。   [SV] idiom
+○ We go by bus.
+   → 私たちはバスで行く。   [SV] 
+○ He left the room without anyone noticing.
+   → 彼は誰も気づかないうちに部屋を出た。   [SVO] 
+○ She went out without her mother knowing.
+   → 彼女は自分の母が知ることなく外出した。   [SV] idiom
+○ Not a day passes without thinking of her.
+   → 彼女のことを考えない日は1日もない。   [SV] idiom
+○ Hardly a week went by without a letter from him.
+   → 彼からの手紙のない週はほとんどなかった。   [SV] idiom
+○ Not a day goes by without him calling me.
+   → 彼が私に電話しない日は1日もない。   [SV] idiom
+○ It remains a mystery.
+   → それは謎のままだ。   [SVC] 
+○ His death remains a mystery to us.
+   → 彼の死は私たちにとって謎のままだ。   [SVC] 
 
-parsed 10296 / 10296
+parsed 10353 / 10353
