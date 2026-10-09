@@ -329,7 +329,7 @@
 164 ○ Afterward, both groups were asked to put the main events of the story in the correct order.
     → その後、どちらのグループも話の主な出来事を正しい順序に並べるように求められた。
 165 ○ The students who had read the paper version did slightly better than those who had read on the tablet.
-    → 紙の版を読んだ学生たちはタブレットで読んだ人々よりわずかによくできた。
+    → 紙の版を読んだ学生たちはタブレットで読んだ学生よりわずかによくできた。
 166 ○ The researchers explained that paper gives readers a physical sense of where they are in a text.
     → 研究者たちは紙が読者に文章のどこを読んでいるかが手で感じられる感覚を与えると説明した。
 167 ○ You can feel the thickness of the pages you have already read and the pages that remain.
@@ -575,7 +575,7 @@
 287 ○ The other group was interrupted every few minutes by a text message and had to answer it before returning to the problems.
     → もう一方のグループはテキストメッセージに数分ごとに邪魔されて、問題に戻る前にそれに答えなければならなかった。
 288 ○ The students who were interrupted took much longer to finish than those who were not, and they also made more mistakes.
-    → 邪魔された学生たちは終わるのにそうではなかった人々よりずっと長くかかって、またより多くの間違いをした。
+    → 邪魔された学生たちは終わるのにそうではなかった学生よりずっと長くかかって、またより多くの間違いをした。
 289 ○ Why does switching cost so much?
     → 切り替えはなぜとても高くつきますか。
 290 ○ One reason is that the brain needs time to start up again.
@@ -753,7 +753,7 @@
 376 ○ The problem is not confined to technical professions, either.
     → また、この問題は技術職に限ったことでもない。
 377 ○ Medical students who rely on software to read test results may never develop the intuition of an experienced doctor, and writers who accept every correction that a program suggests may stop noticing their own mistakes.
-    → 検査結果を読むためにソフトウェアに頼る医学の学生たちは経験豊かな医者のような勘を身につけられないかもしれず、プログラムが提案するすべての訂正を受け入れる作家は自分自身の間違いに気づくのをやめるかもしれない。
+    → 検査結果を読むためにソフトウェアに頼っている医学の学生たちは経験豊かな医者のような勘を身につけられないかもしれず、プログラムが提案するすべての訂正を受け入れる作家は自分自身の間違いに気づくのをやめるかもしれない。
 378 ○ In each case the machine does the work well, and the person gains time, but something slowly disappears that only practice can maintain.
     → どの場合も、機械はうまく仕事をこなし、人は時間を得るが、練習によってしか保てない何かがゆっくりと消えていく。
 379 ○ Does this mean that we should refuse the help that machines offer?
