@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (198ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (183ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -2255,7 +2255,7 @@
 ○ Talking of movies, have you seen the new one?
    → 映画と言えば、あなたは新しいものを見ましたか。   [SVO] question,perfect,participle-const
 ○ Considering his age, he did very well.
-   → 彼の年齢を考えると、彼はとてもよくやった。   [SV] participle-const
+   → 彼の年齢を考えると、彼はとてもよくやった。   [SV] idiom
 ○ Given the circumstances, we did our best.
    → 状況を考えると、私たちは最善を尽くした。   [SV] idiom,participle-const
 ○ I saw students in the park.
@@ -14291,7 +14291,7 @@
 ○ Plants provide oxygen.
    → 植物は酸素を供給する。   [SVO] 
 ○ The hotel offers a free shuttle bus to the airport.
-   → ホテルは空港に無料のシャトルバスを提供する。   [SVO] 
+   → ホテルは空港行きの無料のシャトルバスを提供する。   [SVO] 
 ○ The poor needed help.
    → 貧しい人々は助けが必要だった。   [SVO] 
 ○ What's the weather like today?
@@ -20386,5 +20386,209 @@
    → 雨が降っているので、家にいましょう。   [SV] progressive,idiom,imperative
 ○ I am hungry, but let's wait for her.
    → 私は空腹だが、彼女を待ちましょう。   [SVC] idiom,imperative
+○ Judging from the dark clouds in the west, it is likely to rain heavily before evening.
+   → 西の暗い雲から判断すると、夕方の前に激しく雨が降りそうだ。   [SVC] idiom
+○ Generally speaking, people who sleep well are better at controlling their emotions.
+   → 一般的に言えば、よく眠る人々は感情をコントロールすることがより得意だ。   [SVC] relative,gerund,idiom
+○ When it comes to learning a foreign language, there is no substitute for daily practice.
+   → 外国語を学ぶこととなると、毎日の練習の代わりはない。   [SV] gerund,there,idiom
+○ To make matters worse, the bus broke down halfway, and we had to walk the rest of the way.
+   → さらに悪いことに、バスは途中で故障して、私たちは道の残りを歩かなければならなかった。   [SV] idiom
+○ Needless to say, the students who prepared carefully did much better on the test.
+   → 言うまでもなく、注意深く備えた学生たちは試験でずっとよくできた。   [SV] relative
+○ It is high time we stopped wasting so much food and started thinking about the future.
+   → もう私たちが食べ物をとても無駄にするのをやめて、未来について考え始める時間だ。   [SVC] gerund,idiom
+○ I would rather you didn't tell anyone about what happened at the party last night.
+   → 昨夜パーティーで起こったことについて誰にも話さないでほしい。   [] would-rather,subjunctive-past
+○ If it were not for smartphones, many young people would feel completely lost.
+   → スマートフォンがなければ、多くの若い人々が完全に途方に暮れるだろう。   [SVC] modal,subjunctive-past
+○ Now that the children have grown up and left home, the house feels very quiet.
+   → 今や子どもたちが育って、家を出たので、家はとても静かに感じる。   [SVC] perfect,idiom
+○ She left early so as not to miss the last train back to her hometown.
+   → 彼女は自分の故郷へ戻る終電を逃さないように早く出発した。   [SV] inf-adv
+○ Many elderly people have difficulty using the new ticket machines at the station.
+   → 多くの高齢者が駅で新しい切符の機械を使うのに苦労する。   [SVO] idiom
+○ The old temple is well worth visiting if you are interested in Japanese history.
+   → もし日本の歴史に興味があったら、古い寺は十分に訪れる価値がある。   [SVC] idiom
+○ I don't feel like going out tonight because I have a lot of homework to finish.
+   → 私は終えるべき宿題がたくさんあるので、今夜外出したい気がしない。   [SVO] idiom,inf-adj
+○ He objected to being treated like a child by his older brothers and sisters.
+   → 彼は自分の兄弟姉妹に子どものように扱われることに反対した。   [SV] gerund
+○ To tell the truth, I have never really understood why people enjoy horror movies.
+   → 実を言うと、私は一度も人々がなぜホラー映画を楽しむか本当に理解したことがない。   [SVO] indirect-q,perfect
+○ The museum was so crowded that we could hardly see any of the paintings.
+   → 博物館はとても混雑していたので、私たちはほとんどどの絵画も見えなかった。   [SVC] modal,so-that
+○ He spoke English, not to mention French and German, so he was hired immediately.
+   → フランス語とドイツ語は言うまでもなく、彼は英語を話したので、すぐに雇われた。   [SVO] passive
+○ The rich are not always happier than the poor, as many studies have shown.
+   → 多くの研究が示したように、金持ちはいつも貧しい人々より幸せだとは限らない。   [SVC] comparative,partial-neg,perfect
+○ Strictly speaking, a tomato is a fruit rather than a vegetable.
+   → 厳密に言えば、トマトは野菜というよりむしろ果物だ。   [SVC] comparative
+○ He is, so to speak, a walking dictionary, because he knows the meaning of almost every word.
+   → いわば、彼はほとんどすべての語の意味を知っているので、生き字引だ。   [SVC] 
+○ By the time the firefighters arrived, the fire had already spread to the neighboring houses.
+   → 消防士たちが到着したときには、火事はもう近隣の家に広がっていた。   [SV] pastperfect
+○ The harder she studied, the more she realized how little she actually knew.
+   → 彼女が熱心に勉強すれば勉強するほど、ますますいかに彼女が実際に知らなかったか分かった。   [SVO] indirect-q,the-more
+○ I wish I had listened to my teacher's advice when I was still in high school.
+   → 私はまだ高校生のころ、先生の助言を聞いたらよかったのに。   [SVO] pastperfect,idiom,wish
+○ Far from being boring, the lecture turned out to be one of the most exciting I had ever attended.
+   → 退屈どころか、講義は私が今までに出席したことがあった最もわくわくするものの1つだと分かった。   [SVO] superlative,pastperfect,relative,idiom
+○ Considering how little time we had, I think we did a pretty good job on the project.
+   → 私たちがどれほどわずかな時間を持っていたかを考えると、私たちはプロジェクトでかなり良い仕事をしたと思う。   [SVO] indirect-q,that-clause,idiom
+○ The village is by no means easy to reach, as there is no road leading to it.
+   → それにつながっている道路はないので、村に着くのは決して簡単ではない。   [SVC] tough,idiom,participle-mod,there
+○ Suppose you won a million yen in a lottery, what would you spend it on?
+   → あなたが宝くじで100万円を手に入れたら、あなたは何にそれを費やすでしょうか。   [SVO] question,modal
+○ In case you get lost, here is a map of the area with my phone number on it.
+   → あなたが道に迷う場合に備えて、はい、電話番号のついた地域の地図です。   [SV] idiom
+○ She went to the station only to find that the last train had already left.
+   → 彼女は駅に行ったが、結局終電がすでに出発したことに気づいた。   [SV] pastperfect,that-clause,inf-adv
+○ Not knowing anyone at the party, he spent most of the evening standing alone in the corner.
+   → パーティーで誰も知らなくて、彼は夕方のほとんどを隅に一人で立って過ごした。   [SVO] idiom,participle-const
+○ Judging by his accent, he is from Osaka.
+   → 彼のなまりから判断すると、彼は大阪出身だ。   [SV] 
+○ When it comes to cooking, nobody can beat my mother.
+   → 料理となると、誰も母に勝てない。   [SVO] modal,idiom
+○ Far from being easy, the test was the hardest I had ever taken.
+   → 簡単どころか、試験は私が今までに取ったことがあった最も難しいものだった。   [SVC] superlative,pastperfect,relative,idiom
+○ He is, as it were, a walking dictionary.
+   → いわば、彼は生き字引だ。   [SVC] 
+○ I felt completely lost in the big city.
+   → 私は大都市で完全に途方に暮れた。   [SVC] 
+○ Don't tell anyone about this.
+   → これについて誰にも話してはいけません。   [SVO] imperative
+○ The car broke down halfway to the airport.
+   → 車は空港への途中で故障した。   [SV] idiom
+○ We stopped halfway up the mountain.
+   → 私たちは山の途中で止まった。   [SV] 
+○ She fell asleep halfway through the movie.
+   → 彼女は映画の途中で眠り込んだ。   [SV] idiom
+○ He lives halfway around the world.
+   → 彼は地球の裏側に住んでいる。   [SV] 
+○ We were halfway across the bridge when it started to rain.
+   → 雨が降り始めたとき、私たちは橋の途中にいた。   [SVC] inf-noun
+○ We were halfway there.
+   → 私たちは道半ばだった。   [SVC] 
+○ We were in the middle of the bridge when it started to rain.
+   → 雨が降り始めたとき、私たちは橋の真ん中にいた。   [SV] inf-noun
+○ The halfway point of the race is the bridge.
+   → 競走の中間地点は橋だ。   [SVC] 
+○ She is a walking dictionary.
+   → 彼女は生き字引だ。   [SVC] 
+○ I took the first flight back to Tokyo.
+   → 私は東京へ戻る最初の便に乗った。   [SVO] 
+○ We caught the bus back to the hotel.
+   → 私たちはホテルへ戻るバスに間に合った。   [SVO] 
+○ The road back to the village was very long.
+   → 村へ戻る道路はとても長かった。   [SVC] 
+○ I missed the last train to Osaka.
+   → 私は大阪行きの終電を逃した。   [SVO] 
+○ On the way back to the station, I met an old friend.
+   → 駅へ戻る途中で、私は旧友に会った。   [SVO] 
+○ On the way back home, I bought some bread.
+   → 帰り道で、私はパンを買った。   [SVO] 
+○ I met her on my way back from the library.
+   → 私は図書館からの帰り道で彼女に会った。   [SVO] 
+○ On my way back from school, I saw a rainbow.
+   → 学校からの帰り道で、私は虹を見た。   [SVO] 
+○ The train to Osaka leaves at nine.
+   → 大阪行きの電車は9時に出発する。   [SV] 
+○ I took the train back home.
+   → 私は家に帰る電車に乗った。   [SVO] 
+○ He took the bus back to the hotel.
+   → 彼はホテルへ戻るバスに乗った。   [SVO] 
+○ She drove the car back to the garage.
+   → 彼女は車庫まで車を運転して戻った。   [SVO] 
+○ Please take these books back to the library.
+   → 図書館にこれらの本を返してください。   [SVO] idiom,imperative
+○ You should take it back to the store.
+   → あなたは店にそれを返すべきだ。   [SVO] modal,idiom
+○ The noise drove me crazy.
+   → 騒音は私をひどくいらいらさせた。   [SVOC] svoc
+○ Her questions are driving him crazy.
+   → 彼女の質問は彼をひどくいらいらさせている。   [SVOC] svoc,progressive
+○ This book is well worth reading.
+   → この本は十分に読む価値がある。   [SVC] idiom
+○ The museum is well worth a visit.
+   → 博物館は十分に訪問の価値がある。   [SVC] idiom
+○ I didn't read any of the books.
+   → 私はどの本も読まなかった。   [SVO] 
+○ She hardly ate any of the food.
+   → 彼女はほとんどどの食べ物も食べなかった。   [SVO] 
+○ I haven't met any of them.
+   → 私は彼らの誰にも会っていない。   [SVO] perfect
+○ I didn't talk to any of the students.
+   → 私は学生たちの誰とも話さなかった。   [SVO] idiom
+○ He didn't like any of these songs.
+   → 彼はこれらの歌のどれも好きではなかった。   [SVO] 
+○ I could hardly hear anything.
+   → 私はほとんど何も聞こえなかった。   [SVO] modal
+○ He can speak French, not to mention English.
+   → 英語は言うまでもなく、彼はフランス語を話せる。   [SVO] modal
+○ The hotel was expensive, not to mention noisy.
+   → 騒がしいのは言うまでもなく、ホテルは高かった。   [SVC] 
+○ The city has beautiful parks, not to speak of its famous museums.
+   → その有名な博物館は言うまでもなく、都市には美しい公園がある。   [SVO] 
+○ This problem is by no means simple.
+   → この問題は決して簡単ではない。   [SVC] 
+○ It is by no means certain that he will come.
+   → 彼が来るだろうということは決して確かではない。   [SVC] modal,it-that
+○ This is by no means the only reason.
+   → これは決して唯一の理由ではない。   [SVC] 
+○ You should by no means give up.
+   → あなたは決してあきらめるべきではない。   [SV] modal,idiom
+○ The village is not easy to reach.
+   → 村に着くのは簡単ではない。   [SVC] tough
+○ This teacher is not easy to talk to.
+   → この先生と話すのは簡単ではない。   [SVC] idiom,tough
+○ He is not easy to work with.
+   → 彼と働くのは簡単ではない。   [SVC] tough
+○ This topic is not easy to talk about.
+   → この話題について話すのは簡単ではない。   [SVC] idiom,tough
+○ What did you spend the money on?
+   → あなたは何にお金を費やしましたか。   [SVO] question
+○ She spent all her savings on a new car.
+   → 彼女は自分の貯金をすべて新しい車に費やした。   [SVO] idiom
+○ He lost his life savings.
+   → 彼は自分の貯金のすべてを失った。   [SVO] 
+○ What did you waste your time on?
+   → あなたは何に時間を無駄にしましたか。   [SVO] question
+○ Not knowing the answer, I kept silent.
+   → 答えが分からなくて、私は黙っていた。   [SV] idiom,participle-const
+○ He sat in the corner of the room.
+   → 彼は部屋の隅に座った。   [SV] 
+○ I know her well.
+   → 私は彼女をよく知っている。   [SVO] 
+○ Knowing her well, I trusted her.
+   → 彼女をよく知っていたので、私は彼女を信頼した。   [SVO] participle-const
+○ They treated her well.
+   → 彼らは彼女を大切に扱った。   [SVO] 
+○ He knows her very well.
+   → 彼は彼女をとてもよく知っている。   [SVO] 
+○ You must learn to control your anger.
+   → あなたは怒りをコントロールできるようにならなければならない。   [SVO] inf-noun,modal
+○ The army controlled the city.
+   → 軍隊は都市を支配した。   [SVO] 
+○ There is no substitute for hard work.
+   → 努力の代わりはない。   [SV] there
+○ We had a substitute teacher today.
+   → 私たちは今日代わりの先生がいた。   [SVO] 
+○ As the data shows, prices are rising.
+   → データが示すように、価格は上がっている。   [SV] progressive
+○ As research has shown, exercise improves memory.
+   → 研究が示したように、運動は記憶力を高める。   [SVO] perfect
+○ The test was the hardest I had ever taken.
+   → 試験は私が今までに取ったことがあった最も難しいものだった。   [SVC] superlative,pastperfect,relative
+○ This book is the most interesting I have ever read.
+   → この本は私が今までに読んだことがある最も興味深いものだ。   [SVC] superlative,perfect,relative
+○ Don't eat anything before the test.
+   → 試験の前に何も食べてはいけません。   [SVO] imperative
+○ He beat his brother at chess.
+   → 彼はチェスで自分の兄に勝った。   [SVO] 
+○ The test I took yesterday was hard.
+   → 私が昨日受けた試験は難しかった。   [SVC] relative
+○ It was the hardest test I had ever taken.
+   → それは私が今まで受けた中で一番難しい試験だった。   [SVC] pastperfect,relative
 
-parsed 10194 / 10194
+parsed 10296 / 10296
