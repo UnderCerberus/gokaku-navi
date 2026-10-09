@@ -2,16 +2,7 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['weight gain', '名', '体重増加', 2],
-    ['weight loss', '名', '体重減少', 2],
-    ['national park', '名', '国立公園', 1],
-    ['four-day work week', '名', '週4日勤務制', 3],
-    ['four-day week', '名', '週4日勤務', 3],
-    ['work week', '名', '週の労働時間; 週労働日', 3],
-    ['social connection', '名', '社会的なつながり', 2],
-    ['printing press', '名', '印刷機', 2],
-    ['medical care', '名', '医療', 2],
-    ['extreme heat', '名', '猛暑', 2],
+    ['private car', '名', '自家用車', 2],
 ]
 def key(w):
     return w.lower()

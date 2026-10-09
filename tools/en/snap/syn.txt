@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (188ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (213ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -1687,7 +1687,7 @@
 ○ But I like it.
    → しかし、私はそれが好きだ。   [SVO] 
 ○ Little did he know that his life was about to change.
-   → 彼は自分の人生がまさに変わろうとしていることを少しも知らなかった。   [SVO] idiom,that-clause,inversion
+   → 彼は自分の人生がまさに変わろうとしているとは夢にも思わなかった。   [SVO] idiom,that-clause,inversion
 ○ Instead of complaining, why don't you do something about it?
    → 不平を言う代わりに、それについて何かをしてはどうですか。   [SV] question,gerund
 ○ Unless you hurry, you will miss the last train.
@@ -1965,7 +1965,7 @@
 ○ The number of students is small.
    → 学生の数は少ない。   [SVC] 
 ○ Experts disagree on how serious the problem is.
-   → 専門家は問題がどれほど深刻かについて意見が合わない。   [SV] indirect-q
+   → 専門家は問題がどれほど深刻かについて意見が分かれている。   [SV] indirect-q
 ○ One way to reduce stress is to exercise regularly.
    → ストレスを減らす1つの方法は定期的に運動することだ。   [SVC] inf-adj
 ○ There is little hope that he will recover.
@@ -5703,7 +5703,7 @@
 ○ It also involves understanding the way people in other cultures think and behave.
    → それはまた他の文化の人々の考え方や振る舞い方を理解することを伴う。   [SVO] rel-adv,gerund
 ○ Only by doing so can we truly communicate with people from different backgrounds.
-   → そうすることによってのみ、私たちは本当に異なる背景を持つ人々と意思を伝え合える。   [SVO] modal,idiom,inversion
+   → そうすることによってのみ、私たちは本当に異なる背景を持つ人々と意思を伝え合える。   [SVO] gerund,modal,idiom,inversion
 ○ The importance of such understanding can hardly be overstated.
    → そのような理解の重要性はいくら強調してもしすぎることはない。   [SV] 
 ○ I like the way she talks and laughs.
@@ -9295,7 +9295,7 @@
 ○ People were told to evacuate immediately.
    → 人々はすぐに避難するように言われた。   [SV] v-o-to
 ○ The power went out for several hours.
-   → 電気は数時間消えた。   [SV] idiom
+   → 数時間停電した。   [SV] idiom
 ○ It is important to prepare an emergency kit.
    → 非常用持ち出し袋を準備することは重要だ。   [SVC] it-to
 ○ Tsunami warnings were issued along the coast.
@@ -11307,7 +11307,7 @@
 ○ With the window open, I couldn't sleep.
    → 窓を開けたまま、私は眠れなかった。   [SV] modal,absolute
 ○ Little did I know that he was a famous writer.
-   → 私は彼が有名な作家であることを少しも知らなかった。   [SVO] that-clause,inversion
+   → 私は彼が有名な作家であるとは夢にも思わなかった。   [SVO] that-clause,inversion
 ○ Today was a long day.
    → 今日は長い一日だった。   [SVC] 
 ○ I woke up late this morning, so I missed the bus.
@@ -17787,7 +17787,7 @@
 ○ The company is looking for a person who can speak both English and Chinese.
    → 会社は英語と中国語の両方を話せる人を探している。   [SVO] correlative,modal,relative,progressive,idiom
 ○ Little did he know that his small invention would change the world.
-   → 彼は自分の小さい発明が世界を変えるだろうことを少しも知らなかった。   [SVO] modal,that-clause,inversion
+   → 彼は自分の小さい発明が世界を変えるとは夢にも思わなかった。   [SVO] modal,that-clause,inversion
 ○ Reading books not only increases your knowledge but also improves your ability to think.
    → 本を読むことはあなたの知識を増やすだけでなく、考えるあなたの能力を向上させる。   [SVO] gerund,not-only
 ○ The fact that he apologized immediately shows that he is an honest person.
@@ -18507,7 +18507,7 @@
 ○ Some studies suggest that people who have a pet live longer and suffer less from stress than those who do not.
    → いくつかの研究はペットを飼っている人々がもっと長く生きて、ストレスにしない人々より少なく苦しむことを示唆する。   [SVO] relative,comparative,that-clause
 ○ When the power went out, the family lit candles and spent the evening playing cards and telling stories.
-   → 電気が消えたとき、家族はろうそくに火をつけて、カードをして、話を語って夕方を過ごした。   [SVO] idiom
+   → 停電したとき、家族はろうそくに火をつけて、カードをして、話を語って夕方を過ごした。   [SVO] idiom
 ○ It is difficult to imagine what life was like before people had smartphones and the internet.
    → 人々がスマートフォンとインターネットを持っている前に、生活がどんなものだったか想像することは難しい。   [SVC] indirect-q,it-to
 ○ The city plans to plant more trees along its streets to reduce the heat during the summer.
@@ -19006,5 +19006,105 @@
    → 私はチケットの代金を払った。   [SVO] idiom
 ○ Eating too much sugar is unhealthy.
    → 砂糖を食べすぎることは不健康だ。   [SVC] gerund
+○ Given that most people now carry a smartphone, it is no wonder that fewer and fewer people wear watches.
+   → ほとんどの人々が今スマートフォンを持ち歩くことを考えると、腕時計をしている人がますます減っているのも不思議ではない。   [SVC] it-that
+○ The extent to which children are influenced by advertising is still a matter of debate among researchers.
+   → 子どもが広告の影響を受けている程度はまだ研究者の間の討論の問題だ。   [SVC] passive,relative
+○ No sooner had the concert started than the power went out, leaving the audience in complete darkness.
+   → コンサートが始まるとすぐに、停電して、完全な暗やみの中で聴衆を去った。   [SV] idiom,participle-const,inversion
+○ There is no doubt that regular exercise improves both physical and mental health.
+   → 定期的な運動が心身の健康を改善することは間違いない。   [SV] there,idiom
+○ It goes without saying that safety must come first when designing new cars.
+   → 安全が新しい車を設計するとき最優先されなければならないのは言うまでもない。   [SV] participle-const,modal,idiom,that-clause
+○ Regardless of how talented they are, athletes who do not train regularly will eventually fall behind.
+   → 彼らがどれほど才能があるかに関係なく、定期的に訓練しない運動選手はやがて遅れをとるだろう。   [SV] indirect-q,relative,modal,idiom
+○ Hardly had she arrived at the station when it began to rain heavily.
+   → 彼女が駅に到着するか駅に到着しないかのうちに、激しく雨が降り始めた。   [SVO] idiom,inf-noun,inversion
+○ With regard to the new policy, many teachers have expressed concern about the increase in their workload.
+   → 新しい政策に関して、多くの先生は自分の仕事量の増加に懸念を示した。   [SVO] perfect,idiom
+○ Owing to a shortage of doctors, patients in rural areas often have to wait for hours to receive treatment.
+   → 医者の不足のために、農村部の患者はよく何時間も治療を受けるために待たなければならない。   [SV] inf-adv
+○ The scientist, whose research has changed the way we think about memory, will give a lecture next month.
+   → 研究が私たちが記憶について考える方法を変えた科学者は来月講義をするだろう。   [SVO] idiom,rel-adv,perfect,relative,modal
+○ So popular was the new game that stores across the country sold out within a few hours.
+   → 新しい試合はとても人気があったので、全国の店は数時間以内に売り切れた。   [SVC] idiom,so-that,inversion
+○ Whereas earlier generations relied on newspapers for information, young people today get most of their news from social media.
+   → 以前の世代が情報のために新聞に頼ったのに対して、若い人々は今日SNSから彼らのニュースのほとんどをもらう。   [SVO] idiom
+○ In spite of the heavy rain, thousands of runners took part in the city marathon.
+   → 大雨にもかかわらず、何千もの走者は市のマラソンに参加した。   [SVO] idiom
+○ As long as we continue to burn fossil fuels, the amount of carbon dioxide in the atmosphere will keep rising.
+   → 私たちが化石燃料を燃やし続ける限り、大気の二酸化炭素の量は増え続けるだろう。   [SVO] inf-noun,gerund,modal
+○ The museum was so crowded that we could hardly see the paintings.
+   → 博物館はとても混雑していたので、私たちはほとんど絵画が見えなかった。   [SVC] modal,so-that
+○ Only when we lose something do we realize how important it was to us.
+   → 何かを失って初めて、私たちはそれが私たちにとってどれほど重要だったか分かる。   [SVO] indirect-q,inversion
+○ It was such a difficult problem that none of the students could solve it.
+   → とても難しい問題だったので、学生たちの誰もそれを解けなかった。   [SVC] modal,so-that
+○ The degree to which a person can adapt to change often determines how successful they will be.
+   → 人がよく変わるために適応できる程度は彼らがどれほど成功しているか決定する。   [SVO] inf-adv,modal,relative,indirect-q
+○ What if machines become smarter than the humans who created them?
+   → 機械がそれらを創造した人間より賢くなったらどうなるだろうか。   [] what-if
+○ Living in a foreign country, you learn not only a new language but also new ways of thinking.
+   → 外国に住んでいるとき、あなたは新しい言語だけでなく新しい考え方も学ぶ。   [SVO] not-only,participle-const
+○ Some people prefer to work alone, while others feel more productive when working in a team.
+   → 一人で働くことのほうを好む人もいれば、チームで働くときより生産的に感じる人もいる。   [] correlative
+○ The novel tells the story of a young woman who leaves her small village to pursue her dream of becoming a doctor.
+   → 小説は医者になるという彼女の夢を追求するために彼女の小さい村を離れる若い女性の話を語る。   [SVO] inf-adv,relative
+○ In terms of cost, public transportation is far more efficient than private cars.
+   → 費用の観点から、公共交通機関は自家用車よりはるかに効率的だ。   [SVC] comparative
+○ The fact that the experiment could not be repeated led many scientists to doubt the results.
+   → 実験が繰り返されることができなかったという事実は多くの科学者に結果を疑わせた。   [SVOC] passive,modal,appositive,v-o-to
+○ Not until the end of the war did people begin to understand how much damage had been done.
+   → 戦争の終わりになって初めて、人々はどのくらいの損害が出ていたか理解し始めた。   [SVO] passive,pastperfect,indirect-q,inf-noun,inversion
+○ The bridge, built more than a century ago, is in urgent need of repair.
+   → 1世紀以上前に建てられた橋は修理が早急に必要だ。   [SVC] idiom
+○ Experts disagree as to whether the new technology will create more jobs than it destroys.
+   → 専門家は新しい科学技術がそれが破壊するより多くの仕事を生み出すかどうかに関しては意見が分かれている。   [SV] comparative,modal,indirect-q
+○ Little did he know that his small invention would one day change the lives of millions.
+   → 彼は自分の小さい発明がいつか何百万もの人々の生活を変えるとは夢にも思わなかった。   [SVO] modal,that-clause,inversion
+○ Should you have any questions about the course, please do not hesitate to contact the office.
+   → 万一コースについての何か質問があったら、事務所と遠慮なくご連絡ください。   [SVO] modal,imperative,inversion
+○ There are few things more important to a child's development than the love and attention of their parents.
+   → 子どもの発達にとって愛とそれらの両親の注意ほど重要なものはほとんどない。   [] comparative
+○ Fewer and fewer people read newspapers.
+   → 新聞を読む人がますます減っている。   [SVO] 
+○ What if machines become smarter than the humans who created them?
+   → 機械がそれらを創造した人間より賢くなったらどうなるだろうか。   [] what-if
+○ Machines become smarter than the humans who created them.
+   → 機械はそれらを創造した人間より賢くなる。   [SVC] relative,comparative
+○ Only when we lose something do we realize how important it was to us.
+   → 何かを失って初めて、私たちはそれが私たちにとってどれほど重要だったか分かる。   [SVO] indirect-q,inversion
+○ Only then did I understand what she meant.
+   → そのとき初めて、私は彼女が何を意味したか理解した。   [SVO] indirect-q,inversion
+○ Only by working hard can you succeed.
+   → 一生懸命に働くことによってのみ、あなたは成功できる。   [SV] gerund,modal,inversion
+○ Only after the war did people realize the truth.
+   → 戦争の後になって初めて、人々は真実に気づいた。   [SVO] inversion
+○ I know how important it is to you.
+   → 私はそれがあなたにとってどれほど重要か知っている。   [SVO] indirect-q
+○ Regardless of how talented they are, athletes will fall behind.
+   → 彼らがどれほど才能があるかに関係なく、運動選手は遅れをとるだろう。   [SV] indirect-q,modal,idiom
+○ Little did he know that his invention would change the world.
+   → 彼は自分の発明が世界を変えるとは夢にも思わなかった。   [SVO] modal,that-clause,inversion
+○ Stores across the country sold out.
+   → 全国の店は売り切れた。   [SV] idiom
+○ There are few things more important than health.
+   → 健康ほど重要なものはほとんどない。   [] comparative
+○ The new technology will create more jobs than it destroys.
+   → 新しい科学技術はそれが破壊するより多くの仕事を生み出すだろう。   [SVO] comparative,modal
+○ Safety must come first.
+   → 安全は最優先されなければならない。   [SV] modal,idiom
+○ The bridge is in urgent need of repair.
+   → 橋は修理が早急に必要だ。   [SVC] idiom
+○ Earlier generations relied on newspapers.
+   → 以前の世代は新聞に頼った。   [SVO] idiom
+○ Most people now carry a smartphone.
+   → ほとんどの人々は今スマートフォンを持ち歩く。   [SVO] 
+○ His invention would one day change the lives of millions.
+   → 彼の発明はいつか何百万もの人々の生活を変えるだろう。   [SVO] modal
+○ Experts disagree about the cause.
+   → 専門家は原因について意見が分かれている。   [SV] 
+○ The power went out.
+   → 停電した。   [SV] idiom
 
-parsed 9504 / 9504
+parsed 9554 / 9554
