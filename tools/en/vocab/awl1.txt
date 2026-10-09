@@ -1,0 +1,95 @@
+# 学術語彙（AWL と派生語）で辞書になかった語 その 1（第 507 組）
+analytical|形|分析的な|3
+availability|名|入手しやすさ; 利用できること|3
+conceptual|形|概念的な|3
+consistency|名|一貫性|3
+constitutional|形|憲法の|3
+contextual|形|文脈上の|3
+economical|形|経済的な; 節約になる|2
+functional|形|機能的な|3
+labour|名|労働|2
+methodology|名|方法論|3
+occurrence|名|発生; 出来事|3
+periodic|形|定期的な|3
+structural|形|構造上の|3
+administrative|形|行政の; 管理の|3
+relevance|名|関連性|3
+strategic|形|戦略的な|3
+coordination|名|調整; 連携|3
+deduction|名|推論; 控除|3
+exclusion|名|除外; 排除|3
+justification|名|正当化; 正当な理由|3
+partnership|名|協力関係; 提携|3
+reliance|名|依存|3
+removal|名|除去|3
+specify|動|〜を明確に述べる; 〜を指定する|3
+validity|名|妥当性; 有効性|3
+approximate|形|おおよその|2
+emergence|名|出現|3
+implementation|名|実施|3
+implicate|動|〜を関与させる|3
+integration|名|統合|3
+parameter|名|要素; 条件|3
+alteration|名|変更|3
+consultation|名|相談; 協議|3
+discrete|形|個別の; 別々の|3
+enforcement|名|施行; 取り締まり|3
+modification|名|修正; 変更|3
+orient|動|〜を向ける; 〜に合わせる|3
+rejection|名|拒絶|3
+sustainability|名|持続可能性|3
+transit|名|輸送; 通過|3
+aggregate|形|総計の|3
+allocation|名|配分|3
+ignorance|名|無知|3
+incidence|名|発生率|3
+ministry|名|省|3
+revelation|名|発覚; 新事実|3
+transformation|名|変化; 変革|3
+elimination|名|除去; 撤廃|3
+finite|形|有限の|3
+inference|名|推論|3
+intervention|名|介入|3
+paradigm|名|枠組み; 典型|3
+prohibition|名|禁止|3
+simulation|名|模擬実験; シミュレーション|3
+successor|名|後継者|3
+transmission|名|伝達; 感染|3
+accumulation|名|蓄積|3
+appreciation|名|感謝; 理解|2
+clarification|名|説明; 明確化|3
+detection|名|発見; 検出|3
+displace|動|〜を追い出す; 〜に取って代わる|3
+eventual|形|最終的な|3
+exploitation|名|搾取; 開発|3
+fluctuation|名|変動|3
+inspection|名|検査; 点検|3
+intensity|名|強さ; 激しさ|3
+manipulation|名|操作|3
+minimize|動|〜を最小限にする|3
+practitioner|名|実践者; 開業医|3
+restoration|名|修復; 回復|3
+revision|名|修正; 改訂|3
+terminate|動|〜を終わらせる|3
+concurrent|形|同時に起こる|3
+converse|動|会話する|3
+distortion|名|ゆがみ; 歪曲|3
+format|名|形式|2
+intermediate|形|中級の; 中間の|2
+maturity|名|成熟|3
+minimal|形|最小限の|3
+norm|名|規範; 標準|3
+overlap|動|重なる|3
+protocol|名|手順; 議定書|3
+qualitative|形|質的な|3
+quantitative|形|量的な|3
+refine|動|〜を改良する; 〜を精製する|3
+revolutionary|形|革命的な|3
+violation|名|違反|3
+depress|動|〜を落ち込ませる|3
+forthcoming|形|近く起こる|3
+notwithstanding|前|〜にもかかわらず|3
+ongoing|形|進行中の|2
+persistent|形|根強い; しつこい|3
+reluctance|名|気が進まないこと|3
+whereby|副|それによって|3

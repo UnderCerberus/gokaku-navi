@@ -1,0 +1,8 @@
+# 未見文 第 12 群で足りなかった複合語（第 507 組）
+weight gain|名|体重増加|2
+weight loss|名|体重減少|2
+national park|名|国立公園|1
+social connection|名|社会的なつながり|2
+printing press|名|印刷機|2
+medical care|名|医療|2
+extreme heat|名|猛暑|2

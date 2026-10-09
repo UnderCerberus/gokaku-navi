@@ -1,0 +1,158 @@
+# 入試の長文によく出る語で辞書になかった語 その 1（第 507 組）
+abundance|名|豊富さ|3
+ancestral|形|祖先の|3
+aquatic|形|水生の|3
+aspiration|名|願望; 熱望|3
+assertion|名|主張|3
+atmospheric|形|大気の|3
+attentive|形|注意深い|3
+auditory|形|聴覚の|3
+autonomous|形|自律的な; 自治の|3
+behavioral|形|行動の|3
+calamity|名|災難|3
+catastrophic|形|壊滅的な|3
+census|名|国勢調査|3
+citizenship|名|市民権|3
+coexist|動|共存する|3
+commonplace|形|ありふれた|3
+confrontation|名|対立|3
+contradictory|形|矛盾した|3
+corruption|名|汚職; 腐敗|3
+courtesy|名|礼儀|3
+credibility|名|信頼性|3
+crude|形|粗い; 天然のままの|3
+cultivation|名|栽培; 耕作|3
+dedication|名|献身|3
+demographic|形|人口統計の|3
+deprivation|名|欠乏; 剥奪|3
+destiny|名|運命|2
+dictate|動|〜を命じる; 〜を左右する|3
+dietary|形|食事の|3
+diplomat|名|外交官|2
+diplomacy|名|外交|3
+disastrous|形|悲惨な|3
+discard|動|〜を捨てる|3
+disguise|動|〜を変装させる; 〜を隠す|3
+disruption|名|混乱; 中断|3
+distraction|名|気を散らすもの|3
+doctrine|名|教義; 原則|3
+domesticate|動|〜を家畜化する|3
+dominance|名|優位; 支配|3
+ecological|形|生態系の; 生態学の|3
+emit|動|〜を排出する; 〜を放つ|3
+encyclopedia|名|百科事典|2
+envious|形|うらやましがる|3
+excessive|形|過度の|2
+exhaustion|名|疲労困憊; 枯渇|3
+expenditure|名|支出|3
+heredity|名|遺伝|3
+humane|形|人道的な|3
+hysteria|名|ヒステリー|3
+illiterate|形|読み書きができない|3
+imprison|動|〜を投獄する|3
+inclination|名|傾向; 意向|3
+industrialization|名|工業化|3
+inheritance|名|遺産; 相続|3
+injustice|名|不正; 不公平|3
+innocence|名|無罪; 無邪気さ|3
+instinctive|形|本能的な|3
+insulate|動|〜を断熱する; 〜を隔離する|3
+intellect|名|知性|3
+intent|名|意図|3
+interference|名|干渉; 妨害|3
+intuitive|形|直感的な|3
+invaluable|形|非常に貴重な|3
+inventory|名|在庫; 目録|3
+kinship|名|血縁関係|3
+magnitude|名|大きさ; 規模|3
+mainstream|名|主流|3
+malnutrition|名|栄養失調|3
+manifest|動|〜をはっきり示す|3
+manuscript|名|原稿|3
+meditation|名|瞑想|3
+metabolism|名|代謝|3
+milestone|名|画期的な出来事; 節目|3
+mobility|名|移動性; 流動性|3
+moist|形|湿った|2
+monotonous|形|単調な|3
+mortality|名|死亡率|3
+municipal|形|市の; 地方自治体の|3
+mutation|名|突然変異|3
+navigate|動|〜を進む; 航行する|3
+nomadic|形|遊牧の|3
+nominate|動|〜を指名する|3
+novelty|名|目新しさ|3
+obligatory|形|義務的な|3
+optimism|名|楽観主義|3
+optimal|形|最適な|3
+ornament|名|飾り|3
+paradox|名|逆説; 矛盾|3
+parasite|名|寄生虫; 寄生生物|3
+pathetic|形|哀れな|3
+patriotic|形|愛国的な|3
+pension|名|年金|3
+persuasive|形|説得力のある|3
+petroleum|名|石油|3
+physiology|名|生理学|3
+plea|名|嘆願|3
+pollutant|名|汚染物質|3
+populate|動|〜に住む; 〜に住みつかせる|3
+portray|動|〜を描く|3
+predator|名|捕食者|3
+premature|形|早すぎる; 時期尚早の|3
+preservation|名|保存; 保護|3
+prestige|名|名声|3
+primate|名|霊長類|3
+proficiency|名|熟達|3
+proficient|形|熟達した|3
+prophecy|名|予言|3
+prosperous|形|繁栄している|3
+psychiatrist|名|精神科医|3
+publicity|名|評判; 宣伝|3
+punctual|形|時間を守る|2
+purify|動|〜を浄化する|3
+realm|名|領域; 王国|3
+reciprocal|形|相互の|3
+rehabilitation|名|リハビリ; 社会復帰|3
+renaissance|名|復興; ルネサンス|3
+renowned|形|有名な|3
+reproduction|名|繁殖; 複製|3
+reptile|名|爬虫類|3
+resilience|名|回復力|3
+resolute|形|断固とした|3
+respiratory|形|呼吸の|3
+revolve|動|回転する|3
+rhetoric|名|修辞; 美辞麗句|3
+sanitation|名|公衆衛生|3
+scrutiny|名|綿密な調査|3
+secular|形|世俗的な|3
+sediment|名|堆積物|3
+segregation|名|分離; 差別|3
+sensory|形|感覚の|3
+sewage|名|下水|3
+solitude|名|孤独|3
+sovereignty|名|主権|3
+spacious|形|広々とした|3
+speculation|名|推測; 投機|3
+suburban|形|郊外の|3
+suffrage|名|選挙権|3
+suspicion|名|疑い|3
+swarm|名|群れ|3
+symbolic|形|象徴的な|3
+synthesize|動|〜を合成する|3
+temperate|形|温暖な|3
+temptation|名|誘惑|3
+tenant|名|借り主|3
+terrain|名|地形|3
+terrestrial|形|陸上の; 地球の|3
+terrify|動|〜をおびえさせる|3
+texture|名|手触り; 質感|3
+thermal|形|熱の|3
+thrift|名|倹約|3
+urbanization|名|都市化|3
+utmost|形|最大限の|3
+vibrant|形|活気に満ちた|3
+vicious|形|悪意のある; 悪質な|3
+vocation|名|天職; 職業|3
+warfare|名|戦争|3
+zeal|名|熱意|3

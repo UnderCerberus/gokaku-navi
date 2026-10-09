@@ -164,6 +164,8 @@
     ['be bad at ~', '〜が苦手だ', 1],
     ['be behind schedule', '予定より遅れている', 2],
     ['be bent on ~', '〜を固く決意している; 〜に熱中している', 3],
+    ['be best at ~', '〜が一番得意だ', 2],
+    ['be better at ~', '〜がより得意だ', 2],
     ['be bored with ~', '〜に飽きている', 2],
     ['be born with ~', '生まれつき〜を持っている', 2],
     ['be careful of ~', '〜に気をつける', 2],

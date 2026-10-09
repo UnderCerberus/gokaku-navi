@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (187ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (188ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -2495,7 +2495,7 @@
 ○ We need more time than we have.
    → 私たちは持っているより多くの時間が必要だ。   [SVO] comparative
 ○ The skyline may look not like a forest of gray boxes but like a hillside covered with green.
-   → スカイラインは灰色の箱の森林のようではなく、緑で覆われている丘の斜面のように見えるかもしれない。   [SVC] idiom,participle-mod,not-but,modal
+   → スカイラインは灰色の箱の森林のようではなく、緑で覆われている丘の斜面のように見えるかもしれない。   [SVO] idiom,participle-mod,modal,not-but
 ○ Plants and soil hold water like a sponge and release it slowly.
    → 植物と土はスポンジのように水を保持して、それをゆっくりと放出する。   [SVO] 
 ○ Neighbors grow tomatoes and share the harvest every weekend.
@@ -17801,7 +17801,7 @@
 ○ Without the support of local volunteers, the festival could not have been held this year.
    → 地元のボランティアの支えがなかったら、祭りは今年開催されることができなかっただろう。   [SV] passive,modal-perfect,subjunctive-past
 ○ As the population ages, the demand for medical care is expected to increase.
-   → 人口が年をとるにつれて、医療の需要は増えると予想されている。   [SV] v-o-to
+   → 人口が高齢化するにつれて、医療の需要は増えると予想されている。   [SV] v-o-to
 ○ He spoke as if he had seen the accident with his own eyes.
    → 彼はまるで自分の目で事故を見たかのように話した。   [SV] pastperfect
 ○ The teacher told us that we should not use our phones during the exam.
@@ -18912,5 +18912,99 @@
    → 彼らは他の子どもたちより良い言語能力を伸ばす。   [SVO] comparative
 ○ The plan was unpopular.
    → 計画は人気がなかった。   [SVC] 
+○ The rapid development of artificial intelligence has raised concerns about privacy, as companies collect enormous amounts of personal data.
+   → 会社が膨大な量の個人データを集めるので、人工知能の急速な発達はプライバシーについて懸念を提起した。   [SVO] perfect
+○ Although humans have always told stories, the way we share them has changed dramatically since the invention of the printing press.
+   → 人間はいつも話を語ったけれども、私たちが話を共有する方法は印刷機の発明以来劇的に変わっている。   [SV] perfect,rel-adv
+○ Many experts believe that the key to reducing traffic accidents lies not in stricter laws but in better education for young drivers.
+   → 多くの専門家は交通事故を減らす鍵がより厳しい法律ではなく、若い運転手たちのためにより良い教育にあると考えている。   [SVO] not-but,that-clause
+○ Contrary to popular belief, eating late at night does not necessarily cause weight gain, provided that the total amount of calories remains the same.
+   → 一般に信じられているのとは違って、カロリーの全体の量が同じもののままでいるという条件で、夜遅く食べることは体重増加を必ず引き起こすとは限らない。   [SVO] gerund,partial-neg
+○ The ability to delay gratification, which is often measured in childhood, appears to predict success later in life.
+   → よく子どものころに測られている満足を遅らせる能力は後の人生で成功を予測するようだ。   [SVO] passive,relative,inf-adj
+○ When the factory closed in 2015, hundreds of workers lost their jobs, and many families were forced to move to other towns.
+   → 工場が2015年に閉まったとき、何百人もの労働者は自分の仕事を失って、多くの家族が他の町に移り住むことを余儀なくされた。   [SVO] idiom
+○ Because the language has no written form, it is passed down orally from one generation to the next.
+   → 言語に書かれた形がないので、世代から世代へ口頭で渡されている。   [SV] passive
+○ The researchers compared the brains of musicians with those of people who had never played an instrument.
+   → 研究者たちは音楽家の脳を一度も楽器を演奏したことがなかった人々の脳と比べた。   [SVO] pastperfect,relative,idiom
+○ Climate change is likely to affect poor countries more severely, even though they have contributed the least to the problem.
+   → 彼らは問題に最小を貢献したけれども、気候変動は貧しい国にもっと厳しく影響しそうだ。   [SVC] idiom,perfect
+○ Visitors to the national park are asked not to feed the animals, since human food can make them sick.
+   → 人間の食べ物がそれらを病気であるようにすることがあるので、国立公園への訪問者は動物にえさをやらないように求められる。   [SV] v-o-to,svoc,modal
+○ In many parts of the world, girls still do not have the same access to education as boys do.
+   → 世界の多くの地域では、少女はまだ教育への少年と同じアクセスを持っていない。   [SVO] 
+○ The more choices people are given, the harder it becomes for them to make a decision, according to some psychologists.
+   → 選択の人々が与えられていれば与えられているほど、人々にとって何人かの心理学者たちによれば決定するのがますます難しくなる。   [] passive,idiom,the-more
+○ Plastic bags, which take hundreds of years to break down, have been banned in a growing number of countries.
+   → 分解されるのに何百年もかかるビニール袋はますます多くの国で禁止された。   [SV] idiom,inf-adv,relative,passive,perfect
+○ It was not until the nineteenth century that scientists began to understand how diseases spread.
+   → 19世紀になって初めて、科学者は病気がどのように広がったか理解し始めた。   [SVO] indirect-q,inf-noun,cleft
+○ Learning to play a musical instrument requires patience, as progress is often slow at first.
+   → 進歩がよく最初は遅いので、楽器を演奏できるようになることは忍耐を必要とする。   [SVO] inf-noun,gerund
+○ Some companies have introduced a four-day work week, hoping to improve both productivity and employee well-being.
+   → 生産性と従業員の幸福の両方を改善したいと思いながら、4日の仕事の週を導入した会社もある。   [SVO] correlative,inf-noun,participle-const,perfect
+○ Without bees and other pollinators, many of the fruits and vegetables we eat every day would become much more expensive.
+   → ミツバチと他の花粉を運ぶ生き物がなければ、私たちが毎日食べる果物と野菜の多くはずっと高くなるだろう。   [SVC] relative,modal,subjunctive-past
+○ Few people realize how much water is needed to produce the clothes they wear.
+   → どのくらいの水が彼らが着ている服を生産するために必要とされているか分かる人はほとんどいない。   [SVO] relative,inf-adv,passive,indirect-q
+○ The old man, who had lived alone in the mountains for decades, was surprised to see so many visitors.
+   → 何十年も山に一人で暮らしていたおじいさんはとても多くの訪問者を見て驚いた。   [SVC] pastperfect,relative,inf-adv
+○ Studies suggest that people who have strong social connections tend to live longer and healthier lives.
+   → 研究は強い社会的なつながりを持っている人々がより長くてより健康的な生活を送る傾向があることを示唆する。   [SVO] relative,that-clause
+○ Instead of punishing children for their mistakes, teachers should encourage them to think about what went wrong.
+   → 彼らの間違いのために子どもを罰する代わりに、先生は彼らにうまくいかなくなったことについて考えるよう励ますべきだ。   [SVOC] relative-what,idiom,v-o-to,modal,gerund
+○ The museum offers free admission on the first Sunday of every month, which makes it popular with families.
+   → 博物館は毎月の最初の日曜日に無料の入場を提供して、そのことが家族にそれを人気があるようにする。   [SVO] svoc,relative
+○ As the population ages, the government will have to find ways to pay for the rising cost of medical care.
+   → 人口が高齢化するにつれて、政府は医療の費用の上昇をまかなう方法を見つけなければならないだろう。   [SVO] idiom,inf-adj,modal
+○ Smartphones have made it easier than ever to stay in touch with friends, but they have also made it harder to focus.
+   → スマートフォンはこれまでになく友達と連絡を取り合いやすくしたが、また集中しにくくした。   [SVOC] svoc,idiom,formal-object,perfect
+○ Not only did the earthquake destroy thousands of homes, but it also damaged the roads needed to deliver aid.
+   → 地震は何千もの家を破壊しただけでなく、援助を配達するために必要とされている道路に損害も与えた。   [SVO] inf-adv,participle-mod,not-only,inversion
+○ The novel, which was written more than a hundred years ago, is still widely read by young people today.
+   → 100年以上前に書かれた小説は若い人々に今でも広く読まれている。   [SV] passive,relative
+○ People who speak more than one language are said to be better at solving certain kinds of problems.
+   → 1つ以上の言語を話す人々は特定の種類の問題を解決することがより得意だと言われている。   [SV] relative,gerund,idiom,it-said,passive
+○ Had the warning been issued earlier, many lives might have been saved.
+   → もし警告がもっと早く発令されていたら、多くの命が救われたかもしれない。   [SV] passive,pastperfect,modal-perfect,subjunctive-pp,inversion
+○ The city plans to plant ten thousand trees over the next five years to reduce the effects of extreme heat.
+   → 市は今後5年間にわたって猛暑の影響を減らすために1万本の木を植える予定だ。   [SVO] inf-adv,inf-noun
+○ What makes this region unique is not its climate but the way its people have adapted to it over the centuries.
+   → この地域をユニークなものにするのはその気候ではなくその人々が世紀にわたってそれに適応している方法だ。   [SVC] svoc,relative-what,perfect,rel-adv,not-but
+○ The key lies not in laws but in education.
+   → 鍵は法律ではなく、教育にある。   [SV] not-but
+○ He works not for money but for love.
+   → 彼はお金のためではなく、愛のために働く。   [SV] not-but
+○ Happiness comes not from money but from friends.
+   → 幸福はお金からではなく、友達から来る。   [SV] not-but
+○ They compared the brains of musicians with those of other people.
+   → 彼らは音楽家の脳を他の人々の脳と比べた。   [SVO] idiom
+○ He has never played an instrument.
+   → 彼は一度も楽器を演奏したことがない。   [SVO] perfect
+○ As the population ages, costs rise.
+   → 人口が高齢化するにつれて、費用は上がる。   [SV] 
+○ It is hard to focus.
+   → 集中することは難しい。   [SVC] it-to
+○ They are better at solving problems.
+   → 彼らは問題を解決することがより得意だ。   [SVC] gerund,idiom
+○ Many lives were saved.
+   → 多くの命が救われた。   [SV] passive
+○ They have the same access to education.
+   → 彼らは教育への同じアクセスを持っている。   [SVO] 
+○ He has the same bag as I do.
+   → 彼は私と同じかばんを持っている。   [SVO] 
+○ They did the same yesterday.
+   → 彼らは昨日同じことをした。   [SVO] 
+○ Many of the fruits and vegetables we eat are imported.
+   → 私たちが食べる果物と野菜の多くは輸入されている。   [SV] relative,passive
+○ It became much more expensive.
+   → それはずっと高くなった。   [SVC] 
+○ The more you practice, the easier it becomes for you to play.
+   → 練習すれば練習するほど、あなたにとって遊ぶのがますます簡単になる。   [] the-more
+○ I paid for the tickets.
+   → 私はチケットの代金を払った。   [SVO] idiom
+○ Eating too much sugar is unhealthy.
+   → 砂糖を食べすぎることは不健康だ。   [SVC] gerund
 
-parsed 9457 / 9457
+parsed 9504 / 9504

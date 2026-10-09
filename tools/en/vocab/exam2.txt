@@ -1,0 +1,233 @@
+# 入試の長文によく出る派生語・話題語で辞書になかった語 その 2（第 507 組）
+alarmingly|副|驚くほど|3
+arguably|副|おそらく; ほぼ間違いなく|3
+gracefully|副|優雅に|3
+intentionally|副|意図的に|2
+ironically|副|皮肉なことに|3
+namely|副|すなわち|2
+overly|副|過度に|3
+proportionally|副|比例して|3
+selectively|副|選択的に|3
+systematically|副|体系的に|3
+accessibility|名|利用しやすさ|3
+affordability|名|手頃な価格であること|3
+anonymity|名|匿名性|3
+applicable|形|当てはまる; 適用できる|3
+bilingualism|名|2言語使用|3
+boredom|名|退屈|2
+brightness|名|明るさ|2
+carelessness|名|不注意|2
+cleanliness|名|清潔さ|2
+closeness|名|近さ; 親しさ|3
+competitiveness|名|競争力|3
+compliance|名|順守|3
+confidentiality|名|機密性|3
+connectivity|名|接続性|3
+depletion|名|枯渇|3
+desertification|名|砂漠化|3
+digitalization|名|デジタル化|3
+disappearance|名|消滅; 失踪|3
+disappointment|名|失望|2
+dishonesty|名|不正直|3
+dissatisfaction|名|不満|3
+embarrassment|名|恥ずかしさ; 当惑|2
+emptiness|名|空虚さ|3
+encouragement|名|励まし|2
+endangerment|名|危険にさらすこと|3
+enjoyment|名|楽しみ|2
+enlargement|名|拡大|3
+eradication|名|根絶|3
+fairness|名|公平さ|2
+familiarity|名|よく知っていること; 親しみ|3
+fondness|名|好み; 愛着|3
+forgetfulness|名|忘れっぽさ|3
+forgiveness|名|許し|3
+freshness|名|新鮮さ|2
+friendliness|名|親しみやすさ|2
+fulfillment|名|達成感; 実現|3
+fullness|名|満ちていること; 満腹感|3
+goodness|名|善良さ|2
+harmfulness|名|有害さ|3
+helpfulness|名|有用さ; 親切|3
+helplessness|名|無力感|3
+hopelessness|名|絶望|3
+humility|名|謙虚さ|3
+hydration|名|水分補給|3
+imbalance|名|不均衡|3
+immaturity|名|未熟さ|3
+impatience|名|短気; もどかしさ|3
+imperfection|名|不完全さ; 欠点|3
+inability|名|できないこと|3
+inaccuracy|名|不正確さ|3
+inactivity|名|活動しないこと; 運動不足|3
+incompetence|名|無能|3
+individuality|名|個性|3
+inflexibility|名|柔軟性のなさ|3
+insecurity|名|不安; 不安定|3
+instability|名|不安定|3
+insufficiency|名|不足|3
+intelligibility|名|わかりやすさ|3
+involvement|名|関与; 参加|3
+irregularity|名|不規則|3
+laziness|名|怠惰|2
+legality|名|合法性|3
+loudness|名|音の大きさ|3
+madness|名|狂気|3
+meaningfulness|名|有意義さ|3
+mindfulness|名|マインドフルネス|3
+misconception|名|誤解|3
+misinformation|名|誤情報|3
+modernization|名|近代化|3
+nervousness|名|緊張|2
+objectivity|名|客観性|3
+obsession|名|執着|3
+openness|名|開放性; 率直さ|3
+originality|名|独創性|3
+overpopulation|名|人口過剰|3
+ownership|名|所有; 所有権|3
+peacefulness|名|穏やかさ|3
+permanence|名|永続性|3
+personalization|名|個人向けにすること|3
+playfulness|名|遊び心|3
+politeness|名|礼儀正しさ|2
+portability|名|持ち運びやすさ|3
+powerlessness|名|無力さ|3
+practicality|名|実用性|3
+predictability|名|予測できること|3
+preparedness|名|備え|3
+privatization|名|民営化|3
+profitability|名|収益性|3
+punctuality|名|時間厳守|3
+readiness|名|準備ができていること; 意欲|3
+reasonableness|名|妥当性|3
+recyclability|名|リサイクルできること|3
+reliability|名|信頼性|3
+resemblance|名|類似|3
+restlessness|名|落ち着きのなさ|3
+richness|名|豊かさ|2
+seriousness|名|深刻さ; 真剣さ|2
+shyness|名|内気|2
+sincerity|名|誠実さ|3
+sleepiness|名|眠気|2
+smoothness|名|滑らかさ|3
+softness|名|柔らかさ|2
+spirituality|名|精神性|3
+spontaneity|名|自発性|3
+stillness|名|静けさ|3
+strictness|名|厳しさ|3
+stubbornness|名|頑固さ|3
+subjectivity|名|主観性|3
+suitability|名|適性|3
+supremacy|名|優位; 覇権|3
+tenderness|名|優しさ|3
+thoughtfulness|名|思いやり|3
+tiredness|名|疲れ|2
+togetherness|名|一体感|3
+toughness|名|たくましさ; 強さ|3
+transparency|名|透明性|3
+truthfulness|名|誠実さ; 正直さ|3
+ugliness|名|醜さ|3
+uncertainty|名|不確かさ; 不安|2
+uniformity|名|均一性|3
+unhappiness|名|不幸|2
+uniqueness|名|独自性|3
+unpredictability|名|予測できないこと|3
+urgency|名|緊急性|3
+usefulness|名|有用性|3
+usability|名|使いやすさ|3
+vagueness|名|あいまいさ|3
+viability|名|実現可能性|3
+vulnerability|名|弱さ; もろさ|3
+wellbeing|名|幸福; 健康|3
+wellness|名|健康|3
+worthiness|名|価値があること|3
+accomplishment|名|達成; 業績|3
+acknowledgment|名|承認; 謝辞|3
+advancement|名|進歩; 昇進|3
+amazement|名|驚き|2
+astonishment|名|驚き|3
+attainment|名|達成|3
+bewilderment|名|当惑|3
+confinement|名|監禁; 閉じ込めること|3
+contentment|名|満足|3
+disagreement|名|意見の相違|2
+discouragement|名|落胆|3
+displacement|名|移動; 立ち退き|3
+endorsement|名|支持; 推薦|3
+engagement|名|関わり; 婚約|3
+establishment|名|設立; 組織|3
+fulfilment|名|達成感; 実現|3
+harassment|名|嫌がらせ|3
+placement|名|配置|3
+recruitment|名|採用|3
+refinement|名|改良; 洗練|3
+resentment|名|恨み; 憤り|3
+acidification|名|酸性化|3
+afforestation|名|植林|3
+algorithm|名|アルゴリズム|3
+aquaculture|名|養殖|3
+biofuel|名|バイオ燃料|3
+biomass|名|バイオマス|3
+blockchain|名|ブロックチェーン|3
+cardiovascular|形|心臓血管の|3
+chemotherapy|名|化学療法|3
+chromosome|名|染色体|3
+cloning|名|クローン技術|3
+cognition|名|認知|3
+compost|名|堆肥|3
+consumerism|名|消費主義|3
+contaminant|名|汚染物質|3
+digitization|名|デジタル化|3
+dopamine|名|ドーパミン|3
+ecotourism|名|エコツーリズム|3
+electorate|名|有権者|3
+embryo|名|胚; 胎児|3
+endorphin|名|エンドルフィン|3
+entrepreneurship|名|起業家精神|3
+enzyme|名|酵素|3
+epidemiologist|名|疫学者|3
+ethnicity|名|民族性|3
+evolutionary|形|進化の|3
+fertility|名|出生率; 肥沃さ|3
+fintech|名|フィンテック|3
+fracking|名|水圧破砕法|3
+genome|名|ゲノム|3
+geothermal|形|地熱の|3
+hydropower|名|水力発電|3
+immunization|名|予防接種|3
+infographic|名|インフォグラフィック|3
+insomnia|名|不眠症|3
+livestock|名|家畜|3
+melatonin|名|メラトニン|3
+metropolis|名|大都市|3
+microbe|名|微生物|3
+microorganism|名|微生物|3
+migraine|名|片頭痛|3
+monsoon|名|モンスーン; 雨季|3
+neuroscience|名|神経科学|3
+neuroscientist|名|神経科学者|3
+nicotine|名|ニコチン|3
+nutritionist|名|栄養士|3
+ozone|名|オゾン|3
+paleontologist|名|古生物学者|3
+pathogen|名|病原体|3
+photovoltaic|形|太陽光発電の|3
+placebo|名|偽薬|3
+plankton|名|プランクトン|3
+pollinator|名|花粉を運ぶ生き物|3
+prehistoric|形|先史時代の|3
+quarantine|名|隔離; 検疫|3
+recyclable|形|リサイクルできる|3
+remittance|名|送金|3
+robotics|名|ロボット工学|3
+serotonin|名|セロトニン|3
+sociologist|名|社会学者|3
+startup|名|新興企業|3
+supercomputer|名|スーパーコンピューター|3
+telecommuting|名|在宅勤務|3
+teleworking|名|テレワーク|3
+uranium|名|ウラン|3
+urbanite|名|都会人|3
+vaccination|名|ワクチン接種|3
+volcanic|形|火山の|3
+workforce|名|労働力|3
