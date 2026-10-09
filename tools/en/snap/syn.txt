@@ -1245,7 +1245,7 @@
 ○ Moreover, digital books are often cheaper, and they never take up space on a shelf.
    → さらに、電子書籍はたいてい安く、棚の場所をとることもない。   [SVC] comparative,idiom
 ○ It is not the technology itself but the way we use it that deserves our attention.
-   → 私たちの注意に値するのは科学技術自体ではなく私たちがそれを使う方法だ。   [SVC] rel-adv,not-but,cleft
+   → 私たちの注意に値するのは科学技術自体ではなくその使い方だ。   [SVC] rel-adv,not-but,cleft
 ○ Having studied several cities, researchers concluded that the best results came from combining many small changes.
    → いくつかの都市を研究して、研究者は一番いい結果が多くの小さい変化を組み合わせることから得られると結論づけた。   [SVO] gerund,that-clause,participle-const
 ○ No single measure can solve the problem, however.
@@ -18537,7 +18537,7 @@
 ○ The museum offers free tours in English every Saturday morning for visitors from abroad.
    → 博物館は毎週土曜日の朝海外から訪問者のために英語で無料の旅行を提供する。   [SVO] 
 ○ Children who eat breakfast every day tend to perform better at school than those who skip it.
-   → 毎日朝食を食べる子どもは学校でそれを抜く子どもより上手に行う傾向がある。   [SVO] relative,comparative
+   → 毎日朝食を食べる子どもは学校でそれを抜く子どもより良い成績を収める傾向がある。   [SVO] relative,comparative
 ○ After the war, the country rebuilt its economy and became one of the richest nations in the world.
    → 戦争の後に、国はその経済を再建して、世界で最も金持ちの国家の1つになった。   [SVO] 
 ○ Many young people feel anxious about the future because they are not sure whether they will be able to find stable jobs.
@@ -18723,7 +18723,7 @@
 ○ Despite having little money and no formal education, the young inventor managed to build a machine that changed the textile industry forever.
    → お金がほとんどなく、正規の教育もないことにもかかわらず、若い発明家は繊維産業を永遠に変えた機械を何とか作った。   [SVO] gerund,relative
 ○ People tend to remember information better when it is presented in the form of a story rather than as a list of facts.
-   → それが話の形で事実のリストではなく提示されると、人々は情報をよりよく覚える傾向がある。   [SVO] passive
+   → それが事実のリストではなく話の形で提示されると、人々は情報をよりよく覚える傾向がある。   [SVO] passive
 ○ The report warns that unless more is done to protect the forests, the region could lose half of its plant and animal species within fifty years.
    → 報告は、もしもっと多くのことが森林を守るために行われなければ、地域が50年以内にその動植物の種の半分を失うかもしれないと警告する。   [SVO] inf-adv,passive,modal,that-clause
 ○ Children are less likely to develop poor eyesight than adults.
@@ -18819,7 +18819,7 @@
 ○ Japanese households throw away a large amount of food every year, much of which is still perfectly safe to eat.
    → 日本の世帯は毎年大量の食べ物を捨てて、そのうちの多くはまだ食べるのに完全に安全だ。   [SVO] inf-adv,idiom,absolute
 ○ Athletes who get enough sleep are less likely to suffer injuries and tend to perform better in competitions.
-   → 十分な睡眠をとる運動選手はけがをする可能性がより低くて、大会でもっと上手に行う傾向がある。   [SVC] relative,idiom
+   → 十分な睡眠をとる運動選手はけがをする可能性がより低くて、大会でより良い成績を収める傾向がある。   [SVC] relative,idiom
 ○ Mount Fuji, which last erupted in 1707, is still considered an active volcano by scientists.
    → 1707年に最後に噴火した富士山は科学者によってまだ活火山だと考えられている。   [SV] relative,it-said
 ○ Every autumn, millions of birds fly thousands of kilometers south to spend the winter in warmer regions.
@@ -18865,7 +18865,7 @@
 ○ If we are to solve these problems, we must cooperate.
    → これらの問題を解決するためには、協力しなければならない。   [SV] modal
 ○ Athletes are less likely to suffer injuries and tend to perform better.
-   → 運動選手はけがをする可能性がより低くて、もっと上手に行う傾向がある。   [SVC] idiom
+   → 運動選手はけがをする可能性がより低くて、より良い成績を収める傾向がある。   [SVC] idiom
 ○ The birds flew south in winter.
    → 鳥は冬に南へ飛んだ。   [SV] 
 ○ They walked ten kilometers north.
@@ -19311,7 +19311,7 @@
 ○ Instead of buying new clothes every season, she prefers to repair the ones she already owns.
    → 季節ごとに新しい服を買う代わりに、彼女は彼女がすでに所有しているものを修理することのほうを好む。   [SVO] relative,inf-noun,gerund
 ○ Studies show that people who eat breakfast regularly tend to have more energy and perform better at work or school.
-   → 研究は朝食を定期的に食べる人々がより多くのエネルギーを持って、仕事か学校でもっと上手に行う傾向があることを示している。   [SVO] relative,that-clause
+   → 研究は朝食を定期的に食べる人々がより多くのエネルギーを持って、仕事か学校でより良い成績を収める傾向があることを示している。   [SVO] relative,that-clause
 ○ The village has changed so much over the past twenty years that I hardly recognized it when I returned.
    → 村は過去20年間にわたってとてもたくさん変わったので、私は戻ったとき、ほとんどそれが分からなかった。   [SV] so-that,perfect
 ○ Many experts believe that the best way to learn a language is to live in a country where it is spoken.
@@ -19899,7 +19899,7 @@
 ○ Children who read are more confident than those who do not.
    → 読む子どもはそうでない子どもより自信がある。   [SVC] relative,comparative
 ○ Students who sleep well perform better than those whose sleep is poor.
-   → よく眠る学生は睡眠が悪い学生より上手に行う。   [SV] relative,comparative
+   → よく眠る学生は睡眠が悪い学生より良い成績を収める。   [SV] relative,comparative
 ○ She got used to the noise and crowds of the city.
    → 彼女は都市の騒音と群衆に慣れた。   [SVO] idiom
 ○ He liked the food and drinks of the island.
@@ -20704,5 +20704,99 @@
    → それは謎のままだ。   [SVC] 
 ○ His death remains a mystery to us.
    → 彼の死は私たちにとって謎のままだ。   [SVC] 
+○ Scientists believe that the amount of plastic in the ocean will continue to increase unless we change the way we use it.
+   → 科学者は、もし私たちがその使い方を変えなければ、海のプラスチックの量が増え続けるだろうと考えている。   [SVO] inf-noun,modal,rel-adv,that-clause
+○ Although the town has lost much of its population, the people who still live there are working hard to keep their traditions alive.
+   → 町はその人口の多くを失ったけれども、まだそこに住んでいる人々は伝統を存続させるために一生懸命に働いている。   [SV] perfect,relative,svoc,inf-adv,progressive
+○ One of the reasons why young people move to large cities is that there are more job opportunities there.
+   → 若い人々が大きい都市に移り住む理由の1つはそこで仕事の機会が多いということだ。   [SVC] rel-adv,there,that-clause
+○ It is important to remember that not everyone who uses social media does so for the same purpose.
+   → SNSを使う人がみな同じ目的のためにそうするわけではないことを覚えることは重要だ。   [SVC] relative,partial-neg,that-clause,it-to
+○ The researchers found that students who ate breakfast every morning performed better than those who did not.
+   → 研究者たちは毎朝朝食を食べた学生がそうでない学生より良い成績を収めることを明らかにした。   [SVO] relative,comparative,that-clause
+○ In recent years, more and more companies have begun to allow their employees to work from home.
+   → 近年、従業員が在宅勤務をするのを認め始めた会社がますます増えている。   [SVO] idiom,v-o-to,inf-noun,perfect
+○ What makes this book so popular is not its story but the way it describes the feelings of ordinary people.
+   → この本をとても人気のあるものにするのはその話ではなくそれが普通の人々の感情を描写する方法だ。   [SVC] svoc,relative-what,rel-adv,not-but
+○ If you had told me about the problem earlier, I could have helped you solve it.
+   → もしあなたが問題について私にもっと早く話していたら、私はあなたがそれを解くのを手伝えただろうに。   [SVOC] pastperfect,causative,modal-perfect,subjunctive-pp
+○ Many of the animals that once lived in this forest have disappeared because their habitat has been destroyed.
+   → それらの生息地が破壊されたので、かつてこの森林に住んでいた動物の多くは消えた。   [SV] relative,perfect,passive
+○ The teacher asked the students to think about how their daily choices affect the environment.
+   → 先生は生徒たちに彼らの毎日の選択がどのように環境に影響するかについて考えるように頼んだ。   [SVOC] indirect-q,idiom,v-o-to
+○ It was such a beautiful day that we decided to have lunch in the park instead of staying inside.
+   → とても美しい日だったので、私たちは中にいる代わりに公園で昼食を食べることに決めた。   [SVC] idiom,gerund,inf-noun,so-that
+○ Learning a new language not only helps you communicate with others but also changes the way you think.
+   → 新しい言語を学ぶことは他の人たちと意思を伝え合うのに役立つだけでなく、あなたの考え方を変える。   [SVOC] gerund,idiom,causative,not-only
+○ Although robots can do many jobs faster than humans, there are some tasks that only people can do well.
+   → ロボットは多くの仕事が人間より速くできるけれども、人々だけよくやれる仕事はいくつかある。   [SV] comparative,modal,relative,there
+○ She has been working at the hospital for ten years, and she still enjoys taking care of her patients.
+   → 彼女は10年間病院でずっと働いていて、まだ自分の患者たちの世話をすることを楽しむ。   [SV] progressive,perfect,idiom,gerund
+○ The festival, which takes place every August, attracts thousands of visitors from all over the country.
+   → 毎年8月に行われる祭りは全国から何千人もの訪問者を集める。   [SVO] idiom,relative
+○ People tend to trust information that agrees with what they already believe.
+   → 人々は彼らがすでに信じていることに同意する情報を信頼する傾向がある。   [SVO] relative-what,idiom,relative
+○ Some experts argue that children should be allowed to use smartphones only after they turn fourteen.
+   → 14歳になって初めて、子どもがスマートフォンを使うことを許されるべきだと主張する専門家もいる。   [SVO] idiom,v-o-to,modal,that-clause
+○ Even though he was tired after the long journey, he insisted on visiting his old friend that night.
+   → 彼は長い旅の後に疲れていたけれども、その夜自分の旧友を訪ねると言い張った。   [SVO] idiom
+○ There are few places in the world where people can enjoy such clean air and water.
+   → 人々がとてもきれいな空気と水を楽しめる世界に場所はほとんどない。   [SV] modal,rel-adv,there
+○ The more we learn about the brain, the more we realize how much we still do not know.
+   → 私たちが脳について学べば学ぶほど、ますますまだどれほど多くのことを知らないか分かる。   [SVO] indirect-q,the-more
+○ Instead of buying new clothes every season, more people are choosing to repair the ones they already have.
+   → 季節ごとに新しい服を買う代わりに、彼らがすでに持っているものを修理することを選んでいる人が増えている。   [SVO] relative,inf-noun,progressive,gerund
+○ It is not easy for elderly people living alone to go shopping when it snows heavily.
+   → 一人暮らしの高齢者が買い物に行くことは、激しく雪が降ると、簡単ではない。   [SVC] participle-mod,idiom,it-to
+○ Having lived abroad for many years, she found it difficult to get used to life in Japan again.
+   → 何年も海外に住んで、彼女はもう一度日本の生活に慣れることが難しいと感じた。   [SVOC] svoc,idiom,formal-object,participle-const
+○ My father, who rarely shows his feelings, cried when he heard the news.
+   → めったに彼の感情を見せない父は、ニュースを聞いたとき、泣いた。   [SV] relative
+○ The government has decided to build a new bridge so that people on the island can reach the hospital more easily.
+   → 島の人々が病院にもっと簡単に着けるように、政府は新しい橋を築くことに決めた。   [SVO] inf-noun,perfect,modal
+○ Whether we like it or not, technology will continue to change the way we live and work.
+   → 私たちがそれを好きかどうかにかかわらず、科学技術は私たちの生き方や働き方を変え続けるだろう。   [SVO] rel-adv,inf-noun,modal,concession
+○ Most of the students in my class had never heard of the writer before they read his novel.
+   → 私のクラスの生徒のほとんどは、彼の小説を読む前に、一度も作家のことを聞いたことがなかった。   [SV] pastperfect
+○ Looking back on my school days, I realize how lucky I was to have such kind teachers.
+   → 私の学生時代を振り返ってみると、私はとても優しい先生たちがいて、どれほど幸運だったか分かる。   [SVO] idiom,indirect-q,participle-const
+○ It is not easy for people living alone to go shopping.
+   → 一人暮らしの人々が買い物に行くことは簡単ではない。   [SVC] participle-mod,idiom,it-to
+○ It is difficult for students living far away to come to school.
+   → 遠くに住んでいる生徒が学校に来ることは難しい。   [SVC] participle-mod,it-to
+○ It is important for people who live alone to have friends.
+   → 一人暮らしの人々が友達がいることは重要だ。   [SVC] relative,it-to
+○ Students living far away often take the bus.
+   → 遠くに住んでいる学生はよくバスに乗る。   [SVO] participle-mod
+○ People living close to the station are lucky.
+   → 駅の近くに住んでいる人々は幸運だ。   [SVC] participle-mod
+○ He is used to life in the city.
+   → 彼は都市の生活に慣れている。   [SVC] idiom
+○ People can enjoy clean air and water here.
+   → 人々はここできれいな空気と水を楽しめる。   [SVO] modal
+○ You can enjoy fresh air and water in this village.
+   → この村で新鮮な空気と水を楽しめる。   [SVO] modal
+○ Children should be allowed to use smartphones only after they turn fourteen.
+   → 14歳になって初めて、子どもはスマートフォンを使うことを許されるべきだ。   [SV] idiom,v-o-to,modal
+○ You can enter only after you show your ticket.
+   → チケットを見せて初めて、あなたは入れる。   [SV] modal,idiom
+○ I realized the truth only after he left.
+   → 彼が出発して初めて、私は真実に気づいた。   [SVO] idiom
+○ You can use this room only if you are a member.
+   → メンバーである場合に限り、あなたはこの部屋を使える。   [SVO] modal,idiom
+○ She performed well on the test.
+   → 彼女は試験で良い成績を収めた。   [SV] 
+○ Students who sleep well perform better at school.
+   → よく眠る生徒は学校でより良い成績を収める。   [SV] relative
+○ The band performed in front of a large audience.
+   → バンドは多くの聴衆の前で演奏した。   [SV] 
+○ The team performed poorly last season.
+   → チームは昨シーズン悪い成績を収めた。   [SV] 
+○ We had lunch in the park instead of staying inside.
+   → 私たちは中にいる代わりに公園で昼食を食べた。   [SVO] idiom,gerund
+○ He went to the library instead of going home.
+   → 彼は帰宅する代わりに図書館に行った。   [SV] idiom,gerund
+○ We should change the way we use energy.
+   → 私たちはエネルギーの使い方を変えるべきだ。   [SVO] rel-adv,modal
 
-parsed 10353 / 10353
+parsed 10400 / 10400

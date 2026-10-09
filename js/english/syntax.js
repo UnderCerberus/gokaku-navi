@@ -161,7 +161,7 @@
     'this afternoon': '今日の午後', 'this summer': '今年の夏', 'this winter': '今年の冬', 'this spring': '今年の春', 'this autumn': '今年の秋', 'this fall': '今年の秋',
     'this weekend': '今週末', 'all year round': '一年中', 'all the year round': '一年中', 'ever after': 'その後ずっと', 'happily ever after': 'その後ずっと幸せに', 'once upon a time': '昔々', 'at least once': '少なくとも一度は', 'at least twice': '少なくとも2回は', 'after that day': 'その日以来', 'after that night': 'その夜以来', 'after that time': 'それ以来', 'from that time on': 'そのときから', 'during this time': 'この時期', 'during that time': 'その間', 'from that day on': 'その日から', 'from that day': 'その日から', 'by the end of the day': 'その日の終わりには', 'one stormy night': 'ある嵐の夜', 'one cold morning': 'ある寒い朝', 'one sunny day': 'ある晴れた日', 'one rainy day': 'ある雨の日', 'one summer day': 'ある夏の日', 'one winter morning': 'ある冬の朝', 'last monday': 'この前の月曜日', 'last tuesday': 'この前の火曜日', 'last wednesday': 'この前の水曜日', 'last thursday': 'この前の木曜日', 'last friday': 'この前の金曜日', 'last saturday': 'この前の土曜日', 'many times': '何度も', 'several times': '何度か', 'a few times': '何度か', 'the last century': '前世紀', 'last century': '前世紀', 'the twentieth century': '20世紀', 'next weekend': '来週末', 'last weekend': '先週末', 'next summer': '来年の夏に', 'next winter': '来年の冬に', 'next spring': '来年の春に', 'this time': '今回', 'these days': '最近', 'one day': 'ある日', 'one summer': 'ある夏', 'one winter': 'ある冬', 'one spring': 'ある春', 'one autumn': 'ある秋', 'one morning': 'ある朝', 'one evening': 'ある晩', 'one night': 'ある夜', 'one afternoon': 'ある午後', 'one year': 'ある年',
     'some day': 'いつか', 'the other day': '先日', 'all day': '一日中', 'all night': '一晩中', 'all the time': 'いつも', 'all morning': '午前中ずっと', 'all afternoon': '午後ずっと', 'all evening': '夕方からずっと',
-    'all week': '1週間ずっと', 'all year': '1年中', 'all summer': '夏の間ずっと', 'all winter': '冬の間ずっと', 'during the day': '日中', 'for fun': '楽しみで', 'right away': 'すぐに', 'for half an hour': '30分間', 'without thinking twice': '深く考えずに', 'without thinking': '何も考えずに', 'all the way there': 'わざわざそこまで', 'all the way here': 'はるばるここまで', 'on a single charge': '1回の充電で', 'at any time': 'いつでも', 'at any time of day': 'いつでも', 'at any time of the day': 'いつでも', 'at any time of year': '一年中いつでも', 'at the last minute': '直前に', 'the night before': '前の晩', 'the day before': '前日', 'the week before': '前の週', 'the year before': '前年', 'for most of the year': '1年の大半', 'most of the year': '1年の大半', 'for most of the day': '1日の大半', 'throughout our lives': '生涯を通じて', 'throughout their lives': '生涯を通じて', 'throughout his life': '生涯を通じて', 'throughout her life': '生涯を通じて', 'in childhood': '子どものころに', 'in early childhood': '幼いころに', 'without a word': 'ひと言も言わずに', 'without hesitation': 'ためらわずに', 'without a doubt': '間違いなく', 'over a period of time': '一定期間にわたって', 'over a long period of time': '長期間にわたって', 'over time': '時間とともに', 'in recent decades': 'ここ数十年で', 'over recent decades': 'ここ数十年で', 'in the years to come': '今後', 'in the years ahead': '今後', 'for years to come': '今後何年にもわたって', 'in the decades to come': '今後数十年で', 'across the country': '全国で', 'across the world': '世界中で', 'across the nation': '全国で', 'all over the country': '全国で', 'in recent months': 'ここ数か月で', 'in recent weeks': 'ここ数週間で', 'in recent days': 'ここ数日で', 'by half': '半分に', 'ahead of schedule': '予定より早く', 'behind schedule': '予定より遅れて', 'on schedule': '予定どおりに', 'ahead of time': '前もって', 'most of the day': '一日の大半', 'most of the time': 'たいてい', 'all day long': '一日中', 'until late at night': '夜遅くまで', 'till late at night': '夜遅くまで', 'until late': '遅くまで', 'until midnight': '真夜中まで', 'once in a blue moon': 'ごくまれに', 'every other day': '1日おきに', 'every other week': '1週間おきに', 'every other month': '1か月おきに', 'every other year': '1年おきに', 'for ages': '長い間', 'around the clock': '24時間ずっと', 'round the clock': '24時間ずっと', 'in a minute': 'すぐに', 'in a second': 'すぐに', 'in a moment': 'すぐに', 'at first sight': '一目で', 'slowly but steadily': 'ゆっくりだが着実に', 'slowly but surely': 'ゆっくりだが着実に', 'before dark': '暗くなる前に', 'after dark': '暗くなってから', 'in groups of two': '2人1組で', 'in groups of three': '3人1組で', 'in groups of four': '4人1組で', 'in groups of five': '5人1組で', 'in groups of six': '6人1組で', 'in half an hour': '30分後に', 'an hour and a half': '1時間半', 'for an hour and a half': '1時間半', 'before bed': '寝る前に', 'on the outside': '外側が', 'on the inside': '内側が', 'too often': 'あまりにも頻繁に', 'per hour': '1時間につき', 'in the wash': '洗濯で', 'inside out': '裏返しに', 'by the end of the week': '今週中に', 'by the end of the month': '今月中に', 'by the end of this month': '今月中に', 'by the end of the year': '年内に', 'by the end of this year': '年内に', 'this semester': '今学期', 'last semester': '前学期', 'next semester': '来学期', 'this term': '今学期', 'upside down': '逆さまに', 'on land': '陸上で', 'all the way around': 'ぐるりと', 'several times a year': '1年に数回', 'several times a day': '1日に数回', 'several times a week': '週に数回', 'a few times a year': '1年に数回', 'a few times a week': '週に数回', 'many times a day': '1日に何度も', 'in pairs': '2人1組で', 'in groups': 'グループで', 'in small groups': '少人数のグループで', 'per night': '1泊', 'at all times': '常に', 'until further notice': '追って通知があるまで', 'after meals': '食後に', 'before meals': '食前に', 'after each meal': '毎食後に', 'between meals': '食間に', 'at bedtime': '就寝前に', 'at your earliest convenience': 'ご都合がつき次第', 'as soon as possible': 'できるだけ早く', 'in many ways': '多くの点で', 'in some ways': 'いくつかの点で', 'in every way': 'あらゆる点で', 'in other ways': 'ほかの点で', 'in a different way': '違ったやり方で', 'from far away': '遠くから', 'from far and wide': '各地から', 'over coffee': 'コーヒーを飲みながら', 'over a cup of coffee': 'コーヒーを飲みながら', 'over tea': 'お茶を飲みながら', 'over a cup of tea': 'お茶を飲みながら', 'over lunch': '昼食をとりながら', 'over dinner': '夕食をとりながら', 'when not in use': '使用しないときは', 'before first use': '初めて使う前に', 'before use': '使用前に', 'after use': '使用後は', 'for future reference': '後で参照できるように', 'later in life': '後の人生で', 'early in life': '人生の早い時期に', 'during this period': 'この期間に', 'during that period': 'その期間に', 'over this period': 'この期間に', 'over the same period': '同じ期間に', 'during the night': '夜の間', 'in the daytime': '日中', 'at the moment': '今のところ',
+    'all week': '1週間ずっと', 'all year': '1年中', 'all summer': '夏の間ずっと', 'all winter': '冬の間ずっと', 'during the day': '日中', 'for fun': '楽しみで', 'right away': 'すぐに', 'for half an hour': '30分間', 'without thinking twice': '深く考えずに', 'without thinking': '何も考えずに', 'all the way there': 'わざわざそこまで', 'all the way here': 'はるばるここまで', 'on a single charge': '1回の充電で', 'at any time': 'いつでも', 'at any time of day': 'いつでも', 'at any time of the day': 'いつでも', 'at any time of year': '一年中いつでも', 'at the last minute': '直前に', 'the night before': '前の晩', 'the day before': '前日', 'the week before': '前の週', 'the year before': '前年', 'for most of the year': '1年の大半', 'most of the year': '1年の大半', 'for most of the day': '1日の大半', 'throughout our lives': '生涯を通じて', 'throughout their lives': '生涯を通じて', 'throughout his life': '生涯を通じて', 'throughout her life': '生涯を通じて', 'in childhood': '子どものころに', 'in early childhood': '幼いころに', 'without a word': 'ひと言も言わずに', 'without hesitation': 'ためらわずに', 'without a doubt': '間違いなく', 'over a period of time': '一定期間にわたって', 'over a long period of time': '長期間にわたって', 'over time': '時間とともに', 'in recent decades': 'ここ数十年で', 'over recent decades': 'ここ数十年で', 'in the years to come': '今後', 'in the years ahead': '今後', 'for years to come': '今後何年にもわたって', 'in the decades to come': '今後数十年で', 'across the country': '全国で', 'across the world': '世界中で', 'across the nation': '全国で', 'all over the country': '全国で', 'in recent months': 'ここ数か月で', 'in recent weeks': 'ここ数週間で', 'in recent days': 'ここ数日で', 'by half': '半分に', 'ahead of schedule': '予定より早く', 'behind schedule': '予定より遅れて', 'on schedule': '予定どおりに', 'ahead of time': '前もって', 'most of the day': '一日の大半', 'most of the time': 'たいてい', 'all day long': '一日中', 'until late at night': '夜遅くまで', 'till late at night': '夜遅くまで', 'until late': '遅くまで', 'until midnight': '真夜中まで', 'once in a blue moon': 'ごくまれに', 'every other day': '1日おきに', 'every other week': '1週間おきに', 'every other month': '1か月おきに', 'every other year': '1年おきに', 'for ages': '長い間', 'around the clock': '24時間ずっと', 'round the clock': '24時間ずっと', 'in a minute': 'すぐに', 'in a second': 'すぐに', 'in a moment': 'すぐに', 'at first sight': '一目で', 'slowly but steadily': 'ゆっくりだが着実に', 'slowly but surely': 'ゆっくりだが着実に', 'before dark': '暗くなる前に', 'after dark': '暗くなってから', 'in groups of two': '2人1組で', 'in groups of three': '3人1組で', 'in groups of four': '4人1組で', 'in groups of five': '5人1組で', 'in groups of six': '6人1組で', 'in half an hour': '30分後に', 'an hour and a half': '1時間半', 'for an hour and a half': '1時間半', 'before bed': '寝る前に', 'on the outside': '外側が', 'on the inside': '内側が', 'too often': 'あまりにも頻繁に', 'per hour': '1時間につき', 'in the wash': '洗濯で', 'inside out': '裏返しに', 'by the end of the week': '今週中に', 'by the end of the month': '今月中に', 'by the end of this month': '今月中に', 'by the end of the year': '年内に', 'by the end of this year': '年内に', 'this semester': '今学期', 'last semester': '前学期', 'next semester': '来学期', 'last season': '昨シーズン', 'this season': '今シーズン', 'next season': '来シーズン', 'this term': '今学期', 'upside down': '逆さまに', 'on land': '陸上で', 'all the way around': 'ぐるりと', 'several times a year': '1年に数回', 'several times a day': '1日に数回', 'several times a week': '週に数回', 'a few times a year': '1年に数回', 'a few times a week': '週に数回', 'many times a day': '1日に何度も', 'in pairs': '2人1組で', 'in groups': 'グループで', 'in small groups': '少人数のグループで', 'per night': '1泊', 'at all times': '常に', 'until further notice': '追って通知があるまで', 'after meals': '食後に', 'before meals': '食前に', 'after each meal': '毎食後に', 'between meals': '食間に', 'at bedtime': '就寝前に', 'at your earliest convenience': 'ご都合がつき次第', 'as soon as possible': 'できるだけ早く', 'in many ways': '多くの点で', 'in some ways': 'いくつかの点で', 'in every way': 'あらゆる点で', 'in other ways': 'ほかの点で', 'in a different way': '違ったやり方で', 'from far away': '遠くから', 'from far and wide': '各地から', 'over coffee': 'コーヒーを飲みながら', 'over a cup of coffee': 'コーヒーを飲みながら', 'over tea': 'お茶を飲みながら', 'over a cup of tea': 'お茶を飲みながら', 'over lunch': '昼食をとりながら', 'over dinner': '夕食をとりながら', 'when not in use': '使用しないときは', 'before first use': '初めて使う前に', 'before use': '使用前に', 'after use': '使用後は', 'for future reference': '後で参照できるように', 'later in life': '後の人生で', 'early in life': '人生の早い時期に', 'during this period': 'この期間に', 'during that period': 'その期間に', 'over this period': 'この期間に', 'over the same period': '同じ期間に', 'during the night': '夜の間', 'in the daytime': '日中', 'at the moment': '今のところ',
     'on weekdays': '平日に', 'on weekends': '週末に', 'on holidays': '休日に', 'on sundays': '日曜日に', 'on saturdays': '土曜日に', 'on school days': '学校のある日に',
     'next door': '隣に', 'right now': '今すぐ', 'no longer': 'もはや', 'for pleasure': '楽しみのために',
     'thousands of times': '何千回も', 'hundreds of times': '何百回も', 'dozens of times': '何十回も', 'millions of times': '何百万回も', 'countless times': '数えきれないほど', 'numerous times': '何度も',
@@ -931,7 +931,7 @@
       if (cnt > 0 && !!vc(t, ['base']) && T[j + 1] && T[j + 1].k === 'w' && PREP[T[j + 1].w] && (idiomIndex().verb[t.w] || []).some((x) => x.shape === 'obj' && x.lit.length === 1 && x.lit[0] === T[j + 1].w)) break;
       if (PREP[t.w] && !hasDet) break;                                    // inside / outside / past は、限定詞がなければ前置詞
       if (ADV[t.w] && (cnt > 0 || !hasDet)) break;
-      if (cnt > 0 && vc(t, ['pp', 'ing']) && j + 1 < lim && T[j + 1].k === 'w' && (PREP[T[j + 1].w] || ((pl || hasDet || /people$/.test(head || '')) && /^(?:alone|together|apart|there|here|abroad|overseas|nearby|independently)$/.test(T[j + 1].w)))) break;   // people living alone / the people living there（分詞の後置修飾）      // a stone cut into ~          // well / back / home などは、限定詞がなければ副詞として読む
+      if (cnt > 0 && vc(t, ['pp', 'ing']) && j + 1 < lim && T[j + 1].k === 'w' && (PREP[T[j + 1].w] || ((pl || hasDet || /people$/.test(head || '')) && (/^(?:alone|together|apart|there|here|abroad|overseas|nearby|independently)$/.test(T[j + 1].w) || (/^(?:far|close)$/.test(T[j + 1].w) && /^(?:away|from|to|by)$/.test((T[j + 2] || {}).w || '')))))) break;   // people living alone / the people living there（分詞の後置修飾）      // a stone cut into ~          // well / back / home などは、限定詞がなければ副詞として読む
       if (cnt > 0 && pl && /^(?:report|say|claim|believe|argue|complain|worry|agree|admit|insist|suggest|feel|think|fear|hope|expect|predict|warn|explain|notice|realize)$/.test(t.w) && j + 1 < lim && T[j + 1].k === 'w' && (/^(?:that|feeling|being|having|it)$/.test(T[j + 1].w) || (PRON[T[j + 1].w] && PRON[T[j + 1].w].sub))) break;   // Some employees report that … / report feeling isolated
       if (cnt > 0 && /^(?:species|series|deer|sheep|fish|aircraft|offspring|cattle|police|crew|staff)$/.test(head || '') && !!vc(t, ['base']) && j + 1 < lim && T[j + 1].k === 'w' && (DET[T[j + 1].w] !== undefined || (!!adjC(T[j + 1]) && !nounC(T[j + 1])) || (PRON[T[j + 1].w] && !PRON[T[j + 1].w].sub) || (j + 2 < lim && !!adjC(T[j + 1]) && T[j + 2].k === 'w' && !!nounC(T[j + 2])))) break;   // Many species display complex behaviors → 多くの種が複雑な行動を示す
       // the students walk to school / students use the bus（複数名詞のあとの原形 + 限定詞・前置詞は動詞。複合名詞にしない）
@@ -4033,6 +4033,16 @@
     if (vg.lemma === 'be' && !vg.passive && (((p.cls === 'i' || p.cls === 'da' || MUST_DO[p.plain()]) && !/(?:ある|いる|いない|ほとんどない)$/.test(p.plain())) || /^(?:人気|価値|意味|やりがい|興味|魅力|効果)がある$/.test(p.plain()))) st.other = st.other.map((x) => x.replace(/^((?:[^、]*の)?(?:図書館|教室|学校|病院|電車|バス|公園|家|部屋|店|駅|町|都市|国|日本|世界|クラス|会社|職場|劇場|映画館|博物館|美術館|レストラン|寺|神社|会議|授業|試合|ここ|そこ|海外|田舎|この辺り|地域|村))に$/, '$1で'));
     if ((vg.modal === 'can' || vg.modal === 'could') && !vg.neg && T.some((x, q) => isW(x, 'still') && T[q - 1] && MODAL[T[q - 1].w])) { const rpS = (x) => (x === 'まだ' ? 'それでも' : x); st.time = st.time.map(rpS); st.manner = st.manner.map(rpS); st.freq = st.freq.map(rpS); }   // can still enjoy → それでも楽しめる
     if (vg.lemma === 'show' && vg.passive && /^見せる$/.test(p.plain())) p = P('示す', 'v5');
+    if (vg.lemma === 'perform' && !vg.passive && /^行う$/.test(p.plain()) && !o.hasObj) {
+      const miPf = st.manner.findIndex((x) => /^(?:[^、]*より)?(?:もっと|より|ずっと|とても)?(?:上手に|貧しく|下手に|ひどく|悪く|うまく)$/.test(x));
+      if (miPf >= 0) {
+        const mxPf = /^([^、]*より)?((?:もっと|より|ずっと|とても)?)(上手に|貧しく|下手に|ひどく|悪く|うまく)$/.exec(st.manner[miPf]);
+        st.manner.splice(miPf, 1);
+        const badPf = /^(?:貧しく|下手に|ひどく|悪く)$/.test(mxPf[3]);
+        p = P((mxPf[1] ? mxPf[1] : (mxPf[2] && mxPf[2] !== 'とても') || T.some((x) => isW(x, 'better') || isW(x, 'worse')) ? 'より' : '') + (badPf ? '悪い' : '良い') + '成績を収める', 'v1');
+      }
+      else if (sj && /(?:^| )(?:band|bands|orchestra|orchestras|musician|musicians|pianist|pianists|singer|singers|choir|choirs)$/.test(sj.head || '')) p = P('演奏する', 'suru');
+    }
     if (vg.lemma === 'show' && !vg.passive && sj && !anim && /^見せる$/.test(p.plain()) && /(?:^| )(?:study|studies|research|survey|surveys|data|evidence|experiment|experiments|report|reports|result|results|graph|graphs|chart|charts|table|tables|figure|figures|history|experience|analysis|statistics|record|records|test|tests|poll|polls|map|maps)$/.test(sj.head || '')) p = P('示す', 'v5');
     if (vg.lemma === 'know' && neg && /^知(?:る|っている)$/.test(p.plain()) && !vg.perfect && T.some((x, q) => q > vg.idx && x.k === 'w' && (WH[x.w] || x.w === 'whether' || x.w === 'if') && x.w !== 'that')) p = P('分かる', 'v5');   // I don't know what to do next → 何をするべきか分からない
     if (vg.lemma === 'work' && /^働く$/.test(p.plain()) && sj && anim && st.other.some((x) => /(?:銀行|会社|企業|新聞社|病院|政府|店|工場|出版社|航空会社|市役所|役所|ホテル|大学|学校)のために$/.test(x))) { st.other = st.other.map((x) => x.replace(/((?:銀行|会社|企業|新聞社|病院|政府|店|工場|出版社|航空会社|市役所|役所|ホテル|大学|学校))のために$/, '$1に')); p = P('勤めている', 'v1'); }   // works for a bank → 銀行に勤めている
@@ -5181,6 +5191,7 @@
         if (pp.kind === 'agent' && vg && vg.passive) st.agent = pp.ja;
         else if (pp.kind === 'dur' || pp.kind === 'since') { st.time.push(pp.ja); st.cont = true; }
         else if (pp.kind === 'time') st.time.push(pp.ja);
+        else if (pp.ja && /(?:の代わりに|代わりに|のではなく|ではなく)$/.test(pp.ja) && /^(?:instead of|rather than)$/.test(pp.prep || '')) st.other.unshift(pp.ja);
         else if (pp.ja) st.other.push(pp.ja);
         return pp.end;
       }
@@ -6172,7 +6183,7 @@
             if (tcI && tcI.end === lim) obj = { ja: tcI.str.replace(/だろう$/, '') + (/(?:指摘|主張|発表|報告|説明|宣言|証明)/.test(it.ja) || (it.it && /^find out/.test(it.it.phrase)) ? 'と' : 'ことを'), end: lim, bare: true, clause: true };
             else fail(mTi);
           }
-          if (!obj && it.it && /^(?:get used to ~|be used to ~|become used to ~|adapt to ~|adjust to ~|get accustomed to ~)$/.test(it.it.phrase) && !ingVerb(s0, lim)) { const mUt = mark(); const oUt = np(s0, lim, { pp: true }); if (oUt && oUt.end === lim) obj = oUt; else fail(mUt); }
+          if (!obj && it.it && /^(?:get used to ~|be used to ~|become used to ~|adapt to ~|adjust to ~|get accustomed to ~)$/.test(it.it.phrase) && !ingVerb(s0, lim)) { const mUt = mark(); const oUt = np(s0, lim, { pp: true }); if (oUt && (oUt.end === lim || (T[oUt.end].k === 'w' && !!ADV[T[oUt.end].w] && !PREP[T[oUt.end].w]))) obj = oUt; else fail(mUt); }
           if (!obj) obj = gerundNP(s0, lim) || np(s0, lim, {});
           // 〜 の位置に疑問詞節（depend on how much water there is → どのくらいの水があるか次第だ）
           if (!obj && T[s0].k === 'w' && /^(?:how|what|why|when|where|whether|which|who)$/.test(T[s0].w)) {
@@ -8567,7 +8578,8 @@
       fail(m);
       for (let x = k + 2; x + 1 < lim; x++) {
         if (!(isW(T[x], 'to') && vc(T[x + 1], ['base']))) continue;
-        const n2 = np(k + 1, x, { noRel: true, noCoord: true, pp: true });
+        let n2 = np(k + 1, x, { noRel: true, noCoord: true, pp: true });
+        if (!(n2 && n2.end === x)) { fail(m); n2 = np(k + 1, x, { noCoord: true, pp: true }); }
         if (n2 && n2.end === x) return { np: n2, end: x };
         fail(m);
       }
@@ -9008,7 +9020,8 @@
             if (vW && vW.end === lim) { useIdiom(it.it); name('idiom'); return fin(P(deg0 + vpJoin(vW, 'dict') + '価値がある', 'aru'), lim); }
             fail(mW);
           }
-          obj = gerundNP(e0, lim) || np(e0, lim, {});
+          if (it.it && /^(?:be used to ~|be accustomed to ~)$/.test(it.it.phrase) && !ingVerb(e0, lim)) { const mUb = mark(); const oUb = np(e0, lim, { pp: true }); if (oUb && (oUb.end === lim || (T[oUb.end].k === 'w' && !!ADV[T[oUb.end].w] && !PREP[T[oUb.end].w]))) obj = oUb; else fail(mUb); }
+          if (!obj) obj = gerundNP(e0, lim) || np(e0, lim, {});
         }
         if (!obj) { fail(m1); continue; }
         if (it.it && BLOCK[it.it.phrase] && !(BLOCK_OK[it.it.phrase] && BLOCK_OK[it.it.phrase].test(obj.head || ''))) { fail(m1); continue; }   // Prices are high in Tokyo（be high in ~ は成分の名詞のときだけ）
@@ -10068,7 +10081,7 @@
     // 分詞の後置修飾（the boy playing tennis / the language spoken in Canada）
     // people living in big cities（形容詞にもなる -ing でも、名詞の直後で前置詞・限定詞・目的格代名詞・場所の副詞が続けば分詞の後置修飾）
     const ingAdjPost = !ingVerb(j, e) && t.k === 'w' && !!vc(t, ['ing']) && !!cand(t, '形', ['base']) && j + 1 < e && T[j + 1].k === 'w' &&
-      (PREP[T[j + 1].w] || DET[T[j + 1].w] !== undefined || (PRON[T[j + 1].w] && !PRON[T[j + 1].w].sub) || PLACE_ADV[T[j + 1].w] || /^(?:alone|together|apart|independently|nearby|abroad|upstairs|downstairs)$/.test(T[j + 1].w) || seq(j + 1, ['next', 'door']));   // people living alone → 一人暮らしの人々
+      (PREP[T[j + 1].w] || DET[T[j + 1].w] !== undefined || (PRON[T[j + 1].w] && !PRON[T[j + 1].w].sub) || PLACE_ADV[T[j + 1].w] || /^(?:alone|together|apart|independently|nearby|abroad|upstairs|downstairs)$/.test(T[j + 1].w) || seq(j + 1, ['next', 'door']) || (/^(?:far|close)$/.test(T[j + 1].w) && /^(?:away|from|to|by)$/.test((T[j + 2] || {}).w || '')));   // people living alone → 一人暮らしの人々
     const form = ingVerb(j, e) || ingAdjPost ? 'ing' : (vc(t, ['pp']) && !PREP[t.w] ? 'pp' : '');
     // a chair reading a newspaper（物の名詞に人の動作の -ing は付けない → 付帯の分詞として主節で読む）
     if (!node.an && !node.pron && t.k === 'w' && !!vc(t, ['ing']) && /^(?:read|write|eat|drink|talk|sing|watch|listen|play|wait|look|smile|cry|think|hold|study|speak|laugh|dance|chat|text|type|knit|sew|draw|paint)$/.test((vc(t, ['ing']) || {}).lemma || '') && /^(?:chair|chairs|bench|benches|sofa|couch|bed|beds|table|tables|desk|desks|floor|tree|trees|wall|window|door|car|train|bus|room|house|park|garden|street|corner|rock|stone|box|grass|beach|stairs|step|steps)$/.test(node.head || '')) return fail(m);
@@ -10136,6 +10149,11 @@
       const mTkW = cw && cw.pred && !(cw.parts || []).length && !cw.neg && !cw.modal && cw.subj && cw.subj.ja ? /^(.+?[^のでを])(?:と|に)(話す|振る舞う|接する)$/.exec(cw.pred.s) : null;
       if (mTkW && WAYV[mTkW[2]]) { name('rel-adv'); return Object.assign({}, node, { ja: cw.subj.ja + 'の' + mTkW[1].replace(/^自分の/, '') + 'への' + WAYV[mTkW[2]], end: e, rel: true }); }   // the way he talks to his brother（talk to ~ の熟語）
       if (cw && cw.pred && WAYV[cw.pred.s] && (cw.parts || []).length === 1 && /[^のでを](?:に|と)$/.test(cw.parts[0]) && /^(?:話す|振る舞う|行動する|接する)$/.test(cw.pred.s) && !cw.neg && cw.subj && cw.subj.ja && !cw.modal) { name('rel-adv'); return Object.assign({}, node, { ja: cw.subj.ja + 'の' + cw.parts[0].replace(/^自分の/, '').replace(/(?:に|と)$/, 'への') + WAYV[cw.pred.s], end: e, rel: true }); }   // the way he talks to his brother → 彼の弟への話し方
+      const outerW = (() => { for (let x = j - 3; x >= Math.max(0, j - 7); x--) { if (T[x].k !== 'w') return null; if (PRON[T[x].w] && PRON[T[x].w].sub) return T[x].w; } return null; })();
+      const sameW = !!cw && !!cw.subj && !!cw.subj.pron && cw.subj.pron === outerW;
+      const WAYO = { '使う': '使い方', '扱う': '扱い方', '作る': '作り方', '見る': '見方', '育てる': '育て方', '教える': '教え方', '学ぶ': '学び方', '書く': '書き方', '読む': '読み方', '解く': '解き方', '料理する': '料理の仕方', '準備する': '準備の仕方' };
+      if (cw && cw.pred && (cw.parts || []).length === 1 && /を$/.test(cw.parts[0]) && WAYO[cw.pred.s] && !cw.neg && !cw.modal && cw.subj && (sameW || /^(?:we|you|they|people)$/.test(cw.subj.pron || ''))) { name('rel-adv'); return Object.assign({}, node, { ja: cw.parts[0].replace(/を$/, 'の').replace(/^それの/, 'その').replace(/^それらの/, 'それらの') + WAYO[cw.pred.s], end: e, rel: true }); }   // the way we use it → その使い方
+      if (cw && sameW) return fin(cw.out({ part: 'が', form: 'attr', omit: cw.subj.pron }), 'rel-adv');
       if (cw) return fin(cw.out({ part: 'が', form: 'attr' }), 'rel-adv');
       fail(m);
     }
@@ -10827,6 +10845,7 @@
       if ((isW(T[k2], 'for') || isW(T[k2], 'of')) && k2 + 2 < b) {
         const n = np(k2 + 1, b, { noRel: true, noCoord: true });
         if (n && isW(T[n.end], 'to')) { if (T[k2].w === 'for') forNP = n; else ofNP = n; k2 = n.end; }
+        else if (isW(T[k2], 'for')) { const ftI = forTo(k2, b); if (ftI.np && isW(T[ftI.end], 'to')) { forNP = ftI.np; k2 = ftI.end; } }
       }
       if (ofNP && k2 === b - 1) {   // It's very kind of you to … の to がない形 → あなたはとても親切だ（ofNP のあとに to が来たとき）
       }
@@ -11666,6 +11685,7 @@
       else if (T[x].k === 'w' && T[x].w === 'and' && T[x + 1] && T[x + 1].k === 'w' && /^(?:even|also|then)$/.test(T[x + 1].w) && vb(x + 2) && cuts.length) { cuts.push([isP(T[x - 1], ',') ? x - 1 : x, x + 1]); conj = T[x].w; break; }   // can solve puzzles, open jars, and even escape（3 つ以上の列挙だけ）
       else if (T[x].k === 'w' && /^(?:and|or)$/.test(T[x].w) && vb(x + 1)) {
         if (x - 2 > v0 && T[x - 2].k === 'w' && PREP[T[x - 2].w] && !!nounC(T[x - 1]) && !!nounC(T[x + 1]) && (x + 2 >= b || T[x + 2].k === 'p')) return null;   // regardless of age or experience
+        if (T[x - 1].k === 'w' && !!nounC(T[x - 1]) && !vc(T[x - 1], ['base']) && !!nounC(T[x + 1]) && /^(?:water|milk|juice|tea|coffee|food|air|sunlight|fuel|oil|gas|electricity|bread|rice|meat|salt|sugar|soil|sand|wood|paper|clothing|furniture|equipment)$/.test(T[x + 1].w) && (x + 2 >= b || T[x + 2].k === 'p' || (T[x + 2].k === 'w' && (!!PREP[T[x + 2].w] || !!ADV[T[x + 2].w])))) return null;   // enjoy clean air and water
         if (!cuts.length && !isP(T[x - 1], ',') && T.slice(v0 + 1, x).some((y, q) => isW(y, 'to') && T[v0 + 2 + q] && T[v0 + 2 + q].k === 'w' && !!vc(T[v0 + 2 + q], ['base']))) return null;
         if (!cuts.length && !isP(T[x - 1], ',') && T.slice(Math.max(v0 + 1, x - 5), x).some((y, q) => isW(y, 'way') && isW(T[Math.max(v0 + 1, x - 5) + q - 1], 'the')) && T[x - 1].k === 'w' && !!vc(T[x - 1], ['base', '3sg', 'past'])) return null;   // must change the way people think and behave（the way 節の中の並列）   // can choose to stay or leave（to 不定詞の中の並列）
         cuts.push([isP(T[x - 1], ',') ? x - 1 : x, x + 1]); conj = T[x].w; break;
@@ -11985,6 +12005,25 @@
       const cG = sentence(a + 5, b, { sub: true });
       if (cG) { name('that-clause'); name('idiom'); return wrap({ out: () => cG.out({ part: 'が', form: 'attr' }) + 'のは言うまでもない', sp: 'SV' }); }
       fail(m);
+    }
+    if (!o.sub) {
+      let xOy = -1;
+      for (let x = a + 2; x < b - 3; x++) if (isW(T[x], 'only') && T[x + 1] && /^(?:after|when|once|if)$/.test(T[x + 1].w || '')) { xOy = x; break; }
+      if (xOy > 0) {
+        const mOy = mark();
+        const kwOy = T[xOy + 1].w;
+        const scOy = sentence(xOy + 2, b, { sub: true });
+        const eOy = isP(T[xOy - 1], ',') ? xOy - 1 : xOy;
+        const mnOy = scOy ? sentence(a, eOy, o) : null;
+        if (scOy && mnOy) {
+          const sjM = mnOy.subj ? plainSubj(mnOy.subj) : null;
+          const sameOy = scOy.subj && sjM && scOy.subj.pron && (scOy.subj.pron === sjM.pron || (scOy.subj.pron === 'they' && !sjM.pron && (sjM.pl || sjM.coord)) || (/^(?:he|she)$/.test(scOy.subj.pron) && !sjM.pron && sjM.an && !sjM.pl) || (scOy.subj.pron === 'it' && !sjM.pron && !sjM.an && !sjM.pl));
+          const leadOy = kwOy === 'if' ? scOy.out(Object.assign({ part: 'が', form: 'attr' }, sameOy ? { omit: scOy.subj.pron } : {})) + '場合に限り、' : scOy.out(Object.assign({ part: 'が', form: 'te' }, sameOy ? { omit: scOy.subj.pron } : {})) + '初めて、';
+          name('idiom');
+          const nodeOy = Object.assign({}, mnOy); nodeOy.out = (y) => leadOy + mnOy.out(y); return wrap(nodeOy);
+        }
+        fail(mOy);
+      }
     }
     if (T[a] && /^(?:hardly|scarcely|not|never)$/.test(T[a].w || '') && isW(T[a + 1], 'a') && T[a + 2] && /^(?:day|week|month|year)$/.test(T[a + 2].w || '') && T[a + 3] && /^(?:goes|passes|went|passed)$/.test(T[a + 3].w || '')) {
       const kWd = isW(T[a + 4], 'by') ? a + 5 : a + 4;
@@ -13193,7 +13232,8 @@
         }
         // studies suggest that people … live longer and suffer less …（左が that 節で終わり、右が主語のない述語なら、that 節の中の並列として読む）
         const thatLeft = T.slice(a, je).some((x, q) => isW(x, 'that') && q > 0 && T[a + q - 1].k === 'w' && (() => { const vT = vc(T[a + q - 1], ['base', '3sg', 'past']); return !!vT && (!!SAYV[vT.lemma] || !!THINKV[vT.lemma] || /^(?:suggest|show|find|know|realize|discover|notice|prove|report)$/.test(vT.lemma)); })()) && T[rs] && T[rs].k === 'w' && !!vc(T[rs], ['base', '3sg', 'past']) && !(PRON[T[rs].w] && PRON[T[rs].w].sub) && !o.sub && !!left.subj && !left.subj.an && !(left.subj.pron && /^(?:i|you|he|she|we|they)$/.test(left.subj.pron));   // 主節の主語が人なら（He said that … and went to bed）主節の並列のまま
-        if (!rv) rv = left.subj && !thatLeft && !(T[rs] && T[rs].k === 'w' && !!nounC(T[rs]) && !!vc(T[rs], ['3sg']) && (!agree(left.subj, rs) || (left.past && !left.perfect && !vc(T[rs], ['past'])))) ? predOnly(rs, b, Object.assign({}, o, { subj: left.subj, pastHint: !!left.past })) : null;
+        const npAndR = w === 'and' && je === j && T[j - 1] && T[j - 1].k === 'w' && !!nounC(T[j - 1]) && !vc(T[j - 1], ['base', '3sg', 'past']) && T[rs] && T[rs].k === 'w' && !!nounC(T[rs]) && /^(?:water|milk|juice|tea|coffee|food|air|sunlight|fuel|oil|gas|electricity|bread|rice|meat|salt|sugar|soil|sand|wood|paper|clothing|furniture|equipment)$/.test(T[rs].w) && (rs + 1 >= b || T[rs + 1].k === 'p' || (T[rs + 1].k === 'w' && (!!PREP[T[rs + 1].w] || !!ADV[T[rs + 1].w])));
+        if (!rv && !npAndR) rv = left.subj && !thatLeft && !(T[rs] && T[rs].k === 'w' && !!nounC(T[rs]) && !!vc(T[rs], ['3sg']) && (!agree(left.subj, rs) || (left.past && !left.perfect && !vc(T[rs], ['past'])))) ? predOnly(rs, b, Object.assign({}, o, { subj: left.subj, pastHint: !!left.past })) : null;
         // They should stop at red lights and wear a helmet（左の助動詞を右の述語にも及ぼす）
         if (rv && left.modal && !rv.modal && isCC && w === 'and' && T[rs].k === 'w' && vc(T[rs], ['base']) && !BE[T[rs].w]) {
           const mtk = T.slice(a, je).find((x) => x.k === 'w' && MODAL[x.w]);
