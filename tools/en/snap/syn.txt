@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (238ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (193ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -1195,7 +1195,7 @@
 ○ Experienced teachers skip steps that seem too obvious to mention.
    → 経験豊かな先生たちは言及するにはあまりに明らかなように思われる一歩を飛ばす。   [SVO] too-to,relative
 ○ He came; she left; and I stayed.
-   → 彼は来て、彼女は出発して、私は滞在した。   [SV] 
+   → 彼は来て、彼女は出発して、私は残った。   [SV] 
 ○ Hand a child a compass, and the same thing almost always happens.
    → 子どもに羅針盤を手渡しなさい。そうすれば、同じことがほとんどいつも起こる。   [SVOO] svoo,imperative
 ○ Both the ancient Greeks and the ancient Chinese noticed that certain rocks could pull small pieces of iron toward them.
@@ -2095,7 +2095,7 @@
 ○ My father is a doctor.
    → 父は医者だ。   [SVC] 
 ○ She wants him to stay.
-   → 彼女は彼に滞在してほしいと思っている。   [SVOC] v-o-to
+   → 彼女は彼に残ってほしいと思っている。   [SVOC] v-o-to
 ○ He worked hard, only to fail the exam.
    → 彼は一生懸命に働いたが、結局試験に落ちた。   [SV] inf-adv
 ○ She got up early so as to catch the first train.
@@ -3839,7 +3839,7 @@
 ○ On weekends, I read books or watch movies.
    → 週末に、私は本を読んだり映画を見たりする。   [SVO] 
 ○ You can choose to stay or leave.
-   → あなたは滞在したり出発したりすることを選べる。   [SVO] inf-noun,modal
+   → あなたは残ったり出発したりすることを選べる。   [SVO] inf-noun,modal
 ○ This machine can be used by anyone.
    → この機械は誰でも使える。   [SV] modal
 ○ Without them, many fruits and vegetables could not grow.
@@ -4773,7 +4773,7 @@
 ○ He invented the light bulb and many other things.
    → 彼は電球と多くの他の物を発明した。   [SVO] 
 ○ He failed thousands of times before he succeeded.
-   → 彼は成功する前に、何千回も失敗した。   [SVO] 
+   → 彼は成功する前に、何千回も失敗した。   [SV] 
 ○ Marie Curie was the first woman to win a Nobel Prize.
    → マリー・キュリーはノーベル賞を受賞した最初の女性だった。   [SVC] inf-adj
 ○ She was born in Poland and later moved to France.
@@ -8117,7 +8117,7 @@
 ○ Not one person helped me.
    → 誰一人私を助けなかった。   [SVO] 
 ○ Psychologists have found that people tend to remember negative experiences more vividly than positive ones.
-   → 心理学者は人々が否定的な経験を肯定的なものより鮮やかに覚える傾向があることに気づいた。   [SVO] comparative,that-clause,perfect
+   → 心理学者は人々が否定的な経験を肯定的な経験より鮮やかに覚える傾向があることに気づいた。   [SVO] comparative,that-clause,perfect
 ○ Children who are praised for their effort rather than their intelligence are more likely to take on challenges.
    → 彼らの知能というよりむしろ彼らの努力のために褒められている子どもは困難に挑む可能性がより高い。   [SVC] comparative,passive,relative,idiom
 ○ The ability to delay gratification has been linked to success later in life.
@@ -8391,7 +8391,7 @@
 ○ When I first arrived in Canada, I could hardly understand what people were saying, but after a few months, I began to feel more confident.
    → 私は初めてカナダに到着したとき、ほとんど人々が何と言っていたか理解できなかったが、数か月後に、より自信があると感じ始めた。   [SVO] idiom,progressive,indirect-q,modal,inf-noun
 ○ Although the festival was canceled due to heavy rain, many people who had come from far away decided to stay and enjoy the local food.
-   → 祭りは大雨のために中止されたけれども、遠くから来た多くの人々は滞在して、地元の食べ物を楽しむことに決めた。   [SVO] passive,pastperfect,relative,inf-noun
+   → 祭りは大雨のために中止されたけれども、遠くから来た多くの人々は残って、地元の食べ物を楽しむことに決めた。   [SVO] passive,pastperfect,relative,inf-noun
 ○ The teacher, who had been working at the school for over thirty years, told us that the most important thing in life is to keep learning.
    → 30年以上学校でずっと働いていた先生は私たちに人生で最も重要なことが学び続けることだと言った。   [SVOO] progressive,pastperfect,relative,gerund,that-clause
 ○ My grandfather, who grew up on a farm, often tells me that young people today do not know where their food comes from.
@@ -14743,7 +14743,7 @@
 ○ More than half of the respondents said yes.
    → 回答者たちの半分以上は「はい」と言った。   [SV] idiom
 ○ The rate remained the same for three years.
-   → 割合は3年間同じままだった。   [SVC] 
+   → 割合は3年間変わらなかった。   [SV] idiom
 ○ The average temperature has gone up by 1.2 degrees.
    → 平均気温は1.2度上がった。   [SV] perfect,idiom
 ○ He answered no.
@@ -18411,7 +18411,7 @@
 ○ Researchers have found that taking short breaks while studying can actually improve concentration and memory.
    → 研究者は勉強しながら短い休憩を取ることが集中と記憶を実際に改善できることを明らかにした。   [SVO] participle-const,gerund,modal,that-clause,perfect
 ○ The library will be closed for two weeks while the old shelves are replaced with new ones.
-   → 古い棚が新しいもので取って代わられている間に、図書館は2週間休館になる。   [SV] passive,modal
+   → 古い棚が新しい棚で取って代わられている間に、図書館は2週間休館になる。   [SV] passive,modal
 ○ Many young people today would rather spend money on experiences such as travel than on things like cars or clothes.
    → 今日の多くの若い人々は車や服などの物よりもむしろお金を旅行のような経験に費やしたい。   [SVO] idiom,would-rather
 ○ It is not always easy to tell the difference between news that is true and news that has been made up.
@@ -18667,7 +18667,7 @@
 ○ The letter was returned unopened.
    → 手紙は開封されていないまま返された。   [SV] passive
 ○ Researchers have found that children who spend more time playing outside are less likely to develop poor eyesight than those who stay indoors.
-   → 研究者は外で遊ぶ時間を増やす子どもが屋内にいる子どもより視力が悪くなる可能性が低いことを明らかにした。   [SVO] idiom,relative,comparative,that-clause,perfect
+   → 研究者は外で遊ぶ時間が多い子どもが屋内にいる子どもより視力が悪くなる可能性が低いことを明らかにした。   [SVO] idiom,relative,comparative,that-clause,perfect
 ○ Although the city has invested heavily in new bicycle lanes, many residents still prefer to drive because they feel the roads are not safe enough.
    → 都市は新しい自転車レーンに大きく投資したけれども、多くの住民は、道路が十分安全ではないと感じるので、まだ運転することのほうを好む。   [SVO] perfect,inf-noun,enough-to,that-clause
 ○ What surprised the scientists most was not the size of the fossil but the fact that it had been preserved almost perfectly for millions of years.
@@ -18919,7 +18919,7 @@
 ○ Many experts believe that the key to reducing traffic accidents lies not in stricter laws but in better education for young drivers.
    → 多くの専門家は交通事故を減らす鍵がより厳しい法律ではなく、若い運転手たちのためにより良い教育にあると考えている。   [SVO] not-but,that-clause
 ○ Contrary to popular belief, eating late at night does not necessarily cause weight gain, provided that the total amount of calories remains the same.
-   → 一般に信じられているのとは違って、カロリーの全体の量が同じもののままでいるという条件で、夜遅く食べることは体重増加を必ず引き起こすとは限らない。   [SVO] gerund,partial-neg
+   → 一般に信じられているのとは違って、カロリーの全体の量が変わらないという条件で、夜遅く食べることは体重増加を必ず引き起こすとは限らない。   [SVO] gerund,partial-neg,idiom
 ○ The ability to delay gratification, which is often measured in childhood, appears to predict success later in life.
    → よく子どものころに測られている満足を遅らせる能力は後の人生で成功を予測するようだ。   [SVO] passive,relative,inf-adj
 ○ When the factory closed in 2015, hundreds of workers lost their jobs, and many families were forced to move to other towns.
@@ -19139,7 +19139,7 @@
 ○ He apologized for being late, explaining that his train had been delayed by an accident.
    → 彼は自分の電車が事故によって遅れたと説明しながら、遅れたことを謝った。   [SV] idiom,passive,pastperfect,that-clause,participle-const,gerund
 ○ Researchers found that students who took notes by hand remembered more than those who typed them on a laptop.
-   → 研究者は手でメモをとった学生がノートパソコンでそれらをタイプした学生以上覚えていることを明らかにした。   [SVO] idiom,relative,that-clause
+   → 研究者は手でメモをとった学生がノートパソコンでそれらをタイプした学生より多く覚えていることを明らかにした。   [SVO] idiom,relative,that-clause
 ○ Not all bacteria are harmful; in fact, many of them play an essential role in keeping us healthy.
    → すべての細菌が有害なわけではない。実際、彼らの多くは私たちを健康に保つ上で不可欠な役割を果たす。   [SVC] partial-neg,svoc,gerund
 ○ The old library, which had been closed for years, was turned into a community center where people of all ages can meet.
@@ -19231,7 +19231,7 @@
 ○ The way people greet each other differs greatly from one culture to another.
    → 人々がお互いあいさつする方法は文化によって大いに異なる。   [SV] rel-adv
 ○ As technology advances, some jobs will disappear, but new ones that we cannot imagine today will be created.
-   → 科学技術が進むにつれて、いくつかの仕事は消えるだろうが、私たちが今日想像できない新しいものは創造されるだろう。   [SV] modal,relative,passive
+   → 科学技術が進むにつれて、いくつかの仕事は消えるだろうが、私たちが今日想像できない新しい仕事は創造されるだろう。   [SV] modal,relative,passive
 ○ My grandfather, who grew up on a farm, often tells me that life was much harder when he was young.
    → 農場で育った祖父は、若かったとき、よく私に生活がずっと難しかったと言う。   [SVOO] idiom,relative,comparative,that-clause
 ○ The students were asked to write an essay about a person who had had a great influence on their lives.
@@ -20102,5 +20102,157 @@
    → 彼らは十分に勉強しない。   [SV] 
 ○ I didn't sleep enough last night.
    → 私は昨夜十分に眠らなかった。   [SV] 
+○ No matter how hard she tried to explain her idea, the committee members refused to change their minds.
+   → 彼女がどんなに一生懸命自分の考えを説明しようとしても、委員会のメンバーは考えを変えるのを断った。   [SVO] inf-noun,idiom,concession
+○ It is said that the old castle was built more than four hundred years ago by a powerful local family.
+   → 古い城は強力な地元の家族によって400年以上前に建てられたと言われている。   [SV] passive,it-said
+○ Not only did the new policy fail to reduce traffic, but it also made the air in the city center worse.
+   → 新しい政策は交通を減らせなかっただけでなく、都市の中心の空気も悪くした。   [SVOC] svoc,not-only,inversion
+○ Seen from the top of the hill, the small village looked like a collection of toy houses.
+   → 丘の頂上から見ると、小さい村はおもちゃの家のコレクションのように見えた。   [SVO] idiom,participle-const
+○ Given that most of our decisions are made unconsciously, it is hardly surprising that we often regret them.
+   → 私たちの決定のほとんどが無意識に行われていることを考えると、私たちがよくそれらを後悔するのは驚くに当たらない。   [SVC] passive,it-that
+○ Unless we take action now, many of the species living in the rainforest will disappear within a few decades.
+   → もし私たちが今行動を起こさなければ、熱帯雨林に住んでいる種の多くは数十年以内に消えるだろう。   [SV] idiom,participle-mod,modal
+○ If I had known how difficult the exam would be, I would have started studying much earlier.
+   → もし私が試験がどれほど難しいか知っていたら、ずっと早く勉強し始めただろうに。   [SVO] modal,indirect-q,pastperfect,gerund,modal-perfect,subjunctive-pp
+○ The scientist, whose research on sleep has been cited thousands of times, was invited to give a lecture at the university.
+   → 睡眠に関する研究が何千回も引用された科学者は大学で講義をするように招かれた。   [SV] passive,perfect,relative,v-o-to
+○ There is no doubt that the internet has changed the way young people form friendships.
+   → インターネットが若い人々が友情を築く方法を変えたことは間違いない。   [SV] rel-adv,perfect,there,idiom
+○ She speaks as if she had lived in Paris all her life, although she has never been abroad.
+   → 彼女は一度も海外に行ったことがないけれども、まるでパリに生涯ずっと住んでいたかのように話す。   [SV] pastperfect,perfect
+○ Compared with their parents' generation, today's teenagers spend far less time reading books for pleasure.
+   → 彼らの両親の世代と比べて、今日の10代の若者は楽しみのために本を読む時間がはるかに少ない。   [SVC] idiom
+○ Rather than punishing students for their mistakes, good teachers encourage them to learn from what went wrong.
+   → 彼らの間違いのために生徒を罰するのではなく、良い先生たちは彼らにうまくいかなくなったことから学ぶよう励ます。   [SVOC] relative-what,v-o-to
+○ Whereas some cultures value directness in conversation, others consider it rude to say exactly what you think.
+   → いくつかの文化が会話で率直さを尊重するのに対して、ほかの文化はどう思うか正確に言うことが失礼だと考える。   [SVOC] svoc,indirect-q,formal-object
+○ The museum in which the famous painting is kept attracts visitors from all over the world every year.
+   → 有名な絵画が保管されている博物館は毎年世界中からの訪問者を集める。   [SVO] passive,relative
+○ I couldn't help laughing when I saw the dog trying to carry a stick that was three times its size.
+   → 私は犬がその3倍の大きさだった棒を運ぼうとしているのを見たとき、笑わずにはいられなかった。   [SVO] idiom,relative,inf-noun,perception
+○ Despite the fact that he had little money, he managed to travel around Europe for an entire summer.
+   → 彼にお金がほとんどなかったという事実にもかかわらず、彼はひと夏の間ずっとヨーロッパ中を何とか旅行した。   [SVO] appositive
+○ The number of people who work from home has increased dramatically since the pandemic began.
+   → パンデミックが始まって以来、在宅勤務をする人々の数は劇的に増えてきた。   [SV] idiom,relative,perfect
+○ It is worth remembering that many great inventions were the result of accidents rather than careful planning.
+   → 多くのすばらしい発明が注意深い計画というよりむしろ事故の結果だったことは覚える価値がある。   [SVC] comparative,that-clause,idiom
+○ What matters most is not how much you earn but whether you enjoy the work you do every day.
+   → 最も重要なのはあなたがいくら稼ぐかではなくあなたが毎日する仕事を楽しむかどうかだ。   [SVC] relative-what,indirect-q,relative,not-but
+○ Those who regularly spend time in nature tend to report lower levels of stress than those who do not.
+   → 自然で時間を定期的に過ごす人々はそうでない人々よりストレスのより低い水準を報告する傾向がある。   [SVO] relative,comparative
+○ The bridge was so badly damaged by the storm that it had to be closed for several months.
+   → 橋は嵐でとてもひどく被害を受けたので、数か月間閉じられなければならなかった。   [SV] passive,so-that
+○ Walking along the beach early in the morning, I found a bottle with a message inside it.
+   → 浜辺に沿って朝早く歩いているとき、私は伝言の入ったびんを見つけた。   [SVO] participle-const
+○ He would rather stay at home and read a book than go to a crowded party with people he does not know.
+   → 彼は混雑したパーティーに彼が知らない人々と一緒に行くよりむしろ家にいて本を読みたい。   [SVO] idiom,relative,would-rather
+○ Many parents worry that their children spend too much time looking at screens instead of playing outside.
+   → 多くの親は自分の子どもたちが外で遊ぶ代わりに画面を見るのに時間を使いすぎるのではないかと心配する。   [SVO] gerund,idiom,that-clause
+○ As technology continues to develop, some jobs will disappear while new ones that we cannot yet imagine will be created.
+   → 科学技術が発展し続けるにつれて、いくつかの仕事は消える一方で、私たちがまだ想像できない新しい仕事は創造されるだろう。   [SV] inf-noun,modal,relative,passive
+○ The more languages a child is exposed to at an early age, the easier it becomes to learn new ones later.
+   → 子どもが言語に幼い頃にたくさんさらされていればさらされているほど、後で新しい言語を学ぶのがますます簡単になる。   [] passive,the-more
+○ She was about to leave the office when her boss asked her to stay and finish the report.
+   → 彼女の上司が彼女に残って、報告書を終えるように頼んだとき、彼女はまさに事務所を出ようとしていた。   [SVC] idiom,v-o-to
+○ Provided that the weather is good tomorrow, we will hold the school festival outdoors as planned.
+   → 天気が明日良いという条件で、私たちは予定どおり文化祭を屋外で開くつもりだ。   [SVO] modal
+○ Having been told that the train was delayed, the passengers waited patiently on the cold platform.
+   → 電車が遅れたと言われて、乗客は冷たいプラットホームで忍耐強く待った。   [SV] passive,that-clause,participle-const
+○ In many countries, the age at which people get married for the first time has risen steadily over the past fifty years.
+   → 多くの国では、人々が初めて結婚する年齢は過去50年間にわたって着実に上がってきた。   [SV] idiom,relative,perfect
+○ Rather than waiting, we should act now.
+   → 待つのではなく、私たちは今行動するべきだ。   [SV] modal
+○ Rather than buy a new car, he repaired the old one.
+   → 新しい車を買うのではなく、彼は古いものを修理した。   [SVO] 
+○ He walked rather than taking the bus.
+   → 彼はバスに乗るのではなく歩いた。   [SV] 
+○ The whale is three times the size of a bus.
+   → クジラはバスの3倍の大きさだ。   [SVC] 
+○ This country is twice the size of Japan.
+   → この国は日本の2倍の大きさだ。   [SVC] 
+○ He earns three times the amount of money I earn.
+   → 彼は私が稼ぐお金の3倍の量を稼ぐ。   [SVO] relative
+○ Cities have higher levels of pollution than villages.
+   → 都市には村より汚染のより高い水準がある。   [SVO] comparative
+○ They report lower levels of stress than others.
+   → 彼らは他の人たちよりストレスのより低い水準を報告する。   [SVO] comparative
+○ The house we lived in for ten years was sold.
+   → 私たちが10年間住んだ家は売られた。   [SV] relative,passive
+○ Who did you go with last night?
+   → あなたは昨夜誰と一緒に行きましたか。   [SV] question
+○ The music I listen to is good.
+   → 私が耳を傾ける音楽は良い。   [SVC] idiom,relative
+○ The song he listened to was old.
+   → 彼が耳を傾けた歌は古かった。   [SVC] idiom,relative
+○ The book a friend gave me is old.
+   → 友達が私にくれた本は古い。   [SVC] svoo,relative
+○ The people I work with are kind.
+   → 私が一緒に働く人々は親切だ。   [SVC] relative
+○ We will hold the festival as planned.
+   → 私たちは予定どおり祭りを開くつもりだ。   [SVO] modal
+○ As usual, he was late.
+   → いつものように、彼は遅れた。   [SVC] idiom
+○ It worked as expected.
+   → それは予想どおりうまくいった。   [SV] 
+○ Some cultures value honesty, while others value harmony.
+   → いくつかの文化は正直さを尊重するが、ほかの文化は調和を尊重する。   [SVO] 
+○ Some animals sleep in winter, while others do not.
+   → 冬に眠る動物もいれば、しない動物もいる。   [SV] 
+○ Whereas some people like coffee, others prefer tea.
+   → コーヒーが好きな人もいれば、お茶のほうを好む人もいる。   [] correlative
+○ He stayed home because he was sick, although it was a sunny day.
+   → 晴れた日だったけれども、彼は病気だったので、家にいた。   [SV] idiom
+○ Prices will rise while wages will stay the same.
+   → 物価は上がる一方で、賃金は変わらないだろう。   [SV] modal,idiom
+○ Some jobs will disappear while new ones will be created.
+   → いくつかの仕事は消える一方で、新しい仕事は創造されるだろう。   [SV] modal,passive
+○ She gave me a box with a cat inside.
+   → 彼女は私にネコの入った箱をくれた。   [SVOO] svoo
+○ He showed me an envelope with money in it.
+   → 彼は私にお金の入った封筒を見せてくれた。   [SVOO] svoo
+○ He managed to travel around Japan.
+   → 彼は日本中を何とか旅行した。   [SVO] 
+○ They talked for a whole night.
+   → 彼らは一晩中話した。   [SV] 
+○ The paper has been cited thousands of times.
+   → 論文は何千回も引用された。   [SV] passive,perfect
+○ They refused to change their minds.
+   → 彼らは考えを変えるのを断った。   [SVO] idiom,inf-noun
+○ Teenagers spend less time reading books.
+   → 10代の若者は本を読む時間が少ない。   [SVC] idiom
+○ They spend much more time playing games.
+   → 彼らはゲームをする時間がずっと多い。   [SVC] idiom
+○ How much do you earn?
+   → あなたはいくら稼ぎますか。   [SVO] question
+○ Can you stay after class?
+   → あなたは授業の後に残れますか。   [SV] question,modal
+○ He stayed late to finish his work.
+   → 彼は自分の仕事を終えるために遅くまで残った。   [SVC] inf-adv
+○ Old shoes are cheaper than new ones.
+   → 古い靴は新しい靴より安い。   [SVC] comparative
+○ I like red apples more than green ones.
+   → 私は緑のりんごよりも赤いりんごが好きだ。   [SVO] 
+○ He earns more than me.
+   → 彼は私より多く稼ぐ。   [SV] 
+○ She knows more than her teacher.
+   → 彼女は自分の先生より多く知っている。   [SV] 
+○ The rules remain the same.
+   → 規則は変わらない。   [SV] idiom
+○ Most decisions are made unconsciously.
+   → ほとんどの決定は無意識に行われている。   [SV] passive
+○ The friend I traveled with got sick.
+   → 私が一緒に旅行した友達は病気になった。   [SVC] relative
+○ What matters is not how much you earn.
+   → 重要なことはあなたがいくら稼ぐかではない。   [SVC] relative-what,indirect-q
+○ Women have higher rates of depression than men.
+   → 女性は男性よりうつ病のより高い割合を持っている。   [SVO] comparative
+○ The books are kept in a safe place.
+   → 本は安全な場所に保管されている。   [SV] passive
+○ Many people suffer from depression.
+   → 多くの人々がうつ病に苦しむ。   [SVO] idiom
+○ She published a paper on climate change.
+   → 彼女は気候変動に関する論文を出版した。   [SVO] 
 
-parsed 10052 / 10052
+parsed 10128 / 10128
