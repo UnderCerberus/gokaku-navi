@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (195ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (193ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -1789,7 +1789,7 @@
 ○ Some animals are able to sense danger before humans can.
    → 人間より先に、危険を感じ取れる動物もいる。   [SVO] 
 ○ I was about to leave when the phone rang.
-   → 電話が鳴ったとき、私はまさに出発しようとしていた。   [SVC] idiom
+   → 私がまさに出発しようとしていたとき、電話が鳴った。   [SV] idiom
 ○ Neither of the two answers is correct.
    → 2つの答えのどちらも正しくない。   [SVC] 
 ○ Each of the students has a different opinion.
@@ -9817,7 +9817,7 @@
 ○ The train leaves at 7:30.
    → 電車は7時半に出発する。   [SV] 
 ○ I was about to leave when it started to rain.
-   → 雨が降り始めたとき、私はまさに出発しようとしていた。   [SVC] idiom,inf-noun
+   → 私がまさに出発しようとしていたとき、雨が降り始めた。   [SVO] idiom,inf-noun
 ○ He would often go fishing when he was young.
    → 彼は若かったとき、よく釣りに行ったものだ。   [SV] modal,idiom
 ○ I'll be studying at 9 p.m. tonight.
@@ -18077,7 +18077,7 @@
 ○ The meeting has been put off until next week because the manager is sick.
    → 経営者が病気なので、会議は来週まで延期された。   [SV] idiom,passive,perfect
 ○ I was about to leave home when the phone rang.
-   → 電話が鳴ったとき、私はまさに家を出ようとしていた。   [SVC] idiom
+   → 私がまさに家を出ようとしていたとき、電話が鳴った。   [SV] idiom
 ○ The more we learn about the universe, the more we realize how little we know.
    → 私たちが宇宙について学べば学ぶほど、ますます私たちがいかにわずかしか知らないか分かる。   [SVO] indirect-q,the-more
 ○ To be honest, I have never been interested in sports.
@@ -20155,7 +20155,7 @@
 ○ The more languages a child is exposed to at an early age, the easier it becomes to learn new ones later.
    → 子どもが言語に幼い頃にたくさんさらされていればさらされているほど、後で新しい言語を学ぶのがますます簡単になる。   [] passive,the-more
 ○ She was about to leave the office when her boss asked her to stay and finish the report.
-   → 彼女の上司が彼女に残って、報告書を終えるように頼んだとき、彼女はまさに事務所を出ようとしていた。   [SVC] idiom,v-o-to
+   → 彼女がまさに事務所を出ようとしていたとき、彼女の上司は彼女に残って、報告書を終えるように頼んだ。   [SVOC] idiom,v-o-to
 ○ Provided that the weather is good tomorrow, we will hold the school festival outdoors as planned.
    → 天気が明日良いという条件で、私たちは予定どおり文化祭を屋外で開くつもりだ。   [SVO] modal
 ○ Having been told that the train was delayed, the passengers waited patiently on the cold platform.
@@ -20798,5 +20798,99 @@
    → 彼は帰宅する代わりに図書館に行った。   [SV] idiom,gerund
 ○ We should change the way we use energy.
    → 私たちはエネルギーの使い方を変えるべきだ。   [SVO] rel-adv,modal
+○ As soon as she opened the door, the dog ran out into the street.
+   → 彼女がドアを開けるとすぐに、犬は通りに走り出た。   [SVO] idiom
+○ I had hardly sat down when the teacher called my name.
+   → 私が座るか座らないかのうちに、先生が私の名前を呼んだ。   [SVO] idiom,inversion
+○ My brother, who usually sleeps until noon, got up at six this morning to watch the game.
+   → たいてい正午まで眠る兄は今朝6時に試合を見るために起きた。   [SV] relative,inf-adv,idiom
+○ The shop was closed when we got there, so we had to come back the next day.
+   → 私たちがそこに着いたとき、店は閉まっていたので、私たちは翌日戻らなければならなかった。   [SV] passive,idiom
+○ She told me that she had lost her key on her way home from school.
+   → 彼女は私に学校からの帰り道で自分の鍵をなくしたと言った。   [SVOO] pastperfect,that-clause
+○ He kept on working even though everyone else had already gone home.
+   → ほかのみんなはすでに帰宅したけれども、彼は働き続けた。   [SVO] idiom,pastperfect
+○ The children were so excited about the trip that they could not sleep the night before.
+   → 子どもたちはとても旅行にわくわくしていたので、彼らは前の晩眠れなかった。   [SVC] idiom,modal,so-that
+○ I'm looking forward to seeing you again at the reunion next month.
+   → 私はまた来月同窓会であなたに会えるのを楽しみにしている。   [SVO] gerund,progressive,idiom
+○ You should apologize to her for being late, even if it was not your fault.
+   → たとえそれがあなたのせいではなくても、彼女に遅れたことを謝るべきだ。   [SV] idiom,gerund,modal
+○ It has been five years since my family moved to this town.
+   → 家族がこの町に引っ越してから、5年になる。   [SV] it-has-been
+○ What would you do if you found a wallet on the street?
+   → もし通りで財布を見つけたら、あなたなら何をしますか。   [SVO] question,modal
+○ My mother always says that it is never too late to learn something new.
+   → 母はいつも何か新しいものを学ぶのに遅すぎることは決してないと言う。   [SVO] too-to,that-clause
+○ The old man sitting on the bench reminded me of my grandfather.
+   → ベンチに座っているおじいさんは私に祖父を思い出させた。   [SVO] participle-mod,idiom
+○ I was about to leave the house when it suddenly started to snow.
+   → 私がまさに家を出ようとしていたとき、突然雪が降り始めた。   [SVO] idiom,inf-noun
+○ We ran out of milk, so I went to the convenience store to buy some.
+   → 私たちは牛乳を切らしたので、私はコンビニに少し買いに行った。   [SVO] idiom,inf-adv
+○ He pretended not to notice me when I waved at him.
+   → 私が彼に手を振ったとき、彼は私に気づかないふりをした。   [SVO] 
+○ The movie was much more interesting than I had expected.
+   → 映画は予想していたよりずっと興味深かった。   [SVC] comparative
+○ Not only did she win the race, but she also broke the school record.
+   → 彼女は競走で優勝しただけでなく、学校の記録も破った。   [SVO] not-only,inversion
+○ I would have called you if I had known you were in the hospital.
+   → もし私があなたが入院していることを知っていたら、あなたに電話しただろうに。   [SVO] modal-perfect,that-clause,pastperfect,subjunctive-pp
+○ She spends most of her free time taking care of the flowers in her garden.
+   → 彼女は自分の自由時間のほとんどを自分の庭で花の世話をして過ごす。   [SVO] idiom
+○ The question was too difficult for me to answer without help.
+   → 質問は私には難しすぎて助けなしで答えられなかった。   [SVC] too-to
+○ Turn off the lights when you leave the room, or you will waste electricity.
+   → 部屋を出るとき、電気を消しなさい。さもないと、電気を無駄にする。   [SVO] idiom,imperative
+○ Neither my father nor my mother knows how to use a smartphone well.
+   → 父も母もスマートフォンの上手な使い方が分からない。   [SVO] correlative,indirect-q
+○ The village is famous for its beautiful cherry blossoms in spring.
+   → 村は春にその美しい桜で有名だ。   [SVC] idiom
+○ People who have pets tend to live longer than those who don't.
+   → ペットを飼っている人々はそうでない人々より長生きする傾向がある。   [SVO] relative,comparative
+○ He was the last person I expected to see at the concert.
+   → 彼は私がコンサートで会うとはまったく思っていなかった人だった。   [SVC] relative
+○ I can't afford to buy a new car, so I'll have to make do with my old one.
+   → 私は新しい車を買う余裕がないので、古いもので間に合わせなければならないだろう。   [SVO] modal,idiom
+○ She came up with a good idea while she was taking a shower.
+   → 彼女はシャワーを浴びている間に、良い考えを思いついた。   [SVO] idiom,progressive
+○ Please let me know as soon as you arrive at the airport.
+   → 空港に到着するとすぐに、知らせてください。   [SVO] let-me,imperative,idiom
+○ The more I thought about the problem, the less I understood it.
+   → 私が問題について考えれば考えるほど、ますますそれが分からなくなった。   [SVO] idiom,the-more
+○ The dog ran out into the street.
+   → 犬は通りに走り出た。   [SVO] idiom
+○ She ran out into the rain.
+   → 彼女は雨に走り出た。   [SVO] idiom
+○ I met him on my way home from work.
+   → 私は仕事からの帰り道で彼に会った。   [SVO] 
+○ It's my fault.
+   → それは私のせいだ。   [SVC] 
+○ It is too late to go back now.
+   → 今戻って行くには遅すぎる。   [SVC] too-to
+○ We were just about to go to bed when the phone rang.
+   → 私たちがちょうどまさに寝ようとしていたとき、電話が鳴った。   [SV] idiom
+○ I was on the point of giving up when he arrived.
+   → 私があきらめる寸前だったとき、彼は到着した。   [SV] idiom,gerund
+○ She was on the point of crying.
+   → 彼女は泣く寸前だった。   [SVC] gerund,idiom
+○ Wear a coat when you go out, or you will catch a cold.
+   → 外出するとき、コートを着なさい。さもないと、風邪をひく。   [SVO] imperative,idiom
+○ Study hard while you are young, and you will be successful.
+   → 若い間に、一生懸命に勉強しなさい。そうすれば、成功しているだろう。   [SV] imperative
+○ She was the last person I expected to meet there.
+   → 彼女は私がそこで会うとはまったく思っていなかった人だった。   [SVC] relative
+○ That was the last thing I wanted to hear.
+   → それは私が最も聞きたくなかったことだった。   [SVC] 
+○ She is the last person I want to see now.
+   → 彼女は私が最も今会いたくない人だ。   [SVC] relative
+○ The more I think about it, the more confused I get.
+   → 私がそれについて考えれば考えるほど、ますます混乱する。   [] idiom,the-more
+○ The more you talk about it, the worse it gets.
+   → それについて話せば話すほど、ますます悪くなる。   [] idiom,the-more
+○ There is no water, so let's buy some.
+   → 水はないので、少し買いましょう。   [SV] there,imperative
+○ I like these apples, so I bought some.
+   → 私はこれらのりんごが好きなので、いくつかを買った。   [SVO] 
 
-parsed 10400 / 10400
+parsed 10447 / 10447

@@ -3831,6 +3831,26 @@ const MORE = [
   'Children should be allowed to use smartphones only after they turn fourteen.', 'You can enter only after you show your ticket.', 'I realized the truth only after he left.',
   'You can use this room only if you are a member.', 'She performed well on the test.', 'Students who sleep well perform better at school.', 'The band performed in front of a large audience.',
   'The team performed poorly last season.', 'We had lunch in the park instead of staying inside.', 'He went to the library instead of going home.', 'We should change the way we use energy.',
+  // 未見文 第27群（物語・会話文に近い文（時の接続詞・群動詞・仮定法・比較・否定の構文））と変種
+  'As soon as she opened the door, the dog ran out into the street.', 'I had hardly sat down when the teacher called my name.',
+  'My brother, who usually sleeps until noon, got up at six this morning to watch the game.', 'The shop was closed when we got there, so we had to come back the next day.',
+  'She told me that she had lost her key on her way home from school.', 'He kept on working even though everyone else had already gone home.',
+  'The children were so excited about the trip that they could not sleep the night before.', "I'm looking forward to seeing you again at the reunion next month.",
+  'You should apologize to her for being late, even if it was not your fault.', 'It has been five years since my family moved to this town.', 'What would you do if you found a wallet on the street?',
+  'My mother always says that it is never too late to learn something new.', 'The old man sitting on the bench reminded me of my grandfather.',
+  'I was about to leave the house when it suddenly started to snow.', 'We ran out of milk, so I went to the convenience store to buy some.', 'He pretended not to notice me when I waved at him.',
+  'The movie was much more interesting than I had expected.', 'Not only did she win the race, but she also broke the school record.',
+  'I would have called you if I had known you were in the hospital.', 'She spends most of her free time taking care of the flowers in her garden.',
+  'The question was too difficult for me to answer without help.', 'Turn off the lights when you leave the room, or you will waste electricity.',
+  'Neither my father nor my mother knows how to use a smartphone well.', 'The village is famous for its beautiful cherry blossoms in spring.',
+  "People who have pets tend to live longer than those who don't.", 'He was the last person I expected to see at the concert.',
+  "I can't afford to buy a new car, so I'll have to make do with my old one.", 'She came up with a good idea while she was taking a shower.',
+  'Please let me know as soon as you arrive at the airport.', 'The more I thought about the problem, the less I understood it.', 'The dog ran out into the street.', 'She ran out into the rain.',
+  'I met him on my way home from work.', "It's my fault.", 'It is too late to go back now.', 'We were just about to go to bed when the phone rang.',
+  'I was on the point of giving up when he arrived.', 'She was on the point of crying.', 'Wear a coat when you go out, or you will catch a cold.',
+  'Study hard while you are young, and you will be successful.', 'She was the last person I expected to meet there.', 'That was the last thing I wanted to hear.',
+  'She is the last person I want to see now.', 'The more I think about it, the more confused I get.', 'The more you talk about it, the worse it gets.', "There is no water, so let's buy some.",
+  'I like these apples, so I bought some.',
 ];
 function show(s) {
   const toks = syn.tokenize(s);
