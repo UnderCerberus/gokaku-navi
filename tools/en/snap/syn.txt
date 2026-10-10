@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (198ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (200ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -5869,7 +5869,7 @@
 ○ My brother and I often fight over small things.
    → 兄と私はよくささいなことでけんかする。   [SV] 
 ○ I'm looking forward to seeing my cousins this summer.
-   → 私は今年の夏いとこに会うことを楽しみにしている。   [SVO] gerund,progressive,idiom
+   → 私は今年の夏いとこたちに会うことを楽しみにしている。   [SVO] gerund,progressive,idiom
 ○ She takes good care of her younger brothers.
    → 彼女は自分の弟たちの面倒をよく見る。   [SVO] idiom
 ○ My father works for a car company.
@@ -7847,7 +7847,7 @@
 ○ On New Year's Day, many Japanese people visit shrines to pray for good luck.
    → 元日には、多くの日本人は幸運を祈るために神社を訪れる。   [SVO] idiom,inf-adv
 ○ Children receive money called otoshidama from their relatives.
-   → 子どもは自分の親戚からお年玉と呼ばれているお金を受け取る。   [SVO] participle-mod
+   → 子どもは自分の親戚たちからお年玉と呼ばれているお金を受け取る。   [SVO] participle-mod
 ○ In spring, people hold hanami parties under the cherry trees.
    → 春には、人々は桜の木の下で花見をする。   [SVO] 
 ○ Obon is a time when people honor the spirits of their ancestors.
@@ -12203,7 +12203,7 @@
 ○ I have a toothache.
    → 私は歯が痛い。   [SVO] 
 ○ My grandchild is three years old.
-   → 私の孫はできてから3年になる。   [SVC] age
+   → 私の孫は3歳だ。   [SVC] age
 ○ This cake is yummy.
    → このケーキはおいしい。   [SVC] 
 ○ The hotel faces the sea.
@@ -16497,11 +16497,11 @@
 ○ We use apps to stay connected with friends.
    → 私たちは友達とつながりを保つためにアプリを使う。   [SVO] idiom,inf-adv
 ○ Some employees feel isolated from their colleagues.
-   → 同僚から孤立していると感じる従業員もいる。   [SVC] 
+   → 自分の同僚たちから孤立していると感じる従業員もいる。   [SVC] 
 ○ Some employees report that they feel isolated from their colleagues.
-   → 同僚から孤立していると感じると報告する従業員もいる。   [SVO] that-clause
+   → 自分の同僚たちから孤立していると感じると報告する従業員もいる。   [SVO] that-clause
 ○ Some employees report feeling isolated from their colleagues, while others find it difficult to separate their work and private lives.
-   → 同僚から孤立していると感じると報告する従業員もいれば、自分の仕事と私生活を分けることが難しいと感じる従業員もいる。   [] correlative
+   → 自分の同僚たちから孤立していると感じると報告する従業員もいれば、自分の仕事と私生活を分けることが難しいと感じる従業員もいる。   [] correlative
 ○ Some like cats, while others like dogs.
    → ネコが好きな人もいれば、犬が好きな人もいる。   [] correlative
 ○ Some students walk to school, while others take the bus.
@@ -21278,5 +21278,153 @@
    → 私は彼女が名前を覚えていたことに感動した。   [SV] that-clause
 ○ I was very moved that they came.
    → 私は彼らが来たことにとても感動した。   [SV] that-clause
+○ Almost everyone has put off an important task at least once, even when they knew it had to be done.
+   → 彼らがそれが行われなければならないことを知っていたときでさえ、ほとんどみんなは少なくとも一度は重要な仕事を延期した。   [SVO] perfect,idiom,passive,that-clause
+○ For a long time, people thought that procrastination was simply a sign of laziness.
+   → 長い間、人々は先延ばしが単に怠惰の表れだと思った。   [SVO] that-clause
+○ Recent research, however, suggests that it has more to do with emotions than with time management.
+   → しかしながら、最近の研究はそれが時間管理よりも感情とより深く関係があることを示唆する。   [SVO] comparative,idiom,that-clause
+○ When a task makes us feel anxious or bored, our brains look for a quick way to feel better.
+   → 仕事が私たちに心配してか退屈していると感じさせると、私たちの脳は気分がよくなる速い方法を探す。   [SVO] causative,idiom,inf-adj
+○ Checking our phones or cleaning our rooms gives us a small sense of relief, so we keep doing it.
+   → 私たちの電話を確認することか私たちの部屋を掃除することは私たちに安心の小さい感覚をくれるので、私たちはそれをし続ける。   [SVOO] gerund,svoo
+○ The problem is that the relief does not last long, and the task is still waiting for us.
+   → 問題は安心が長い間続かないということで、仕事はまだ私たちを待っている。   [SVC] that-clause,progressive,idiom
+○ As the deadline gets closer, we feel even worse than we did at the beginning.
+   → 締め切りが近づくにつれて、私たちは初めよりさらに気分が悪くなった。   [SV] idiom
+○ Some people believe they work better under pressure, but studies show that the quality of their work usually suffers.
+   → 彼らが圧力の下でよりよく働いていると信じている人もいるが、研究は自分の仕事の質がたいてい落ちることを示す。   [SVO] that-clause
+○ So what can we do to stop putting things off?
+   → それで、私たちは物を延期するのをやめるために何ができますか。   [SVO] question,idiom,gerund,inf-adv,modal
+○ One useful method is to break a large task into smaller steps that seem easier to start.
+   → 1つの役に立つ方法は大きい仕事をより始めやすく思えるより小さい一歩に分けることだ。   [SVC] tough,relative
+○ Instead of telling yourself to write an entire report, you might decide to write just the first paragraph.
+   → あなた自身に全体の報告書を書くように言う代わりに、あなたは最初の段落だけを書くことに決めるかもしれない。   [SVO] v-o-to,inf-noun,modal,gerund
+○ Once you have started, it is often easier to keep going than you expected.
+   → いったん始めると、よくあなたが予想したよりやり続けるのがもっと簡単だ。   [SVC] perfect,comparative,gerund,tough
+○ Another method is to be kind to yourself when you fail.
+   → 失敗するとき、別の方法はあなた自身に親切であることだ。   [SVC] idiom
+○ People who forgive themselves for procrastinating in the past are less likely to do it again.
+   → 自分を過去には先延ばしにしたことで許す人々はもう一度それをする可能性がより低い。   [SVC] gerund,idiom,relative
+○ In short, understanding why we delay can help us take the first step.
+   → 要するに、私たちがなぜ延期するか理解することは最初の一歩を踏み出すのに役立つ。   [SVOC] indirect-q,gerund,causative,modal
+○ When I was in junior high school, my grandmother lived with us for about a year.
+   → 私が中学生のころ、祖母は約1年間私たちと一緒に暮らした。   [SV] 
+○ She had been a cook at a small restaurant, and she knew how to make almost anything.
+   → 彼女はずっと小さいレストランの料理人で、ほとんど何でも作り方を知っていた。   [SVC] pastperfect,indirect-q
+○ At first, I was not interested in cooking at all.
+   → 最初は、私は少しも料理することに興味がなかった。   [SVC] gerund,idiom
+○ I thought it was something that took too much time and that I could always buy food at a convenience store.
+   → 私はそれが時間がかかりすぎたものだということも、いつもコンビニで食べ物を買えると思った。   [SVO] relative,modal,that-clause
+○ One Sunday, however, she asked me to help her make dumplings for a family party.
+   → しかし、ある日曜日、彼女は私に家族のパーティーのために団子を作るのを手伝ってくれるように頼んだ。   [SVOC] causative,v-o-to
+○ I agreed only because I had nothing else to do that afternoon.
+   → 私は単にその日の午後することが何もなかったという理由で、同意した。   [SV] inf-adj
+○ She showed me how to fold each dumpling so that it would not open while it was cooking.
+   → それが調理されている間に、それが開かないように、彼女は私にそれぞれの団子の折りたたみ方を教えてくれた。   [SVOO] indirect-q,modal,progressive
+○ My first few attempts looked so strange that we both started laughing.
+   → 私の最初のいくつかの試みはとても奇妙そうに見えたので、私たちは2人とも笑い始めた。   [SVC] gerund,so-that
+○ By the end of the afternoon, though, I had made more than fifty of them by myself.
+   → しかし、午後の終わりまでに、私は1人でそれらのうち50個以上を作っていた。   [SVO] pastperfect
+○ When my relatives ate them at the party, several of them asked who had made them.
+   → 私の親戚たちがパーティーでそれらを食べたとき、彼らの中には、誰がそれらを作っていたか尋ねた人もいた。   [SVO] pastperfect,indirect-q
+○ I felt proud, and for the first time I understood why my grandmother enjoyed cooking for others.
+   → 私は誇りに思って、初めて祖母がなぜ他の人たちのために料理することを楽しんだか理解した。   [SVC] gerund,indirect-q
+○ After she moved back to her hometown, I kept practicing the recipes she had taught me.
+   → 彼女が戻って自分の故郷に引っ越した後で、私は彼女が私に教えてくれたレシピを練習し続けた。   [SVO] svoo,pastperfect,relative,gerund
+○ Now I cook dinner for my family at least twice a week.
+   → 今では私は家族のために夕食を少なくとも週に2回作っている。   [SVO] 
+○ Whenever I make dumplings, I remember the sound of her laughter in our small kitchen.
+   → 私は団子を作るたびに、私たちの小さい台所で彼女の笑いの音を思い出す。   [SVO] 
+○ Cooking, for me, has become a way to stay connected with someone I love.
+   → 私にとって、料理は私が愛している誰かとつながりを保つ方法になった。   [SVC] relative,idiom,inf-adj,perfect
+○ I visit her at least once a month.
+   → 私は彼女を少なくとも月に1回訪ねる。   [SVO] 
+○ I cook dinner at least twice a week.
+   → 私は夕食を少なくとも週に2回作る。   [SVO] 
+○ I have been there once.
+   → 私はそこに一度行ったことがある。   [SV] perfect
+○ I have been there many times.
+   → 私は何度もそこに行ったことがある。   [SV] perfect
+○ She has been here before.
+   → 彼女は以前にここに来たことがある。   [SV] perfect
+○ I have been here since morning.
+   → 私は朝からずっとここにいる。   [SV] perfect
+○ My relatives ate them at the party.
+   → 私の親戚たちはパーティーでそれらを食べた。   [SVO] 
+○ My cousins visited us last week.
+   → いとこたちは先週私たちを訪ねた。   [SVO] 
+○ I made fifty of them by myself.
+   → 私は1人でそれらのうち50個を作った。   [SVO] 
+○ I ate three of them.
+   → 私はそれらのうち3つを食べた。   [SVO] 
+○ Three of us went to the park.
+   → 私たちのうち3人は公園に行った。   [SV] 
+○ Two of them were absent.
+   → 彼らのうち2人は欠席だった。   [SVC] 
+○ Two of them were broken.
+   → それらのうち2つは壊された。   [SV] passive
+○ I met three of them.
+   → 私は彼らのうち3人に会った。   [SVO] 
+○ The boxes were heavy, so I carried two of them.
+   → 箱は重かったので、私はそれらのうち2つを運んだ。   [SVC] 
+○ Success has more to do with effort than talent.
+   → 成功は才能より努力とより深く関係がある。   [SVO] idiom
+○ It has more to do with emotions than with time management.
+   → それは時間管理よりも感情とより深く関係がある。   [SVO] comparative,idiom
+○ We feel worse than we did.
+   → 私たちは以前より気分が悪くなった。   [SV] 
+○ We feel even worse than we did at the beginning.
+   → 私たちは初めよりさらに気分が悪くなった。   [SV] 
+○ When students sleep too little, their grades suffer.
+   → 学生があまりにも少ししか眠らないとき、彼らの成績は落ちる。   [SV] 
+○ His health suffered.
+   → 彼の健康は悪くなった。   [SV] 
+○ We broke the class into three groups.
+   → 私たちはクラスを3つのグループに分けた。   [SVO] 
+○ These steps seem easier to start.
+   → これらの工程はより始めやすく思える。   [SVC] tough
+○ This question seems hard to answer.
+   → この質問は答えにくく思える。   [SVC] tough
+○ I read just the first page.
+   → 私は最初のページだけを読む。   [SVO] 
+○ It is easier to keep going.
+   → やり続けることは簡単だ。   [SVC] gerund,it-to
+○ He kept going to the gym.
+   → 彼はジムに行き続けた。   [SVO] gerund
+○ She forgave him for breaking the vase.
+   → 彼女は彼を花瓶を割ったことで許した。   [SVO] gerund,idiom
+○ Please forgive me for being late.
+   → 私を遅れたことで許してください。   [SVO] idiom,gerund,imperative
+○ Understanding why we delay is important.
+   → 私たちがなぜ延期するか理解することは重要だ。   [SVC] indirect-q,gerund
+○ Learning how plants grow is fun.
+   → 植物がどのように成長するか学ぶことは楽しい。   [SVC] indirect-q,gerund
+○ We need to take the first step.
+   → 私たちは最初の一歩を踏み出す必要がある。   [SVO] inf-noun
+○ This takes time.
+   → これには時間がかかる。   [SVO] 
+○ I knew it was late and that we had to hurry.
+   → 私はもう遅い時間だということも、私たちが急がなければならないことを知っていた。   [SVO] that-clause
+○ One Sunday, she called me.
+   → ある日曜日、彼女は私に電話した。   [SVO] 
+○ One weekend, we went camping.
+   → ある週末、私たちはキャンプに行った。   [SV] idiom
+○ The soup was cooking on the stove.
+   → スープはストーブで調理されていた。   [SV] progressive
+○ It looked so strange that we laughed.
+   → それはとても奇妙そうに見えたので、私たちは笑った。   [SVC] so-that
+○ I felt so tired that I went to bed early.
+   → 私はとても疲れていたので、早く寝た。   [SVC] idiom,so-that
+○ It seemed so easy that everyone tried it.
+   → それはとても簡単に思えたので、みんなはそれを試してみた。   [SVC] so-that
+○ Music, for me, is very important.
+   → 私にとって、音楽はとても重要だ。   [SVC] 
+○ Kindness, for many people, is a habit.
+   → 多くの人々にとって、親切は習慣だ。   [SVC] 
+○ The task is waiting for us.
+   → 仕事は私たちを待っている。   [SVO] progressive,idiom
+○ My job is teaching English.
+   → 私の仕事は英語を教えることだ。   [SVO] 
 
-parsed 10640 / 10640
+parsed 10714 / 10714
