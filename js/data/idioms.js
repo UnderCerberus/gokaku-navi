@@ -552,6 +552,7 @@
     ['have fun', '楽しむ; 楽しく過ごす', 1],
     ['have fun doing', '〜して楽しむ', 2],
     ['have little to do with ~', '〜とほとんど関係がない', 2],
+    ['have more to do with ~', '〜とより深く関係がある', 3],
     ['have much in common', '共通点が多い', 2],
     ['have much to do with ~', '〜と大いに関係がある', 2],
     ['have something in common', '共通点がある', 2],
