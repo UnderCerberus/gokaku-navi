@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (256ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (198ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -15353,7 +15353,7 @@
 ○ The beans grow on trees in hot countries like Ghana.
    → 豆はガーナのような暑い国の木になる。   [SV] 
 ○ After they are picked, they are dried in the sun.
-   → 摘まれた後、日なたで乾かされる。   [SV] passive
+   → 摘まれた後で、日なたで乾かされる。   [SV] passive
 ○ Then they are sent to factories around the world.
    → それから、世界中の工場に送られる。   [SV] passive
 ○ I like sports like soccer and baseball.
@@ -18333,7 +18333,7 @@
 ○ According to a recent survey, nearly half of the people who use social media every day say that they feel more lonely than before.
    → 最近の調査によれば、毎日SNSを使う人々のほぼ半分は彼らが以前より寂しく感じると言う。   [SVO] relative,comparative,that-clause
 ○ It is said that the first people to drink coffee were monks who wanted to stay awake during long hours of prayer.
-   → コーヒーを飲む最初の人々は数時間の間に起きたままになりたかった修道士だったと言われている。   [SV] inf-adj,idiom,inf-noun,relative,it-said,passive
+   → コーヒーを飲む最初の人々は祈りの長い時間の間に起きたままになりたかった修道士だったと言われている。   [SV] inf-adj,idiom,inf-noun,relative,it-said,passive
 ○ When the factory closed, hundreds of workers lost their jobs and many of them had to move to other cities to find work.
    → 工場が閉まったとき、何百人もの労働者は自分の仕事を失って、それらの多くは仕事を見つけるために他の都市に動かなければならなかった。   [SVO] inf-adv
 ○ Some people think that it is a waste of money to explore space when there are so many problems to solve on earth.
@@ -19275,7 +19275,7 @@
 ○ The way they greet each other is different.
    → 彼らがお互いあいさつする方法は異なる。   [SVC] rel-adv
 ○ Greetings differ from one country to another.
-   → あいさつは別の国に1か国と異なる。   [SVO] idiom
+   → あいさつは国によって異なる。   [SV] 
 ○ It took the team three years to complete the project, which was much longer than they had expected.
    → チームがプロジェクトを完成させるのに3年かかったが、それは彼らが予想したよりずっと長かった。   [SVO] it-takes,comparative,relative
 ○ It is hard for young people, especially those who have just started working.
@@ -21134,5 +21134,149 @@
    → 録画された授業はまた学生が難しい部分を復習することを可能にした。   [SVOC] v-o-to
 ○ We walked through the park.
    → 私たちは公園を通って歩いた。   [SV] 
+○ Trees in cities do much more than make streets look beautiful.
+   → 都市の木は通りを美しく見せるよりはるかに多くのことをする。   [SVO] causative
+○ On hot summer days, they provide shade and help keep the air cooler.
+   → 暑い夏の日に、それらは日陰を作って、空気を涼しく保つのを手伝う。   [SVO] svoc,inf-noun
+○ In fact, streets lined with trees can be several degrees cooler than those without them.
+   → 実際、木が並ぶ通りはそれらのない通りより数度涼しいこともある。   [SVC] participle-mod,comparative,modal
+○ Trees also absorb carbon dioxide and release oxygen, which helps improve air quality.
+   → 木はまた二酸化炭素を吸収して、空気の質を改善するのに役立つ酸素を放出する。   [SVO] inf-noun,relative
+○ Some studies have even found that people who live near green spaces tend to feel less stressed.
+   → いくつかの研究は緑地の近くに住んでいる人々がより少なくストレスを感じる傾向があることさえ明らかにした。   [SVO] relative,that-clause,perfect
+○ Despite these benefits, many cities have been cutting down trees to make room for roads and buildings.
+   → これらの利益にもかかわらず、多くの都市は道路と建物の場所をあけるためにずっと木を切り倒している。   [SVO] idiom,inf-adv,progressive,perfect
+○ Once a large tree is removed, it can take decades for a new one to grow to the same size.
+   → いったん大きい木が取り除かれると、新しいものが同じ大きさに成長するのに何十年もかかることがある。   [SVO] passive,it-takes
+○ To deal with this problem, some local governments have started programs to plant more trees.
+   → この問題に対処するために、いくつかの地方自治体はもっと木を植えるためのプログラムを始めた。   [SVO] idiom,inf-adj,perfect,inf-adv
+○ In one city, residents can ask the city to plant a tree in front of their homes for free.
+   → ある都市では、住民は都市に自分の家の前で無料で木を植えるように頼める。   [SVOC] v-o-to,modal
+○ The residents, in turn, agree to water the young tree during its first few summers.
+   → 今度は、住民はその最初のいくつかの夏の間に若い木に水をやることに同意する。   [SVO] inf-noun
+○ Such programs not only increase the number of trees but also encourage people to care about their neighborhoods.
+   → そのようなプログラムは木の数を増やすだけでなく、人々に自分の近所について気にかけるよう励ます。   [SVO] not-only
+○ However, planting trees is not as simple as it might seem.
+   → しかしながら、木を植えることは思われるほど簡単ではない。   [SVC] gerund,as-as
+○ If the wrong kind of tree is chosen, its roots may damage sidewalks or underground pipes.
+   → もし間違った種類の木が選ばれたら、その根は歩道か地下の管に損害を与えるかもしれない。   [SVO] passive,modal
+○ Experts therefore recommend choosing species that are suited to the local climate and soil.
+   → したがって、専門家は地元の気候と土に適している種を選ぶことを勧める。   [SVO] idiom,relative,gerund
+○ With careful planning, trees can make our cities healthier and more pleasant places to live.
+   → 注意深い計画で、木は私たちの都市を住むのにより健康でより楽しい場所にできる。   [SVOC] inf-adj,svoc,modal
+○ Last spring, I left my wallet on a train on my way to a job interview.
+   → 去年の春に、私は電車に就職の面接に行く途中で財布を置き忘れた。   [SVO] 
+○ I did not notice it was missing until I tried to buy a drink at the station.
+   → 私は駅で飲み物を買おうとするまで、それが行方不明であることに気づかなかった。   [SVO] that-clause,inf-noun
+○ My heart sank when I realized that my money, my student ID, and my train pass were all gone.
+   → 私がお金と学生証と定期券がみななくなっていることに気づいたとき、気持ちが沈んだ。   [SV] idiom,that-clause
+○ Since I had no time to go back, I borrowed some money from a friend and went to the interview anyway.
+   → 私は戻って行く時間がなかったので、友達からお金を借りて、面接にとにかく行った。   [SVO] inf-adj
+○ All through the interview, I kept worrying about what I would do if the wallet was never found.
+   → 面接の間ずっと、もし財布が決して見つけられなかったら、私はするだろうことを心配し続けた。   [SVO] modal,relative-what,idiom,gerund,passive
+○ That evening, I received a phone call from the railway company.
+   → その晩、私は鉄道の会社から電話を受け取った。   [SVO] 
+○ A woman told me that someone had handed in a wallet with my name on it.
+   → 女性は私に誰かが私の名前のついた財布を提出したと言った。   [SVOO] pastperfect,idiom,that-clause
+○ When I went to the office to pick it up, nothing had been taken.
+   → 私が事務所にそれを拾いに行ったとき、何も取られていなかった。   [SV] idiom,inf-adv,passive,pastperfect
+○ I asked who had found it, but the staff said the person had left without giving a name.
+   → 私は誰がそれを見つけていたか尋ねたが、職員は人が名前を与えずに出発したと言った。   [SVO] pastperfect,indirect-q,gerund,that-clause
+○ I was deeply moved that a stranger had gone out of their way to help me.
+   → 私は見知らぬ人がわざわざ私を助けたことに深く感動した。   [SV] pastperfect,idiom,that-clause
+○ Since then, I have tried to be more careful with my belongings.
+   → それ以来、私は持ち物により気をつけようとした。   [SVO] idiom,inf-noun,perfect
+○ More importantly, the experience made me want to help others in the same way.
+   → さらに重要なことに、経験は私に同じように他の人たちを助けたいと思わせた。   [SVOC] inf-noun,causative
+○ A few weeks later, I found an umbrella left on a bench and took it to the lost-and-found office.
+   → 数週間後に、私はベンチに置き忘れられた傘を見つけて、遺失物取扱所にそれを持って行った。   [SVO] participle-mod
+○ It was a small thing, but I hoped it would make someone's day a little better.
+   → それはささいなことだったが、私はそれが誰かの一日を少し良くすることを願っていた。   [SVC] svoc,modal,that-clause
+○ Kindness, I learned, is often passed from one person to another.
+   → 私が学んだところでは、親切はよく人から人へ渡されている。   [SV] passive
+○ It rained all through the night.
+   → 夜の間ずっと雨が降った。   [SV] 
+○ All through the summer, the trees provide shade.
+   → 夏の間ずっと、木は日陰を作る。   [SVO] 
+○ We clean the room and help cook dinner.
+   → 私たちは部屋を掃除して、夕食を作るのを手伝う。   [SVO] inf-noun
+○ Students read books and help clean the park.
+   → 学生は本を読んで、公園を掃除するのを手伝う。   [SVO] inf-noun
+○ They can provide shade and help keep the air cool.
+   → 彼らは日陰を作ったり、空気を涼しく保つのを手伝ったりできる。   [SVO] svoc,inf-noun,modal
+○ Birds fly and fish swim.
+   → 鳥は飛んで、魚は泳ぐ。   [SV] 
+○ Prices rise and demand falls.
+   → 物価は上がって、需要は減る。   [SV] 
+○ Houses in the city are smaller than those in the countryside.
+   → 都市の家は田舎の家より小さい。   [SVC] comparative
+○ They study less than others.
+   → 彼らは他の人たちより少なく勉強する。   [SV] comparative
+○ They sleep less than adults.
+   → 彼らは大人より少なく眠る。   [SV] comparative
+○ They eat less than before.
+   → 彼らは以前より少なく食べる。   [SV] comparative
+○ More pleasant places are needed.
+   → より楽しい場所は必要とされている。   [SV] passive
+○ We need more useful tools.
+   → 私たちはより役に立つ道具が必要だ。   [SVO] 
+○ I want more comfortable shoes.
+   → 私はより快適な靴がほしい。   [SVO] 
+○ It is a quiet and more relaxing place.
+   → それは静かでよりくつろげる場所だ。   [SVC] 
+○ I was sad when I realized that my money, my ID, and my pass were gone.
+   → 私はお金とIDと通行許可証がなくなっていることに気づいたとき、悲しかった。   [SVC] idiom,that-clause
+○ He smiled when he saw the cake, and my sister laughed.
+   → 彼はケーキを見たとき、ほほえんで、姉は笑った。   [SV] 
+○ It made me want to cry.
+   → それは私に泣きたいと思わせた。   [SVOC] inf-noun,causative
+○ The trip made us want to come back.
+   → 旅行は私たちに戻りたいと思わせた。   [SVOC] idiom,inf-noun,causative
+○ It did not make me want to go.
+   → それは私に行きたいと思わせなかった。   [SVOC] inf-noun,causative
+○ I found a wallet left on the train.
+   → 私は電車に置き忘れられた財布を見つけた。   [SVO] participle-mod
+○ The food left on the plate was cold.
+   → 皿に残された食べ物は冷たかった。   [SVC] participle-mod
+○ He was the only person left in the room.
+   → 彼は部屋に残された唯一の人だった。   [SVC] participle-mod
+○ I found someone's wallet.
+   → 私は誰かの財布を見つけた。   [SVO] 
+○ Everyone's favorite food is curry.
+   → みんなの好きな食べ物はカレーだ。   [SVC] 
+○ Tom's favorite food is curry.
+   → トムの好きな食べ物はカレーだ。   [SVC] 
+○ One's health is important.
+   → 自分の健康は重要だ。   [SVC] 
+○ Everyone's opinion matters.
+   → みんなの意見は重要だ。   [SV] 
+○ It made me a little happier.
+   → それは私を少し幸せにした。   [SVOC] svoc
+○ It made the room a little warmer.
+   → それは部屋を少し暖かくした。   [SVOC] svoc
+○ It was a good thing.
+   → それは良いことだった。   [SVC] 
+○ It made my day better.
+   → それは私の一日を良くした。   [SVOC] svoc
+○ This, I learned, was not true.
+   → 私が学んだところでは、これは本当ではなかった。   [SVC] 
+○ Information spreads from one person to another.
+   → 情報は人から人へ広がる。   [SV] 
+○ It moved from one place to another.
+   → それはある場所から別の場所へ動いた。   [SV] 
+○ Tastes differ from one person to another.
+   → 味は人によって異なる。   [SV] 
+○ Prices vary from one store to another.
+   → 物価は店によって変わる。   [SV] 
+○ Teachers do much more than teach.
+   → 先生は教えるよりはるかに多くのことをする。   [SVO] 
+○ This app does far more than translate words.
+   → このアプリは語を翻訳するよりはるかに多くのことをする。   [SVO] 
+○ We walked along a street lined with small shops.
+   → 私たちは小さい店が並ぶ通りを歩いた。   [SV] participle-mod
+○ I was touched that she remembered my name.
+   → 私は彼女が名前を覚えていたことに感動した。   [SV] that-clause
+○ I was very moved that they came.
+   → 私は彼らが来たことにとても感動した。   [SV] that-clause
 
-parsed 10568 / 10568
+parsed 10640 / 10640
