@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (200ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (186ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -6855,7 +6855,7 @@
 ○ They gave a party for her.
    → 彼らは彼女のためにパーティーを開いた。   [SVO] 
 ○ Without feeling nervous, he spoke to the class.
-   → 緊張せずに、彼は授業に話しかけた。   [SVO] idiom,gerund
+   → 緊張せずに、彼はクラスのみんなに話しかけた。   [SVO] idiom,gerund
 ○ I agree with this opinion for two reasons.
    → 私は2つの理由からこの意見に同意する。   [SVO] idiom
 ○ He was absent for some reason.
@@ -10227,7 +10227,7 @@
 ○ Ken has a dog named Pochi.
    → ケンはポチという名前の犬を飼っている。   [SVO] participle-mod
 ○ He takes it for a walk every morning.
-   → 彼は毎朝それを散歩に連れて行く。   [SVO] 
+   → 彼は毎朝それを散歩に連れて行く。   [SVO] idiom
 ○ One day, Pochi ran away.
    → ある日、ポチは逃げた。   [SV] idiom
 ○ Ken looked for it everywhere.
@@ -10265,7 +10265,7 @@
 ○ Many people are looking forward to it.
    → 多くの人々がそれを楽しみにしている。   [SVO] progressive,idiom
 ○ I take my dog for a walk.
-   → 私は犬を散歩に連れて行く。   [SVO] 
+   → 私は犬を散歩に連れて行く。   [SVO] idiom
 ○ Plastic pollution is one of the biggest environmental problems today.
    → プラスチック汚染は今日最も大きい環境問題の1つだ。   [SVC] 
 ○ Sea animals often mistake plastic bags for food.
@@ -10721,7 +10721,7 @@
 ○ We have a dog named Kuro.
    → 私たちはクロという名前の犬を飼っている。   [SVO] participle-mod
 ○ I take my dog for a walk every morning.
-   → 私は毎朝犬を散歩に連れて行く。   [SVO] 
+   → 私は毎朝犬を散歩に連れて行く。   [SVO] idiom
 ○ My sister is two years older than me.
    → 姉は私より2歳年上だ。   [SVC] comparative
 ○ We feed our goldfish twice a day.
@@ -21426,5 +21426,147 @@
    → 仕事は私たちを待っている。   [SVO] progressive,idiom
 ○ My job is teaching English.
    → 私の仕事は英語を教えることだ。   [SVO] 
+○ Every autumn, millions of birds leave their summer homes and fly thousands of kilometers to warmer regions.
+   → 毎秋、何百万もの鳥は自分の夏の家を出て、より暖かい地域に何千キロメートルも飛ぶ。   [SVO] 
+○ Some small birds, which weigh less than a coin, cross entire oceans without stopping to rest.
+   → 硬貨より軽いいくつかの小さい鳥は休むために止まらずに全体の海を渡る。   [SVO] comparative,relative,inf-adv,gerund
+○ How they manage to find their way has puzzled scientists for centuries.
+   → 彼らがどのように何とか道を見つけるかは何世紀も科学者を悩ませてきた。   [SVO] idiom,indirect-q,subject-clause,perfect
+○ One theory is that birds use the position of the sun during the day and the stars at night.
+   → 1つの理論は鳥が日中の太陽と夜の星の位置を使うということだ。   [SVC] that-clause
+○ In an experiment in the 1960s, young birds kept in a room with an artificial night sky turned in the direction their species normally flies.
+   → 1960年代の実験では、部屋に人工の夜空で保管された若い鳥は自分の種が普通は飛ぶ方向へ向いた。   [SV] participle-mod,relative
+○ When the researchers rotated the pattern of stars, the birds changed direction as well.
+   → 研究者たちが星の型を回転させたとき、鳥も方向を変えた。   [SVO] 
+○ Other studies suggest that birds can sense the earth's magnetic field, almost as if they had a compass inside their heads.
+   → 他の研究はまるでそれらが自分の頭の中で羅針盤を持っているかのように、鳥が地球の磁場を感じ取れることを示唆する。   [SVO] modal,that-clause
+○ Smell may also play a role, especially for seabirds that travel over open water where there are few landmarks.
+   → においはまた特に目印はほとんどない外洋の上で進む海鳥のためには役割を果たすかもしれない。   [SVO] there,rel-adv,relative,modal
+○ Most likely, birds rely on several of these methods at once rather than on just one.
+   → おそらく、鳥は同時に1つだけではなくこれらの方法のいくつかに頼っている。   [SVO] idiom
+○ Migration is extremely dangerous, and many birds never complete the journey.
+   → 移住は極めて危険で、多くの鳥は決して旅を完成させない。   [SVC] 
+○ Storms, lack of food, and tall buildings that reflect the sky all take their toll.
+   → 嵐と食べ物の不足と空を反映する高い建物はみな大きな被害をもたらす。   [SV] relative,idiom
+○ Climate change is adding new problems, because the timing of migration no longer matches the times when food is most plentiful.
+   → 移住のタイミングがもはや食べ物が最も豊富である時間と調和しないので、気候変動は新しい問題を加えている。   [SVO] progressive,superlative,rel-adv
+○ If birds arrive too late, the insects they depend on may have already disappeared.
+   → もし鳥が遅く到着しすぎたら、それらが頼る昆虫はもう消えたかもしれない。   [SV] idiom,relative,modal-perfect
+○ Protecting the places where birds stop to rest and feed is therefore essential.
+   → したがって、鳥が休んで、えさを食べるために止まる場所を守ることは不可欠だ。   [SVC] inf-adv,rel-adv,gerund
+○ By doing so, we can help make sure that these remarkable journeys continue for generations to come.
+   → そうすることによって、私たちはこれらの注目すべき旅がこれから何世代にもわたって続くようにするのを手伝える。   [SVO] that-clause,idiom,inf-noun,modal,gerund
+○ Have you heard that Ms. Baker is leaving our school at the end of this month?
+   → あなたはベーカー先生が今月の終わりに私たちの学校を出ると聞きましたか。   [SVO] question,that-clause,perfect
+○ Yes, I was surprised when she told us yesterday.
+   → はい、彼女が昨日私たちに話したとき、私は驚いた。   [SVC] 
+○ I was thinking we should do something special for her before she goes.
+   → 彼女が行く前に、私は私たちが彼女のために何か特別なものをするべきだと思っていた。   [SVO] modal,that-clause,progressive
+○ That's a great idea, but what did you have in mind?
+   → それはすばらしい考えだが、あなたは何を考えていましたか。   [SVO] question,idiom
+○ Maybe we could make a video with messages from everyone in our class.
+   → たぶん、私たちはクラスのみんなからの伝言の入ったビデオを作れるかもしれない。   [SVO] modal
+○ I like that, but it might be hard to get thirty people together to film it.
+   → 私はそれが好きだが、それを撮影するために30人を集めることは難しいかもしれない。   [SVO] inf-adv,idiom,it-to,modal
+○ We don't have to film everyone at the same time, because each person could record a short message on their phone.
+   → それぞれの人が彼らの電話で短い伝言を記録できるので、私たちは同時にみんなを撮影する必要はない。   [SVO] modal
+○ Then someone would need to put all the clips together.
+   → それから、誰かはすべてのクリップを組み立てる必要があるだろう。   [SVO] idiom,inf-noun,modal
+○ I can do that, since my brother taught me how to use a video editing app last summer.
+   → 兄が私に去年の夏にビデオ編集アプリの使い方を教えてくれたので、私はそれができる。   [SVO] modal,compound,indirect-q
+○ How about giving her a card as well, for people who feel shy about speaking on camera?
+   → カメラで話すことについて内気に感じる人々のために彼女にカードを与えるのはどうですか。   [SV] question,gerund,relative,svoo,idiom
+○ Good point, so let's ask everyone to choose whichever they prefer.
+   → いい指摘だね。それなら、みんなに好きなほうを選ぶように頼みましょう。   [SVOC] v-o-to,imperative
+○ When should we give them to her?
+   → 私たちはいつ彼女にそれらを与えるべきですか。   [SVO] question,modal
+○ Her last class is on the twenty-eighth, so we could show the video at the end of that lesson.
+   → 彼女の最後の授業は28日にあるので、私たちはその授業の終わりにビデオを見せられる。   [SV] modal
+○ Perfect, I'll talk to the class tomorrow morning and tell them about the plan.
+   → 完璧だ、私は明日の朝クラスのみんなと話して、計画について彼らに話すつもりだ。   [SVO] idiom,modal
+○ Thanks, I'm sure she'll be really happy.
+   → ありがとう、きっと彼女が本当に幸せだろう。   [SVC] modal,that-clause
+○ How they find their way is a mystery.
+   → 彼らがどのように道を見つけるかは謎だ。   [SVC] idiom,indirect-q,subject-clause
+○ Why he left is unclear.
+   → 彼がなぜ出発したかははっきりしない。   [SVC] indirect-q,subject-clause
+○ Where we live affects our health.
+   → 私たちがどこに住んでいるかは私たちの健康に影響する。   [SVO] indirect-q,subject-clause
+○ The birds turned in the direction their species normally flies.
+   → 鳥は自分の種が普通は飛ぶ方向へ向いた。   [SV] relative
+○ They walked in the direction we pointed.
+   → 彼らは私たちが向けた方向へ歩いた。   [SV] relative
+○ Young birds kept in a room turned north.
+   → 部屋に保管された若い鳥は北へ回った。   [SV] participle-mod
+○ The students kept in the room studied hard.
+   → 部屋に保管された学生たちは一生懸命に勉強した。   [SV] participle-mod
+○ Farmers kept in contact with buyers who lived abroad.
+   → 農家は海外に住んでいた買い手と連絡を取り合った。   [SVO] relative,idiom
+○ He talks almost as if he knew everything.
+   → 彼はまるですべてを知っているかのように話す。   [SV] 
+○ Birds rely on several of these methods rather than on just one.
+   → 鳥は1つだけではなくこれらの方法のいくつかに頼っている。   [SVO] idiom
+○ I want just one.
+   → 私は1つだけほしい。   [SVO] 
+○ This bag weighs less than a kilogram.
+   → このかばんはキログラムより軽い。   [SVC] comparative
+○ The baby weighs more than his sister.
+   → 赤ちゃんは彼の姉より重い。   [SVC] comparative
+○ Storms and floods all take their toll.
+   → 嵐と洪水はみな大きな被害をもたらす。   [SV] idiom
+○ Stress takes its toll on your health.
+   → ストレスはあなたの健康に大きな被害をもたらす。   [SVO] idiom
+○ Cows feed on grass.
+   → 牛は草をえさにする。   [SVO] idiom
+○ The birds feed in the morning.
+   → 鳥は朝にえさを食べる。   [SV] 
+○ We must make sure that everyone is safe.
+   → 私たちはみんなが安全であるようにしなければならない。   [SVO] that-clause,idiom,modal
+○ I want to make sure that everyone is safe.
+   → 私はみんなが安全であるようにしたい。   [SVO] that-clause,idiom,inf-noun
+○ These traditions will continue for generations to come.
+   → これらの伝統はこれから何世代にもわたって続くだろう。   [SV] modal
+○ I heard that he is leaving tomorrow.
+   → 私は彼が明日出発すると聞いた。   [SVO] that-clause
+○ What do you have in mind?
+   → あなたは何を考えていますか。   [SVO] question,idiom
+○ You should keep this in mind.
+   → あなたはこれを心に留めておくべきだ。   [SVO] modal,idiom
+○ We should bear this in mind.
+   → 私たちはこれを心に留めておくべきだ。   [SVO] modal,idiom
+○ We got everyone together.
+   → 私たちはみんなを集めた。   [SVO] idiom
+○ Maybe we could go to the beach.
+   → たぶん、私たちは浜辺に行けるかもしれない。   [SV] modal
+○ It is sunny, so we could go to the beach.
+   → 晴れているので、私たちは浜辺に行ける。   [SVC] modal
+○ We made a video with messages from everyone.
+   → 私たちはみんなからの伝言の入ったビデオを作った。   [SVO] 
+○ I use a photo editing app.
+   → 私は写真編集アプリを使う。   [SVO] compound
+○ She works for a car manufacturing company.
+   → 彼女は車製造会社に勤めている。   [SV] compound
+○ Choose whichever you prefer.
+   → 好きなほうを選びなさい。   [SVO] imperative
+○ So let's ask everyone.
+   → それなら、みんなに聞きましょう。   [SVO] imperative
+○ Good idea, let's do it.
+   → いい考えだね。それをしましょう。   [SVO] imperative
+○ Her last class was fun.
+   → 彼女の最後の授業は楽しかった。   [SVC] 
+○ The party is on the twenty-eighth.
+   → パーティーは28日だ。   [SV] 
+○ I was born on the third of May.
+   → 私は5月3日に生まれた。   [SV] 
+○ I sent them to my friend.
+   → 私は友達にそれらを送った。   [SVO] 
+○ The teacher spoke to the class.
+   → 先生はクラスのみんなに話しかけた。   [SVO] idiom
+○ Birds use the position of the sun during the day and the stars at night.
+   → 鳥は日中の太陽と夜の星の位置を使う。   [SVO] 
+○ Owls hunt during the night.
+   → フクロウは夜の間狩る。   [SV] 
+○ It happened on the 28th.
+   → それは28日に起こった。   [SV] 
 
-parsed 10714 / 10714
+parsed 10785 / 10785
