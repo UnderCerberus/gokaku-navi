@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (186ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (189ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -21568,5 +21568,143 @@
    → フクロウは夜の間狩る。   [SV] 
 ○ It happened on the 28th.
    → それは28日に起こった。   [SV] 
+○ Before the fifteenth century, books in Europe had to be copied by hand, which made them rare and expensive.
+   → 15世紀以前は、ヨーロッパの本は手で書き写されなければならなくて、そのためそれらはまれで高くなった。   [SV] passive,svoc,relative
+○ A single Bible could take a skilled writer more than a year to complete.
+   → ただ1つの聖書は熟練した作家が完成させるのに1年以上かかることもあった。   [SVO] it-takes
+○ Around 1450, a German craftsman named Johannes Gutenberg developed a printing press that used movable metal type.
+   → 1450年ごろに、ヨハネス・グーテンベルクという名前のドイツ人の職人が可動式の金属活字を使った印刷機を開発した。   [SVO] participle-mod,relative
+○ Each letter was cast as a separate piece, so the same letters could be arranged again and again to print different pages.
+   → それぞれの文字は別々のかけらとして鋳造されたので、同じ文字は異なるページを印刷するために何度も並べられた。   [SV] passive,inf-adv,modal
+○ With this machine, a small team of workers could produce hundreds of pages in a single day.
+   → この機械で、労働者の小さいチームはたった1日で何百ページもを生産できた。   [SVO] modal
+○ The new technology spread quickly, and within fifty years printing shops had appeared in more than two hundred cities.
+   → 新しい科学技術は急速に広がって、50年以内に印刷所は200以上の都市に現れていた。   [SV] pastperfect
+○ As books became cheaper, more people had a reason to learn how to read.
+   → 本がより安くなるにつれて、読み方を学ぶ理由があった人が増えた。   [SVO] indirect-q,inf-adj
+○ Ideas that had once been shared only among a small group of scholars could now reach ordinary people.
+   → かつて学者の小さいグループの間でだけ共有された考えは今では普通の人々に届くようになった。   [SVO] passive,pastperfect,relative,modal
+○ Some historians believe that the printing press helped make the scientific revolution possible.
+   → 印刷機が科学的な革命を可能にするのに役立ったと信じている歴史家もいる。   [SVO] svoc,inf-noun,that-clause
+○ Scientists were able to compare their results with those of researchers in other countries far more easily than before.
+   → 科学者は他の国ではるかに以前より簡単に自分の結果を研究者の結果と比べられた。   [SVO] comparative,idiom
+○ Not everyone welcomed these changes, however.
+   → しかしながら、みんながこれらの変化を歓迎したというわけではない。   [SVO] partial-neg
+○ Some authorities worried that the spread of printed material would make it harder for them to control what people thought.
+   → いくつかの当局は印刷物の広がりが彼らが人々が思ったことを支配しにくくするのではないかと心配した。   [SVO] svoc,relative-what,formal-object,modal,that-clause
+○ In several countries, books that criticized those in power were banned or burned.
+   → 一部の国では、権力を持つ人々を批判した本は禁止されたり燃やされたりした。   [SV] relative,passive
+○ Even so, it proved impossible to stop the flow of information once it had begun.
+   → それでも、いったんそれが始まると、情報の流れを止めることは不可能だと分かった。   [SVC] it-to,pastperfect
+○ In many ways, the arguments about the internet today echo the debates that followed Gutenberg's invention.
+   → 多くの点で、今日のインターネットについての議論はグーテンベルクの発明に続いた討論を思い起こさせる。   [SVO] relative
+○ Many schools today are debating whether students should be allowed to use smartphones during class.
+   → 今日の多くの学校は生徒が授業中にスマートフォンを使うことを許されるべきかどうか議論している。   [SVO] v-o-to,modal,indirect-q,progressive
+○ Supporters point out that phones give students instant access to dictionaries, maps, and up-to-date information.
+   → 支持者は電話が学生に辞書と地図と最新の情報への即時のアクセスを与えると指摘する。   [SVO] svoo,that-clause,idiom
+○ A student who does not understand a word, for example, can look it up in seconds instead of waiting for the teacher.
+   → たとえば、語を理解しない生徒は先生を待つ代わりに数秒でそれを調べられる。   [SVO] relative,idiom,gerund,modal
+○ Phones can also be useful for recording experiments or taking photos of what is written on the board.
+   → 電話はまた実験を記録したり、黒板に書かれていることの写真を撮ったりするために役に立つことがある。   [SVC] passive,relative-what,gerund,modal
+○ On the other hand, critics argue that phones are more likely to distract students than to help them.
+   → 一方で、批判的な人々は電話が彼らを助けるよりも学生の気を散らす可能性がより高いと主張する。   [SVO] idiom,comparative,that-clause
+○ It only takes a single message from a friend to break a student's concentration.
+   → 学生の集中を壊すには友達からのただ1つの伝言だけで十分だ。   [SVC] it-takes
+○ Some research even suggests that the mere presence of a phone on the desk lowers performance on tests.
+   → いくらかの研究は机の上の電話の単なる存在が試験で成績を下げることさえ示唆する。   [SVO] that-clause
+○ In my opinion, the answer is neither to ban phones completely nor to allow them without limits.
+   → 私の意見では、答えは電話を完全に禁止することでも、限度なしでそれらを許すことでもない。   [SVC] correlative
+○ Instead, teachers should decide when phones may be used, depending on the purpose of each lesson.
+   → その代わりに、先生は電話がいつそれぞれの授業の目的によって使われるかもしれないか決めるべきだ。   [SVO] passive,modal,indirect-q
+○ During a test or a discussion, for instance, phones could be kept in bags.
+   → たとえば、試験か議論中に、電話はかばんの中に保てる。   [SV] modal
+○ When students are doing research, on the other hand, they could be allowed to take them out.
+   → 一方で、学生が研究をしているとき、彼らを取り出すことを許されてもよい。   [SV] progressive,idiom,v-o-to,modal
+○ Clear rules like these would help students learn to use technology responsibly.
+   → このような明らかな規則は学生が科学技術を責任をもって使えるようになるのに役立つだろう。   [SVOC] inf-noun,causative,modal
+○ After all, they will have to manage their own phone use once they start working.
+   → 結局、彼らはいったん働き始めると、自分自身の電話の使用を管理しなければならないだろう。   [SVO] modal,gerund
+○ Learning that skill at school may be just as important as learning the content of any subject.
+   → 学校でその技術を学ぶことは教科の内容を学ぶことと同じくらい重要かもしれない。   [SVC] gerund,as-as,modal
+○ For these reasons, I believe a flexible approach is better than a strict ban.
+   → これらの理由から、私は柔軟な取り組み方が厳しい禁止より良いと考える。   [SVO] comparative,that-clause
+○ Around 1450, he was born.
+   → 1450年ごろに、彼は生まれた。   [SV] 
+○ He was born around 1450.
+   → 彼は1450年ごろに生まれた。   [SV] 
+○ His words echo his father's ideas.
+   → 彼の言葉は彼の父の考えを思い起こさせる。   [SVO] 
+○ Phones give students access to information.
+   → 電話は学生に情報へのアクセスを与える。   [SVOO] svoo
+○ Teachers give students time to think.
+   → 先生は生徒に考える時間を与える。   [SVOO] inf-adj,svoo
+○ Phones are more likely to distract students than to help them.
+   → 電話は彼らを助けるよりも学生の気を散らす可能性がより高い。   [SVC] idiom,comparative
+○ Children are more likely to learn by doing than by listening.
+   → 子どもは聞くことによってよりもすることによって学ぶ可能性がより高い。   [SVC] gerund,idiom,comparative
+○ The goal is neither to win nor to lose.
+   → 目標は勝つことでも、負けることでもない。   [SVC] correlative
+○ During a test or a discussion, phones should be turned off.
+   → 試験か議論中に、電話は消すべきだ。   [SV] idiom,modal
+○ Phones could be kept in bags.
+   → 電話はかばんの中に保てる。   [SV] modal
+○ The bridge could be used by cars.
+   → 橋は車で使える。   [SV] modal
+○ They should be quiet.
+   → 彼らは静かであるべきだ。   [SVC] modal
+○ Students should be honest.
+   → 学生は正直であるべきだ。   [SVC] modal
+○ If you are tired, however, you should rest.
+   → しかしながら、もし疲れたら、休むべきだ。   [SV] modal
+○ Students could be allowed to use phones.
+   → 学生は電話を使うことを許されてもよい。   [SV] v-o-to,modal
+○ It only takes a minute to do it.
+   → それをするのに1分しかかからない。   [SVO] it-takes
+○ It only takes one mistake to lose a game.
+   → 試合に負けるには1つの間違いだけで十分だ。   [SVC] it-takes
+○ It takes courage to speak in public.
+   → 人前で話すには勇気が必要だ。   [SVC] it-takes
+○ It takes effort to learn a language.
+   → 言語を学ぶには努力が必要だ。   [SVC] it-takes
+○ The project took us three years to finish.
+   → プロジェクトは私たちが終えるのに3年かかった。   [SVO] it-takes
+○ This book took me a week to read.
+   → この本は私が読むのに1週間かかった。   [SVO] it-takes
+○ Printing shops had appeared in many cities.
+   → 印刷所は多くの都市に現れていた。   [SV] pastperfect
+○ The team could win the game.
+   → チームは試合に勝てた。   [SVO] modal
+○ They finished the work in a single day.
+   → 彼らはたった1日で仕事を終えた。   [SVO] 
+○ It happened in a single year.
+   → それはたった1年で起こった。   [SV] 
+○ We compared our prices with those of other stores.
+   → 私たちは価格を他の店の価格と比べた。   [SVO] idiom
+○ Those in power often ignore the poor.
+   → 権力を持つ人々はよく貧しい人々を無視する。   [SVO] 
+○ It proved difficult to find a solution.
+   → 解決策を見つけることは難しいと分かった。   [SVC] it-to
+○ It seemed easy to win.
+   → 勝つことは簡単なように思われた。   [SVC] it-to
+○ Phones are useful for recording videos or taking photos.
+   → 電話はビデオを記録したり、写真を撮ったりするために役に立つ。   [SVC] gerund
+○ Stress lowers performance.
+   → ストレスは演技を下げる。   [SVO] 
+○ The performance of this engine is excellent.
+   → このエンジンの性能は優れている。   [SVC] 
+○ Sleep improves students' performance in school.
+   → 睡眠は学校で生徒の成績を向上させる。   [SVO] 
+○ Prices change depending on the season.
+   → 物価は季節によって変わる。   [SV] 
+○ Depending on the weather, we will go out.
+   → 天気によって、私たちは外出するつもりだ。   [SV] modal,idiom
+○ The letters were arranged in order.
+   → 文字は順序で並べられた。   [SV] passive
+○ We arranged the chairs in a circle.
+   → 私たちは円を描いていすを並べた。   [SVO] 
+○ The statue was cast in bronze.
+   → 像は青銅で鋳造された。   [SV] passive
+○ He had once lived in Paris.
+   → 彼はかつてパリに住んでいた。   [SV] pastperfect
 
-parsed 10785 / 10785
+parsed 10854 / 10854

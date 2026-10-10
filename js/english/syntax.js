@@ -1096,7 +1096,7 @@
   const NATION = dic({ chinese: '中国人', japanese: '日本人', english: 'イギリス人', british: 'イギリス人', french: 'フランス人', german: 'ドイツ人', spanish: 'スペイン人', korean: '韓国人', italian: 'イタリア人',
     russian: 'ロシア人', greek: 'ギリシャ人', american: 'アメリカ人', roman: 'ローマ人', egyptian: 'エジプト人', indian: 'インド人', european: 'ヨーロッパ人', asian: 'アジア人', african: 'アフリカ人',
     mexican: 'メキシコ人', canadian: 'カナダ人', australian: 'オーストラリア人', brazilian: 'ブラジル人', dutch: 'オランダ人', swiss: 'スイス人', vietnamese: 'ベトナム人', thai: 'タイ人', arab: 'アラブ人' });
-  const ORG = set('union company team group family government school club band crew staff committee organization association party nation country city town village community firm agency department office army police force class audience public society');
+  const ORG = set('union company team group family government school club band crew staff committee organization association party nation country city town village community firm agency department office army police force class audience public society authority authorities');
   // they / them の先行詞: 直前の複数名詞が人なら 'an'、物なら 'inan'、見つからなければ null
   const ANIMAL_N = /^(?:animals?|species|creatures?|wildlife|mammals?|birds?|fish|fishes|insects?|reptiles?|elephants?|rhinos?|rhinoceros(?:es)?|tigers?|lions?|bears?|wolves|wolf|whales?|sharks?|dolphins?|seals?|turtles?|snakes?|crocodiles?|alligators?|deer|fox|foxes|rabbits?|monkeys?|apes?|gorillas?|chimpanzees?|pandas?|leopards?|cheetahs?|horses?|cows?|cattle|pigs?|sheep|goats?|chickens?|dogs?|cats?|mice|mouse|rats?|bats?|bees?|honeybees?|ants?|butterfly|butterflies|frogs?|penguins?|owls?|eagles?|parrots?|crows?|octopus|octopuses|squids?|crabs?|salmon|tuna|corals?|minks?|beavers?|otters?|giraffes?|zebras?|camels?|kangaroos?|koalas?|pets?|livestock|prey|predators?)$/;
   const ANIMAL_POSS = /^(?:skin|skins|bones|fur|furs|feathers|horns|tusks|shells|meat|eggs|teeth|ivory|wings|tails|hides|scales|behavior|behaviour|behaviors|behaviours|habitat|habitats|instincts|nests|young|migration|diet|diets|populations|offspring|fins|beaks|claws|paws|antlers|venom)$/;
@@ -2343,6 +2343,7 @@
     if (nom.head === 'study' && !nom.pl && /勉強$/.test(ja) && (nom.preJa || /^(?:typical|recent|new|scientific|large|small|famous|similar|another|one|this|the|a|an|earlier|later|previous|classic|field)$/.test((T[nom.end - 2] || {}).w || '') || (detW && /^(?:a|an|the|this|that|one|another|each)$/.test(detW)))) ja = ja.replace(/勉強$/, '研究');   // a typical study → 研究
     if (nom.head === 'letter' && nom.pl && /手紙$/.test(ja) && T.some((x) => x.k === 'w' && /^(?:read|reading|print|printed|screen|screens|page|pages|font|fonts|size|bigger|smaller|larger|alphabet|spell|spelling|capital|keyboard)$/.test(x.w))) ja = ja.replace(/手紙$/, '文字');   // make the letters bigger → 文字
     if (nom.head === 'space' && /宇宙$/.test(ja) && !detW && i > 0 && T[i - 1].k === 'w' && /^(?:of|empty|open|extra|free|enough|much|more|little|storage|parking|living|office|work)$/.test(T[i - 1].w)) ja = ja.replace(/宇宙$/, '空間');
+    if (nom.head === 'letter' && /手紙$/.test(ja) && T.some((x) => x.k === 'w' && /^(?:print|printed|printing|prints|type|alphabet|alphabets|word|words|page|pages|spell|spelled|spelling|capital|cast|arranged|arrange|font|fonts|keyboard|uppercase|lowercase)$/.test(x.w)) && !T.some((x) => x.k === 'w' && /^(?:write|wrote|written|writes|send|sent|sends|mail|mailed|post|posted|receive|received|envelope|stamp|reply|replied|read)$/.test(x.w))) ja = ja.replace(/手紙$/, '文字');
     if (nom.head === 'performance' && /演技$/.test(ja) && !T.some((x) => x.k === 'w' && /^(?:stage|actor|actors|actress|concert|play|plays|theater|theatre|audience|dancer|dancers|singer|musician|musicians|show|piano|violin|perform|performed|performing|movie|film|drama|role|judges|judge|dance|bee|bees)$/.test(x.w))) {
       if (T.some((x) => x.k === 'w' && /^(?:test|tests|exam|exams|school|student|students|class|classes|study|studies|academic|grades|learning|homework)$/.test(x.w))) ja = ja.replace(/演技$/, '成績');
       else if (isW(T[nom.end], 'of') && T.slice(nom.end + 1, Math.min(lim, nom.end + 4)).some((x) => x.k === 'w' && /^(?:engine|engines|computer|computers|machine|machines|car|cars|battery|batteries|device|devices|system|systems|phone|phones|chip|chips|software)$/.test(x.w))) ja = ja.replace(/演技$/, '性能');
@@ -3922,6 +3923,8 @@
     'save|life lives|を|救う',
     'take|medicine medicines medication medications pill pills drug drugs|を|飲む', 'take|risk risks|を|冒す', 'run|risk|を|冒す',
     'take|measure measures step steps|を|講じる',
+    'arrange|letter letters word words chair chairs desk desks table tables book books flower flowers furniture item items piece pieces card cards picture pictures photo photos number numbers block blocks stone stones|を|並べる',
+    'cast|statue statues bell bells type metal coin coins letter letters piece pieces|を|鋳造する',
     'stop|flow flows bleeding spread leak leaks fire fires car cars bus train machine engine clock|を|止める',
     'manage|use time money stress budget risk risks resources data|を|管理する',
     'keep|promise promises secret secrets resolution resolutions rule rules|を|守る', 'tell|lie lies|を|つく', 'suffer|injury injuries|を|する', 'suffer|loss losses damage|を|受ける',
@@ -4707,7 +4710,7 @@
     if (st.never) { parts.push(vg.perfect && !vg.modal ? '一度も' : '決して'); if (vg.perfect) { st.time = st.time.filter((x) => x !== '以前に'); st.other = st.other.filter((x) => x !== '以前に'); } }   // had never tasted it before → 一度も味わったことがなかった
     st.freq.forEach((x) => parts.push(x));
     if (st.just) parts.push('ちょうど');
-    if (st.once && !vg.perfect) parts.push('かつて');
+    if (st.once && (!vg.perfect || vg.past)) parts.push('かつて');
     // like this one better than that one → これのほうがあれより好きだ（better は「上手に」ではない）
     if ((vg.lemma === 'like' || vg.lemma === 'love') && st.manner.some((x) => /上手に$/.test(x)) && (st.other.some((x) => /より$/.test(x)) || st.manner.some((x) => /より(?:上手に)?$/.test(x)))) {
       st.manner = st.manner.map((x) => x.replace(/(?:より)?上手に$/, (q) => (q === '上手に' ? '' : 'より'))).filter((x) => x);
@@ -4719,7 +4722,7 @@
     st.other.forEach((x) => { if (aftO.indexOf(x) < 0) parts.push(x); });
     (objStrs || []).forEach((x) => { if (x) parts.push(x); });
     st.other.forEach((x) => { if (aftO.indexOf(x) >= 0) parts.push(x); });
-    if (st.once && vg.perfect) parts.push('一度');
+    if (st.once && vg.perfect && !vg.past) parts.push('一度');
     st.manner.forEach((x) => parts.push(x));
     const node = { parts: parts, pred: f.pred, past: f.past, neg: f.neg, end: end, sp: sp, also: st.also, perfect: vg.perfect, modal: vg.modal, vg: vg, niSubj: !!st.niSubj, subjSfx: st.subjSfx || '', subjWo: st.subjWo || false, leadAdv: st.leadAdv || '' };
     if (st.soThat) node.cont = { form: 'node', str: st.soThat };          // so 副詞 that ...
@@ -8000,7 +8003,7 @@
       st.subjWo = true;
       return done(Object.assign({}, vg, { passive: false }), P('する', 'suru'), st, j, 'SV', o, [], { noStative: true });
     }
-    if (vg.passive && !objs.length && o.subj && VOBJ[L] && /^(?:present|conduct|launch|implement|enforce|pass|perform|produce|build|raise|set|meet|address|tackle|overcome|break|pose|take|save|keep|miss|seize)$/.test(L) && !(o.subj.pron && /^(?:i|you|he|she|we|they|me|him|her|us|them)$/.test(o.subj.pron))) {
+    if (vg.passive && !objs.length && o.subj && VOBJ[L] && /^(?:present|conduct|launch|implement|enforce|pass|perform|produce|build|raise|set|meet|address|tackle|overcome|break|pose|take|save|keep|miss|seize|arrange|cast)$/.test(L) && !(o.subj.pron && /^(?:i|you|he|she|we|they|me|him|her|us|them)$/.test(o.subj.pron))) {
       const vobP = VOBJ[L].find((x) => x.re.test(plainSubj(o.subj).head || ''));
       if (vobP && vobP.particle === 'を') { name('passive'); return done(vg, P(vobP.core), st, j, 'SV', o, [], { noStative: true }); }
     }

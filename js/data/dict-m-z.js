@@ -1208,6 +1208,7 @@
     ['principle', '名', '原理; 原則; 主義', 1],
     ['print', '動', '〜を印刷する', 1],
     ['print', '名', '活字; 印刷', 2],
+    ['printed material', '名', '印刷物', 3],
     ['printer', '名', 'プリンター', 2],
     ['printing company', '名', '印刷会社', 3],
     ['printing industry', '名', '印刷業', 3],
