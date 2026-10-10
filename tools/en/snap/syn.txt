@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (189ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (184ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -18381,7 +18381,7 @@
 ○ It was not until I lived abroad that I realized how important it is to be able to speak a foreign language.
    → 海外に住んでいて初めて、私は外国語を話すことができるのがどれほど重要か分かった。   [SVO] idiom,indirect-q,cleft
 ○ Many animals that live in the desert are active only at night, when the temperature is lower.
-   → 気温がもっと低いとき、砂漠に住んでいる多くの動物は夜にだけ活動的だ。   [SVC] relative,comparative
+   → 砂漠に住んでいる多くの動物は夜にだけ活動的だ（夜は気温がもっと低い）。   [SVC] relative,comparative,rel-adv
 ○ The company decided to cancel the event because fewer people than expected had signed up for it.
    → 予想より少ない人々がそれに申し込んだので、会社はイベントを取り消すことに決めた。   [SVO] inf-noun,comparative,pastperfect,idiom
 ○ She looks more tired than her sister.
@@ -18805,7 +18805,7 @@
 ○ It is not surprising that people who sleep less than six hours a night often find it difficult to concentrate during the day.
    → 1晩に6時間未満眠る人々がよく日中集中することが難しいと感じるのは驚くに当たらない。   [SVC] relative,svoc,formal-object,it-that
 ○ Tea was first introduced to Europe in the seventeenth century, when it was considered a luxury that only the rich could afford.
-   → お茶は、金持ちだけ買う余裕があったぜいたくだと考えられていたとき、17世紀に最初にヨーロッパに伝えられた。   [SV] passive,modal,relative,it-said
+   → お茶は17世紀に最初にヨーロッパに伝えられた（当時はそれが金持ちだけ買う余裕があったぜいたくだと考えられていた）。   [SV] passive,modal,relative,it-said,rel-adv
 ○ As cities continue to expand, more and more farmland is being converted into housing and shopping centers.
    → 都市が広がり続けるにつれて、ますます多くの農地は住宅とショッピングセンターに変えられている。   [SV] inf-noun,passive,progressive
 ○ One of the main reasons why people fail to keep their New Year's resolutions is that they set goals that are too ambitious.
@@ -19041,7 +19041,7 @@
 ○ It was such a difficult problem that none of the students could solve it.
    → とても難しい問題だったので、学生たちの誰もそれを解けなかった。   [SVC] modal,so-that
 ○ The degree to which a person can adapt to change often determines how successful they will be.
-   → 人がよく変化に適応できる程度は彼らがどれほど成功しているか決定する。   [SVO] modal,idiom,relative,indirect-q
+   → 人がよく変化に適応できる程度は彼らがどれほど成功しているかを決定する。   [SVO] modal,idiom,relative,indirect-q
 ○ What if machines become smarter than the humans who created them?
    → 機械がそれらを創造した人間より賢くなったらどうなるだろうか。   [] what-if
 ○ Living in a foreign country, you learn not only a new language but also new ways of thinking.
@@ -19233,7 +19233,7 @@
 ○ As technology advances, some jobs will disappear, but new ones that we cannot imagine today will be created.
    → 科学技術が進むにつれて、いくつかの仕事は消えるだろうが、私たちが今日想像できない新しい仕事は創造されるだろう。   [SV] modal,relative,passive
 ○ My grandfather, who grew up on a farm, often tells me that life was much harder when he was young.
-   → 農場で育った祖父は、若かったとき、よく私に生活がずっと難しかったと言う。   [SVOO] idiom,relative,comparative,that-clause
+   → 農場で育った祖父はよく私に彼が若かったとき、生活がずっと難しかったと言う。   [SVOO] idiom,relative,comparative,that-clause
 ○ The students were asked to write an essay about a person who had had a great influence on their lives.
    → 学生たちは自分の生活に大きな影響を与えた人についてのエッセイを書くように求められた。   [SV] pastperfect,relative,v-o-to
 ○ Saving money is difficult for young people, especially those who have just started working.
@@ -19301,7 +19301,7 @@
 ○ Unlike many other animals, humans are able to plan for the future and imagine situations they have never experienced.
    → 多くの他の動物とは違って、人間は未来のために計画したり、彼らが一度も経験したことがない状況を想像したりできる。   [SV] perfect,relative,modal
 ○ In recent years, an increasing number of companies have begun to allow their employees to choose when and where they work.
-   → 近年、従業員が彼らがいつどこで働いているか選ぶのを認め始めた会社がますます増えている。   [SVO] indirect-q,v-o-to,inf-noun,perfect
+   → 近年、従業員が彼らがいつどこで働いているか選ぶのを認め始めた会社がますます増えている。   [SVO] v-o-to,inf-noun,perfect,indirect-q
 ○ Although robots can perform many tasks faster than humans, they still struggle with jobs that require common sense.
    → ロボットは多くの仕事を人間より速く行えるけれども、彼らはまだ常識を必要とする仕事に苦しむ。   [SVO] comparative,modal,relative,idiom
 ○ The famous painter did not become successful until after his death, when his works began to sell for large sums of money.
@@ -21706,5 +21706,143 @@
    → 像は青銅で鋳造された。   [SV] passive
 ○ He had once lived in Paris.
    → 彼はかつてパリに住んでいた。   [SV] pastperfect
+○ Almost everyone yawns several times a day, yet scientists still do not fully understand why.
+   → ほとんどみんなは1日に数回あくびをするが、科学者はまだその理由を十分に理解しない。   [SV] 
+○ For many years, the most popular explanation was that yawning brings more oxygen into the body.
+   → 何年も、最も人気のある説明はあくびをすることが体の中により多くの酸素を持ってくるということだった。   [SVC] gerund,that-clause
+○ However, experiments in which people breathed air with extra oxygen did not reduce how often they yawned.
+   → しかしながら、人々が余分な酸素で空気を呼吸した実験は彼らがどのくらいの頻度であくびをしたかを減らさなかった。   [SVO] relative,indirect-q
+○ A newer theory suggests that yawning helps cool the brain when it becomes too warm.
+   → より新しい理論は、暖かくなりすぎると、あくびをすることが脳を冷やすのに役立つことを示唆する。   [SVO] gerund,inf-noun,that-clause
+○ Supporters of this idea point out that people tend to yawn more in winter than in summer, when the outside air is too hot to cool anything.
+   → この考えの支持者は人々が夏によりも冬に多くあくびをする傾向があると指摘する（夏は外側の空気が暑すぎて何も冷やせない）。   [SVO] comparative,that-clause,idiom,too-to,rel-adv
+○ Another interesting fact is that yawning seems to be contagious.
+   → 別の興味深い事実はあくびをすることが伝染性であるようだということだ。   [SVC] gerund,that-clause
+○ Simply seeing, hearing, or even reading about someone else yawning can make you do the same.
+   → 見たり、聞いたり、さらにはあくびをしているほかの誰かについて読んだりするだけのことはあなたに同じことをさせることがある。   [SVOC] participle-mod,gerund,causative,modal
+○ You may have noticed this while reading the last two sentences.
+   → あなたは最後の2つの文を読みながらこれに気づいたかもしれない。   [SVO] participle-const,modal-perfect
+○ Contagious yawning appears to be linked to empathy, the ability to share the feelings of others.
+   → 伝染性のあくびは共感、つまり他の人たちの感情を共有する能力と関連しているようだ。   [SVO] inf-adj,apposition,idiom
+○ Studies have found that people are more likely to catch a yawn from family members and close friends than from strangers.
+   → 研究は人々が見知らぬ人からよりも家族の一員と親しい友達からあくびがうつる可能性がより高いことを明らかにした。   [SVO] idiom,comparative,that-clause,perfect
+○ Interestingly, children under the age of four rarely yawn in response to others.
+   → 興味深いことに、4歳未満の子どもはめったに他の人たちに応えてあくびをしない。   [SV] 
+○ This may be because the skills needed to understand other people's feelings are still developing at that age.
+   → これは他の人々の感情を理解するために必要とされている技術がその年齢にまだ発展しているからかもしれない。   [SVC] inf-adv,participle-mod,progressive,because,modal
+○ Some animals, including chimpanzees and dogs, also seem to catch yawns.
+   → チンパンジーや犬を含むいくつかの動物はまたあくびがうつるようだ。   [SVO] 
+○ Dogs, for example, have been observed yawning after their owners did.
+   → たとえば、それらの飼い主がした後で、犬はあくびをしながら観察された。   [SV] participle-const,passive,perfect
+○ Although such a common action may seem unimportant, studying it could tell us a great deal about how our brains work.
+   → とても一般的な行動は重要でないように思えるかもしれないけれども、それを勉強することは大いに私たちの脳がどのように働いているかについて私たちに教えるかもしれない。   [SVO] modal,gerund,indirect-q
+○ Last summer, I started working part-time at a small Italian restaurant near my house.
+   → 去年の夏に、私は家の近くの小さいイタリアのレストランでアルバイトをし始めた。   [SVO] gerund
+○ On my first day, the owner, Mr. Rossi, showed me around the kitchen and explained what I would be doing.
+   → 私の初日に、所有者であるRossiさんは私に台所を案内して、私が何をするか説明した。   [SVO] apposition,idiom,modal,indirect-q
+○ My main job was to take orders and carry plates to the tables.
+   → 私の主な仕事は注文を取って、テーブルに皿を運ぶことだった。   [SVC] 
+○ It sounded easy, but I soon realized how much there was to remember.
+   → それは簡単そうだったが、私はすぐに覚えることがどれだけあったか分かった。   [SVC] indirect-q
+○ During the lunch rush, I mixed up two orders and brought the wrong dishes to a family with small children.
+   → 昼食時の混雑の間に、私は2つの注文を取り違えて、小さい子どもたちのいる家族に間違った料理を持ってきた。   [SVO] idiom
+○ The children started crying, and I wanted to disappear.
+   → 子どもたちは泣き始めて、私は消えたかった。   [SVO] gerund,inf-noun
+○ To my surprise, Mr. Rossi did not get angry at me.
+   → 驚いたことに、Rossiさんは私に怒らなかった。   [SV] idiom
+○ Instead, he apologized to the family himself and offered them free desserts.
+   → その代わりに、彼は家族に自分で謝って、彼らに無料のデザートを提供した。   [SV] svoo
+○ After they left, he told me that everyone makes mistakes when they are new.
+   → 彼らが出発した後で、彼は私に彼らが新人であるとき、みんなが間違えると言った。   [SVOO] idiom,that-clause
+○ "What matters is that you learn from them," he said with a smile.
+   → 彼は笑顔で「重要なのはあなたがそれらから学ぶということだ」と言った。   [SVO] relative-what,that-clause,direct-speech,quote
+○ From then on, I started writing every order down carefully before going to the kitchen.
+   → それ以来、私は台所に行く前に注意深くすべての注文を書き留め始めた。   [SVO] gerund,idiom
+○ I also began checking each plate twice before carrying it out.
+   → 私はまたそれを運び出す前にそれぞれの皿を2回確かめ始めた。   [SVO] idiom,gerund
+○ By the end of the summer, I could handle even the busiest hours without much trouble.
+   → 夏の終わりまでに、私は多くの困難なしで最も忙しい時間さえ扱えた。   [SVO] modal
+○ More than the skills I gained, though, I will remember the way Mr. Rossi treated me.
+   → しかし、私が得た技術よりも、私はRossiさんが私を扱った方法を覚えるだろう。   [SVO] relative,rel-adv,modal
+○ If I ever become a manager myself, I hope I can be as patient with others as he was with me.
+   → もし私が今までに経営者に自分でなったら、私が彼が私に対してそうだったのと同じくらい他の人たちに対して忍耐強くなれるといいと思う。   [SVO] as-as,modal,that-clause
+○ I do not know why.
+   → 私はその理由が分からない。   [SVO] 
+○ He yawns several times a day, but nobody knows why.
+   → 彼は1日に数回あくびをするが、誰もその理由が分からない。   [SV] 
+○ I wonder why.
+   → 私はなぜだろうと思う。   [SVO] 
+○ It did not reduce how often they yawned.
+   → それは彼らがどのくらいの頻度であくびをしたかを減らさなかった。   [SVO] indirect-q
+○ The internet has changed how people communicate.
+   → インターネットは人々がどのように意思を伝え合うかを変えた。   [SVO] indirect-q,perfect
+○ Sleep affects how well we remember things.
+   → 睡眠は私たちがどのくらい上手に物を覚えているかに影響する。   [SVO] indirect-q
+○ Someone sitting next to me started talking.
+   → 私の隣に座っている誰かが話し始めた。   [SVO] participle-mod,gerund
+○ Reading about someone else yawning can make you yawn.
+   → あくびをしているほかの誰かについて読むことはあなたをあくびをさせることがある。   [SVOC] participle-mod,gerund,causative,modal
+○ Seeing, hearing, or reading about it can make you do the same.
+   → 見たり、聞いたり、それについて読んだりすることはあなたに同じことをさせることがある。   [SVOC] gerund,causative,modal
+○ Loud yawning is rude.
+   → 大きいあくびは失礼だ。   [SVC] 
+○ Empathy, the ability to share the feelings of others, is important.
+   → 共感、つまり他の人たちの感情を共有する能力は重要だ。   [SVC] inf-adj,apposition
+○ Biology, the science of life, is interesting.
+   → 生物学、つまり人生の科学は興味深い。   [SVC] apposition
+○ My brother, the doctor, lives in Tokyo.
+   → 兄、つまり医者は東京に住んでいる。   [SV] apposition
+○ People catch yawns from friends.
+   → 人々は友達からあくびがうつる。   [SVO] 
+○ Some animals also seem to catch yawns.
+   → いくつかの動物はまたあくびがうつるようだ。   [SVO] 
+○ Children under the age of six cannot enter.
+   → 6歳未満の子どもは入れない。   [SV] modal
+○ People over the age of 65 are called seniors.
+   → 65歳以上の人々は年長者と呼ばれている。   [SV] passive
+○ The skills needed to understand others are still developing.
+   → 他の人たちを理解するために必要とされている技術はまだ発展している。   [SV] inf-adv,participle-mod,progressive
+○ He showed me around the kitchen.
+   → 彼は私に台所を案内した。   [SVO] idiom
+○ He explained what I would be doing.
+   → 彼は私が何をするか説明した。   [SVO] modal,indirect-q
+○ I realized how much work there was to do.
+   → 私はする仕事がどれだけあったか分かった。   [SVO] indirect-q
+○ You will see how much there is to learn.
+   → あなたは学ぶことがどれだけあるか見るだろう。   [SVO] indirect-q,modal
+○ He mixed up their names.
+   → 彼は彼らの名前を取り違えた。   [SVO] idiom
+○ I saw a woman with two children.
+   → 私は2人の子どもを連れた女性を見た。   [SVO] 
+○ We met a family with small children.
+   → 私たちは小さい子どもたちのいる家族に会った。   [SVO] 
+○ He was patient with me.
+   → 彼は私に対して忍耐強かった。   [SVC] 
+○ Be patient with your children.
+   → 子どもたちに対して忍耐強くしなさい。   [SVC] imperative
+○ I can be as patient as he was.
+   → 私は彼と同じくらい忍耐強くなれる。   [SVC] as-as,modal
+○ She is as tall as he is.
+   → 彼女は彼と同じくらい背が高い。   [SVC] as-as
+○ He apologized to the family himself.
+   → 彼は家族に自分で謝った。   [SV] 
+○ I am new here.
+   → 私はここは初めてだ。   [SVC] 
+○ She is new to this job.
+   → 彼女はこの仕事は初めてだ。   [SVC] 
+○ Everyone makes mistakes when they are new.
+   → 彼らが新人であるとき、みんなは間違える。   [SV] idiom
+○ Plants grow faster when they get enough light.
+   → 植物は、十分な光を得ると、より速く成長する。   [SV] 
+○ He got enough sleep.
+   → 彼は十分な睡眠をとった。   [SVO] 
+○ More than anything, I want to see him.
+   → 何よりも、私は彼に会いたい。   [SVO] inf-noun
+○ More than money, health is important.
+   → お金よりも、健康は重要だ。   [SVC] 
+○ He carried the box out.
+   → 彼は箱を運び出した。   [SVO] idiom
+○ I visited the town in summer, when the weather was hot.
+   → 私は夏に町を訪れた（夏は天気が暑かった）。   [SVO] rel-adv
 
-parsed 10854 / 10854
+parsed 10923 / 10923

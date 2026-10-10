@@ -6414,6 +6414,14 @@
   function vpIdiom(vg, i, lim, st, o) {
     const list = idiomIndex().verb[vg.lemma];
     if (!list) return null;
+    if (vg.lemma === 'carry' && !vg.passive && i < lim) {
+      const CONC = /^(?:box|boxes|plate|plates|dish|dishes|tray|trays|bag|bags|chair|chairs|table|tables|food|garbage|trash|bottle|bottles|cup|cups|bed|desk|desks|furniture|luggage|suitcase|suitcases|bucket|buckets|basket|baskets|tool|tools)$/;
+      const mCo = mark();
+      const obC = objBefore(i, lim, (x) => isW(x, 'out'));
+      const concC = !!obC && obC.end < lim && isW(T[obC.end], 'out') && (CONC.test(obC.head || '') || (/^(?:it|them)$/.test(obC.pron || '') && T.some((x) => x.k === 'w' && CONC.test(x.w))));
+      if (concC) { name('idiom'); return done(vg, P('運び出す', 'v5'), st, tail(obC.end + 1, lim, st, o, vg), 'SVO', o, [objStr(obC, 'を', st)], { noStative: true }); }
+      fail(mCo);
+    }
     if (/^(?:differ|vary)$/.test(vg.lemma) && seq(i, ['from', 'one']) && T.slice(i + 3, Math.min(lim, i + 7)).some((x, q) => isW(x, 'to') && isW(T[i + 4 + q], 'another'))) return null;
     if (vg.lemma === 'go' && !vg.passive && seq(i, ['out', 'of']) && T[i + 2] && /^(?:my|your|his|her|our|their|its|one's)$/.test(T[i + 2].w || '') && isW(T[i + 3], 'way') && isW(T[i + 4], 'to') && i + 5 < lim && T[i + 5].k === 'w' && !!vc(T[i + 5], ['base'])) {
       const mGw = mark();
@@ -11768,6 +11776,14 @@
           k = ppE0.end;
         } else fail(mE0);
       }
+      if (k < 0 && seq(a, ['more', 'than']) && a + 3 < b) {
+        const cMt = T.findIndex((x, q) => q > a + 2 && q < b - 1 && isP(x, ','));
+        if (cMt > 0) {
+          const mMt = mark();
+          const nMt = np(a + 2, cMt, {});
+          if (nMt && nMt.end === cMt) { st0.other.push((/^(?:anything|everything)$/.test(nMt.pron || '') ? '何' : nMt.ja) + 'よりも'); k = cMt; } else fail(mMt);
+        }
+      }
       if (k < 0 && T[a].k === 'w' && (PREP[T[a].w] || mprepAt(a) || seq(a, ['rather', 'than']) || seq(a, ['all', 'through'])) && T[a].w !== 'to') {
         const m0 = mark();
         let pp = parsePP(a, b, { noRel: true, noCoord: true });
@@ -13678,6 +13694,20 @@
         try { wholeW = clause(a, b, o); } finally { WH_SUBIN = false; }
         if (wholeW) return wrap(wholeW);
         fail(m4);
+      }
+      if (s2.key === 'when' && isP(pv, ',') && j - 2 > a + 1 && T[j - 2].k === 'w' && /^(?:summer|winter|spring|autumn|fall|night|nights|morning|mornings|evening|evenings|weekend|weekends|season|seasons|century|decade|era|period|age|year|years|month|months|day|days|week|weeks|childhood|youth)$/.test(T[j - 2].w) && !T.slice(a, j - 2).some((x) => isW(x, 'when'))) {
+        const mNr = mark();
+        const mnNr = sentence(a, j - 1, o);
+        const scNr = mnNr ? sentence(j + 1, b, { sub: true }) : null;
+        if (mnNr && scNr) {
+          const cNr = nounC(T[j - 2]);
+          const tnNr = /^(?:century|decade|era|period|age|year|years|month|months|day|days|week|weeks|childhood|youth)$/.test(T[j - 2].w) || T[j - 3].k === 'num' || !!ORD[(T[j - 3] || {}).w] ? '当時' : (cNr && cNr.e ? en.jp.first(cNr.e.ja) : '');   // in the seventeenth century, when … → 当時は
+          name('rel-adv');
+          const nodeNr = Object.assign({}, mnNr);
+          nodeNr.out = (y) => mnNr.out(y) + '（' + tnNr + 'は' + scNr.out({ part: 'が' }) + '）';
+          return wrap(nodeNr);
+        }
+        fail(mNr);
       }
       const espS = pv.k === 'w' && /^(?:especially|particularly)$/.test(pv.w) && isP(T[j - 2], ',') && j - 2 > a + 1;
       const je = espS ? j - 2 : (isP(pv, ',') ? j - 1 : j);
