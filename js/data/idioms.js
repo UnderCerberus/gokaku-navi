@@ -372,6 +372,7 @@
     ['date back ~', '〜前にさかのぼる', 2],
     ['dawn on ~', '〜にわかり始める', 3],
     ['death toll', '死者数', 3],
+    ['depending on ~', '〜によって; 〜に応じて', 2],
     ['deter A from doing', 'Aに〜するのを思いとどまらせる', 3],
     ['deviate from ~', '〜から逸脱する', 3],
     ['die down', '静まる; 弱まる', 2],
