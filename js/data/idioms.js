@@ -478,6 +478,7 @@
     ['from person to person', '人によって', 2],
     ['from place to place', '場所によって', 2],
     ['from region to region', '地域によって', 2],
+    ['from scratch', '一から', 2],
     ['from side to side', '左右に', 2],
     ['take a heavy toll on ~', '〜に大きな被害をもたらす', 3],
     ['take a nap', '昼寝をする', 1],
