@@ -94,7 +94,7 @@
   });
 
   const LEAD2 = dic({ 'up to now': 'これまでのところ', 'in the meantime': 'その間に', 'in my view': '私の考えでは', 'on the one hand': '一方では', 'to put it another way': '言い換えると', "to everyone 's surprise": 'みんなが驚いたことに', 'to everyone is surprise': 'みんなが驚いたことに', 'to our surprise': '私たちが驚いたことに', 'to his surprise': '彼が驚いたことに', 'to her surprise': '彼女が驚いたことに', 'to their surprise': '彼らが驚いたことに', 'much to my surprise': 'とても驚いたことに', 'to my joy': 'うれしいことに', 'to my delight': 'うれしいことに', 'to my disappointment': 'がっかりしたことに', 'to my relief': 'ほっとしたことに', 'to our relief': 'ほっとしたことに', 'all things considered': 'すべてを考慮すると', 'even so': 'それでも', 'worse still': 'さらに悪いことに', 'from then on': 'それ以来', 'looking back': '振り返ってみると', 'to my surprise': '驚いたことに',
-    'weather permitting': '天気がよければ', 'so to speak': 'いわば', 'in turn': '今度は', 'as it were': 'いわば', 'frankly speaking': '率直に言えば', 'to be honest': '正直に言うと', 'to tell the truth': '実を言うと', 'to be frank': '率直に言うと',
+    'weather permitting': '天気がよければ', 'so to speak': 'いわば', 'in turn': '今度は', 'good point': 'いい指摘だね。', 'good idea': 'いい考えだね。', 'great idea': 'すばらしい考えだね。', 'as it were': 'いわば', 'frankly speaking': '率直に言えば', 'to be honest': '正直に言うと', 'to tell the truth': '実を言うと', 'to be frank': '率直に言うと',
     'in the beginning': '最初は', 'in short': '要するに', 'above all': '何よりも', 'what is more': 'そのうえ', 'for this reason': 'この理由で', 'for these reasons': 'これらの理由から', 'for some reason': 'なぜか', 'for many reasons': 'いろいろな理由で', 'for that reason': 'その理由で', 'for several reasons': 'いくつかの理由で',
     'in this way': 'このようにして', 'in other words': '言い換えれば', 'that is': 'つまり', 'in my opinion': '私の意見では', 'at that time': 'そのとき',
     'on the contrary': 'それどころか', 'in contrast': '対照的に', 'by contrast': '対照的に', 'as a result': 'その結果', 'for example': 'たとえば',
@@ -1114,6 +1114,7 @@
       const cvP = T[kV] && T[kV].k === 'w' ? vc(T[kV], ['base', 'past', 'pp', '3sg']) : null;
       if (cvP && /^(?:copy|cheat|share|say|said|tell|think|believe|feel|want|hope|know|decide|choose|agree|disagree|complain|admit|answer|reply|respond|vote|work|live|study|learn|read|write|speak|talk|laugh|cry|smile|leave|stay|move|travel|marry|die|survive|own|buy|pay|spend|earn|graduate|attend|join|quit|refuse|try|fail|manage|struggle|suffer|enjoy|prefer|like|love|hate|plan|expect|report|mention|describe|explain|remember|forget|worry|wish|need)$/.test(cvP.lemma) && T.slice(0, i).some((x) => { const cx = x.k === 'w' && !PRON[x.w] ? cand(x, '名', ['pl']) : null; return !!cx && (isPerson(cx) || PERSONS[cx.lemma]); })) return 'an';   // many of them had copied sentences → 彼らの多く
     }
+    if (T[i].w === 'them' && i > 0 && T[i - 1].k === 'w' && /^(?:give|gives|gave|given|giving|send|sends|sent|sending|hand|hands|handed|show|shows|showed|shown|lend|lends|lent|bring|brings|brought|mail|mails|mailed|pass|passes|passed|return|returns|returned)$/.test(T[i - 1].w) && isW(T[i + 1], 'to') && T[i + 2] && T[i + 2].k === 'w' && (!!(PRON[T[i + 2].w] && PRON[T[i + 2].w].an) || /^(?:my|your|his|her|our|their|the|a|an)$/.test(T[i + 2].w))) return 'inan';
     const needAn = isW(T[i], 'their') && !!T[i + 1] && PERSON_POSS.test(T[i + 1].w || '');   // far from their families → 人の名詞を探す
     // Sailors trusted the compass …, but they could not explain it（and / but / so / because のあとの主語の they は、文頭の主語の名詞を受ける）
     if (T[i].w === 'their' && isW(T[0], 'those') && isW(T[1], 'who')) return 'an';
@@ -1409,6 +1410,7 @@
       if (pvW) return { ja: pvW.out({ form: 'attr' }) + (anW ? '人は誰でも' : 'ことは何でも'), end: lim, bare: true, an: anW, whoever: anW, clause: true };
       fail(mWE);
       const gapW = { type: 'np', rel: true, used: false };
+      if (t.w === 'whichever' && i + 3 <= lim && T[i + 1].k === 'w' && PRON[T[i + 1].w] && PRON[T[i + 1].w].sub && T[i + 2] && /^(?:prefer|prefers|preferred)$/.test(T[i + 2].w || '') && i + 3 === lim) return { ja: '好きなほう', end: lim, bare: false, an: false, clause: true };
       const clW = clause(i + 1, lim, { gap: gapW, sub: true });
       if (clW && gapW.used) return { ja: clW.out({ part: 'が', form: 'attr', omit: 'you' }) + (anW ? '人は誰でも' : 'ことは何でも'), end: lim, bare: true, an: anW, whoever: anW, clause: true };
       fail(mWE);
@@ -1925,7 +1927,8 @@
     }
     const p = PRON[t.w];
     const nx = i + 1 < lim ? T[i + 1] : null;
-    const nomNext = !!nx && nx.k !== 'p' && nx.k !== 'pos' && !PRON_ONLY[nx.w] && !(t.w === 'her' && (NO_COMPOUND[nx.w] || /^(?:yesterday|today|tomorrow|tonight|now|then|again|too|also|first|later|soon|already|every|last|next|this|once|twice)$/.test(nx.w))) &&
+    const herOrd = t.w === 'her' && !!nx && /^(?:last|next|first)$/.test(nx.w) && !!T[i + 2] && T[i + 2].k === 'w' && !!nounC(T[i + 2]) && !/^(?:week|weeks|month|months|year|years|night|nights|time|times|summer|winter|spring|autumn|fall|weekend|weekends|morning|evening|afternoon|day|days|sunday|monday|tuesday|wednesday|thursday|friday|saturday|semester|term|season|century|decade|minute|hour)$/.test(T[i + 2].w) && (i === 0 || !(T[i - 1].k === 'w' && !!vc(T[i - 1], ['base', 'past', '3sg']) && !nounC(T[i - 1])));
+    const nomNext = !!nx && nx.k !== 'p' && nx.k !== 'pos' && !PRON_ONLY[nx.w] && !(t.w === 'her' && !herOrd && (NO_COMPOUND[nx.w] || /^(?:yesterday|today|tomorrow|tonight|now|then|again|too|also|first|later|soon|already|every|last|next|this|once|twice)$/.test(nx.w))) &&
       !(t.w === 'her' && !(i > 0 && T[i - 1].k === 'w' && !!PREP[T[i - 1].w]) && ((nx.w === 'well' && (i + 2 >= lim || T[i + 2].k === 'p' || /^(?:and|but|or|because|when|if|now|enough|after|before|since|in|at|on|for|with|to|by|as|than|today|again)$/.test(T[i + 2].w || ''))) || (/^(?:very|so|too|quite|really|pretty|fairly)$/.test(nx.w) && isW(T[i + 2], 'well') && (i + 3 >= lim || T[i + 3].k === 'p' || /^(?:and|but|or|because|when|if|now|that|after|before|since|in|at|on|for|with|to|by|as|than)$/.test(T[i + 3].w || ''))))) &&
       !(t.w === 'her' && /^(?:better|worse|more|less|best|most|least)$/.test(nx.w) && (i + 2 >= lim || T[i + 2].k === 'p' || /^(?:than|now|then|today|again|anymore|and|but|or|because|when|if|every|each|this|these|after|before|since|in|at|on|for|with|from|to|by|as)$/.test(T[i + 2].w || ''))) && !!(nounC(nx) || adjC(nx) || nx.k === 'num' ||
       NUMW[nx.w] !== undefined || NUMMUL[nx.w] || ORD[nx.w] || SECOND_DET[nx.w] || (ADV[nx.w] && ADV[nx.w][1] === 'd' && adjC(T[i + 2])) ||
@@ -2338,6 +2341,7 @@
     if (nom.head === 'study' && !nom.pl && /勉強$/.test(ja) && (nom.preJa || /^(?:typical|recent|new|scientific|large|small|famous|similar|another|one|this|the|a|an|earlier|later|previous|classic|field)$/.test((T[nom.end - 2] || {}).w || '') || (detW && /^(?:a|an|the|this|that|one|another|each)$/.test(detW)))) ja = ja.replace(/勉強$/, '研究');   // a typical study → 研究
     if (nom.head === 'letter' && nom.pl && /手紙$/.test(ja) && T.some((x) => x.k === 'w' && /^(?:read|reading|print|printed|screen|screens|page|pages|font|fonts|size|bigger|smaller|larger|alphabet|spell|spelling|capital|keyboard)$/.test(x.w))) ja = ja.replace(/手紙$/, '文字');   // make the letters bigger → 文字
     if (nom.head === 'space' && /宇宙$/.test(ja) && !detW && i > 0 && T[i - 1].k === 'w' && /^(?:of|empty|open|extra|free|enough|much|more|little|storage|parking|living|office|work)$/.test(T[i - 1].w)) ja = ja.replace(/宇宙$/, '空間');
+    if (nom.head === 'class' && !nom.pl && /授業$/.test(ja) && /^(?:the|our|my|your|his|her|their|whole)$/.test(detW || '') && i >= 2 && ((isW(T[i - 1], 'to') && /^(?:talk|talks|talked|talking|speak|speaks|spoke|speaking|explain|explains|explained|announce|announced|introduce|introduced|show|showed|say|said|read)$/.test(T[i - 2].w || '')) || (/^(?:tell|tells|told|telling|ask|asks|asked|teach|teaches|taught|thank|thanked)$/.test(T[i - 1].w || '')))) ja = ja.replace(/授業$/, 'クラスのみんな');
     if (nom.head === 'thing' && !nom.pl && /物$/.test(ja) && detW === 'a' && nom.n === 1 && nom.preJa && i >= 2 && T[i - 1].k === 'w' && BE[T[i - 1].w] && /^(?:it|that)$/.test(T[i - 2].w || '')) ja = ja.replace(/(?:小さい|小さな)物$/, 'ささいなこと').replace(/物$/, 'こと');
     if (nom.head === 'day' && !nom.pl && nom.ja === '日' && /^(?:my|your|his|her|our|their)$/.test(detW || '')) ja = ja.replace(/日$/, '一日');   // one kind of space → 空間
     if (detW === 'the' && isW(T[i + 1], 'rest') && nom.end === i + 2 && nom.head === 'rest' && /休憩$/.test(ja)) ja = ja.replace(/休憩$/, '残り');   // most of the rest → 残り
@@ -3249,6 +3253,11 @@
       if (c && T[k].k === 'w' && !!vc(T[k], ['ing']) && (!nounC(T[k]) || (k + 1 < lim && T[k + 1].k === 'w' && (DET[T[k + 1].w] !== undefined || (!!nounC(T[k + 1]) && !PREP[T[k + 1].w])))) && k + 1 < lim && T[k + 1].k === 'w' && (DET[T[k + 1].w] !== undefined || !!nounC(T[k + 1]) || !!adjC(T[k + 1]) || /^(?:me|him|her|us|them|it)$/.test(T[k + 1].w)) && i > 0 && T[i - 1].k === 'w' && !!vc(T[i - 1], ['ing'])) break;   // playing the piano and reading novels（reading は名詞にもなる）
       if (c === 'and' && seq(k, ['so', 'on']) && items.length >= 2) { j = k + 2; conj = 'etc'; break; }   // eggs, milk, bread, and so on → 卵、牛乳、パンなど
       let nx = np1(k, lim, oList);
+      if (nx && c === 'and' && nx.end + 1 < lim && T[nx.end].k === 'w' && /^(?:at|in|during|on)$/.test(T[nx.end].w) && T.slice(i + 1, first.end).some((x, q) => x.k === 'w' && /^(?:during|at|in)$/.test(x.w) && /^(?:the|night|day|morning|evening|afternoon|noon|summer|winter|spring|autumn)$/.test((T[i + 2 + q] || {}).w || ''))) {
+        const mTx = mark();
+        const pTx = parsePP(nx.end, lim, { noRel: true });
+        if (pTx && pTx.kind === 'time' && pTx.adn) nx = Object.assign({}, nx, { ja: pTx.adn + nx.ja, end: pTx.end }); else fail(mTx);
+      }
       if (!nx && c && T[k].k === 'w' && !!vc(T[k], ['ing']) && (k + 1 >= lim || T[k + 1].k === 'p') && first.head && /ing$/.test(T[i].w || '')) { const vI = vc(T[k], ['ing']); pick(k, vI.e); nx = { ja: en.jp.first(vI.e.ja).replace(/^〜?(?:を|に|が|と)/, '') + 'こと', end: k + 1, gerund: true }; }   // cooking and eating → 料理と食べること
       if (c && T[k].k === 'w' && !!vc(T[k], ['base', 'past']) && T[k + 1] && T[k + 1].k === 'w' && /^(?:it|them|him|her|me|us)$/.test(T[k + 1].w)) break;   // felt sorry for the bird and set it free（set it は動詞句）
       if (!nx && c && T[k].k === 'w' && ingVerb(k, lim) && /ing$/.test(T[i].w || '') && items.length === 1) { const gx = gerundNP(k, lim); if (gx) nx = gx; }   // swimming and playing tennis → 水泳とテニスをすること
@@ -3357,6 +3366,7 @@
     switch (key) {
       case 'of': return R(n + 'の', 'of', n + 'の');
       case 'during':
+        if (/^(?:day|night|daytime)$/.test(obj.head || '') && obj.det === 'the' && !obj.pron) { const dJ = obj.head === 'night' ? '夜の間' : '日中'; return R(dJ, 'time', dJ + 'の'); }
         if (obj.head && /^(?:sleep|class|classes|lunch|dinner|breakfast|meal|meals|work|vacation|vacations|holiday|holidays|meeting|meetings|exam|exams|test|tests|flight|flights|game|games|lesson|lessons|travel|trip)$/.test(obj.head) && (!obj.det || obj.det === 'the') && !obj.pron && !/の/.test(n)) return R(n + '中に', 'time', n + '中の');   // during sleep → 睡眠中に
         break;
       case 'through':
@@ -3502,6 +3512,24 @@
     if (t.w === 'as' && T[i + 1] && /^(?:much|many|few|little)$/.test(T[i + 1].w || '') && T[i + 2] && T[i + 2].k === 'w' && !isW(T[i + 2], 'as') && T.slice(i + 3, Math.min(lim, i + 7)).some((x) => isW(x, 'as'))) return null;   // as much free time as before
     if (--BUDGET < 0) return null;
     const m = mark();
+    if (t.w === 'on' && isW(T[i + 1], 'the') && i + 2 < lim && T[i + 2]) {
+      const dOrd = (x) => {
+        if (!x) return 0;
+        if (x.k === 'num') { const mN = /^(\d{1,2})(?:st|nd|rd|th)$/.exec(String(x.s || x.w)); return mN ? Number(mN[1]) : 0; }
+        if (x.k !== 'w') return 0;
+        const U = { first: 1, second: 2, third: 3, fourth: 4, fifth: 5, sixth: 6, seventh: 7, eighth: 8, ninth: 9, tenth: 10, eleventh: 11, twelfth: 12, thirteenth: 13, fourteenth: 14, fifteenth: 15, sixteenth: 16, seventeenth: 17, eighteenth: 18, nineteenth: 19, twentieth: 20, thirtieth: 30 };
+        if (U[x.w]) return U[x.w];
+        const mW = /^(twenty|thirty)-(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)$/.exec(x.w);
+        return mW ? (mW[1] === 'twenty' ? 20 : 30) + U[mW[2]] : 0;
+      };
+      const dV = dOrd(T[i + 2]);
+      const MON = { january: 1, february: 2, march: 3, april: 4, may: 5, june: 6, july: 7, august: 8, september: 9, october: 10, november: 11, december: 12 };
+      if (dV >= 1 && dV <= 31 && (i + 3 >= lim || T[i + 3].k === 'p' || (T[i + 3].k === 'w' && !nounC(T[i + 3])) || (isW(T[i + 3], 'of') && T[i + 4] && MON[T[i + 4].w]))) {
+        const monV = isW(T[i + 3], 'of') && T[i + 4] && MON[T[i + 4].w] ? MON[T[i + 4].w] : 0;
+        const jaD = (monV ? monV + '月' : '') + dV + '日';
+        return { ja: jaD + 'に', adn: jaD + 'の', end: monV ? i + 5 : i + 3, kind: 'time', prep: 'on', obj: { ja: jaD, time: true, end: monV ? i + 5 : i + 3 } };
+      }
+    }
     if (t.w === 'all' && isW(T[i + 1], 'through') && i + 2 < lim) {
       const pAt = parsePP(i + 1, lim, o);
       if (pAt && pAt.obj) return Object.assign({}, pAt, { ja: /の間ずっと$/.test(pAt.ja) ? pAt.ja : pAt.obj.ja + 'の間ずっと', adn: pAt.obj.ja + 'の間ずっとの', kind: 'time', prep: 'all through' });
@@ -4492,7 +4520,7 @@
         else p = canP(p);
         break;
       case 'could':
-        if (!vg.perfect && !o.subjunctive && !o.wish && !o.q && verbal(p) && !T.some((x, q) => q !== vg.idx && x.k === 'w' && (/^(?:yesterday|ago|then|last|when)$/.test(x.w) || (!!vc(x, ['past']) && !vc(x, ['base', '3sg', 'pp']) && !MODAL[x.w]))) &&
+        if (!vg.perfect && !o.subjunctive && !o.wish && !o.q && verbal(p) && !T.some((x, q) => q !== vg.idx && x.k === 'w' && (/^(?:yesterday|ago|then|when)$/.test(x.w) || (x.w === 'last' && /^(?:week|year|month|night|summer|winter|spring|autumn|fall|time|weekend|sunday|monday|tuesday|wednesday|thursday|friday|saturday)$/.test((T[q + 1] || {}).w || '')) || (!!vc(x, ['past']) && !vc(x, ['base', '3sg', 'pp']) && !MODAL[x.w]))) &&
           (T.slice(0, vg.idx).some((x) => x.k === 'w' && /^(?:maybe|perhaps)$/.test(x.w)) || o.mainPresent)) { p = canP(p); if (!o.mainPresent && !neg) p = P(p.plain() + 'かもしれない', 'i'); past = false; break; }
         if (!vg.perfect && !neg && !o.subjunctive && !o.wish && !o.q && verbal(p) && (T.some((x, q) => x.k === 'w' && (/^(?:future|someday|eventually|soon|tomorrow)$/.test(x.w) || (x.w === 'one' && isW(T[q + 1], 'day') && q > 0))) || (o.sub && T.some((x) => x.k === 'w' && /^(?:warn|warns|fear|fears|say|says|think|thinks|believe|believes|argue|argues|predict|predicts|suggest|suggests|worry|worries|claim|claims|worried|concerned|afraid)$/.test(x.w)) && !T.some((x) => x.k === 'w' && /^(?:said|thought|believed|argued|predicted|claimed|warned|feared)$/.test(x.w)))) && !T.some((x) => x.k === 'w' && /^(?:yesterday|ago|then)$/.test(x.w))) { p = P((/^(?:solve|help|save|cure|prevent|provide|produce|find|reduce|improve|feed|protect|treat|stop)$/.test(vg.lemma) && !/(?:く|に)(?:する|させる|なる)$/.test(p.plain()) ? canP(p).plain() : p.plain()) + 'かもしれない', 'i'); past = false; break; }
         if (!vg.perfect && !o.subjunctive && T.some((x) => x.k === 'w' && /^(?:today|nowadays)$/.test(x.w)) && !T.some((x, q) => q !== vg.idx && x.k === 'w' && !!vc(x, ['past']) && !vc(x, ['base', '3sg', 'pp']) && !MODAL[x.w])) { p = canP(p); past = false; break; }   // Few people today could find their way … → 見つけられる人はほとんどいない
@@ -10501,6 +10529,16 @@
     const form = ingVerb(j, e) || ingAdjPost ? 'ing' : (vc(t, ['pp']) && !PREP[t.w] ? 'pp' : '');
     // a chair reading a newspaper（物の名詞に人の動作の -ing は付けない → 付帯の分詞として主節で読む）
     if (!node.an && !node.pron && t.k === 'w' && !!vc(t, ['ing']) && /^(?:read|write|eat|drink|talk|sing|watch|listen|play|wait|look|smile|cry|think|hold|study|speak|laugh|dance|chat|text|type|knit|sew|draw|paint)$/.test((vc(t, ['ing']) || {}).lemma || '') && /^(?:chair|chairs|bench|benches|sofa|couch|bed|beds|table|tables|desk|desks|floor|tree|trees|wall|window|door|car|train|bus|room|house|park|garden|street|corner|rock|stone|box|grass|beach|stairs|step|steps)$/.test(node.head || '')) return fail(m);
+    if (t.k === 'w' && !node.pron && !node.pl && !node.an && node.head && j + 1 < e && !!vc(t, ['ing']) && !adjC(t) && T[j + 1].k === 'w' && /^(?:app|apps|software|tool|tools|machine|machines|company|companies|industry|business|process|technique|techniques|skill|skills|class|classes|course|courses|program|programs|system|systems|plant|factory|center|room|team|department|method|methods|equipment|service|services|site|website|device|devices|lesson|lessons|club|contest|competition|program|machine|business)$/.test(T[j + 1].w) && (j + 2 >= e || T[j + 2].k !== 'w' || !nounC(T[j + 2]) || !!PREP[T[j + 2].w] || /^(?:last|next|this|every|yesterday|today|tomorrow|and|or|but)$/.test(T[j + 2].w))) {
+      const vCp = vc(t, ['ing']);
+      const coreCp = vCp && vCp.e ? verbSense(vCp.e, true).core : '';
+      const n2Cp = nounC(T[j + 1]);
+      if (/^[^をにがでと]+する$/.test(coreCp) && n2Cp && n2Cp.e) {
+        pick(j, vCp.e); pick(j + 1, n2Cp.e);
+        name('compound');
+        return Object.assign({}, node, { ja: node.ja + coreCp.replace(/する$/, '') + en.jp.first(n2Cp.e.ja), end: j + 2, head: n2Cp.lemma, pl: /s$/.test(T[j + 1].w) && T[j + 1].w !== n2Cp.lemma });
+      }
+    }
     if (isW(t, 'lined') && isW(T[j + 1], 'with') && !node.pron && !o.noPart && j + 2 < e) {
       const mLn = mark();
       const ppLn = parsePP(j + 1, e, { noRel: true });
@@ -13733,7 +13771,7 @@
           if (imLs) { const nodeLs = Object.assign({}, left); nodeLs.out = (y) => (w === 'but' ? left.out(Object.assign({}, y || {})) + 'が、' : left.out(Object.assign({}, y || {}, { form: w === 'so' ? 'node' : 'te' })) + (w === 'so' ? 'ので、' : '、')) + imLs.out(y); return wrap(nodeLs); }   // so let's stay home
           fail(mLs);
         }
-        let right = (thenPred && left.subj && T[rs].k === 'w' && !!vc(T[rs], ['3sg', 'past', 'base']) && !(PRON[T[rs].w] && PRON[T[rs].w].sub) && DET[T[rs].w] === undefined) || modalStart ? null : sentence(rs, b, o);   // and then circles back to repeat the pattern（circles は動詞）
+        let right = (thenPred && left.subj && T[rs].k === 'w' && !!vc(T[rs], ['3sg', 'past', 'base']) && !(PRON[T[rs].w] && PRON[T[rs].w].sub) && DET[T[rs].w] === undefined) || modalStart ? null : sentence(rs, b, w === 'so' && !left.past && !left.perfect ? Object.assign({}, o, { mainPresent: true }) : o);   // and then circles back to repeat the pattern（circles は動詞）
         if (right && thenPred) { const ro1 = right.out; right = Object.assign({}, right, { out: (z) => 'それから' + ro1(z) }); }
         const advOr = w === 'or' && je < j && T.slice(a, je).some((x, q) => x.k === 'w' && (/^(?:should|must)$/.test(x.w) || (x.w === 'better' && /^(?:had|'d)$/.test((T[a + q - 1] || {}).w || '')) || (x.w === 'to' && /^(?:have|has)$/.test((T[a + q - 1] || {}).w || '')))) && T.slice(rs, b).some((x) => x.k === 'w' && /^(?:will|would|may|might)$/.test(x.w));
         if (right) return wrap(joinCoord(w, left, right, advOr));
@@ -17325,6 +17363,16 @@
           reset(tokens);
           const imI = imperative(kI, b);
           if (imI) { const leadI = kI === 3 ? 'その後、' : LEADI[T[0].w], outI = imI.out; node = Object.assign({}, imI, { out: (x) => leadI + outI(x) }); }
+        }
+      }
+      if (!node && !q && b > 2) {
+        let kG = 0, leadG = '';
+        for (let len = 3; len >= 2 && !kG; len--) { const keyG = phraseKey(0, len, b); if (keyG && LEAD2[keyG] && isP(T[len], ',')) { kG = len + 1; leadG = LEAD2[keyG]; } }
+        if (isW(T[kG], 'so') && isW(T[kG + 1], 'let')) { leadG += (leadG && !/。$/.test(leadG) ? '、' : '') + 'それなら、'; kG++; }
+        if (kG > 0 && kG < b) {
+          reset(tokens);
+          const imG = imperative(kG, b);
+          if (imG) { const outG = imG.out; const lg = /[。、]$/.test(leadG) ? leadG : leadG + '、'; node = Object.assign({}, imG, { out: (x) => lg + outG(x) }); }
         }
       }
       // For more information, please visit our website. / In case of fire, use the stairs.（前置きの句 + コンマ + 命令文）
