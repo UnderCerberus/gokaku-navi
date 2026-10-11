@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (184ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (201ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -21765,7 +21765,7 @@
 ○ More than the skills I gained, though, I will remember the way Mr. Rossi treated me.
    → しかし、私が得た技術よりも、私はRossiさんが私を扱った方法を覚えるだろう。   [SVO] relative,rel-adv,modal
 ○ If I ever become a manager myself, I hope I can be as patient with others as he was with me.
-   → もし私が今までに経営者に自分でなったら、私が彼が私に対してそうだったのと同じくらい他の人たちに対して忍耐強くなれるといいと思う。   [SVO] as-as,modal,that-clause
+   → もし私がいつか経営者に自分でなったら、私が彼が私に対してそうだったのと同じくらい他の人たちに対して忍耐強くなれるといいと思う。   [SVO] as-as,modal,that-clause
 ○ I do not know why.
    → 私はその理由が分からない。   [SVO] 
 ○ He yawns several times a day, but nobody knows why.
@@ -21844,5 +21844,157 @@
    → 彼は箱を運び出した。   [SVO] idiom
 ○ I visited the town in summer, when the weather was hot.
    → 私は夏に町を訪れた（夏は天気が暑かった）。   [SVO] rel-adv
+○ When people think of pollution, they usually picture dirty air or water, but noise can also harm our health.
+   → 人々が汚染のことを考えるとき、たいてい汚い空気か水を思い描くが、騒音はまた私たちの健康を害することがある。   [SVO] idiom,modal
+○ In large cities, the sound of traffic, construction, and airplanes rarely stops, even late at night.
+   → 大きい都市では、交通と建設と飛行機の音はめったに夜遅くさえ止まらない。   [SV] 
+○ Constant exposure to loud noise can damage our hearing over time.
+   → 大きい騒音に絶え間なくさらされることは時間とともに私たちの聴力を損なうことがある。   [SVO] modal
+○ Less obviously, it can also raise blood pressure and increase the risk of heart disease.
+   → それほど目立たないが、それはまた血圧を上げたり、心臓病の危険を増やしたりできる。   [SVO] modal
+○ One reason is that noise triggers the body's stress response, even when we are asleep.
+   → 理由の1つは私たちが眠っているときでさえ、騒音が体のストレス反応を引き起こすということだ。   [SVC] that-clause
+○ Our hearts beat faster and our muscles tighten, although we may not wake up or remember anything the next morning.
+   → 私たちは目が覚めず、翌朝何も覚えていないかもしれないけれども、私たちの心臓はもっと速く打って、私たちの筋肉はこわばる。   [SV] idiom,modal
+○ Children seem to be especially sensitive to the effects of noise.
+   → 子どもは騒音の影響に特に敏感であるようだ。   [SVO] 
+○ In one study, pupils at a school located near a busy airport scored lower on reading tests than pupils at a quieter school.
+   → ある研究では、混雑した空港の近くにあった学校の生徒は読解テストでより静かな学校の生徒より低く得点した。   [SV] participle-mod,comparative
+○ After the airport moved to a different location, the gap between the two schools gradually disappeared.
+   → 空港が異なる場所に移転した後で、2つの学校の間の差は徐々に消えた。   [SV] 
+○ Fortunately, there are many ways to reduce noise in our daily lives.
+   → 幸運にも、私たちの日常生活で騒音を減らす方法はたくさんある。   [SV] inf-adj,there
+○ Cities can plant trees along busy roads, since leaves and branches absorb some of the sound.
+   → 葉と枝が音の一部を吸収するので、都市は交通量の多い道路に沿って木を植えられる。   [SVO] modal
+○ Building walls next to highways is another common solution, though it can be expensive.
+   → それは高いこともあるけれども、幹線道路の隣に壁を建てることは別の一般的な解決策だ。   [SVC] gerund,modal
+○ Individuals can also make a difference by choosing quieter appliances and keeping the volume of music down.
+   → 個人はまたより静かな器具を選んで、音楽の音量を抑えることによって変化をもたらすことができる。   [SV] idiom,gerund,modal
+○ Even small changes, such as closing windows at night, may help people sleep better.
+   → 夜に窓を閉めることのような小さい変化さえ人々がよりよく眠るのに役立つかもしれない。   [SVOC] gerund,causative,modal
+○ As our cities continue to grow, it will become increasingly important to treat silence as a valuable resource.
+   → 私たちの都市が成長し続けるにつれて、沈黙を貴重な資源として扱うことはますます重要になるだろう。   [SVC] inf-noun,idiom,it-to,modal
+○ I hope this letter finds you both well.
+   → お二人ともお元気でお過ごしのことと存じます。   [] fixed
+○ It has already been a month since I returned to Japan, but I still think about my stay with you almost every day.
+   → 私が日本に戻ってから、すでに1か月になるが、私はほとんど毎日まだあなたのところでの滞在について考える。   [SV] it-has-been,idiom
+○ Thank you so much for welcoming me into your home and treating me like a member of your family.
+   → あなたの家の中に私を歓迎して、あなたの家族のメンバーのように私を扱ってくれてありがとう。   [] fixed,gerund
+○ When I first arrived, I was so nervous that I could hardly speak.
+   → 私は初めて到着したとき、とても緊張していたので、ほとんど話せなかった。   [SVC] modal,so-that
+○ You were always patient with me, even when I made mistakes with my English.
+   → 私が英語で間違えたときでさえ、あなたはいつも私に対して忍耐強かった。   [SVC] idiom
+○ I especially remember the evening you taught me how to bake bread.
+   → 私はあなたが私にパンの焼き方を教えてくれた夕方を特に覚えている。   [SVO] indirect-q,rel-adv
+○ It was the first time I had ever made anything from scratch, and I was surprised at how delicious it tasted.
+   → 一から何かを作ったのは初めてで、私はそれがどれほどおいしかったかに驚いた。   [SVC] pastperfect,idiom,indirect-q
+○ I have baked bread three times since I came home, and my family loves it.
+   → 私は帰宅して以来、パンを3回焼いたことがあって、家族はそれが大好きだ。   [SVO] perfect,idiom
+○ My little brother says it is better than the bread we buy at the store!
+   → 弟はそれが私たちが店で買うパンより良いと言う。   [SVO] comparative,relative,that-clause
+○ I also enjoyed our trip to the lake, even though it rained the whole weekend.
+   → 週末ずっと雨が降ったけれども、私はまた湖への私たちの旅行を楽しんだ。   [SVO] 
+○ Playing cards by the fire with you and your children is one of my favorite memories.
+   → 火のそばにあなたとあなたの子どもたちと一緒にカードをすることは私のお気に入りの記憶の1つだ。   [SVC] gerund
+○ Thanks to you, I am now much more confident about speaking English.
+   → あなたのおかげで、私は今英語を話すことについてずっと自信がある。   [SVC] comparative,gerund
+○ I am planning to study abroad again when I enter university, and I hope I can visit you then.
+   → 私は大学に入るときもう一度留学するつもりで、そのときあなたを訪ねられるといいと思う。   [SVO] idiom,inf-noun,progressive,modal,that-clause
+○ If you ever come to Japan, please let me know, as I would love to show you around my hometown.
+   → もしいつか日本に来たら、私があなたに故郷を案内したいので、知らせてください。   [SVO] let-me,imperative,idiom,inf-noun
+○ Please give my best wishes to Emma and Jack.
+   → エマとジャックによろしくお伝えください。   [] fixed
+○ We may not wake up or remember anything the next morning.
+   → 私たちは目が覚めず、翌朝何も覚えていないかもしれない。   [SV] idiom,modal
+○ He will not call or write to you.
+   → 彼は電話をかけず、あなたに書かないだろう。   [SV] modal
+○ You must not touch or move the box.
+   → あなたは触れたり、箱を動かしたりしてはいけない。   [SV] modal
+○ We cannot see or hear anything.
+   → 私たちは何も見たり聞こえたりできない。   [SVO] modal
+○ I would not change or remove anything.
+   → 私は何も変えたり取り除いたりしないだろう。   [SVO] modal
+○ They might not notice or care.
+   → 彼らは気づかず、気にかけないかもしれない。   [SV] modal
+○ He may know the answer.
+   → 彼は答えを知っているかもしれない。   [SVO] modal
+○ They may have different opinions.
+   → 彼らは異なる意見を持っているかもしれない。   [SVO] modal
+○ You may remember me.
+   → あなたは私を覚えているかもしれない。   [SVO] modal
+○ They might know each other.
+   → 彼らは知り合いかもしれない。   [SV] modal
+○ We may not remember his name.
+   → 私たちは彼の名前を覚えていないかもしれない。   [SVO] modal
+○ This bread is bigger than the bread we buy.
+   → このパンは私たちが買うパンより大きい。   [SVC] comparative,relative
+○ This book is more interesting than the book I read last week.
+   → この本は私が先週読んだ本より興味深い。   [SVC] comparative,relative
+○ She is taller than the boy I met.
+   → 彼女は私が会った少年より背が高い。   [SVC] comparative,relative
+○ It is cheaper than the one you bought.
+   → それはあなたが買ったものより安い。   [SVC] comparative,relative
+○ Simple habits, such as walking every day, can improve your health.
+   → 毎日歩くことのような簡単な習慣はあなたの健康を改善できる。   [SVO] gerund,modal
+○ Some activities, such as reading books, help us relax.
+   → 本を読むことのようないくつかの活動はくつろぐのに役立つ。   [SVOC] gerund,causative
+○ Small changes such as closing windows may help.
+   → 窓を閉めることのような小さい変化は役に立つかもしれない。   [SV] gerund,modal
+○ It was the first time I had ever made bread, and it was fun.
+   → パンを作ったのは初めてで、それは楽しかった。   [SVC] pastperfect,idiom
+○ This is the first time I have ever seen snow.
+   → 雪を見たのはこれが初めてだ。   [] idiom
+○ I made it from scratch.
+   → 私は一からそれを作った。   [SVO] 
+○ I was surprised at how good it smelled.
+   → 私はそれがどれほど良いにおいがしたかに驚いた。   [SVC] indirect-q
+○ I know how delicious it tastes.
+   → 私はそれがどれほどおいしいか知っている。   [SVO] indirect-q
+○ Long exposure to the sun is dangerous.
+   → 太陽に長くさらされることは危険だ。   [SVC] 
+○ The amount of exposure to sunlight matters.
+   → 日光にさらされる量は重要だ。   [SV] 
+○ They scored lower on the test than other pupils.
+   → 彼らは試験で他の生徒たちより低く得点した。   [SV] comparative
+○ He scored higher on the test than me.
+   → 彼は試験で私より高く得点した。   [SV] comparative
+○ They scored lower on reading tests than pupils at a quieter school.
+   → 彼らは読解テストでより静かな学校の生徒より低く得点した。   [SV] comparative
+○ I live on a busy street.
+   → 私は交通量の多い通りに住んでいる。   [SV] 
+○ Tokyo is a busy city.
+   → 東京はにぎやかな都市だ。   [SVC] 
+○ Trees absorb some of the noise.
+   → 木は騒音の一部を吸収する。   [SVO] 
+○ I ate some of the cake.
+   → 私はケーキの一部を食べた。   [SVO] 
+○ The company moved to Osaka.
+   → 会社は大阪に移転した。   [SV] 
+○ Please keep the noise down.
+   → 騒音を抑えてください。   [SVO] idiom,imperative
+○ We should keep costs down.
+   → 私たちは費用を抑えるべきだ。   [SVO] modal,idiom
+○ He kept his head down.
+   → 彼は頭を下げたままにした。   [SVO] idiom
+○ The volume of music was too loud.
+   → 音楽の音量は大きすぎた。   [SVC] too
+○ I enjoyed my stay with your family.
+   → 私はご家族のところでの滞在を楽しんだ。   [SVO] 
+○ I will never forget my stay with the Smiths.
+   → 私はスミス一家のところでの滞在を決して忘れない。   [SVO] modal
+○ It rained all weekend.
+   → 週末ずっと雨が降った。   [SV] 
+○ I slept the whole day.
+   → 私は一日中眠った。   [SV] 
+○ I studied the whole night.
+   → 私は一晩中勉強した。   [SV] 
+○ We spent the whole day at the beach.
+   → 私たちは浜辺で一日中過ごした。   [SVO] 
+○ I want to study abroad again when I enter university, and I hope I can visit you.
+   → 私は大学に入るときもう一度留学したくて、あなたを訪ねられるといいと思う。   [SVO] idiom,inf-noun,modal,that-clause
+○ If you ever visit Kyoto, call me.
+   → もしいつか京都を訪れたら、私に電話しなさい。   [SVO] imperative
+○ The problem is that he is always late, even when he leaves early.
+   → 問題は彼が早く出発するときでさえ、いつも遅れるということだ。   [SVC] idiom,that-clause
 
-parsed 10923 / 10923
+parsed 10999 / 10999
