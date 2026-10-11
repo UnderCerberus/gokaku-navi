@@ -2,7 +2,7 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['stress response', '名', 'ストレス反応', 3],
+    ['mix', '名', '混ざり合い; 組み合わせ; 混合', 2],
 ]
 def key(w):
     return w.lower()
