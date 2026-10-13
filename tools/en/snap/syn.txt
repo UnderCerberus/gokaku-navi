@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (201ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (206ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -18357,7 +18357,7 @@
 ○ It took the team almost ten years to develop a vaccine that could protect people from the disease.
    → チームが人々を病気から守れたワクチンを開発するのにほぼ10年かかった。   [SVO] modal,idiom,relative,it-takes
 ○ Students who take part in club activities tend to learn how to work together and solve problems.
-   → 部活動に参加する生徒は一緒に働いて、問題の解決の仕方を学ぶ傾向がある。   [SVO] idiom,relative,indirect-q
+   → 部活動に参加する生徒は一緒に働いて、問題を解決する方法を学ぶ傾向がある。   [SVO] idiom,relative,indirect-q
 ○ The more time children spend outdoors, the less likely they are to become nearsighted.
    → 子どもが時間を屋外でたくさん費やせば費やすほど、近視になる可能性はますます低くなる。   [SV] the-more
 ○ Instead of throwing away old clothes, many people now sell them online or give them to charity.
@@ -18407,9 +18407,9 @@
 ○ Although the city has grown rapidly over the past twenty years, it has managed to preserve many of its historic buildings.
    → 都市は過去20年間にわたって急速に成長してきたけれども、その歴史的な建物の多くを何とか保存した。   [SVO] perfect
 ○ People who move to a new country often experience culture shock, especially during the first few months.
-   → 新しい国に移り住む人々はよく特に最初の数か月の間にはカルチャーショックを経験する。   [SVO] relative
+   → 新しい国に移り住む人々はよく特に最初の数か月の間にはカルチャーショックを経験する。   [SVO] relative (103ms)
 ○ Researchers have found that taking short breaks while studying can actually improve concentration and memory.
-   → 研究者は勉強しながら短い休憩を取ることが集中と記憶を実際に改善できることを明らかにした。   [SVO] participle-const,gerund,modal,that-clause,perfect
+   → 研究者は勉強しながら短い休憩を取ることが集中と記憶を実際に改善できることを明らかにした。   [SVO] participle-const,gerund,modal,that-clause,perfect (129ms)
 ○ The library will be closed for two weeks while the old shelves are replaced with new ones.
    → 古い棚が新しい棚で取って代わられている間に、図書館は2週間休館になる。   [SV] passive,modal
 ○ Many young people today would rather spend money on experiences such as travel than on things like cars or clothes.
@@ -21996,5 +21996,131 @@
    → もしいつか京都を訪れたら、私に電話しなさい。   [SVO] imperative
 ○ The problem is that he is always late, even when he leaves early.
    → 問題は彼が早く出発するときでさえ、いつも遅れるということだ。   [SVC] idiom,that-clause
+○ Of the roughly seven thousand languages spoken in the world today, nearly half are in danger of disappearing by the end of this century.
+   → 今日世界で話されているおよそ7000の言語のうち、ほぼ半分は今世紀末までに消える危険がある。   [SVC] participle-mod,gerund,idiom
+○ A language usually dies not because people suddenly stop speaking it, but because parents gradually stop passing it on to their children.
+   → 言語がたいてい死ぬのは、人々がそれを話すのを突然やめるからではなく、親が自分の子どもたちにそれを伝えるのを徐々にやめるからだ。   [] gerund,idiom,not-but
+○ When a community moves to a city or comes into contact with a more powerful culture, young people often find that speaking the dominant language brings better jobs and higher status.
+   → 地域社会が都市に移り住んだりより強力な文化と接触したりすると、若い人々はよく支配的な言語を話すことがより良い仕事とより高い地位をもたらすことに気づく。   [SVO] idiom,gerund,that-clause
+○ Over time, the older language comes to be seen as old-fashioned, and children may even feel embarrassed to use it in public.
+   → 時間とともに、より古い言語は旧式だとみなされるようになって、子どもは人前でそれを使うのが恥ずかしくさえあるかもしれない。   [SVO] passive,inf-adv,modal
+○ Once the last fluent speakers pass away, much of the knowledge stored in the language is lost with them.
+   → いったん最後の流暢な話す人たちが亡くなると、言語で蓄えられた知識の多くは彼らと一緒に失われている。   [SV] idiom,participle-mod,passive
+○ This matters because every language reflects a unique way of understanding the world.
+   → すべての言語が世界を理解する独自の方法を反映するので、これは重要だ。   [SV] 
+○ Some languages, for example, have dozens of words for different kinds of snow or rain, while others describe directions in terms of mountains and rivers rather than left and right.
+   → たとえば、いくつかの言語には何十もの異なる種類の雪か雨を表す語があるが、ほかの言語は左右というよりむしろ山と川の観点から方向を描写する。   [SVO] comparative
+○ Linguists also point out that many traditional names for plants contain information about how they can be used as medicine.
+   → 言語学者はまた植物を表す多くの伝統的な名前がそれらがどのように薬として使われることができるかについて情報を含んでいると指摘する。   [SVO] passive,modal,indirect-q,that-clause,idiom
+○ Fortunately, a number of communities are working hard to bring their languages back to life.
+   → 幸運にも、いくつかの地域社会は自分の言語を生き返らせるために一生懸命に働いている。   [SV] idiom,inf-adv,progressive
+○ In New Zealand, preschools where children hear only the Maori language have helped thousands of young people become fluent.
+   → ニュージーランドでは、子どもがマオリの言語しか聞かない幼稚園は何千もの若い人々が流暢になるのに役立った。   [SVOC] rel-adv,causative,perfect
+○ Other groups are recording elderly speakers and creating online dictionaries so that future generations can learn from them.
+   → 未来の世代がそれらから学べるように、他のグループは年配の話す人たちを記録していて、オンラインの辞書を創造している。   [SVO] progressive,modal
+○ Technology, which once seemed to threaten small languages, may now turn out to be one of their most powerful tools.
+   → かつて小さい言語を脅かすようだった科学技術は今それらの最も強力な道具の1つだと分かるかもしれない。   [SVO] relative,modal,idiom
+○ However, experts warn that recordings alone cannot keep a language alive.
+   → しかしながら、専門家は録音だけでは言語を存続させられないと警告する。   [SVO] svoc,modal,that-clause
+○ What really matters is whether people continue to use it in their daily lives, at home and with their friends.
+   → 本当に重要なのは人々が家で日常生活でそして彼らの友達と一緒にそれを使い続けるかどうかだ。   [SVC] relative-what,inf-noun,indirect-q
+○ After all, a language survives only as long as there are people who want to speak it.
+   → 結局、それを話したい人々がいる限りにおいてのみ、言語は生き残る。   [SV] inf-noun,relative,there,idiom
+○ Last spring, I started volunteering at an animal shelter near my house every Saturday morning.
+   → 去年の春に、私は毎週土曜日の朝家の近くの動物保護施設でボランティアをし始めた。   [SVO] gerund
+○ I had always wanted a dog, but my apartment building did not allow pets, so this seemed like the next best thing.
+   → 私はいつも犬がほしかったが、私のアパートの建物はペットを許可しなかったので、これは次善の策のように思われた。   [SVO] pastperfect
+○ On my first day, a staff member named Mrs. Brown showed me how to clean the cages and prepare food for the animals.
+   → 私の初日に、ブラウンさんという名前の職員が私にかごを掃除して、動物のために食べ物を準備する方法を教えてくれた。   [SVOO] participle-mod,indirect-q
+○ The work was harder than I had expected, and by noon my arms and back were sore.
+   → 仕事は予想していたより難しくて、正午までに私の腕と背中は痛かった。   [SVC] comparative
+○ Still, I enjoyed spending time with the dogs, especially an old brown one called Max who never barked at anyone.
+   → それでも、私は犬、特に決して誰にもほえなかったマックスと呼ばれている古い茶色のものと一緒に時間を過ごすことを楽しんだ。   [SVO] relative,participle-mod,gerund
+○ Mrs. Brown told me that Max had been at the shelter for almost two years because most visitors preferred younger dogs.
+   → ブラウンさんは私にほとんどの訪問者がより若い犬のほうを好んだので、マックスがほぼ2年間ずっと保護施設にいたと言った。   [SVOO] pastperfect,that-clause
+○ Every week, I took him for a walk around the park and talked to him as if he could understand every word.
+   → 毎週、まるで彼がすべての語を理解できるかのように、私は公園中を彼を散歩に連れて行って、彼と話した。   [SVO] idiom,modal
+○ One Saturday in July, I arrived at the shelter and found that his cage was empty.
+   → 7月のある土曜日に、私は保護施設に到着して、彼のかごが空であることに気づいた。   [SVO] idiom,that-clause
+○ For a moment, I was afraid that something terrible had happened to him.
+   → ちょっとの間、私は何かひどいものが彼に起こったのではないかと恐れた。   [SVO] pastperfect,idiom
+○ Then Mrs. Brown smiled and handed me a photo of Max sitting happily between an elderly couple on a sofa.
+   → それから、ブラウンさんはほほえんで、私に年配の夫婦の間にソファーにうれしそうに座っているマックスの写真を手渡してくれた。   [SV] participle-mod,svoo
+○ They had adopted him the day before, after their own dog had died the previous winter.
+   → 自分自身の犬がその前の冬に死んだ後で、彼らは前日彼を引き取っていた。   [SVO] pastperfect
+○ I felt a little sad that I would not be able to see him again, but I was much happier for him.
+   → 私は二度と彼に会えないことが少し悲しかったが、彼のためにずっとうれしかった。   [SVC] modal,that-clause,comparative
+○ Since then, I have helped many other animals find new homes, and each time I feel the same mix of sadness and joy.
+   → それ以来、私は多くの他の動物が新しい家を見つけるのを手伝って、毎回悲しみと喜びの同じ混ざり合いを感じる。   [SVOC] causative,perfect
+○ Volunteering has taught me that small acts of kindness can change the lives of others, even if no one notices them.
+   → たとえ誰もそれらに気づかなくても、ボランティア活動は私に親切の小さい行為が他の人たちの生活を変えることがあると教えた。   [SVOO] modal,that-clause,perfect
+○ I am still not allowed to keep a dog, but I no longer mind as much as I used to.
+   → 私はまだ犬を飼うことを許されないが、もはや以前ほど気にしない。   [SV] v-o-to,as-as
+○ About thirty students who live in Tokyo came to the party.
+   → 東京に住んでいる約30人の学生はパーティーに来た。   [SV] relative
+○ By noon my arms and back were sore.
+   → 正午までに私の腕と背中は痛かった。   [SVC] 
+○ He did not bark at anyone.
+   → 彼は誰にもほえなかった。   [SV] 
+○ She never talks to anyone.
+   → 彼女は決して誰とも話さない。   [SVO] idiom
+○ He doesn't talk to anyone.
+   → 彼は誰とも話さない。   [SVO] idiom
+○ He doesn't depend on anyone.
+   → 彼は誰にも頼っていない。   [SVO] idiom
+○ I didn't look for anything.
+   → 私は何も探さなかった。   [SVO] idiom
+○ He didn't listen to anyone.
+   → 彼は誰の言うことも聞かなかった。   [SVO] idiom
+○ I no longer trust anyone.
+   → 私はもはや誰も信頼しない。   [SVO] 
+○ We didn't talk about anything.
+   → 私たちは何についても話さなかった。   [SVO] idiom
+○ I was sad that I would not be able to see him again.
+   → 私は二度と彼に会えないことが悲しかった。   [SVC] modal,that-clause
+○ I was happy for him.
+   → 私は彼のためにうれしかった。   [SVC] 
+○ I have helped many other people find new jobs.
+   → 私は多くの他の人々が新しい仕事を見つけるのを手伝った。   [SVOC] causative,perfect
+○ Each time, I feel sad.
+   → 毎回、私は悲しい。   [SVC] 
+○ They are reading books and writing letters.
+   → 彼らは本を読んでいて、手紙を書いている。   [SVO] progressive
+○ The plants grow only as long as there is enough water.
+   → 十分な水がある限りにおいてのみ、植物は成長する。   [SV] there,idiom
+○ They talk about cats and dogs rather than birds and fish.
+   → 彼らは鳥と魚というよりむしろネコと犬について話す。   [SVO] comparative,idiom
+○ Many families moved to the city.
+   → 多くの家族が都市に引っ越した。   [SV] 
+○ Speaking English brings better jobs.
+   → 英語を話すことはより良い仕事をもたらす。   [SVO] gerund
+○ I was afraid to go out at night.
+   → 私は夜に外出するのが怖かった。   [SVC] idiom,inf-adv
+○ He was ashamed to ask for help.
+   → 彼は助けを求めるのが恥ずかしかった。   [SVC] idiom,inf-adv
+○ He even cried.
+   → 彼は泣きさえした。   [SV] 
+○ Children may even feel sad.
+   → 子どもは悲しくさえあるかもしれない。   [SVC] modal
+○ Each country has a unique culture.
+   → それぞれの国には独自の文化がある。   [SVO] 
+○ They adopted him when he was a baby.
+   → 彼が赤ちゃんだったとき、彼らは彼を養子にした。   [SVO] 
+○ It had snowed the previous night.
+   → 前の晩に雪が降っていた。   [SV] pastperfect
+○ The dog stayed at the shelter for a year.
+   → 犬は1年間保護施設に滞在した。   [SV] 
+○ One day last summer, I went to the beach.
+   → 去年の夏のある日に、私は浜辺に行った。   [SV] 
+○ She is no longer as young as she was.
+   → 彼女はもはや以前ほど若くない。   [SVC] as-as
+○ I no longer read as many books as I used to.
+   → 私はもはや以前ほど多くの本を読まない。   [SVO] 
+○ The city is not as busy as it was.
+   → 都市は以前ほど忙しくない。   [SVC] as-as
+○ She is as kind as she was.
+   → 彼女は以前と同じくらい親切だ。   [SVC] as-as
+○ I can no longer run as fast as I used to.
+   → 私はもはや以前ほど速く走れない。   [SV] as-as,modal
 
-parsed 10999 / 10999
+parsed 11062 / 11062
