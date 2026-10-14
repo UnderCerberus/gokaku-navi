@@ -1042,6 +1042,7 @@
     ['go without ~', '〜なしで済ませる', 3],
     ['graduate from ~', '〜を卒業する', 1],
     ['grow up', '育つ; 成長する; 大人になる', 1],
+    ['guide A around B', 'AにBを案内する', 2],
 
     // ---- h ----
     ['had better do', '〜したほうがよい', 1],
