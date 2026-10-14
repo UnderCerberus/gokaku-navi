@@ -2,10 +2,7 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['cue', '名', 'きっかけ', 3],
-    ['willpower', '名', '意志の力', 3],
-    ['push-up', '名', '腕立て伏せ', 3],
-    ['recite', '動', '暗唱する', 3],
+    ['loaf', '名', 'パン; ひと塊のパン', 3],
 ]
 def key(w):
     return w.lower()
