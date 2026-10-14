@@ -3218,7 +3218,7 @@
       const kMm = /^(?:a|an)$/.test(t.w) ? i + 1 : i;
       const cmpMm = T[kMm + 1] && T[kMm + 1].k === 'w' && !!adjC(T[kMm + 1]) && adjC(T[kMm + 1]).form === 'comp' && !/^(?:more|less)$/.test(T[kMm + 1].w);
       const kNm = cmpMm ? kMm + 2 : kMm + 3;
-      if (kNm < lim && T[kMm] && /^(?:much|far)$/.test(T[kMm].w || '') && (cmpMm || (/^(?:more|less)$/.test((T[kMm + 1] || {}).w || '') && T[kMm + 2] && adjC(T[kMm + 2]))) && T[kNm] && T[kNm].k === 'w' && !!nounC(T[kNm]) && !PREP[T[kNm].w] && !T.slice(kMm + 1, Math.min(lim, kMm + 6)).some((x) => isW(x, 'than'))) {
+      if (kNm < lim && T[kMm] && /^(?:much|far)$/.test(T[kMm].w || '') && (cmpMm || (/^(?:more|less)$/.test((T[kMm + 1] || {}).w || '') && T[kMm + 2] && adjC(T[kMm + 2]))) && T[kNm] && T[kNm].k === 'w' && !!nounC(T[kNm]) && !PREP[T[kNm].w] && !T.slice(kMm + 1, lim).some((x) => isW(x, 'than'))) {
         const dMm = T[kMm].w === 'far' ? 'はるかに' : 'ずっと';
         const newMm = (kMm > i ? [T[i]] : []).concat(T.slice(kMm + 1, lim));
         const rMm = withTokens(newMm, () => np(0, newMm.length, o));
@@ -3468,6 +3468,7 @@
     return '';
   }
   function ppJa(key, obj, o) {
+    if (/^(?:after|before|until|till|by|at|since)$/.test(key) && obj.head === 'sunset' && /夕日$/.test(obj.ja || '')) obj = Object.assign({}, obj, { ja: obj.ja.replace(/夕日$/, '日没'), time: true });
     if (key === 'in' && /^(?:corner|corners)$/.test(obj.head || '') && /角/.test(obj.ja || '')) obj = Object.assign({}, obj, { ja: obj.ja.replace(/角(?!.*角)/, '隅') });
     if (obj.det === 'any' && !obj.neg && !obj.pron && /^(?:in|at|on|during|from|to|with)$/.test(key) && !(o && o.anyDone) && !T.some((x) => x.k === 'w' && /^(?:not|never|no|nobody|nothing|hardly|without)$/.test(x.w))) {   // in any season → どの季節でも
       const rA = ppJa(key, Object.assign({}, obj, { det: '', ja: (/(?:どんな|どの)/.test(obj.ja) ? '' : 'どの') + obj.ja }), Object.assign({}, o || {}, { anyDone: true }));
@@ -11371,6 +11372,22 @@
   function thereBe(a, b, o) {
     if (!(isW(T[a], 'there') || isW(T[a], 'here')) || a + 2 > b) return null;
     const m = mark();
+    if (isW(T[a], 'there') && T[a + 1] && /^(?:is|are|was|were)$/.test(T[a + 1].w || '') && /^(?:less|fewer|more)$/.test((T[a + 2] || {}).w || '')) {
+      const kAl = T.findIndex((x, q) => q > a + 3 && q < b - 1 && isW(x, 'and') && /^(?:less|fewer|more)$/.test((T[q + 1] || {}).w || ''));
+      if (kAl > 0) {
+        const n1L = np(a + 3, kAl, { noRel: true, noCoord: true });
+        const n2L = n1L && n1L.end === kAl ? np(kAl + 2, b, {}) : null;
+        if (n2L && n2L.end === b) {
+          const pastL = /^(?:was|were)$/.test(T[a + 1].w);
+          const adjL = (w) => (w === 'more' ? '多' : '少な');
+          const j1 = n1L.ja.replace(/(?:している|していた)([^、。]*)$/, 'する$1'), j2 = n2L.ja.replace(/が?(.+?)蒸発している水$/, '$1蒸発する水').replace(/している([^、。]{1,6})$/, 'する$1');
+          name('there');
+          const lastL = adjL(T[kAl + 1].w) + (pastL ? 'かった' : 'い');
+          return { out: (y) => j1 + 'が' + adjL(T[a + 2].w) + 'く、' + j2 + (adjL(T[a + 2].w) === adjL(T[kAl + 1].w) ? 'も' : 'が') + (y && y.form === 'te' ? adjL(T[kAl + 1].w) + 'くて' : lastL), sp: 'SV', past: pastL, pred: P(lastL, 'i') };
+        }
+        fail(m);
+      }
+    }
     // There is no point in arguing with him → 彼と議論しても無駄だ
     if (T[a + 1] && /^(?:is|was)$/.test(T[a + 1].w || '') && seq(a + 2, ['no', 'point']) && a + 5 < b + 1) {
       const kNp = isW(T[a + 4], 'in') ? a + 5 : a + 4;
