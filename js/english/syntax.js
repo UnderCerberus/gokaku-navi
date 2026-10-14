@@ -3485,6 +3485,7 @@
     return '';
   }
   function ppJa(key, obj, o) {
+    if (key === 'for' && T.some((x, q) => x.k === 'w' && /^(?:implication|implications|consequence|consequences)$/.test(x.w) && isW(T[q + 1], 'for'))) return { ja: obj.ja + 'に対して', kind: 'other', adn: obj.ja + 'に対する' };
     if (obj.pron === 'one' && obj.ja === '人' && /^(?:instead of|than|rather than|like|from|except|besides)$/.test(key)) obj = Object.assign({}, obj, { ja: '1つ' });
     if (/^(?:after|before|until|till|by|at|since)$/.test(key) && obj.head === 'sunset' && /夕日$/.test(obj.ja || '')) obj = Object.assign({}, obj, { ja: obj.ja.replace(/夕日$/, '日没'), time: true });
     if (key === 'in' && /^(?:corner|corners)$/.test(obj.head || '') && /角/.test(obj.ja || '')) obj = Object.assign({}, obj, { ja: obj.ja.replace(/角(?!.*角)/, '隅') });

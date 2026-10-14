@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (197ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (200ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -1113,7 +1113,7 @@
 ○ In each case the machine does the work well, and the person gains time, but something slowly disappears that only practice can maintain.
    → どの場合も、機械はうまく仕事をこなし、人は時間を得るが、練習によってしか保てない何かがゆっくりと消えていく。   [SVO] modal,relative
 ○ Something slowly disappears that only practice can maintain.
-   → 練習だけゆっくりと維持できるものが消える。   [SV] modal,relative
+   → 練習だけがゆっくりと維持できるものが消える。   [SV] modal,relative
 ○ In April 1956, one of his old oil tankers, the Ideal X, left Newark, New Jersey, for Houston, Texas, carrying 58 metal boxes on its deck.
    → 1956年4月に、彼の古い石油タンカーの1隻であるアイディアルX号は甲板に58個の金属の箱を積んで、ニュージャージー州のニューアークをテキサス州のヒューストンに向けて出発した。   [SVO] apposition,participle-const,idiom
 ○ He left Newark, New Jersey, for Houston, Texas.
@@ -16637,9 +16637,9 @@
 ○ He came quickly.
    → 彼はすぐに来た。   [SV] 
 ○ After he fixed it, he taught Emily how to do it herself.
-   → 彼はそれを修理した後で、エミリーにそれを自分でする方法を教えた。   [SVOO] indirect-q
+   → 彼はそれを修理した後で、エミリーに自分でそれをする方法を教えた。   [SVOO] indirect-q
 ○ He taught me how to do it myself.
-   → 彼は私にそれを自分でする方法を教えてくれた。   [SVOO] indirect-q
+   → 彼は私に自分でそれをする方法を教えてくれた。   [SVOO] indirect-q
 ○ Now Emily feels confident about taking care of her bike.
    → 今では、エミリーは自分の自転車の世話をすることに自信がある。   [SVC] idiom,gerund
 ○ Now Emily feels happy.
@@ -16925,7 +16925,7 @@
 ○ Online shopping has grown rapidly over the past twenty years.
    → オンラインショッピングは過去20年間にわたって急速に成長してきた。   [SV] perfect
 ○ "Why don't you get a part-time job?" his father suggested.
-   → 彼の父は「アルバイトをしてはどうですか」と提案した。   [SVO] question,direct-speech,quote
+   → 彼の父は「アルバイトを始めてはどうですか」と提案した。   [SVO] question,direct-speech,quote
 ○ After six months, he had saved enough money.
    → 6か月後に、彼は十分なお金を貯めていた。   [SVO] pastperfect
 ○ When he finally bought the guitar, he felt very proud of himself.
@@ -17629,7 +17629,7 @@
 ○ Children seem to learn languages effortlessly, while adults often struggle for years.
    → 子どもは言語を楽々と学ぶようであるのに対して、大人はよく何年も苦労する。   [SVO] 
 ○ However, adults have advantages of their own.
-   → しかしながら、大人は自分自身の利点がある。   [SVO] 
+   → しかしながら、大人は自分の利点がある。   [SVO] 
 ○ They can draw on their knowledge of grammar and use strategies that children lack.
    → 彼らは文法の知識を活用したり、子どもにはない戦略を使ったりできる。   [SVO] idiom,relative,modal
 ○ They can draw on their experience and use new tools.
@@ -17637,7 +17637,7 @@
 ○ In fact, some studies have found that adult learners progress faster in the early stages.
    → 実際、いくつかの研究は大人の学習者たちが初期段階でもっと速く進歩することを明らかにした。   [SVO] that-clause,perfect
 ○ She has a room of her own.
-   → 彼女は自分自身の部屋を持っている。   [SVO] 
+   → 彼女は自分の部屋を持っている。   [SVO] 
 ○ He struggled to finish the work.
    → 彼は仕事を終えようと奮闘した。   [SVO] inf-noun
 ○ The disease was found in its early stages.
@@ -17839,7 +17839,7 @@
 ○ The longer we put off dealing with the problem, the more difficult it will be to solve.
    → 私たちが問題に対処することを長く延期すればするほど、それは解くにはますます難しいだろう。   [] idiom,gerund,the-more
 ○ Even if machines can do many jobs better than humans, there are some things that only people can do.
-   → たとえ機械が多くの仕事を人間より上手にやれても、人々だけできるいくつかのことがある。   [SV] comparative,modal,relative,there
+   → たとえ機械が多くの仕事を人間より上手にやれても、人々だけができるいくつかのことがある。   [SV] comparative,modal,relative,there
 ○ The more you practice, the more confident you become.
    → 練習すれば練習するほど、ますます自信がつく。   [] the-more
 ○ The harder you work, the more successful you will become.
@@ -18805,7 +18805,7 @@
 ○ It is not surprising that people who sleep less than six hours a night often find it difficult to concentrate during the day.
    → 1晩に6時間未満眠る人々がよく日中集中することが難しいと感じるのは驚くに当たらない。   [SVC] relative,svoc,formal-object,it-that
 ○ Tea was first introduced to Europe in the seventeenth century, when it was considered a luxury that only the rich could afford.
-   → お茶は17世紀に最初にヨーロッパに伝えられた（当時はそれが金持ちだけ買う余裕があったぜいたくだと考えられていた）。   [SV] passive,modal,relative,it-said,rel-adv
+   → お茶は17世紀に最初にヨーロッパに伝えられた（当時はそれが金持ちだけが買う余裕があったぜいたくだと考えられていた）。   [SV] passive,modal,relative,it-said,rel-adv
 ○ As cities continue to expand, more and more farmland is being converted into housing and shopping centers.
    → 都市が広がり続けるにつれて、ますます多くの農地は住宅とショッピングセンターに変えられている。   [SV] inf-noun,passive,progressive
 ○ One of the main reasons why people fail to keep their New Year's resolutions is that they set goals that are too ambitious.
@@ -18861,7 +18861,7 @@
 ○ Honesty is considered one of the most important qualities.
    → 正直さは最も重要な資質の1つだと考えられている。   [SV] it-said
 ○ It was considered a luxury that only the rich could afford.
-   → それは金持ちだけ買う余裕があったぜいたくだと考えられていた。   [SV] modal,relative,it-said
+   → それは金持ちだけが買う余裕があったぜいたくだと考えられていた。   [SV] modal,relative,it-said
 ○ If we are to solve these problems, we must cooperate.
    → これらの問題を解決するためには、協力しなければならない。   [SV] modal
 ○ Athletes are less likely to suffer injuries and tend to perform better.
@@ -20621,7 +20621,7 @@
 ○ Despite the heavy rain, thousands of fans gathered outside the stadium.
    → 大雨にもかかわらず、何千人ものファンは競技場の外側に集まった。   [SV] 
 ○ Thanks to the new medicine, many patients were able to leave the hospital earlier than expected.
-   → 新しい薬のおかげで、多くの患者は病院を予想より早く出られた。   [SVO] comparative
+   → 新しい薬のおかげで、多くの患者は予想より早く病院を出られた。   [SVO] comparative
 ○ Instead of complaining about the problem, why don't we try to find a solution?
    → 問題について不平を言う代わりに、解決策を見つけようとしませんか。   [SV] question,gerund,inf-noun
 ○ The more you practice speaking, the more confident you will become.
@@ -20729,7 +20729,7 @@
 ○ Learning a new language not only helps you communicate with others but also changes the way you think.
    → 新しい言語を学ぶことは他の人たちと意思を伝え合うのに役立つだけでなく、あなたの考え方を変える。   [SVOC] gerund,idiom,causative,not-only
 ○ Although robots can do many jobs faster than humans, there are some tasks that only people can do well.
-   → ロボットは多くの仕事が人間より速くできるけれども、人々だけよくやれる仕事はいくつかある。   [SV] comparative,modal,relative,there
+   → ロボットは多くの仕事が人間より速くできるけれども、人々だけがよくやれる仕事はいくつかある。   [SV] comparative,modal,relative,there
 ○ She has been working at the hospital for ten years, and she still enjoys taking care of her patients.
    → 彼女は10年間病院でずっと働いていて、まだ自分の患者たちの世話をすることを楽しむ。   [SV] progressive,perfect,idiom,gerund
 ○ The festival, which takes place every August, attracts thousands of visitors from all over the country.
@@ -22432,5 +22432,113 @@
    → 車が少なく、自転車が多い。   [SV] there
 ○ We came home after sunset.
    → 私たちは日没の後に帰宅した。   [SV] idiom
+○ For a long time, many scientists believed that only humans could experience complex emotions such as joy, grief, or jealousy.
+   → 長い間、多くの科学者は人間だけが喜びや深い悲しみ、嫉妬などの複雑な感情を経験できると信じていた。   [SVO] modal,that-clause
+○ Animals, they argued, simply reacted to their surroundings according to instinct.
+   → 彼らが主張したところでは、動物は自分の環境に本能に従って単に反応した。   [SV] 
+○ In recent decades, however, a growing number of studies have challenged this view.
+   → しかし、ここ数十年で、ますます多くの研究はこの見方に疑問を投げかけた。   [SVO] perfect
+○ Elephants, for example, have been observed staying beside the body of a dead family member for hours, sometimes touching it gently with their trunks.
+   → たとえば、ゾウがときどき何時間も死んだ家族の一員の体のそばに自分の鼻でそれに優しく触れながら滞在しているのが観察されている。   [SV] participle-const,progressive,passive
+○ Some researchers think this behavior may be a sign of mourning, although others are more cautious.
+   → 他の人たちはもっと用心深いけれども、この行動が悼むことの表れかもしれないと思う研究者もいる。   [SVO] gerund,modal,that-clause,comparative
+○ Dogs, too, seem to show emotions that resemble our own.
+   → 犬も私たち自身のものに似た感情を示すようだ。   [SVO] relative
+○ In one experiment, dogs that saw their owners pay attention to a toy dog behaved in ways that suggested jealousy.
+   → ある実験では、それらの飼い主がおもちゃの犬に注意を払うのを見た犬は嫉妬を示唆した方法で振る舞った。   [SV] idiom,perception,relative
+○ They pushed the toy away and tried to get between it and their owners.
+   → 彼らはおもちゃを押しのけて、それと自分の所有者たちの間に割って入ろうとした。   [SVO] idiom,inf-noun
+○ Even animals that are not usually thought of as intelligent, like fish and bees, may have simple emotional states.
+   → 魚やミツバチのような、たいてい知能が高いとは考えられていない動物さえ簡単な感情的な状態を持っているかもしれない。   [SVO] passive,relative,modal
+○ Bees that had been given a sweet reward, for instance, acted more optimistically when they were faced with an unclear situation.
+   → たとえば、甘い報酬を与えられたミツバチは、はっきりしない状況に直面したとき、もっと楽観的に行動した。   [SV] passive,pastperfect,relative,idiom
+○ Of course, it is difficult to know exactly what an animal is feeling, because animals cannot tell us in words.
+   → もちろん、動物が言葉で私たちに教えられないので、動物が何を感じているか正確に知ることは難しい。   [SVC] progressive,indirect-q,it-to,modal
+○ Scientists must rely on careful observation and avoid reading too much into what they see.
+   → 科学者は注意深い観察に頼っていて、彼らが見ることを深読みしすぎるのを避けなければならない。   [SVO] idiom,relative-what,gerund,modal
+○ Still, the evidence suggests that the line between humans and other animals is not as clear as it once seemed.
+   → それでも、証拠は人間と他の動物の間の線がかつて思われていたほど明らかではないことを示唆する。   [SVO] as-as,that-clause
+○ This has important implications for how we treat animals on farms, in zoos, and in our homes.
+   → これは私たちがどのように農場で動物園でそして家で動物を扱うかに対して重要な含意を持っている。   [SVO] indirect-q
+○ If animals can suffer, then we have a responsibility to reduce their suffering whenever we can.
+   → もし動物が苦しむことができたら、私たちはできるときはいつでも、それらの苦しみを減らす責任を持っている。   [SVO] modal,inf-adj
+○ When I turned sixteen, I got my first part-time job at a small bakery near the station.
+   → 私は16歳になったとき、駅の近くの小さいパン屋で初めてのアルバイトを始めた。   [SVO] idiom
+○ The owner, Mr. Kato, had been baking bread there for more than thirty years.
+   → 店主である加藤さんは30年以上そこでパンをずっと焼いていた。   [SVO] apposition,progressive,pastperfect
+○ On my first morning, I had to arrive at six o'clock, which was much earlier than I usually got up.
+   → 私の最初の朝に、私はいつも起きるよりずっと早かった6時に到着しなければならなかった。   [SVO] idiom,comparative,relative
+○ Mr. Kato handed me an apron and told me to watch carefully before touching anything.
+   → 加藤さんは私にエプロンを手渡してくれて、私に何かに触れる前に注意深く見守るように言った。   [SVOO] svoo,gerund,v-o-to
+○ I was amazed at how quickly his hands moved as he shaped the dough into dozens of identical rolls.
+   → 彼が生地を何十もの同一のロールパンの形にしていたとき、私は彼の手がどのくらい速く動いたかに驚いた。   [SVC] indirect-q,idiom
+○ My job was to put the bread on the shelves and help customers choose what they wanted.
+   → 私の仕事は棚の上にパンを置いて、客がそれらがほしかったものを選ぶのを手伝うことだった。   [SVC] relative-what,causative
+○ At first, I kept forgetting the names of the different kinds of bread, and I often had to ask Mr. Kato for help.
+   → 最初は、私は異なる種類のパンの名前を忘れ続けて、よく加藤さんに助けを求めなければならなかった。   [SVO] gerund,idiom
+○ He never got angry, though; instead, he patiently explained each one again.
+   → ただ、彼は決して怒らなかった。その代わりに、彼はもう一度それぞれを忍耐強く説明した。   [SV] idiom
+○ After about a month, I could answer most customers' questions without checking the labels.
+   → 約1か月後に、私はラベルを確かめずにほとんどの客の質問に答えられた。   [SVO] gerund,modal
+○ One rainy afternoon, an elderly woman came in and asked for a loaf that we had already sold out of.
+   → ある雨の午後、年配の女性が中に入って、私たちがすでに売り切ったパンを求めた。   [SV] idiom,pastperfect,relative
+○ She looked so disappointed that I offered to set one aside for her the next day.
+   → 彼女はとてもがっかりしているように見えたので、私は翌日彼女のために1つを取っておこうと申し出た。   [SVC] idiom,inf-noun,so-that
+○ When she came back the following morning, she thanked me with a warm smile and bought two loaves instead of one.
+   → 彼女は翌朝戻ったとき、温かい笑顔で私に感謝して、1つの代わりに2つのパンを買った。   [SVO] idiom
+○ That small experience taught me that good service is about paying attention to people's feelings, not just selling products.
+   → その小さい経験は私に良いサービスが単に製品を売ることではなく、人々の感情に注意を払うことだと教えた。   [SVOO] gerund,idiom,that-clause
+○ I still work at the bakery on weekends, and Mr. Kato has recently started teaching me how to make bread myself.
+   → 私は週末にまだパン屋で働いて、加藤さんは最近私に自分でパンを作る方法を教え始めた。   [SV] indirect-q,gerund,perfect
+○ Someday I hope to open a bakery of my own where people can enjoy fresh bread and friendly conversation.
+   → いつか、私は人々が新鮮なパンと親しみやすい会話を楽しめる自分のパン屋を開きたいと思う。   [SVO] modal,rel-adv,inf-noun
+○ I set one aside for her.
+   → 私は彼女のために1つを取っておく。   [SVO] idiom
+○ Their culture is different from our own.
+   → 彼らの文化は私たち自身のものと異なる。   [SVC] idiom
+○ He came later than I expected.
+   → 彼は予想していたより遅く来た。   [SV] comparative
+○ The bus arrived earlier than usual.
+   → バスはいつもより早く到着した。   [SV] comparative
+○ Fish are not thought of as intelligent.
+   → 魚は知能が高いとは考えられていない。   [SV] passive
+○ He is thought of as a hero.
+   → 彼は英雄だと考えられている。   [SV] passive
+○ Even animals, like fish and bees, may have emotions.
+   → 魚やミツバチのような動物さえ感情を持っているかもしれない。   [SVO] modal
+○ The line is not as clear as it once seemed.
+   → 線はかつて思われていたほど明らかではない。   [SVC] as-as
+○ I will help you when I can.
+   → 私はできるとき、あなたを助けるつもりだ。   [SVO] modal
+○ Come whenever you can.
+   → できるときはいつでも、来なさい。   [SV] imperative
+○ If it rains, then we will stay home.
+   → もし雨が降ったら、私たちは家にいるつもりだ。   [SV] modal,idiom
+○ Animals can suffer.
+   → 動物は苦しむことができる。   [SV] modal
+○ You should stop and wear a helmet.
+   → あなたは立ち止まり、ヘルメットをかぶるべきだ。   [SV] modal
+○ Many scientists believed that only humans could experience complex emotions.
+   → 多くの科学者は人間だけが複雑な感情を経験できると信じていた。   [SVO] modal,that-clause
+○ Everything went according to plan.
+   → すべては計画通りに進んだ。   [SV] idiom
+○ Dogs that saw their owners pay attention to a toy behaved strangely.
+   → それらの飼い主がおもちゃに注意を払うのを見た犬は奇妙に振る舞った。   [SV] idiom,perception,relative
+○ She pushed him away.
+   → 彼女は彼を押しのけた。   [SVO] idiom
+○ I know what you are feeling.
+   → 私はあなたが何を感じているか知っている。   [SVO] progressive,indirect-q
+○ Life is about helping others, not just making money.
+   → 生活は単にお金を稼ぐことではなく、他の人たちを助けることだ。   [SVC] gerund
+○ He taught me how to make bread myself.
+   → 彼は私に自分でパンを作る方法を教えてくれた。   [SVOO] indirect-q
+○ She got a part-time job.
+   → 彼女はアルバイトを始めた。   [SVO] 
+○ She sang as she cooked dinner.
+   → 彼女は夕食を作っていたとき、歌った。   [SV] 
+○ This decision has serious consequences for the environment.
+   → この決定は環境に対して深刻な結果を持っている。   [SVO] 
+○ Someday I hope to open a bakery of my own.
+   → いつか、私は自分のパン屋を開きたいと思う。   [SVO] inf-noun
 
-parsed 11217 / 11217
+parsed 11271 / 11271
