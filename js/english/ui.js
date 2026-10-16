@@ -51,8 +51,10 @@
     vf: 0, vrows: [],                // 重要語の絞り込みレベルと、表示中の行
     qsrc: '', quiz: null,            // 単語クイズ
     lq: '', lrows: null,             // 単語検索
-    timer: 0, gen: 0, speaking: false
+    timer: 0, gen: 0, speaking: false,
+    aiGen: 0, aiTimer: 0               // AI 訳（JK.nmt）の依頼の世代と、再描画の間引き
   };
+  var aiHooked = false;
   var R = null;                      // 現在の描画先（build の戻り値）
   var mem = [];                      // JK.store が無いときの単語帳の退避先
 
@@ -363,6 +365,89 @@
   }
   function lvBadge(lv) { var m = LV[lv] || LV[1]; return badge(m.t, m.c); }
 
+  /* ---------- AI 訳（JK.nmt。有効なら、完全一致以外の文に端末内の翻訳 AI の訳を重ねる） ---------- */
+
+  function aiPref(v) {
+    var st = JK.store && JK.store.s;
+    if (!st || typeof st !== 'object') return false;
+    if (!st.ui || typeof st.ui !== 'object') st.ui = {};
+    if (v === undefined) return !!st.ui.nmtOn;
+    st.ui.nmtOn = !!v;
+    persist();
+    return !!v;
+  }
+  function aiReady() { return !!(JK.nmt && R && R.aiChk && R.aiChk.checked && JK.nmt.status().state === 'ready'); }
+  function aiWanted(s) { return aiReady() && s.method !== 'exact'; }
+  function aiOf(s) { return aiWanted(s) ? JK.nmt.cached(s.en) : null; }
+  function scheduleTrans() {
+    if (S.aiTimer) return;
+    S.aiTimer = setTimeout(function () { S.aiTimer = 0; if (alive()) renderTrans(); }, 60);
+  }
+  function requestAi() {
+    if (!JK.nmt) return;
+    JK.nmt.clearQueue();
+    var gen = ++S.aiGen, r = S.result;
+    if (!aiReady() || !r) return;
+    r.sentences.forEach(function (s) {
+      if (!aiWanted(s) || JK.nmt.cached(s.en) != null) return;
+      JK.nmt.translate(s.en).then(function () { if (gen === S.aiGen) scheduleTrans(); }, function () { /* 取り消し・失敗は構文訳のまま */ });
+    });
+  }
+  function mb(n) { return Math.round(n / 1e6); }
+  function renderAiStat() {
+    if (!R || !R.aiStat) return;
+    var on = R.aiChk.checked, h = '';
+    if (!JK.nmt) h = '<div>AI 訳の部品が読み込まれていません。</div>';
+    else if (!on) h = '<div>長文の訳を、この端末で動く翻訳 AI で出します（初回だけモデル 約 ' + mb(JK.nmt.TOTAL) + 'MB を取得）。</div>';
+    else {
+      var st = JK.nmt.status();
+      if (st.state === 'downloading') h = '<div>モデルを取得中… ' + mb(st.got) + ' / ' + mb(st.total) + 'MB</div><progress class="en-ai-bar" max="' + st.total + '" value="' + st.got + '"></progress>';
+      else if (st.state === 'loading' || st.state === 'off') h = '<div>AI 訳を準備中…</div>';
+      else if (st.state === 'ready') h = '<div>AI 訳を使用中（1 文に 1〜3 秒。計算できた文から順に表示）<button type="button" class="btn sm ghost danger" data-act="aidel">モデルを削除</button></div>';
+      else h = '<div class="warn">AI 訳を使えません: ' + esc(st.err) + ' <button type="button" class="btn sm" data-act="airetry">もう一度</button></div>';
+    }
+    if (JK.nmt) h += '<div class="en-ai-credit">' + JK.nmt.CREDIT + '</div>';
+    R.aiStat.innerHTML = h;
+  }
+  function startAi(allowDownload) {
+    renderAiStat();
+    JK.nmt.start({ allowDownload: allowDownload }).then(function () {
+      renderAiStat(); requestAi(); renderTrans();
+    }, function (e) { log(e); renderAiStat(); });
+  }
+  function onAiToggle() {
+    if (!R.aiChk.checked) {
+      aiPref(false);
+      if (JK.nmt) JK.nmt.clearQueue();
+      S.aiGen++;
+      renderAiStat(); renderTrans();
+      return;
+    }
+    if (!JK.nmt) { R.aiChk.checked = false; renderAiStat(); return; }
+    JK.nmt.isStored().then(function (stored) {
+      if (!stored && typeof g.confirm === 'function' && !g.confirm('AI 訳のモデル（約 ' + mb(JK.nmt.TOTAL) + 'MB）を Hugging Face から取得します。\n' +
+        '通信するのは初回だけで、以後はこの端末（ブラウザ）に保存して使います。パソコン向けで、スマホでは重くなることがあります。\n取得しますか？')) {
+        R.aiChk.checked = false; renderAiStat(); return;
+      }
+      aiPref(true);
+      startAi(true);
+    });
+  }
+  function hookAi() {
+    if (aiHooked || !JK.nmt) return;
+    aiHooked = true;
+    JK.nmt.on(function () { if (alive()) renderAiStat(); });
+  }
+  function resumeAi() {
+    if (!JK.nmt || !aiPref()) { renderAiStat(); return; }
+    R.aiChk.checked = true;
+    if (JK.nmt.status().state === 'ready') { renderAiStat(); requestAi(); return; }
+    JK.nmt.isStored().then(function (stored) {
+      if (stored) startAi(false);
+      else { aiPref(false); R.aiChk.checked = false; renderAiStat(); }
+    });
+  }
+
   /* ---------- ① 和訳 ---------- */
 
   function glossOf(s) {
@@ -372,7 +457,8 @@
   }
   function glossHtml(s) {
     var gl = glossOf(s), hasJa = !!s.ja.trim(), h = '';
-    if (hasJa && METHOD_NOTE[s.method]) h += '<div class="en-gl-note small dim">' + esc(METHOD_NOTE[s.method]) + '</div>';
+    if (aiOf(s)) h += '<div class="en-gl-note small dim">AI 訳は、この端末で動く翻訳 AI の訳です。語の取り違えや訳抜けがあり得るので、構文訳・語注・文法ポイントで確かめてください。</div>';
+    else if (hasJa && METHOD_NOTE[s.method]) h += '<div class="en-gl-note small dim">' + esc(METHOD_NOTE[s.method]) + '</div>';
     // 似た内蔵文があっても語が違う文は、エンジンの訳を出し、内蔵文の対訳を参考として見せる
     if (s.ref) {
       h += '<div class="en-gl-note small dim">参考: 内蔵の長文に似た文があります（' + (s.ref.title ? esc(s.ref.title) + '・' : '') +
@@ -402,16 +488,21 @@
     var m = METHOD[s.method] || { t: '和訳', c: '' };
     var label = m.t;
     if (s.method === 'fuzzy' && s.score != null) label += ' 一致率 ' + pct(s.score) + '%';
-    var hasJa = !!s.ja.trim();
+    var ai = aiOf(s), wait = !ai && aiWanted(s);
+    var hasJa = !!s.ja.trim() || !!ai;
     var open = !hasJa || !!S.open[norm(s.en)];
     var src = s.source && (s.method === 'exact' || s.method === 'fuzzy') ? s.source : '';
     var h = '<div class="en-sent' + (open ? ' open' : '') + '">';
-    h += '<div class="en-sent-top"><span class="en-no">' + (i + 1) + '</span>' + badge(label, m.c) + '<span class="grow"></span>';
+    h += '<div class="en-sent-top"><span class="en-no">' + (i + 1) + '</span>' + (ai ? badge('AI 訳', 'b-mid', '端末内の翻訳 AI（FuguMT）の訳') : badge(label, m.c)) + '<span class="grow"></span>';
     if (canSpeak()) h += '<button type="button" class="btn sm ghost" data-act="say" data-i="' + i + '" aria-label="文 ' + (i + 1) + ' を読み上げ">読む</button>';
     h += '</div>';
     h += '<div class="en-sent-main" role="button" tabindex="0" aria-expanded="' + (open ? 'true' : 'false') + '" data-act="sent" data-i="' + i + '">';
     h += '<div class="en-en">' + esc(s.en) + '</div>';
-    if (hasJa) h += '<div class="en-ja' + (s.method === 'gloss' ? ' is-gloss' : '') + '">' + esc(s.ja) + '</div>';
+    if (ai) {
+      h += '<div class="en-ja">' + esc(ai) + '</div>';
+      if (s.ja.trim()) h += '<div class="en-ja2 small"><span class="dim">構文訳（' + esc(label) + '）:</span> ' + esc(s.ja) + '</div>';
+    } else if (s.ja.trim()) h += '<div class="en-ja' + (s.method === 'gloss' ? ' is-gloss' : '') + '">' + esc(s.ja) + '</div>';
+    if (wait) h += '<div class="en-ai-wait small dim">AI 訳を計算中…</div>';
     if (src || hasJa) {
       h += '<div class="en-more small dim">' + (src ? '<span class="en-src">出典: ' + esc(src) + '</span>' : '') +
         (hasJa ? '<span class="en-tgl">語注・文法 ' + (open ? '▲ 閉じる' : '▼ 開く') + '</span>' : '') + '</div>';
@@ -433,7 +524,7 @@
       h = '<div class="en-empty"><p>左の欄に英文を入力するか、サンプル長文を選んでください。</p>' +
         '<ul class="small dim"><li>文ごとに和訳が表示されます。文をクリックすると、語注（単語の意味）と文法ポイントが開きます。</li>' +
         '<li>内蔵の長文対訳と一致した文は「完全一致」、似た文は「類似文」、それ以外は構文パターンや辞書から訳を作ります。機械的な訳は参考にとどめ、語注で意味を確かめてください。</li>' +
-        '<li>通信は一切せず、すべてこのページの中で処理します。</li></ul></div>';
+        '<li>すべてこのページの中で処理し、通信はしません（「AI 訳を使う」を有効にしたときだけ、初回に翻訳 AI のモデルを取得します）。</li></ul></div>';
     } else {
       h += modeNote();
       r.sentences.forEach(function (s, i) { h += sentHtml(s, i); });
@@ -758,6 +849,7 @@
     }
     S.result = compute(S.text);
     renderStatus(); renderTrans(); renderVocab(); renderGrammar(); quizIdleRefresh();
+    requestAi();
     if (explicit && isNarrow()) scrollTo(R.secTrans);
   }
   function schedule() {
@@ -843,7 +935,15 @@
     qnext: function () { nextQuiz(); },
     qagain: function () { S.quiz = null; startQuiz(); },
     qclose: function () { S.quiz = null; renderQuiz(); },
-    qsavewrong: function () { saveWrong(); }
+    qsavewrong: function () { saveWrong(); },
+    aidel: function () {
+      if (!JK.nmt || (typeof g.confirm === 'function' && !g.confirm('この端末に保存した AI 訳のモデル（約 ' + mb(JK.nmt.TOTAL) + 'MB）を削除し、AI 訳を止めます。\nもう一度使うときは、また取得が必要です。削除しますか？'))) return;
+      aiPref(false);
+      R.aiChk.checked = false;
+      S.aiGen++;
+      JK.nmt.remove().then(function () { renderAiStat(); renderTrans(); });
+    },
+    airetry: function () { if (JK.nmt) startAi(true); }
   };
 
   function onClick(e) {
@@ -917,6 +1017,14 @@
     }
     cIn.appendChild(btns);
     cIn.appendChild(mk('div', 'small dim en-hint', null, '入力して 0.4 秒たつと自動で和訳します（Ctrl + Enter で今すぐ）。最大 ' + MAX_LEN + ' 字。'));
+    var aiBox = mk('div', 'en-ai'), aiLab = mk('label', 'check');
+    ref.aiChk = mk('input', null, { type: 'checkbox', 'aria-describedby': 'enAiStat' });
+    aiLab.appendChild(ref.aiChk);
+    aiLab.appendChild(mk('span', null, null, 'AI 訳を使う（端末内の翻訳 AI。長い文に強い）'));
+    aiBox.appendChild(aiLab);
+    ref.aiStat = mk('div', 'small dim en-ai-stat', { id: 'enAiStat' });
+    aiBox.appendChild(ref.aiStat);
+    cIn.appendChild(aiBox);
     var ex = mk('div', 'en-ex');
     ex.appendChild(mk('span', 'small dim', null, '例文'));
     EXAMPLES.forEach(function (t, i) {
@@ -981,9 +1089,12 @@
     });
     r.sel.addEventListener('change', onSelect);
     r.lin.addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); doLookup(); } });
+    r.aiChk.addEventListener('change', function () { try { onAiToggle(); } catch (err) { log(err); } });
     el.innerHTML = '';
     el.appendChild(r.root);
+    hookAi();
     renderAll();
+    try { resumeAi(); } catch (err) { log(err); }
   }
 
   JK.en = JK.en || {};

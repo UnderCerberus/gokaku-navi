@@ -43,6 +43,18 @@
 .en-tool .en-en { font-family: Georgia, "Times New Roman", serif; font-size: 1.04rem; line-height: 1.75; overflow-wrap: anywhere; }
 .en-tool .en-ja { line-height: 1.8; }
 .en-tool .en-ja.is-gloss { padding-left: 9px; border-left: 3px dashed var(--line-2); color: var(--fg-2); }
+.en-tool .en-ja2 { line-height: 1.7; color: var(--fg-2); }
+.en-tool .en-ai-wait { font-style: italic; }
+
+/* ---------- AI 訳の切り替え ---------- */
+.en-tool .en-ai { margin-bottom: 8px; padding: 8px 10px; border: 1px solid var(--line); border-radius: var(--radius-s); background: var(--panel-2); }
+.en-tool .en-ai .check { font-size: .84rem; color: var(--fg); }
+.en-tool .en-ai-stat { display: grid; gap: 4px; margin-top: 4px; }
+.en-tool .en-ai-stat .btn { margin-left: 8px; }
+.en-tool .en-ai-stat .warn { color: var(--warn); }
+.en-tool .en-ai-bar { width: 100%; height: 8px; }
+.en-tool .en-ai-credit { font-size: .72rem; overflow-wrap: anywhere; }
+.en-tool .en-ai-credit a { color: inherit; }
 
 /* ---------- ① 和訳: 文ごとの対訳 ---------- */
 .en-tool .en-mode { margin-bottom: 8px; }
