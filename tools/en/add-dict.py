@@ -2,7 +2,11 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['loaf', '名', 'パン; ひと塊のパン', 3],
+    ['meaningless', '形', '無意味な', 3],
+    ['relearn', '動', '〜を学び直す', 3],
+    ['overhear', '動', '〜を偶然耳にする', 3],
+    ['pier', '名', '桟橋', 3],
+    ['spaced', '形', '間隔をあけた', 3],
 ]
 def key(w):
     return w.lower()

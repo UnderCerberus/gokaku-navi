@@ -305,6 +305,16 @@
   function A(t) {
     if (t.an) return t.an;
     let as = t.k === 'w' && en.analyze ? en.analyze(t.w) : [];
+    if (!as.length && t.k === 'w' && /^[a-z]+-[a-z]+ing$/.test(t.w) && en.analyze) {
+      const [hA, hB] = t.w.split('-');
+      const first = (w, pos) => { const xs = en.analyze(w) || []; for (const x of xs) for (const e of x.entries) if (e.pos === pos) return { x, e }; return null; };
+      const nA = first(hA, '名');
+      const nB = first(hB, '名'), vB = nB ? null : first(hB.replace(/ing$/, ''), '動') || first(hB.replace(/ing$/, 'e'), '動') || first(hB.replace(/([a-z])\1ing$/, '$1'), '動');
+      const jA = nA ? String(nA.e.ja).split(/[;；]/)[0].replace(/[〜…]/g, '').trim() : '';
+      let jB = nB ? String(nB.e.ja).split(/[;；]/)[0].replace(/[〜…]/g, '').trim() : '';
+      if (!jB && vB) { const c = String(vB.e.ja).split(/[;；]/)[0].replace(/^[〜…](?:を|に|と)?/, '').trim(); if (/^[一-龯ァ-ヶー]+する$/.test(c)) jB = c.replace(/する$/, ''); }
+      if (jA && jB) as = [{ lemma: t.w, form: 'base', entries: [{ pos: '名', ja: jA + jB, lv: 3, w: t.w }] }];
+    }
     if (SHADOW_BASE[t.w]) as = as.filter((x) => !(x.lemma === SHADOW_BASE[t.w] && x.form === 'base' && x.entries.some((e) => e.pos === '動')));
     return (t.an = as);
   }
@@ -10032,7 +10042,8 @@
         const ppA2 = adjPPs(j + 2, lim, a2.lemma);
         const ft = forTo(ppA2.end, lim);
         if (isW(T[ft.end], 'to') && ft.end + 1 < lim) {
-          const inf = vpNonfin(ft.end + 1, lim, 'base', { subj: ft.np || sj, gap: { type: 'np', rel: true, used: false } });
+          let inf = vpNonfin(ft.end + 1, lim, 'base', { subj: ft.np || sj, gap: { type: 'np', rel: true, used: false } });
+          if (inf && inf.vg && /^(?:go|come|get|turn|grow)$/.test(inf.vg.lemma) && /なる$/.test(inf.pred.plain())) { const inf0 = vpNonfin(ft.end + 1, lim, 'base', { subj: ft.np || sj }); if (inf0) inf = inf0; }
           if (inf) {
             name('too-to'); pick(j + 1, a2.e);
             const f2 = en.jp.adj(a2.e.ja);
@@ -11063,7 +11074,8 @@
     // a cat named Momo（名前の分詞 → Momoという名前のネコ）
     if (isW(t, 'named') && j + 1 < e && T[j + 1].k === 'w' && T[j + 1].cap && !node.pron) {
       const mN = mark();
-      const nmN = np1(j + 1, e, { noPost: true, noRel: true });
+      let nmN = np1(j + 1, e, { noPost: true, noRel: true }) || (!A(T[j + 1]).length ? { ja: T[j + 1].s, end: j + 2, proper: true } : null);
+      while (nmN && nmN.end < e && T[nmN.end].k === 'w' && T[nmN.end].cap && !A(T[nmN.end]).length) nmN = Object.assign({}, nmN, { ja: nmN.ja + '・' + T[nmN.end].s, end: nmN.end + 1 });
       if (nmN && (nmN.end >= e || T[nmN.end].k === 'p' || (T[nmN.end].k === 'w' && (PREP[T[nmN.end].w] || verbStart(nmN.end) || /^(?:and|or|but|who|which|that)$/.test(T[nmN.end].w))))) {
         name('participle-mod');
         return Object.assign({}, node, { ja: nmN.ja + 'という名前の' + node.ja, end: nmN.end });
