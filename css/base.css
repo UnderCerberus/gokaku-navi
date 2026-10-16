@@ -139,6 +139,8 @@ textarea.inp { resize: vertical; min-height: 110px; line-height: 1.6; }
 .dash > #dProfile { grid-column: 1 / -1; }
 .pf-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 10px 16px; align-items: start; }
 .pf-grid .field { margin-bottom: 0; }
+.pf-data { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; margin-top: 10px; }
+.pf-data > span { margin-right: 4px; }
 .dash-b { margin-top: 14px; display: grid; gap: 14px; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr) minmax(0, 1fr); }
 @media (max-width: 1080px) { .dash-b { grid-template-columns: 1fr; } }
 @media (max-width: 860px) { .dash { grid-template-columns: 1fr; } }

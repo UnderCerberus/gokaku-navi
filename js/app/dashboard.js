@@ -131,7 +131,38 @@
       '<label class="check"><input id="fConv" type="checkbox"' + (p.convert ? ' checked' : '') + '><span>高校偏差値として入力（大学受験の模試偏差値に換算: −10 目安）</span></label></div>' +
       '<div class="field"><label for="fTarget">志望大学の偏差値（目標ランク）</label><input id="fTarget" class="inp" type="number" min="30" max="80" step="0.5" value="' + esc(p.target) + '">' +
       '<span class="hint">50 未満: 共通テスト/基礎 ・ 50〜60: 中堅大 ・ 60 以上: 難関大</span></div>' +
-      '<div class="field"><label for="fDate">入試日（任意・空欄なら自動予測）</label><input id="fDate" class="inp" type="date" value="' + esc(p.examDate || '') + '"></div></div>';
+      '<div class="field"><label for="fDate">入試日（任意・空欄なら自動予測）</label><input id="fDate" class="inp" type="date" value="' + esc(p.examDate || '') + '"></div></div>' +
+      '<div class="pf-data"><span class="dim small">学習記録（このブラウザだけに保存）</span>' +
+      '<button class="btn ghost sm" id="dExport" type="button" title="学習記録を JSON ファイルに保存します">書き出す</button>' +
+      '<button class="btn ghost sm" id="dImport" type="button" title="書き出したファイルを読み込み、今の学習記録と置き換えます">読み込む</button>' +
+      '<button class="btn ghost sm danger" id="dWipe" type="button" title="この端末の学習記録をすべて削除します">全削除</button>' +
+      '<input id="dImportFile" type="file" accept=".json,application/json" hidden></div>';
+    $('dExport').addEventListener('click', function () {
+      var a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob([store.exportJson()], { type: 'application/json' }));
+      a.download = 'gokaku-navi-' + T.dayKey() + '.json';
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 0);
+    });
+    $('dImport').addEventListener('click', function () { $('dImportFile').click(); });
+    $('dImportFile').addEventListener('change', function () {
+      var f = this.files && this.files[0], inp = this;
+      if (!f) return;
+      var r = new FileReader();
+      r.onload = function () {
+        inp.value = '';
+        if (!window.confirm('今の学習記録を「' + f.name + '」の内容で置き換えます。よろしいですか？')) return;
+        try { store.importJson(String(r.result)); } catch (e) { window.alert('読み込めませんでした: ' + e.message); return; }
+        window.location.reload();
+      };
+      r.readAsText(f);
+    });
+    $('dWipe').addEventListener('click', function () {
+      if (!window.confirm('学習記録（プロフィール・学習時間・解答・ToDo・単語・自分で追加した問題）をすべて削除します。元に戻せません。\n先に「書き出す」で保存しておくことを勧めます。削除しますか？')) return;
+      store.reset();
+      window.location.reload();
+    });
     function upd() {
       p.grade = Number($('fGrade').value) || 3;
       var c = parseFloat($('fCur').value), t = parseFloat($('fTarget').value);

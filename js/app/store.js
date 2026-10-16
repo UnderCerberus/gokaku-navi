@@ -59,6 +59,15 @@
     on: function (ev, fn) { (subs[ev] = subs[ev] || []).push(fn); },
     emit: function (ev, data) { (subs[ev] || []).forEach(function (fn) { fn(data); }); },
     exportJson: function () { return JSON.stringify(S, null, 1); },
+    // 書き出した JSON を読み込んで置き換える。形式が違えば何もせずエラーを投げる
+    importJson: function (text) {
+      var o = JSON.parse(text);
+      if (!o || typeof o !== 'object' || Array.isArray(o) || o.v !== 1 || !o.profile || typeof o.profile !== 'object') {
+        throw new Error('GOKAKU NAVI の学習データではありません');
+      }
+      S = merge(defaults(), o);
+      saveNow();
+    },
     reset: function () { S = defaults(); saveNow(); }
   };
 
