@@ -684,6 +684,7 @@
     ['in time for ~', '〜に間に合うように', 2],
     ['feel better', '気分がよくなる', 1],
     ['with one\'s own eyes', '自分の目で', 2],
+    ['with tears in one\'s eyes', '目に涙を浮かべて', 2],
     ['without being aware of it', '気づかないうちに', 3],
     ['without one\'s being aware of it', '気づかないうちに', 3],
     ['work from home', '在宅勤務をする', 2],

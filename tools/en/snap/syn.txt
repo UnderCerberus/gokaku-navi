@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (200ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (172ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -2057,7 +2057,7 @@
 ○ Many students say that they feel nervous when they speak English in front of others.
    → 多くの学生は他の人たちの前で英語を話すとき、緊張していると言う。   [SVO] that-clause
 ○ The book I borrowed from the library was so interesting that I finished it in one night.
-   → 私が図書館から借りた本はとても興味深かったので、私はある夜にそれを終えた。   [SVC] relative,so-that
+   → 私が図書館から借りた本はとても興味深かったので、私は一晩でそれを終えた。   [SVC] relative,so-that
 ○ It is said that the castle was built more than four hundred years ago.
    → 城は400年以上前に建てられたと言われている。   [SV] passive,it-said
 ○ She has been interested in Japanese culture since she was a little girl.
@@ -15219,9 +15219,9 @@
 ○ Japan imports about 60 percent of its food.
    → 日本はその食べ物の約60%を輸入する。   [SVO] 
 ○ It is a good way to relax and enjoy nature.
-   → それはくつろいで自然を楽しむ良い方法だ。   [SVC] it-to
+   → それはくつろいで、自然を楽しむ良い方法だ。   [SVC] inf-adj
 ○ It is a good way to relax.
-   → それはくつろぐ良い方法だ。   [SVC] it-to
+   → それはくつろぐ良い方法だ。   [SVC] inf-adj
 ○ It is a good place to live.
    → それは住むのに良い場所だ。   [SVC] it-to
 ○ It is a good idea to go there.
@@ -18499,7 +18499,7 @@
 ○ The teacher noticed that the student who usually sat in the front row had been absent for a week.
    → 先生はたいてい最前列に座った生徒が1週間ずっと欠席だったことに気づいた。   [SVO] relative,pastperfect,that-clause
 ○ Learning from mistakes is one of the most effective ways to improve, yet many people are afraid of making them.
-   → 間違いから学ぶことは改善する最も効果的な方法の1つだが、多くの人々がそれらを作ることを恐れている。   [SVC] gerund,inf-adj,idiom
+   → 間違いから学ぶことは良くなる最も効果的な方法の1つだが、多くの人々がそれらを作ることを恐れている。   [SVC] gerund,inf-adj,idiom
 ○ In the early twentieth century, most people in Japan lived in rural areas and worked in agriculture.
    → 20世紀の初めに、日本のほとんどの人々は農村部に住んでいて、農業で働いた。   [SV] 
 ○ The number of foreign workers in Japan has been increasing because many companies cannot find enough young employees.
@@ -22540,5 +22540,155 @@
    → この決定は環境に対して深刻な結果を持っている。   [SVO] 
 ○ Someday I hope to open a bakery of my own.
    → いつか、私は自分のパン屋を開きたいと思う。   [SVO] inf-noun
+○ Most of us have had the experience of studying hard for a test, only to forget almost everything a few weeks later.
+   → 私たちのほとんどは試験のために一生懸命に勉強する経験があったが、結局数週間後にほとんどすべてを忘れた。   [SVO] perfect,inf-adv
+○ More than a hundred years ago, a German researcher named Hermann Ebbinghaus decided to study this problem scientifically.
+   → 100年以上前に、Hermann Ebbinghausという名前のドイツ人の研究者がこの問題を科学的に研究することに決めた。   [SVO] participle-mod,inf-noun
+○ He memorized long lists of meaningless syllables and then tested himself at different intervals to see how much he still remembered.
+   → 彼は無意味な音節の長いリストを暗記して、それから彼がまだどれほど多くのことを思い出したか見るために異なる間隔で彼自身を試験した。   [SVO] indirect-q,inf-adv
+○ His results showed that memory fades very quickly at first and then more slowly over time.
+   → 彼の結果は記憶が最初はとても速く、それから時間とともにもっとゆっくりと薄れることを示した。   [SVO] that-clause
+○ Within a single day, he had forgotten more than half of what he had learned.
+   → たった1日以内に、彼は彼が学んでいたことの半分以上を忘れていた。   [SVO] pastperfect,relative-what
+○ This pattern, now known as the forgetting curve, has been confirmed by many later studies.
+   → 今では忘却曲線として知られているこの型は多くの後の研究に確認された。   [SV] idiom,passive,perfect
+○ Fortunately, Ebbinghaus also discovered a way to slow down forgetting.
+   → 幸運にも、Ebbinghausはまた忘れることを遅らせる方法を発見した。   [SVO] gerund,idiom,inf-adj
+○ Each time he reviewed the material, it took him less time to relearn it, and he remembered it for longer afterward.
+   → 彼が教材を復習するたびに、彼がそれを学び直すのにより少ない時間がかかって、彼はより長い間その後それを覚えていた。   [SVO] it-takes
+○ Today, this technique is called spaced repetition, and it is one of the most effective ways to learn.
+   → 今日、この技術は間隔をあけた反復と呼ばれていて、学ぶ最も効果的な方法の1つだ。   [SV] passive,inf-adj
+○ Instead of studying something many times in one night, learners review it several times over a period of days or weeks.
+   → 何度も一晩で何かを勉強する代わりに、学習者は何度か日か週にわたってそれを復習する。   [SVO] gerund
+○ The gaps between reviews allow the brain to strengthen the memory each time it is recalled.
+   → それが思い出されるたびに、復習の間の間隔は脳が記憶を強化することを可能にする。   [SVOC] v-o-to,passive
+○ Many language-learning apps now use this idea to decide when to show users words they are likely to forget.
+   → 多くの言語学習のアプリが今いつ利用者に彼らが忘れそうな語を見せるべきか決めるためにこの考えを使う。   [SVO] idiom,relative,svoo,indirect-q,inf-adv
+○ Of course, forgetting is not always a bad thing.
+   → もちろん、忘れることはいつも悪いことであるとは限らない。   [SVC] gerund,partial-neg
+○ If we remembered every detail of every day, it would be much harder to focus on what really matters.
+   → もし私たちが毎日のすべての詳細を覚えていたら、本当に重要なことに集中することはよりずっと難しいだろうに。   [SVC] relative-what,idiom,it-to,modal,subjunctive-past
+○ In a sense, forgetting helps us make room for new and more useful information.
+   → ある意味で、忘れることは新しくてより役に立つ情報の場所をあけるのに役立つ。   [SVOC] gerund,idiom,causative
+○ Every summer, my family used to visit my grandmother, who lives alone on a small island in the south of Japan.
+   → 毎年夏、家族は以前は日本の南の小さい島に一人で暮らしている祖母を訪ねていた。   [SVO] used-to,relative
+○ To get there, we had to take a train, a bus, and finally a ferry that ran only twice a day.
+   → そこに着くには、私たちは電車とバス、最後にただ1日に2回運行したフェリーに乗らなければならなかった。   [SVO] relative,inf-adv
+○ Last year, however, my parents were too busy to go, so I made the trip by myself for the first time.
+   → しかし、昨年、両親は忙しすぎて行けなかったので、私は1人で初めて旅行をした。   [SVC] too-to
+○ I was a little worried, but my mother wrote down every step for me on a piece of paper.
+   → 私は少し心配していたが、母は私のために1枚の紙に手順をすべて書き留めた。   [SVC] idiom
+○ The train and the bus were easy, and I arrived at the port about an hour before the ferry was supposed to leave.
+   → 電車とバスは簡単で、フェリーが出発することになっている約1時間前に、私は港に到着した。   [SVC] idiom
+○ While I was waiting, the sky suddenly grew dark and a strong wind began to blow.
+   → 私が待っている間に、空は突然暗くなって、強風が吹き始めた。   [SVC] progressive,inf-noun
+○ A man at the ticket office told me that the ferry had been canceled because of the storm.
+   → 切符売り場の男性は私にフェリーが嵐のために運休になったと言った。   [SVOO] passive,pastperfect,that-clause
+○ I did not know what to do, and for a moment I felt like crying.
+   → 私は何をするべきか分からなくて、ちょっとの間泣きたい気がした。   [SVO] indirect-q,idiom
+○ Then an old fisherman who had overheard our conversation came over and asked where I was going.
+   → それから、私たちの会話を偶然耳にした年老いた漁師が来て、私がどこに行くのか尋ねた。   [SV] pastperfect,relative,progressive,indirect-q
+○ When I told him my grandmother's name, he smiled and said that he knew her very well.
+   → 私が彼に祖母の名前を教えたとき、彼はほほえんで、彼女をとてもよく知っていると言った。   [SV] svoo,that-clause
+○ He let me wait in his small house near the port and even called my grandmother to tell her I was safe.
+   → 彼は私を港の近くの自分の小さい家で待たせて、彼女に私が安全だと言うために祖母にさえ電話した。   [SVOC] causative,that-clause,inf-adv
+○ The next morning the storm had passed, and the sea was as calm as a mirror.
+   → 翌朝嵐は通り過ぎていて、海は鏡と同じくらい穏やかだった。   [SV] pastperfect,as-as
+○ When the ferry finally arrived at the island, my grandmother was waiting at the pier with tears in her eyes.
+   → フェリーがついに島に到着したとき、祖母は桟橋で目に涙を浮かべて待っていた。   [SV] idiom,progressive
+○ She later told me that the fisherman's family and hers had helped each other for three generations.
+   → 彼女は後で私に漁師の家族と自分の家族が3世代にわたって助け合っていたと言った。   [SVOO] pastperfect,that-clause
+○ That trip taught me that kindness from strangers can turn a frightening experience into a warm memory.
+   → その旅行は私に見知らぬ人からの親切が恐ろしい経験を暖かい記憶に変えることがあると教えた。   [SVOO] modal,idiom,that-clause
+○ A man named Tom decided to study it.
+   → トムという名前の男性がそれを勉強することに決めた。   [SVO] participle-mod,inf-noun
+○ A girl named Emma wanted to be a doctor.
+   → エマという名前の少女は医者になりたかった。   [SVO] participle-mod,inf-noun
+○ A researcher named Hermann Ebbinghaus studied it.
+   → Hermann Ebbinghausという名前の研究者がそれを研究した。   [SVO] participle-mod
+○ I forgot everything a few weeks later.
+   → 私は数週間後にすべてを忘れた。   [SVO] 
+○ She told me everything two days later.
+   → 彼女は2日後に私にすべてを話してくれた。   [SVOO] svoo
+○ The city, now called Tokyo, was once a small town.
+   → 今では東京と呼ばれる都市はかつて小さい町だった。   [SVC] 
+○ The temple, originally built in the 8th century, was rebuilt many times.
+   → もともと8世紀に建てられた寺は何度も再建された。   [SV] passive
+○ We need to slow down the process.
+   → 私たちは過程を遅らせる必要がある。   [SVO] idiom,inf-noun
+○ Exercise can slow down aging.
+   → 運動は老化を遅らせられる。   [SVO] modal,idiom
+○ The car slowed down.
+   → 車は速度を落とした。   [SV] idiom
+○ It is one of the easiest ways to save money.
+   → それはお金を節約する最も簡単な方法の1つだ。   [SVC] inf-adj
+○ Music is a good way to relax.
+   → 音楽はくつろぐ良い方法だ。   [SVC] inf-adj
+○ I found a way to solve the problem.
+   → 私は問題を解決する方法を見つけた。   [SVO] inf-adj
+○ These are words they are likely to forget.
+   → これらは彼らが忘れそうな語だ。   [SVC] idiom,relative
+○ This is the place he is likely to go.
+   → ここは彼が行きそうな場所だ。   [SVC] idiom,rel-adv
+○ These are mistakes they are likely to make.
+   → これらは彼らが犯しそうな間違いだ。   [SVC] idiom,relative
+○ This is the book I was supposed to read.
+   → これは私が読むことになっていた本だ。   [SVC] idiom,relative
+○ I like the songs they sing.
+   → 私は彼らが歌う歌が好きだ。   [SVO] relative
+○ The song that she sang was beautiful.
+   → 彼女が歌った歌は美しかった。   [SVC] relative
+○ I showed the children pictures of animals.
+   → 私は子どもたちに動物の絵を見せた。   [SVOO] svoo
+○ She teaches students English.
+   → 彼女は学生に英語を教える。   [SVOO] svoo
+○ He gave the students books.
+   → 彼は学生たちに本を与えた。   [SVOO] svoo
+○ The teacher gave the children sweets.
+   → 先生は子どもたちにお菓子を与えた。   [SVOO] svoo
+○ He told the students they could go home.
+   → 彼は学生たちに彼らが帰宅できると言った。   [SVOO] modal,idiom,that-clause
+○ We visited Kyoto, Nara, and finally Osaka.
+   → 私たちは京都と奈良、最後に大阪を訪れた。   [SVO] 
+○ He wrote his name on a piece of paper.
+   → 彼は1枚の紙に自分の名前を書いた。   [SVO] 
+○ I arrived an hour before the train left.
+   → 電車が出発する1時間前に、私は到着した。   [SV] 
+○ She came two days after I left.
+   → 私が出発した2日後に、彼女は来た。   [SV] 
+○ He arrived ten minutes before the meeting started.
+   → 会議が始まる10分前に、彼は到着した。   [SV] 
+○ We left a few minutes after the movie ended.
+   → 映画が終わった数分後に、私たちは出発した。   [SV] 
+○ He died three years after the war ended.
+   → 戦争が終わった3年後に、彼は死んだ。   [SV] 
+○ He called to tell me he was sick.
+   → 彼は私に彼が病気だと言うために電話をかけた。   [SV] that-clause,inf-adv
+○ She thanked me with tears in her eyes.
+   → 彼女は目に涙を浮かべて私に感謝した。   [SVO] 
+○ They have lived here for three generations.
+   → 彼らは3世代にわたってここに住んでいる。   [SV] perfect
+○ The two families helped each other.
+   → 2つの家族は助け合った。   [SV] 
+○ My idea and yours are different.
+   → 私の考えとあなたの考えは異なる。   [SVC] 
+○ He walked fast at first and then slowly.
+   → 彼は最初は速く、それからゆっくりと歩いた。   [SV] 
+○ She lives alone on a small island in the south of Japan.
+   → 彼女は日本の南の小さい島に一人で暮らしている。   [SV] 
+○ He lives in a small town in the north of England.
+   → 彼はイングランドの北の小さい町に住んでいる。   [SV] 
+○ I read the whole book in one night.
+   → 私は一晩で本全体を読む。   [SVO] 
+○ The memory gets stronger each time it is used.
+   → それが使われるたびに、記憶はより強くなる。   [SVC] passive
+○ Whenever the bell is rung, the dog comes.
+   → ベルが鳴らされるたびに、犬は来る。   [SV] passive
+○ Follow these steps.
+   → これらの手順に従いなさい。   [SVO] imperative
+○ Explain each step of the process.
+   → 過程のそれぞれの手順を説明しなさい。   [SVO] imperative
+○ He wrote down the steps.
+   → 彼は手順を書き留めた。   [SVO] idiom
 
-parsed 11271 / 11271
+parsed 11346 / 11346
