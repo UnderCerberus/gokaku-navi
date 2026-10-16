@@ -427,6 +427,7 @@
     ['single out ~', '〜を選び出す', 3],
     ['single ~ out', '〜を選び出す', 3],
     ['sleep late', '遅くまで寝ている', 2],
+    ['slow down ~', '〜を遅らせる', 1],
     ['soak into ~', '〜にしみ込む', 3],
     ['sort through ~', '〜を整理する', 3],
     ['speak one\'s mind', '思っていることを率直に言う', 2],
