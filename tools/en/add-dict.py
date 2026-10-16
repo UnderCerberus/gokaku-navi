@@ -2,7 +2,13 @@
 import io, os, re, sys
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'js', 'data') + os.sep
 NEW = [
-    ['sweets', '名', 'お菓子', 1],
+    ['stack', '動', '〜を積み重ねる', 2],
+    ['blurry', '形', 'ぼやけた', 2],
+    ['leafy', '形', '葉の多い', 3],
+    ['leafy greens', '名', '葉物野菜', 3],
+    ['vertical farm', '名', '垂直農場', 3],
+    ['vertical farming', '名', '垂直農業', 3],
+    ['film camera', '名', 'フィルムカメラ', 2],
 ]
 def key(w):
     return w.lower()
