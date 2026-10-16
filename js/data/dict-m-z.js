@@ -943,6 +943,7 @@
     ['phone number', '名', '電話番号', 2],
     ['photo', '名', '写真', 0],
     ['photograph', '名', '写真', 1],
+    ['photograph', '動', '〜を撮影する', 2],
     ['photographer', '名', '写真家', 2],
     ['photography', '名', '写真撮影', 2],
     ['photosynthesis', '名', '光合成', 2],
