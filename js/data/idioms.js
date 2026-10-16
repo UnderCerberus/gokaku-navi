@@ -1654,6 +1654,7 @@
     // ---- u ----
     ['under construction', '建設中で', 2],
     ['under control', '制御されて', 2],
+    ['under pressure', 'プレッシャーの中で', 2],
     ['up to date', '最新の', 2],
     ['up to ~', '〜まで; 〜次第で', 1],
     ['use up ~', '〜を使い果たす', 2],
