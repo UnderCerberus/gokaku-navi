@@ -2698,6 +2698,13 @@
         node = Object.assign({}, node, { ja: (t.w === 'left' ? '残っている' : (roomL ? '空いている' : '利用できる')) + node.ja, end: j + 1 });
         continue;
       }
+      if (!node.pron && T[j] && T[j].k === 'w' && !!adjC(T[j]) && !nounC(T[j]) && isW(T[j + 1], 'enough') && isW(T[j + 2], 'to') && j + 3 < lim && T[j + 3].k === 'w' && !!vc(T[j + 3], ['base'])) {
+        const mEn = mark();
+        const aEn = adjC(T[j]);
+        const iEn = aEn && aEn.e ? vpNonfin(j + 3, lim, 'base', {}) : null;
+        if (iEn && verbal(iEn.pred)) { pick(j, aEn.e); node = Object.assign({}, node, { ja: vpJoin(iEn, 'dict') + 'ほど' + en.jp.adj(aEn.e.ja).attr + node.ja, end: iEn.end }); continue; }
+        fail(mEn);
+      }
       // a box full of toys / a country rich in natural resources / the one most responsive to change / the student most likely to win（名詞 + 形容詞句の後置修飾: that is を補った関係詞節として読む → おもちゃでいっぱいの箱）
       if (t.k === 'w' && !o.noRel && !node.clause && !node.gerund && (!node.pron || /^(?:one|ones|those|something|anything|someone|anyone|nothing|everything|everyone)$/.test(node.pron)) && DEPTH <= 3) {
         const dgA = /^(?:most|more|less|least|very|so|too|quite|extremely|highly|particularly|especially|equally|perfectly|fully|deeply|far|much)$/.test(t.w) ? 1 : 0;
@@ -2959,6 +2966,17 @@
           const nIc = np(j + 2, eIc, { noRel: o.noRel });
           if (nIc && nIc.end === eIc) { node = Object.assign({}, node, { ja: (nIc.coord && (nIc.ja.match(/と/g) || []).length === 1 ? nIc.ja.replace('と', 'や') : nIc.ja) + 'を含む' + node.ja, end: e3 > 0 ? e3 + 1 : eIc }); continue; }
           fail(mIc);
+        }
+      }
+      if (isP(t, ',') && !o.noApp && T[j + 1] && /^(?:mostly|mainly|chiefly|largely|primarily|especially|particularly|usually)$/.test(T[j + 1].w || '') && j + 3 < lim && !node.pron) {
+        let e4 = -1;
+        for (let x = j + 3; x < lim; x++) { if (isP(T[x], ',')) { e4 = x; break; } }
+        if (e4 > 0 && e4 + 1 <= lim && T[e4 + 1] && T[e4 + 1].k === 'w' && (!!MODAL[T[e4 + 1].w] || !!BE[T[e4 + 1].w] || !!HAVE[T[e4 + 1].w] || !!DO[T[e4 + 1].w] || (!!vc(T[e4 + 1], ['3sg', 'past', 'base']) && !nounC(T[e4 + 1])))) {
+          const mMs = mark();
+          const nMs = np(j + 2, e4, { noRel: true });
+          const advMs = ({ mostly: '主に', mainly: '主に', chiefly: '主に', largely: '主に', primarily: '主に', especially: '特に', particularly: '特に', usually: 'たいてい' })[T[j + 1].w];
+          if (nMs && nMs.end === e4 && !nMs.pron) { node = Object.assign({}, node, { ja: node.ja + '（' + advMs + nMs.ja + '）', end: e4 + 1 }); continue; }
+          fail(mMs);
         }
       }
       // 言い換えの同格: electronic books, or e-books, …（コンマで閉じるときだけ。閉じないなら or の並列）
@@ -7968,7 +7986,7 @@
         const TRANS_PAIR = { '動く': '動かす', '止まる': '止める', '回る': '回す', '落ちる': '落とす', '始まる': '始める', '起きる': '起こす', '戻る': '戻す', '開く': '開ける', '閉まる': '閉める', '変わる': '変える', '曲がる': '曲げる', '上がる': '上げる', '下がる': '下げる', '燃える': '燃やす', '溶ける': '溶かす', '揺れる': '揺らす', '光る': '光らせる', '震える': '震わせる', '増える': '増やす', '減る': '減らす' };
         if (L === 'make' && !ob.an && !v3.parts.length && TRANS_PAIR[v3.pred.plain()] && !v3.neg) return done(vg, P(TRANS_PAIR[v3.pred.plain()]), st, v3.end, 'SVOC', o, [objStr(ob, 'を', st)], { noStative: true });   // what made the needle move → 何が針を動かしたか
         if (L === 'let' && o.subj && !o.subj.an && !(o.subj.pron && /^(?:i|you|he|she|we|they)$/.test(o.subj.pron)) && (/^(?:you|us)$/.test(ob.pron || '') || (!ob.pron && /^(?:user|users|people|visitors|visitor|customers|customer|students|student|players|player|readers|reader|drivers|driver|passengers|passenger|shoppers|members|viewers|listeners|fans|children|kids|patients|tourists|farmers|workers|scientists|researchers|doctors|teachers|parents)$/.test(ob.head || ''))) && !v3.neg && verbal(v3.pred)) return done(vg, P((ob.pron ? '' : ob.ja + 'が') + vpJoin(v3, 'dict') + 'ことを可能にする', 'suru'), st, v3.end, 'SVOC', o, [], { noStative: true });   // This app lets you translate text instantly → 文章を即座に翻訳することを可能にする
-        const cp = (L === 'make' || L === 'let') && v3.sp === 'SV' ? 'を' : CAUS[L][0];
+        const cp = (L === 'make' || L === 'let') && v3.sp === 'SV' && !(v3.parts || []).some((x) => /を/.test(x)) && !(v3.pred && /^(?:考える|思う|感じる|気づく|理解する|想像する|疑問に思う)$/.test(v3.pred.plain())) ? 'を' : CAUS[L][0];
         if (L === 'make' && !v3.neg && v3.vg && v3.vg.lemma === 'want' && /と思っている$/.test(v3.pred.plain())) return done(vg, P(v3.pred.plain().replace(/と思っている$/, 'と思わせる'), 'v1'), st, v3.end, 'SVOC', o, [objStr(ob, 'に', st)].concat(v3.parts), { noStative: true });
         return done(vg, CAUS[L][1](v3.neg ? v3.pred.aux('neg') : v3.pred, st), st, v3.end, 'SVOC', o, [objStr(ob, cp, st)].concat(v3.parts), { noStative: true });
       }
@@ -11100,7 +11118,8 @@
         : (node.head === 'way' && /道$/.test(node.ja) && !/^(?:to|home|back|out|up|down|in)$/.test(t.w) ? node.ja.replace(/道$/, '方法') : node.ja)))));   // the way companies think → 方法
     const everSup = !!node.sup && T.slice(node.end, lim).some((x) => isW(x, 'ever'));
     const supHead = everSup ? headJa.replace(/^最も良い/, /^(?:curry|food|meal|meals|dish|dishes|cake|cakes|pizza|coffee|tea|bread|soup|sushi|ramen|chocolate|cookie|cookies|fruit|steak|lunch|dinner|breakfast)$/.test(node.head || '') ? '一番おいしい' : '一番いい').replace(/^最も/, '一番') : headJa;
-    const fin = (str, nm) => { name(nm); if (everSup && /^relative/.test(nm || '')) str = str.replace(/([たか]|ん)だことが(?:ある|あった)$/, '$1だ').replace(/たことが(?:ある|あった)$/, 'た').replace(/今までに/, '今まで') + '中で'; const hJa = /^(?:picture|pictures)$/.test(node.head || '') && /撮(?:る|った|っていた|っている|ってきた)$/.test(str) ? headJa.replace(/絵$/, '写真') : headJa; return Object.assign({}, node, { ja: (/^まさに/.test(hJa) ? 'まさに' + str + hJa.replace(/^まさに/, '') : str + (everSup && /^relative/.test(nm || '') ? supHead : hJa)), end: nonRestr && e < lim ? e + 1 : e, rel: true, bare: node.pron === 'anyone' || node.pron === 'anybody' || (!!node.bare && /でも$/.test(node.ja)), an: node.an || node.pron === 'those' }); };   // anyone who … → 〜人は誰でも（は を重ねない）
+    const fin = (str, nm) => { name(nm); if (everSup && /^relative/.test(nm || '')) str = str.replace(/([たか]|ん)だことが(?:ある|あった)$/, '$1だ').replace(/たことが(?:ある|あった)$/, 'た').replace(/今までに/, '今まで') + '中で'; let hJa = /^(?:picture|pictures)$/.test(node.head || '') && /撮(?:る|った|っていた|っている|ってきた)$/.test(str) ? headJa.replace(/絵$/, '写真') : headJa;
+      if (node.pron === 'those' && nm === 'participle-mod' && hJa === '人々') { for (let x = node.end - 2; x >= 0; x--) { const cTh = T[x].k === 'w' && /s$/.test(T[x].w) && DET[T[x].w] === undefined && !PRON[T[x].w] ? cand(T[x], '名', ['pl']) : null; if (cTh && cTh.e) { if (!isPerson(cTh) && !PERSONS[cTh.lemma] && !ANIMAL_N.test(T[x].w)) hJa = 'もの'; break; } } } return Object.assign({}, node, { ja: (/^まさに/.test(hJa) ? 'まさに' + str + hJa.replace(/^まさに/, '') : str + (everSup && /^relative/.test(nm || '') ? supHead : hJa)), end: nonRestr && e < lim ? e + 1 : e, rel: true, bare: node.pron === 'anyone' || node.pron === 'anybody' || (!!node.bare && /でも$/.test(node.ja)), an: node.an || node.pron === 'those' }); };   // anyone who … → 〜人は誰でも（は を重ねない）
     const w = t.w;
     if (w === 'that' && node.head && FACTN[node.head] && j + 1 < e) {                 // 同格の that
       const cl0 = sentence(j + 1, e, { sub: true });
@@ -11310,7 +11329,7 @@
       }
       fail(mLf);
     }
-    if (form && (!node.pron || (/^(?:someone|somebody|anyone|anybody|everyone|everybody|nobody)$/.test(node.pron) && form === 'ing')) && !o.noPart && !(form === 'pp' && /^(?:behaved|happened|arrived|died|existed|occurred|appeared|disappeared|remained|slept|laughed|cried|smiled|went|came|fell|rose|emerged|belonged|consisted|mattered|seemed|looked|barked|jumped|ran|walked|swam|flew|lived|stayed|waited|worked|played|agreed|succeeded|failed)$/.test(t.w || '')) && !(form === 'pp' && isW(T[j + 1], 'to') && /^(?:decided|hoped|tried|attempted|managed|wanted|wished|refused|pretended|longed|struggled|vowed|volunteered|threatened|dared|tended|happened|began|started|continued|learned|learnt|promised|offered|planned)$/.test(t.w || '') && j + 2 < e && T[j + 2].k === 'w' && !!vc(T[j + 2], ['base']))) {
+    if (form && (!node.pron || node.pron === 'those' || (/^(?:someone|somebody|anyone|anybody|everyone|everybody|nobody)$/.test(node.pron) && form === 'ing')) && !o.noPart && !(form === 'pp' && /^(?:behaved|happened|arrived|died|existed|occurred|appeared|disappeared|remained|slept|laughed|cried|smiled|went|came|fell|rose|emerged|belonged|consisted|mattered|seemed|looked|barked|jumped|ran|walked|swam|flew|lived|stayed|waited|worked|played|agreed|succeeded|failed)$/.test(t.w || '')) && !(form === 'pp' && isW(T[j + 1], 'to') && /^(?:decided|hoped|tried|attempted|managed|wanted|wished|refused|pretended|longed|struggled|vowed|volunteered|threatened|dared|tended|happened|began|started|continued|learned|learnt|promised|offered|planned)$/.test(t.w || '') && j + 2 < e && T[j + 2].k === 'w' && !!vc(T[j + 2], ['base']))) {
       const v = vpNonfin(j, e, form, { subj: node });
       // 過去分詞の後置修飾は受け身なので、直接目的語はとらない（garlic attracted iron は分詞ではなく主語 + 動詞）。give / call など 2 つ目的語をとる動詞は除く
       const ppObj = !!v && form === 'pp' && v.parts.some((x) => /を$/.test(x)) && !/^(?:give|call|name|make|consider|offer|pay|teach|show|tell|award|elect|appoint|leave|send|grant|allow|deny|lend|promise|ask|charge|cost|save|owe|hand|feed)$/.test(v.vg.lemma);

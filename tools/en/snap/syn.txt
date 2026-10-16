@@ -1,5 +1,5 @@
 ○ It is important for us to learn English.
-   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (172ms)
+   → 私たちが英語を学ぶことは重要だ。   [SVC] it-to (175ms)
 ○ There are many books on the desk.
    → 机の上に多くの本がある。   [SV] there
 ○ He is so tired that he cannot walk.
@@ -22573,7 +22573,7 @@
 ○ Every summer, my family used to visit my grandmother, who lives alone on a small island in the south of Japan.
    → 毎年夏、家族は以前は日本の南の小さい島に一人で暮らしている祖母を訪ねていた。   [SVO] used-to,relative
 ○ To get there, we had to take a train, a bus, and finally a ferry that ran only twice a day.
-   → そこに着くには、私たちは電車とバス、最後にただ1日に2回運行したフェリーに乗らなければならなかった。   [SVO] relative,inf-adv
+   → そこに着くには、私たちは電車とバス、最後に1日に2回しか運行しなかったフェリーに乗らなければならなかった。   [SVO] relative,inf-adv
 ○ Last year, however, my parents were too busy to go, so I made the trip by myself for the first time.
    → しかし、昨年、両親は忙しすぎて行けなかったので、私は1人で初めて旅行をした。   [SVC] too-to
 ○ I was a little worried, but my mother wrote down every step for me on a piece of paper.
@@ -22690,5 +22690,163 @@
    → 過程のそれぞれの手順を説明しなさい。   [SVO] imperative
 ○ He wrote down the steps.
    → 彼は手順を書き留めた。   [SVO] idiom
+○ In many large cities, finding enough land to grow food has become increasingly difficult.
+   → 多くの大きい都市では、食べ物を育てるために十分な土地を見つけることはますます難しくなった。   [SVC] inf-adv,gerund,perfect
+○ One solution that has attracted attention in recent years is the vertical farm, a building in which crops are grown on shelves stacked on top of one another.
+   → 近年注意を集めたある解決策は垂直農場、つまり作物がお互いの上で積み重ねられた棚の上で栽培されている建物だ。   [SVC] perfect,relative,participle-mod,passive,apposition
+○ Instead of soil, the plants are usually grown in water that contains all the nutrients they need.
+   → 土の代わりに、植物はたいていそれらが必要とするすべての栄養素を含んでいる水で育てられている。   [SV] relative,passive
+○ Because the buildings are closed, farmers can control the temperature, light, and humidity throughout the year.
+   → 建物が閉まっているので、農家は1年中温度と光と湿度を調節できる。   [SVO] passive,modal
+○ As a result, vegetables such as lettuce can be harvested as often as twenty times a year, compared with only a few times on a traditional farm.
+   → その結果、レタスのような野菜は年に20回も伝統的な農場でのわずか数回と比べて収穫できる。   [SV] as-as
+○ Vertical farms also use far less water than ordinary fields, since most of it is collected and reused.
+   → そのほとんどが集められたり再利用されたりしているので、垂直農場はまた普通の畑よりはるかに少ない水を使う。   [SVO] comparative,passive
+○ Moreover, because they are built close to the people who buy their products, the food does not have to be transported long distances.
+   → さらに、彼らが自分の製品を買う人々の近くで建てられているので、食べ物は長い距離を輸送される必要はない。   [SV] relative,passive
+○ This means that it reaches stores while it is still fresh and that less fuel is burned along the way.
+   → つまり、それがまだ新鮮なうちに、それが店に着いて、より少ない燃料が途中で燃やされているということだ。   [SVO] passive,that-clause
+○ However, vertical farming is not without its problems.
+   → しかしながら、垂直農業は問題がないわけではない。   [SVC] idiom
+○ The biggest one is the cost of the electricity needed to run the lights day and night.
+   → 最も大きいものは昼も夜も光をつけておくために必要とされている電気の費用だ。   [SVC] inf-adv,participle-mod
+○ Some companies have gone out of business because they could not sell their vegetables at prices low enough to compete with those grown outdoors.
+   → いくつかの会社は、屋外で育てられたものと競争するほど低い価格で自分の野菜を売れなかったので、倒産した。   [SV] perfect,idiom,participle-mod,modal
+○ In addition, only a limited number of crops, mostly leafy greens and herbs, can be grown profitably in this way.
+   → 加えて、限られた数の作物（主に葉物野菜とハーブ）だけがこのようにして利益になって栽培できる。   [SV] 
+○ Rice and wheat, which feed most of the world's population, require too much space to be grown indoors.
+   → 世界の人口のほとんどを養う米と小麦は屋内で育てられるにはスペースを必要としすぎる。   [SVO] relative,inf-adv
+○ Even so, many experts believe that the technology will become cheaper as it improves.
+   → それでも、多くの専門家はそれが良くなるにつれて、科学技術がより安くなるだろうと考えている。   [SVO] modal,that-clause
+○ Vertical farms may never replace traditional agriculture, but they could play an important role in feeding the cities of the future.
+   → 垂直農場は決して伝統的な農業に取って代わらないかもしれないが、未来の都市を養う上で重要な役割を果たすかもしれない。   [SVO] modal,gerund
+○ When my grandfather passed away last spring, he left me an old film camera that he had used for more than forty years.
+   → 祖父が去年の春に亡くなったとき、彼は私に自分が40年以上使っていた古いフィルムカメラを残してくれた。   [SVOO] idiom,pastperfect,relative,svoo
+○ At first, I did not know what to do with it, because I had only ever taken pictures with my smartphone.
+   → 最初は、私はスマートフォンでしか写真を撮ったことがなかったので、それで何をするべきか分からなかった。   [SVO] indirect-q,pastperfect,idiom
+○ One weekend, I found a shop in town that still sold film and asked the owner how to load it.
+   → ある週末、私はまだフィルムを売った町で店を見つけて、店主にその積み方を尋ねた。   [SVO] relative,indirect-q
+○ She showed me patiently, and warned me that I could take only thirty-six pictures with one roll.
+   → 彼女は私に忍耐強く教えて、私に1本のフィルムで36枚の写真しか撮れないと警告した。   [SVO] modal,that-clause
+○ That made me think carefully before pressing the button, which I had never done with my phone.
+   → それは私にボタンを押す前に注意深く考えさせて、私は一度も電話でそれをしたことがなかった。   [SVOC] gerund,causative,pastperfect,relative
+○ I spent the whole afternoon walking around my neighborhood, looking for things worth photographing.
+   → 私は近所中を撮影する価値のある物を探しながら歩いて午後ずっとを過ごした。   [SVO] idiom,participle-const
+○ A few days later, I went back to the shop to pick up the prints.
+   → 数日後に、私は写真を受け取りに店に戻った。   [SVO] idiom,inf-adv
+○ To my disappointment, more than half of them were too dark or out of focus.
+   → がっかりしたことに、それらの半分以上は暗すぎるか、ピントが合っていなかった。   [SVC] idiom,too
+○ Still, there were a few that I really liked, including one of an old woman feeding pigeons in the park.
+   → それでも、私が公園でハトに食べ物を与えているおばあさんの1人を含めて本当に好きだった少数があった。   [SV] participle-mod,relative,there
+○ When I showed the photos to my mother, she suddenly became quiet.
+   → 私が母に写真を見せたとき、彼女は突然静かになった。   [SVC] 
+○ Then she took out a box of pictures that my grandfather had taken when she was a child.
+   → それから、彼女は1箱の彼女が子どもだったとき祖父が撮った写真を取り出した。   [SVO] pastperfect,relative,idiom
+○ Many of them had been taken in the same park, from almost the same spot.
+   → 彼らの多くは同じ公園でほとんど同じ場所から取られていた。   [SV] passive,pastperfect
+○ It was as if my grandfather and I had been looking at the world through the same eyes.
+   → まるで祖父と私が同じ目でずっと世界を見ていたかのようだった。   [SV] progressive,pastperfect,idiom
+○ Since then, I have carried the camera with me almost every day.
+   → それ以来、私はほとんど毎日カメラを持ち歩いている。   [SVO] perfect
+○ Each picture I take now feels less like a record of a moment and more like a conversation with someone I miss.
+   → 私が撮るそれぞれの写真は今瞬間の記録というより、私が会いたいと思う誰かとの会話のように感じられる。   [SVC] relative,comparative
+○ It was as if he had seen a ghost.
+   → まるで彼が幽霊を見たかのようだった。   [SV] pastperfect,idiom
+○ It looks as if he is tired.
+   → まるで彼が疲れているかのように見える。   [SV] idiom
+○ It seemed as if nobody cared.
+   → まるで誰も気にかけないかのようだった。   [SV] idiom
+○ It felt as if time had stopped.
+   → まるで時間が止まったかのように感じられた。   [SV] pastperfect,idiom
+○ He looked at the moon through a telescope.
+   → 彼は望遠鏡を通して月を見た。   [SVO] idiom
+○ As his English improved, he made more friends.
+   → 英語が上達するにつれて、彼はもっと友達を作った。   [SVO] 
+○ The technology will become cheaper as it improves.
+   → 科学技術は、良くなるにつれて、より安くなるだろう。   [SVC] modal
+○ The boy stopped as he saw the dog.
+   → 少年は、犬を見たとき、立ち止まった。   [SV] 
+○ These are the pictures that my grandfather took.
+   → これらは祖父が撮った写真だ。   [SVC] relative
+○ Each picture I take is special.
+   → 私が撮るそれぞれの写真は特別だ。   [SVC] relative
+○ The medicine I took was bitter.
+   → 私が飲んだ薬は苦かった。   [SVC] relative
+○ He visited only a few times.
+   → 彼は数回しか訪れなかった。   [SV] 
+○ We met only twice.
+   → 私たちは2回しか会わなかった。   [SV] 
+○ The bus runs only twice a day.
+   → バスは1日に2回しか運行しない。   [SV] 
+○ It rains as often as five times a week.
+   → 週に5回も雨が降る。   [SV] as-as
+○ Some companies have gone out of business.
+   → いくつかの会社は倒産した。   [SV] perfect,idiom
+○ To my disappointment, the photo was out of focus.
+   → がっかりしたことに、写真はピントが合っていなかった。   [SVC] idiom
+○ The room was too dark and cold.
+   → 部屋は暗すぎて、寒かった。   [SVC] too
+○ The pictures were too dark or too bright.
+   → 絵は暗すぎるか、明るすぎた。   [SVC] too
+○ More than half of them were too dark or blurry.
+   → 彼らの半分以上は暗すぎるか、ぼやけていた。   [SVC] too
+○ The plan is not without risks.
+   → 計画は危険がないわけではない。   [SVC] idiom
+○ She left him a note.
+   → 彼女は彼にメモを残した。   [SVOO] svoo
+○ I have only ever lived in Tokyo.
+   → 私は東京にしか住んだことがない。   [SV] perfect
+○ It is a book worth reading.
+   → それは読む価値のある本だ。   [SVC] 
+○ I found a book worth reading.
+   → 私は読む価値のある本を見つけた。   [SVO] 
+○ They are almost the same size.
+   → 彼らはほとんど同じ大きさだ。   [SVC] 
+○ We have exactly the same idea.
+   → 私たちはまったく同じ考えがある。   [SVO] 
+○ Only a limited number of people can join.
+   → 限られた数の人々だけが加われる。   [SV] modal
+○ The shop is open throughout the year.
+   → 店は1年中開いている。   [SVC] 
+○ They worked day and night.
+   → 彼らは昼も夜も働いた。   [SV] 
+○ They run the machines day and night.
+   → 彼らは昼も夜も機械を動かす。   [SVO] 
+○ Rice requires too much space.
+   → 米はスペースを必要としすぎる。   [SVO] 
+○ I bought apples and oranges, which were cheap.
+   → 私は安かったりんごとオレンジを買った。   [SVO] relative
+○ I have too much work to go out.
+   → 私は外出するには仕事が多すぎる。   [SVO] idiom,inf-adv,too
+○ I have too much homework.
+   → 私は宿題が多すぎる。   [SVO] too
+○ They feed the world's population.
+   → 彼らは世界の人口を養う。   [SVO] 
+○ These are the pictures that my grandfather took when he was young.
+   → これらは彼が若かったとき祖父が撮った写真だ。   [SVC] relative
+○ She showed me the pictures that he had taken when she was a child.
+   → 彼女は私に自分が子どもだったとき彼が撮った写真を見せてくれた。   [SVOO] pastperfect,relative,svoo
+○ Can you show me?
+   → 教えてくれますか。   [SVO] question
+○ I bought two rolls of film.
+   → 私はフィルムを2本買った。   [SVO] 
+○ She is someone I miss.
+   → 彼女は私が会いたいと思う誰かだ。   [SVC] relative
+○ The city looks less like a town and more like a forest.
+   → 都市は町というより、森林のように見える。   [SVC] comparative
+○ You should travel while you are still young.
+   → あなたはまだ若いうちに、旅行するべきだ。   [SV] modal
+○ This means that prices will rise and that people will buy less.
+   → つまり、価格が上がるし、人々がより少なく買うだろうということだ。   [SVO] modal,that-clause
+○ Many animals, especially birds, migrate in winter.
+   → 多くの動物（特に鳥）が冬に移住する。   [SV] 
+○ My friends, mainly students, came.
+   → 私の友達（主に学生）は来た。   [SV] 
+○ They sold vegetables at prices low enough to compete.
+   → 彼らは競争するほど低い価格で野菜を売った。   [SVO] 
+○ Those living in cities are busy.
+   → 都市に住んでいる人々は忙しい。   [SVC] 
+○ The story made me think.
+   → 話は私に考えさせた。   [SVOC] causative
 
-parsed 11346 / 11346
+parsed 11425 / 11425
